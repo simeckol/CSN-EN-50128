@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UY65LXC6gRPPa9KdeiAcrA" name="zprava_z_testu_integrace_softwaru_hardwaru,_depKwMuTEeir883_jylfPA" guid="-UY65LXC6gRPPa9KdeiAcrA" changeDate="2018-11-02T15:34:04.665+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Zpráva z testů integrace softwaru/hardwaru musí být napsána v souladu s obecnými požadavky stanovenými pro zprávu z&#xD;
+        testu (viz 6.1.4.5).&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Zpráva z testu integrace softwaru/hardwaru musí být vytvořena následovně:&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; a) zpráva z testu integrace softwaru/hardwaru musí uvádět&#xD;
+    výsledky testů a zda cíle a kritéria specifikací testů integrace softwaru/hardwaru byly splněny. Pokud se vyskytne&#xD;
+    porucha, musí být zaznamenány okolnosti s ní související;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) testovací případy a jejich výsledky musí být&#xD;
+    zaznamenány, nejlépe ve strojově čitelné formě pro další analýzu;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; c) zpráva z testů integrace softwaru/hardwaru musí&#xD;
+    dokumentovat identitu a konfiguraci všech zahrnutých položek.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Zpráva z testů integrace softwaru/hardwaru musí prokázat korektní použití zvolených technik a opatření z Tabulky&#xD;
+        A.6 jako sady a plnit články 4.8 a 4.9.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

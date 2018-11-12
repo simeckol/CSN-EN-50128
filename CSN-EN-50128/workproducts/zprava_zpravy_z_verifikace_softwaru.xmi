@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zwLh52HXBlYisV1eW-mAoA" name="zprava_zpravy_z_verifikace_softwaru,_KvxOYMmyEeiep6WenHc9eQ" guid="-zwLh52HXBlYisV1eW-mAoA">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Musí být napsána, v rámci&#xD;
+    odpovědnosti verifikátora, na základě vstupních dokumentů z 6.2.2.&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

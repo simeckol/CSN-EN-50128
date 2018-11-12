@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VITi1ZR8TsGPKvQ8qsW6Vw" name=",_8zCsIN6qEeiYJ4LpaF_C_Q" guid="-VITi1ZR8TsGPKvQ8qsW6Vw" changeDate="2018-11-02T15:24:25.257+0100">
+  <sections xmi:id="_1IYREN6rEeiYJ4LpaF_C_Q" name="Integrace softwarových komponent musí být proces postupného slučování jednotlivých a dříve testovaných komponent do složeného celku za tím účelem, aby mohly být rozhraní komponent a sestaveného softwaru dostatečně ověřené před provedením systémové integrace a systémových testů." guid="_1IYREN6rEeiYJ4LpaF_C_Q"/>
+  <sections xmi:id="_4jYYUN6rEeiYJ4LpaF_C_Q" name="Během integrace softwaru/hardwaru musí být jakákoliv změna integrovaného systému porobena studii dopadů, která identifikuje všechny ovlivněné komponenty a nezbytné opětovné verifikační činnosti." guid="_4jYYUN6rEeiYJ4LpaF_C_Q"/>
+  <sections xmi:id="_63kBcN6rEeiYJ4LpaF_C_Q" name="Zpráva z testů integrace softwaru musí být napsána, v rámci odpovědnosti integrátora, na základě specifikace testů integrace softwaru." guid="_63kBcN6rEeiYJ4LpaF_C_Q"/>
+  <sections xmi:id="_N2kpIN6sEeiYJ4LpaF_C_Q" name="Zpráva z testů integrace softwaru/hardwaru musí být napsána, v rámci odpovědnosti integrátora, na základě specifikace testů integrace softwaru/hardwaru." guid="_N2kpIN6sEeiYJ4LpaF_C_Q"/>
+  <sections xmi:id="_nD3_EN6sEeiYJ4LpaF_C_Q" name="Zpráva z verifikace integrace softwaru musí být napsána, v rámci odpovědnosti verifikátora, na základě specifikace testů integrace softwaru a softwaru/hardwaru a odpovídajících zpráv z testů." guid="_nD3_EN6sEeiYJ4LpaF_C_Q"/>
+  <purpose>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Provést integraci softwaru a integraci softwaru/hardwaru.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ukázat, že software a hardware spolupracují správně a provádějí zamýšlené funkce.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

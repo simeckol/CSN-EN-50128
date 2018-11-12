@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--hhuFqHZlbNyYrqJ_o50qA" name=",_vFTtcN6BEeiWpbcrOebAyw" guid="--hhuFqHZlbNyYrqJ_o50qA">
+  <sections xmi:id="_sTPQoN6QEeiWpbcrOebAyw" name="Pro každou komponentu musí být napsána specifikace návrhu komponenty softwaru, v rámci odpovědnosti návrháře, na základě specifikace návrhu softwaru." guid="_sTPQoN6QEeiWpbcrOebAyw"/>
+  <sections xmi:id="_lqxSYN6REeiWpbcrOebAyw" name="Pro každou komponentu musí být napsána specifikace testů komponenty softwaru, v rámci odpovědnosti testera, na základě specifikace návrhu komponenty softwaru." guid="_lqxSYN6REeiWpbcrOebAyw"/>
+  <sections xmi:id="_12AK4N6REeiWpbcrOebAyw" name="Zpráva z verifikace návrhu komponenty systému musí být napsána, v rámci odpovědnosti verifikátora, na základě specifikace návrhu softwaru, specifikace návrhu komponenty softwaru a specifikace testů komponenty softwaru." guid="_12AK4N6REeiWpbcrOebAyw"/>
+  <purpose>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Vytvořit návrh komponent softwaru, který splňuje požadavky specifikace návrhu softwaru v rozsahu požadovaném úrovní&#xD;
+        integrity bezpečnosti softwaru.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Vytvořit specifikaci testů komponent softwaru, které splňují požadavky specifikace návrhu komponent softwaru v&#xD;
+        rozsahu požadovaném úrovní integrity bezpečnosti softwaru.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gavlKmYsFOp20cuWr5WnUg" name="new_role,_3Evx8MjEEeixxZe6yMuoZA" guid="-gavlKmYsFOp20cuWr5WnUg" changeDate="2018-10-05T19:34:21.515+0200">
+  <synonyms>TST</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

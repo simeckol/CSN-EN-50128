@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kT3blI2MXcT05TPN-EoKDA" name="new_artifact,__YavkN6BEeiWpbcrOebAyw" guid="-kT3blI2MXcT05TPN-EoKDA" changeDate="2018-11-02T12:17:34.694+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Pro každou komponentu softwaru musí být dostupné následující informace:&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; – autor;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; – historie konfigurace;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; – stručný popis.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Historie konfigurace musí zahrnovat přesnou identifikaci současné verze a všech&#xD;
+    předchozích verzí komponenty specifikováním verze, data a autora a popisu změn učiněných od předchozí verze.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Specifikace návrhu komponenty softwaru musí určit:&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;a) identifikaci všech nejnižších softwarových jednotek&#xD;
+    (např. subrutiny, metody, procedury) sledované zpět do vyšších úrovní;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) jejich detailní rozhranní s prostředím a dalšími komponentami&#xD;
+    s podrobně popsanými vstupy a výstupy;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; c) jejich úroveň integrity bezpečnosti bez dalšího dělení uvnitř&#xD;
+    samotné komponenty;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; d) podrobně popsané algoritmy a datové struktury.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Každá specifikace návrhu komponenty softwaru musí být konzistentní a umožnit&#xD;
+    transformaci do kódu odpovídajících komponent.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Každá specifikace návrhu komponenty softwaru musí být čitelná, pochopitelná a testovatelná.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Velikost a složitost každé vyvíjené komponenty softwaru musí být vyvážená.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Specifikace návrhu komponenty softwaru musí vybrat techniky a opatření z Tabulky A.4. Zvolená kombinace musí být&#xD;
+        odůvodněna jako sada a plnit články 4.8 a 4.9.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

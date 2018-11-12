@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZrPJ_07Q5pIV-5_Q0dyjdg" name="zprava_z_verifikace_architektury_a_navrhu_softwaru,_iqV6oN4KEei9xO8zovSwhQ" guid="-ZrPJ_07Q5pIV-5_Q0dyjdg" changeDate="2018-11-02T10:18:15.702+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Zpráva z verifikace architektury a návrhu softwaru musí být napsána v souladu s obecnými požadavky ustanovenými pro&#xD;
+        zprávu z verifikace (viz 6.2.4.13).&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Poté, co jsou vytvořeny specifikace architektury softwaru, rozhraní softwaru a návrhu softwaru, musí se jejich&#xD;
+        verifikace zabývat:&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;a) vnitřní konzistenci specifikace architektury&#xD;
+    softwaru, rozhraní softwaru a návrhu softwaru;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) přiměřenost specifikace architektury softwaru,&#xD;
+    rozhraní softwaru a návrhu softwaru pro plnění specifiakce požadavků na software s ohledem na konzistentnost a&#xD;
+    kompletnost;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; c) že specifikace architektury softwaru splňuje&#xD;
+    obecné požadavky na čitelnost a sledovatelnost dle 5.3.2.7 až 5.3.2.10 a dle 6.5.4.14 až 6.5.4.16 a také zvláštní&#xD;
+    požadavky dle 7.3.4.1 až 7.3.4.14;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; d) že specifikace rozhraní softwaru splňuje obecné&#xD;
+    požadavky na čitelnost a sledovatelnost dle 5.3.2.7 až 5.3.2.10 a dle 6.5.4.14 až 6.5.4.16 a také zvláštní požadavky&#xD;
+    dle 7.3.4.18 až 7.3.4.19;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; e) že specifikace návrhu softwaru splňuje obecné&#xD;
+    požadavky na čitelnost a sledovatelnost dle 5.3.2.7 až 5.3.2.10 a dle 6.5.4.14 až 6.5.4.16 a také zvláštní požadavky&#xD;
+    dle 7.3.4.20 až 7.3.4.24;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;f) přiměřenost specifikace architektury&#xD;
+    softwaru a specifikace návrhu softwaru při zvážení omezení hardwaru a softwaru.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Výsledky musí být zaznamenány ve zprávě z verifikace&#xD;
+    architektury a návrhu softwaru.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

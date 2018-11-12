@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_ol-3wMjDEeixxZe6yMuoZA" guid="_ol-3wMjDEeixxZe6yMuoZA">
+    <resourceDescriptors xmi:id="_fSlu4cjFEeixxZe6yMuoZA" id="-b-6hJ6XAD50EmbVTJpO0gA" uri="roles/manazer_projektu.xmi"/>
+    <resourceDescriptors xmi:id="_fSuRwMjFEeixxZe6yMuoZA" id="-PWzTZZkOwdj9vIeLjjR1fQ" uri="roles/manazer_pro_pozadavky.xmi"/>
+    <resourceDescriptors xmi:id="_fSuRwcjFEeixxZe6yMuoZA" id="-bDi4XOZ3-Iv0_oA40Yk_uA" uri="roles/navrhar.xmi"/>
+    <resourceDescriptors xmi:id="_fSuRwsjFEeixxZe6yMuoZA" id="-LO59Ybw8mhc2RbB0Nl6y6g" uri="roles/implementator.xmi"/>
+    <resourceDescriptors xmi:id="_fS20oMjFEeixxZe6yMuoZA" id="-ECg-uc54iZKS6TRLaCvbOg" uri="roles/hodnotitel.xmi"/>
+    <resourceDescriptors xmi:id="_fS4p0MjFEeixxZe6yMuoZA" id="-gnxTZC_CDx3k_Bf1cKxfUQ" uri="roles/integrator.xmi"/>
+    <resourceDescriptors xmi:id="_fS4p0cjFEeixxZe6yMuoZA" id="-gavlKmYsFOp20cuWr5WnUg" uri="roles/tester.xmi"/>
+    <resourceDescriptors xmi:id="_fS-wcMjFEeixxZe6yMuoZA" id="-6WFkxCf6i6Lx_3kSxBX_Mg" uri="roles/verifikator.xmi"/>
+    <resourceDescriptors xmi:id="_fTAloMjFEeixxZe6yMuoZA" id="-Sy8sNofrltbH5BGsAG2FTA" uri="roles/validator.xmi"/>
+    <resourceDescriptors xmi:id="_8rXZwclUEeimqsOgX6Vp2g" id="-dNleY_W8GzgbAzEq3rFBhA" uri="tasks/organizace_role_a_odpovednosti.xmi"/>
+    <resourceDescriptors xmi:id="_S5cOkMmOEeioC4xUIHgX5A" id="-8D1sZYOjbbl2kSGZ-ZCt4Q" uri="tasks/kompetence_personalu.xmi"/>
+    <resourceDescriptors xmi:id="_zDG84cmSEeioC4xUIHgX5A" id="-IXy4M50RhFC5nV0rcOfoaA" uri="tasks/otazky_zivotniho_cyklu_a_dokumentace.xmi"/>
+    <resourceDescriptors xmi:id="_Ve5BUMmjEeioC4xUIHgX5A" id="-aJE-CCKmYbrhWQbo9-yXCA" uri="tasks/testovani_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_IKWgwMmxEeiep6WenHc9eQ" id="-cHWrsURcy-6b6_tvqZDFLg" uri="tasks/verifikace_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_DI5esMuWEeir883_jylfPA" id="-YtYrQEVgKeG_isINRbEavg" uri="workproducts/plan_verifikace_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_NS8bYcuXEeir883_jylfPA" id="-zwLh52HXBlYisV1eW-mAoA" uri="workproducts/zprava_zpravy_z_verifikace_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_uF8QAMuaEeir883_jylfPA" id="-VqTweM1hpUYakU08TLum1A" uri="workproducts/zprava_z_verifikace_zajisteni_kvality_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_CzRZsMumEeiY4aKR2f3NAQ" id="-UornW3r9DlSeWZHYrq55CA" uri="tasks/validace_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_I6kD4MutEeiIqqn8rKlhIA" id="-FUbDwpuH0fVL6h44Qw0eog" uri="workproducts/plan_validace_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_m1zDYMu_EeieA-ZJ-sVNIQ" id="-xtdXsk6bhQ_8Bv83q_UkRQ" uri="workproducts/zprava_z_validace_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_oh0D0MvAEeieA-ZJ-sVNIQ" id="-BO4JyVTONu-AMFhqRvVEUw" uri="workproducts/zprava_z_verifikace_validace_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_WjiOcMvCEeieA-ZJ-sVNIQ" id="-uYKEHBZC8WzjE5XU0Jl02w" uri="tasks/hodnoceni_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_5bI_IMvFEeiEgNhWmVVBKQ" id="-TYkiunM-HMhqouuwLO2FLQ" uri="workproducts/plan_hodnoceni_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_TAqV4cvIEeiEgNhWmVVBKQ" id="-NiUpklOeMP1PgAuNJfT9Kg" uri="workproducts/zprava_z_verifikace_hodnoceni_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_wnUxYMvLEeiEgNhWmVVBKQ" id="-At12nfu3aQELjBOL4Ny4xw" uri="workproducts/zprava_o_hodnoceni_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_aXvUUMvMEeiEgNhWmVVBKQ" id="-15Z3iOkJ68l8JcJONSZCnA" uri="tasks/zajisteni_kvality_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_fgTqcNqPEeiQ6fKd-ySInQ" id="-Jm3YylQsAsWfmdk0ekRRPA" uri="workproducts/plan_zajisteni_kvality_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_VlOcMNqhEeiQ6fKd-ySInQ" id="-FaCF5cEn7jYgEhkR1upnjQ" uri="tasks/rizeni_modifikaci_a_zmen.xmi"/>
+    <resourceDescriptors xmi:id="_ohKrgNrSEeigTYOG64T-fw" id="-JlA2GxVczvx9TPIZsdK5TQ" uri="tasks/podpurne_nastroje_a_jazyky.xmi"/>
+    <resourceDescriptors xmi:id="_feskUNxlEeia7sPQjHrmPg" id="-61wzyHeUQc_SEn-jHn-cUw" uri="tasks/zivotni_cyklus_a_dokumentace_pro_genericky_software.xmi"/>
+    <resourceDescriptors xmi:id="_FUUQMNxnEeia7sPQjHrmPg" id="-CMgCJ_f2U1BBrk_TWPKKQA" uri="tasks/pozadavky_na_software.xmi"/>
+    <resourceDescriptors xmi:id="_DgxugN3yEeivMoitHDjecw" id="-M6u44nYKCr1icR00k-QVQw" uri="workproducts/specifikace_pozadavku_na_software.xmi"/>
+    <resourceDescriptors xmi:id="_NlA2wN32EeivMoitHDjecw" id="-yepSc8Kbv-hobnClk80fdg" uri="workproducts/specifikace_celkoveho_testovani_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_OLcIIN33EeivMoitHDjecw" id="-PtJNRFcR-evCzOwTZA7VmQ" uri="workproducts/zprava_z_verifikace_pozadavku_na_software.xmi"/>
+    <resourceDescriptors xmi:id="_1vJi8N33EeivMoitHDjecw" id="-AyZGy0scFsUCtjSNFL42FQ" uri="tasks/architektura_a_navrh.xmi"/>
+    <resourceDescriptors xmi:id="_XqGOYN4MEei9xO8zovSwhQ" id="-Fimurc9jNsATDnijv1L0oQ" uri="workproducts/specifikace_architektury_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_eO31cN55EeiWpbcrOebAyw" id="-qwRxZM6Gq4DPydbQ-DqFKg" uri="workproducts/specifikace_rozhrani_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_C8NqoN57EeiWpbcrOebAyw" id="-8qIsBO2PgyxumFan4RsbSw" uri="workproducts/specifikace_navrhu_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_TL8zMN58EeiWpbcrOebAyw" id="-jk-gJhgEydYyV9QyY9YxOA" uri="workproducts/specifikace_testu_integrace_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_zU00IN58EeiWpbcrOebAyw" id="-r634GN6dtI2xK0JJ9vl_cw" uri="workproducts/specifikace_testu_integrace_softwaru_hardwaru.xmi"/>
+    <resourceDescriptors xmi:id="_Y_380N6AEeiWpbcrOebAyw" id="-ZrPJ_07Q5pIV-5_Q0dyjdg" uri="workproducts/zprava_z_verifikace_architektury_a_navrhu_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_3o4RAN6BEeiWpbcrOebAyw" id="--hhuFqHZlbNyYrqJ_o50qA" uri="tasks/navrh_komponent.xmi"/>
+    <resourceDescriptors xmi:id="_UF6UgN6REeiWpbcrOebAyw" id="-kT3blI2MXcT05TPN-EoKDA" uri="workproducts/specifikace_navrhu_komponent_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_udMKQN6REeiWpbcrOebAyw" id="-LKsVB0p7CV8XS2e9ptHy9Q" uri="workproducts/specifikace_testu_komponent_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_AlJ_wN6TEeiWpbcrOebAyw" id="-EP11CIFfoNCnzfnkLhDGXw" uri="workproducts/zprava_z_verifikace_navrhu_komponent_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_VFZwsN6TEeiWpbcrOebAyw" id="-YsAWlsuXZ8yQeXaQj_yeMQ" uri="tasks/implementace_a_testovani_komponent.xmi"/>
+    <resourceDescriptors xmi:id="_mg2uYN6oEeiYXL4To-I0wg" id="-XwT9XGguVtl44UE2_xVibg" uri="workproducts/zprava_z_testu_softwarovych_komponent.xmi"/>
+    <resourceDescriptors xmi:id="_Ahw2Ed6qEeiYXL4To-I0wg" id="-emJQiokAPG3kS5yOIo63OA" uri="workproducts/zdrojovy_kod_softwaru_a_podpurna_dokumentace.xmi"/>
+    <resourceDescriptors xmi:id="_xdTi8N6qEeiYJ4LpaF_C_Q" id="-zLsC-zKboGS4eAP9ZoF6HA" uri="workproducts/zprava_z_verifikace_zdrojoveho_kodu_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_CEfXoN6rEeiYJ4LpaF_C_Q" id="-VITi1ZR8TsGPKvQ8qsW6Vw" uri="tasks/integrace.xmi"/>
+    <resourceDescriptors xmi:id="_HDFjIN6sEeiYJ4LpaF_C_Q" id="-RBnSCG8X40Ztc1_FTsxa4g" uri="workproducts/zprava_z_testu_integrace_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_aY5hQN6sEeiYJ4LpaF_C_Q" id="-UY65LXC6gRPPa9KdeiAcrA" uri="workproducts/zprava_z_testu_integrace_softwaru_hardwaru.xmi"/>
+    <resourceDescriptors xmi:id="_TFxccd6tEeiYJ4LpaF_C_Q" id="-pbovkOgPZzoaazfkI-j4MA" uri="workproducts/zprava_z_verifikace_integrace_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_cPFxYd6tEeiYJ4LpaF_C_Q" id="-ceRiQe22784kYPGswB5Miw" uri="tasks/celkove_testovani_softwaru_zaverecna_validace.xmi"/>
+    <resourceDescriptors xmi:id="_MEri0N6uEeiYJ4LpaF_C_Q" id="-q7DMBxXoSSLMhQ_H6TkqlQ" uri="workproducts/zprava_z_celkoveho_testovani_softwaru.xmi"/>
+    <resourceDescriptors xmi:id="_63NUwd6uEeiYJ4LpaF_C_Q" id="-8NezowdqaL_DoADfGo7EUQ" uri="workproducts/poznamky_k_vydani.xmi"/>
+    <resourceDescriptors xmi:id="_ljDvwd6wEeiYJ4LpaF_C_Q" id="-pa0KmUn2eg5eZvcs8kWRTw" uri="roles/dodavatel.xmi"/>
+    <resourceDescriptors xmi:id="_8b_kMOHCEeiHM7trUayKQQ" id="-_L-xJR9zVwjivVlzQ5zaBg" uri="tasks/5.1.2.1.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_ol1t0MjDEeixxZe6yMuoZA" name="CSN-EN-50128" guid="_ol1t0MjDEeixxZe6yMuoZA">
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ol1t0cjDEeixxZe6yMuoZA" name="Content" guid="_ol1t0cjDEeixxZe6yMuoZA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ol1t0sjDEeixxZe6yMuoZA" name="Categories" guid="_ol1t0sjDEeixxZe6yMuoZA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ol1t08jDEeixxZe6yMuoZA" name="Domains" guid="_ol1t08jDEeixxZe6yMuoZA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ol1t1MjDEeixxZe6yMuoZA" name="Disciplines" guid="_ol1t1MjDEeixxZe6yMuoZA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_fBqIwMurEeiIqqn8rKlhIA" name="management_softwaru_a_organizace" guid="_fBqIwMurEeiIqqn8rKlhIA" presentationName="Management softwaru a organizace" tasks="_wmZMAMlUEeimqsOgX6Vp2g _G0HQ8MmNEeioC4xUIHgX5A _Uw834MmQEeioC4xUIHgX5A">
+            <methodElementProperty xmi:id="_I6YdsMutEeiIqqn8rKlhIA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_HRg8gN6zEeiYJ4LpaF_C_Q" name="zajisteni_softwaru" guid="_HRg8gN6zEeiYJ4LpaF_C_Q" presentationName="Zajištění softwaru" tasks="_1UvAQMmdEeioC4xUIHgX5A _2mj54MmwEeiep6WenHc9eQ _ovuYQMulEeiY4aKR2f3NAQ _-y_KYMvBEeieA-ZJ-sVNIQ _TgvAQMvMEeiEgNhWmVVBKQ _uumf8NqXEeiQ6fKd-ySInQ _KdDXoNrSEeigTYOG64T-fw">
+            <methodElementProperty xmi:id="_JIfsQN6zEeiYJ4LpaF_C_Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_ICi7YN60EeiYJ4LpaF_C_Q" name="vyvoj_generickeho_softwaru" guid="_ICi7YN60EeiYJ4LpaF_C_Q" presentationName="Vývoj generického softwaru" tasks="_nlRfUNxkEeia7sPQjHrmPg _mC4qENxlEeia7sPQjHrmPg _o5DaQN33EeivMoitHDjecw _vFTtcN6BEeiWpbcrOebAyw _LJjyoN6TEeiWpbcrOebAyw _8zCsIN6qEeiYJ4LpaF_C_Q _WsPz4N6tEeiYJ4LpaF_C_Q">
+            <methodElementProperty xmi:id="_Juff0N60EeiYJ4LpaF_C_Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_pFuocN60EeiYJ4LpaF_C_Q" name="csn-en-50128" guid="_pFuocN60EeiYJ4LpaF_C_Q" presentationName="CSN-EN-50128" disciplines="_fBqIwMurEeiIqqn8rKlhIA _HRg8gN6zEeiYJ4LpaF_C_Q _ICi7YN60EeiYJ4LpaF_C_Q">
+            <methodElementProperty xmi:id="_rJlWkN60EeiYJ4LpaF_C_Q" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ol1t1cjDEeixxZe6yMuoZA" name="RoleSets" guid="_ol1t1cjDEeixxZe6yMuoZA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ol1t1sjDEeixxZe6yMuoZA" name="WP Types" guid="_ol1t1sjDEeixxZe6yMuoZA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ol1t18jDEeixxZe6yMuoZA" name="Tools" guid="_ol1t18jDEeixxZe6yMuoZA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ol1t2MjDEeixxZe6yMuoZA" name="StandardCategories" guid="_ol1t2MjDEeixxZe6yMuoZA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ol1t2cjDEeixxZe6yMuoZA" name="CustomCategories" guid="_ol1t2cjDEeixxZe6yMuoZA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ol1t2sjDEeixxZe6yMuoZA" name="Hidden" guid="_ol1t2sjDEeixxZe6yMuoZA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ol1t28jDEeixxZe6yMuoZA" name="Custom Categories" guid="_ol1t28jDEeixxZe6yMuoZA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ol1t3MjDEeixxZe6yMuoZA" name="CoreContent" guid="_ol1t3MjDEeixxZe6yMuoZA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_u0x8UMjDEeixxZe6yMuoZA" name="roles_package" guid="_u0x8UMjDEeixxZe6yMuoZA" presentationName="Roles package">
+          <methodElementProperty xmi:id="_u0yjYMjDEeixxZe6yMuoZA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_M4UsMMk3EeiYyavT6KtpzQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_O8RdMMjEEeixxZe6yMuoZA" name="manazer_projektu" guid="_O8RdMMjEEeixxZe6yMuoZA" presentationName="Manažer projektu" briefDescription="entita, která provádí řízení projektu">
+            <methodElementProperty xmi:id="_7VjDUMjFEeixxZe6yMuoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-b-6hJ6XAD50EmbVTJpO0gA" href="uma://-b-6hJ6XAD50EmbVTJpO0gA#-b-6hJ6XAD50EmbVTJpO0gA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_boUSAMjEEeixxZe6yMuoZA" name="manazer_pro_pozadavky" guid="_boUSAMjEEeixxZe6yMuoZA" presentationName="Manažer pro požadavky">
+            <methodElementProperty xmi:id="_7VZSUMjFEeixxZe6yMuoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-PWzTZZkOwdj9vIeLjjR1fQ" href="uma://-PWzTZZkOwdj9vIeLjjR1fQ#-PWzTZZkOwdj9vIeLjjR1fQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_hA0AsMjEEeixxZe6yMuoZA" name="navrhar" guid="_hA0AsMjEEeixxZe6yMuoZA" presentationName="Návrhář" briefDescription="entita, která analyzuje a transformuje stanovené požadavky do přijatelných řešení návrhu, která mají požadovanou úroveň integrity bezpečnosti">
+            <methodElementProperty xmi:id="_7VGXYsjFEeixxZe6yMuoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-bDi4XOZ3-Iv0_oA40Yk_uA" href="uma://-bDi4XOZ3-Iv0_oA40Yk_uA#-bDi4XOZ3-Iv0_oA40Yk_uA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_qFKWEMjEEeixxZe6yMuoZA" name="implementator" guid="_qFKWEMjEEeixxZe6yMuoZA" presentationName="Implementátor" briefDescription="entita, která transformuje specifikované návrhy do jejich fyzické implementace">
+            <methodElementProperty xmi:id="_7VGXYMjFEeixxZe6yMuoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-LO59Ybw8mhc2RbB0Nl6y6g" href="uma://-LO59Ybw8mhc2RbB0Nl6y6g#-LO59Ybw8mhc2RbB0Nl6y6g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_uZ_BQMjEEeixxZe6yMuoZA" name="hodnotitel" guid="_uZ_BQMjEEeixxZe6yMuoZA" presentationName="Hodnotitel" briefDescription="entita, která provádí hodnocení">
+            <methodElementProperty xmi:id="_7UsHsMjFEeixxZe6yMuoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ECg-uc54iZKS6TRLaCvbOg" href="uma://-ECg-uc54iZKS6TRLaCvbOg#-ECg-uc54iZKS6TRLaCvbOg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_xyEXYMjEEeixxZe6yMuoZA" name="integrator" guid="_xyEXYMjEEeixxZe6yMuoZA" presentationName="Integrátor">
+            <methodElementProperty xmi:id="_7Uf6cMjFEeixxZe6yMuoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-gnxTZC_CDx3k_Bf1cKxfUQ" href="uma://-gnxTZC_CDx3k_Bf1cKxfUQ#-gnxTZC_CDx3k_Bf1cKxfUQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_3Evx8MjEEeixxZe6yMuoZA" name="tester" guid="_3Evx8MjEEeixxZe6yMuoZA" presentationName="Tester">
+            <methodElementProperty xmi:id="_7UMYcMjFEeixxZe6yMuoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-gavlKmYsFOp20cuWr5WnUg" href="uma://-gavlKmYsFOp20cuWr5WnUg#-gavlKmYsFOp20cuWr5WnUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_5kE7IMjEEeixxZe6yMuoZA" name="verifikator" guid="_5kE7IMjEEeixxZe6yMuoZA" presentationName="Verifikátor" briefDescription="entita, která je zodpovědná za jednu nebo více verifikačních činností">
+            <methodElementProperty xmi:id="_7UDOgMjFEeixxZe6yMuoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-6WFkxCf6i6Lx_3kSxBX_Mg" href="uma://-6WFkxCf6i6Lx_3kSxBX_Mg#-6WFkxCf6i6Lx_3kSxBX_Mg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_9m6ecMjEEeixxZe6yMuoZA" name="validator" guid="_9m6ecMjEEeixxZe6yMuoZA" presentationName="Validátor" briefDescription="entita, která je zodpovědná za validaci">
+            <methodElementProperty xmi:id="_7TvsgMjFEeixxZe6yMuoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Sy8sNofrltbH5BGsAG2FTA" href="uma://-Sy8sNofrltbH5BGsAG2FTA#-Sy8sNofrltbH5BGsAG2FTA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_i7nMYN6wEeiYJ4LpaF_C_Q" name="dodavatel" guid="_i7nMYN6wEeiYJ4LpaF_C_Q" presentationName="Dodavatel" briefDescription="entita, která navrhuje a vytváří drážní řídicí a ochranné systémy obsahující software nebo jeho části">
+            <methodElementProperty xmi:id="_jl6GkN6wEeiYJ4LpaF_C_Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-pa0KmUn2eg5eZvcs8kWRTw" href="uma://-pa0KmUn2eg5eZvcs8kWRTw#-pa0KmUn2eg5eZvcs8kWRTw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0mA0UMk1EeiYyavT6KtpzQ" name="process_package" guid="_0mA0UMk1EeiYyavT6KtpzQ" presentationName="Process package">
+          <methodElementProperty xmi:id="_0mBbYMk1EeiYyavT6KtpzQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_MgmvwMk3EeiYyavT6KtpzQ" name="me_edited" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8a4e0Mk1EeiYyavT6KtpzQ" name="management_softwaru_a_organizace" guid="_8a4e0Mk1EeiYyavT6KtpzQ" presentationName="Management softwaru a organizace (5)">
+            <methodElementProperty xmi:id="_8a4e0ck1EeiYyavT6KtpzQ" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_MAoPMMk3EeiYyavT6KtpzQ" name="me_edited" value="true"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_qnr3EOGsEeiHM7trUayKQQ" name="kompetence_personalu" guid="_qnr3EOGsEeiHM7trUayKQQ" presentationName="Kompetence personálu" briefDescription="Zajistit, aby veškerý personál, který má odpovědnost za software byl kompetentní k plnění těchto odpovědností prokázáním schopnosti vykonávat příslušné úkoly bezchybně, efektivně a důsledně ve vysoké kvalitě a za měnících se podmínek.">
+              <methodElementProperty xmi:id="_qnwIgOGsEeiHM7trUayKQQ" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_tH_QoOGsEeiHM7trUayKQQ" name="me_edited" value="true"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bv8KQOGtEeiHM7trUayKQQ" name="organizace_role_a_odpovednosti_5.1" guid="_bv8KQOGtEeiHM7trUayKQQ" presentationName="Organizace, role a odpovědnosti (5.1)" briefDescription="Zajistit, aby veškerý personál, který má odpovědnost za software byl organizovaný, měl oprávnění a byl schopen plnit tuto odpovědnost.">
+              <methodElementProperty xmi:id="_bv8KQeGtEeiHM7trUayKQQ" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_gGTtkOGtEeiHM7trUayKQQ" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pgaQgOGtEeiHM7trUayKQQ" name="5.1.2.1" guid="_pgaQgOGtEeiHM7trUayKQQ" presentationName="5.1.2.1" briefDescription="Jako minimum musí dodavatel implementovat příslušné části EN ISO 9001, které pojednávají o organizaci a managementu personálu a o odpovědnostech." performedBy="_i7nMYN6wEeiYJ4LpaF_C_Q">
+                <methodElementProperty xmi:id="_2jXJcOGtEeiHM7trUayKQQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-_L-xJR9zVwjivVlzQ5zaBg" href="uma://-_L-xJR9zVwjivVlzQ5zaBg#-_L-xJR9zVwjivVlzQ5zaBg"/>
+              </contentElements>
+            </childPackages>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wmZMAMlUEeimqsOgX6Vp2g" name="organizace_role_a_odpovednosti" guid="_wmZMAMlUEeimqsOgX6Vp2g" presentationName="Organizace, role a odpovědnosti" performedBy="_9m6ecMjEEeixxZe6yMuoZA _i7nMYN6wEeiYJ4LpaF_C_Q">
+              <methodElementProperty xmi:id="_3Cd3kMlUEeimqsOgX6Vp2g" name="me_edited" value="true"/>
+              <presentation xmi:id="-dNleY_W8GzgbAzEq3rFBhA" href="uma://-dNleY_W8GzgbAzEq3rFBhA#-dNleY_W8GzgbAzEq3rFBhA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_G0HQ8MmNEeioC4xUIHgX5A" name="kompetence_personalu" guid="_G0HQ8MmNEeioC4xUIHgX5A" presentationName="Kompetence personálu">
+              <methodElementProperty xmi:id="_JO9iwMmNEeioC4xUIHgX5A" name="me_edited" value="true"/>
+              <presentation xmi:id="-8D1sZYOjbbl2kSGZ-ZCt4Q" href="uma://-8D1sZYOjbbl2kSGZ-ZCt4Q#-8D1sZYOjbbl2kSGZ-ZCt4Q"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Uw834MmQEeioC4xUIHgX5A" name="otazky_zivotniho_cyklu_a_dokumentace" guid="_Uw834MmQEeioC4xUIHgX5A" presentationName="Otázky životního cyklu a dokumentace">
+              <methodElementProperty xmi:id="_Wf6UEMmQEeioC4xUIHgX5A" name="me_edited" value="true"/>
+              <presentation xmi:id="-IXy4M50RhFC5nV0rcOfoaA" href="uma://-IXy4M50RhFC5nV0rcOfoaA#-IXy4M50RhFC5nV0rcOfoaA"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_uAn5cMmdEeioC4xUIHgX5A" name="zajisteni_softwaru" guid="_uAn5cMmdEeioC4xUIHgX5A" presentationName="Zajištění softwaru">
+            <methodElementProperty xmi:id="_uApuoMmdEeioC4xUIHgX5A" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_xnD0oMmdEeioC4xUIHgX5A" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1UvAQMmdEeioC4xUIHgX5A" name="testovani_softwaru" guid="_1UvAQMmdEeioC4xUIHgX5A" presentationName="Testování softwaru" mandatoryInput="_MI24UMmeEeioC4xUIHgX5A" output="_d9ILMMmeEeioC4xUIHgX5A _rB8FUMmeEeioC4xUIHgX5A _yy0nsMmeEeioC4xUIHgX5A _Xf_IoMmeEeioC4xUIHgX5A _mN4gcMmeEeioC4xUIHgX5A _3cEDsMmeEeioC4xUIHgX5A _TF-bcMmeEeioC4xUIHgX5A _depKwMuTEeir883_jylfPA">
+              <methodElementProperty xmi:id="_4EFicMmdEeioC4xUIHgX5A" name="me_edited" value="true"/>
+              <presentation xmi:id="-aJE-CCKmYbrhWQbo9-yXCA" href="uma://-aJE-CCKmYbrhWQbo9-yXCA#-aJE-CCKmYbrhWQbo9-yXCA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2mj54MmwEeiep6WenHc9eQ" name="verifikace_softwaru" guid="_2mj54MmwEeiep6WenHc9eQ" presentationName="Verifikace softwaru" performedBy="_5kE7IMjEEeixxZe6yMuoZA" mandatoryInput="__13soMmxEeiep6WenHc9eQ" output="_EubXAMmyEeiep6WenHc9eQ _KvxOYMmyEeiep6WenHc9eQ _OjNq0MmyEeiep6WenHc9eQ">
+              <methodElementProperty xmi:id="_4puEcMmwEeiep6WenHc9eQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-cHWrsURcy-6b6_tvqZDFLg" href="uma://-cHWrsURcy-6b6_tvqZDFLg#-cHWrsURcy-6b6_tvqZDFLg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ovuYQMulEeiY4aKR2f3NAQ" name="validace_softwaru" guid="_ovuYQMulEeiY4aKR2f3NAQ" presentationName="Validace softwaru" performedBy="_9m6ecMjEEeixxZe6yMuoZA" mandatoryInput="_HlmgQMumEeiY4aKR2f3NAQ" output="_OaBaYMumEeiY4aKR2f3NAQ _z3daUMuoEeiY4aKR2f3NAQ _5gRc8MuoEeiY4aKR2f3NAQ">
+              <methodElementProperty xmi:id="_CzFzgMumEeiY4aKR2f3NAQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-UornW3r9DlSeWZHYrq55CA" href="uma://-UornW3r9DlSeWZHYrq55CA#-UornW3r9DlSeWZHYrq55CA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-y_KYMvBEeieA-ZJ-sVNIQ" name="hodnoceni_softwaru" guid="_-y_KYMvBEeieA-ZJ-sVNIQ" presentationName="Hodnocení softwaru" performedBy="_uZ_BQMjEEeixxZe6yMuoZA _5kE7IMjEEeixxZe6yMuoZA" mandatoryInput="_iVeWAMvDEeiEgNhWmVVBKQ _2y75AN3oEeivMoitHDjecw _AeQc4N3rEeivMoitHDjecw" output="_xbvKgMvDEeiEgNhWmVVBKQ _12DZsMvDEeiEgNhWmVVBKQ _9z3k0MvDEeiEgNhWmVVBKQ">
+              <methodElementProperty xmi:id="_A9hIQMvCEeieA-ZJ-sVNIQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-uYKEHBZC8WzjE5XU0Jl02w" href="uma://-uYKEHBZC8WzjE5XU0Jl02w#-uYKEHBZC8WzjE5XU0Jl02w"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TgvAQMvMEeiEgNhWmVVBKQ" name="zajisteni_kvality_softwaru" guid="_TgvAQMvMEeiEgNhWmVVBKQ" presentationName="Zajištění kvality softwaru" mandatoryInput="_vat-4MvMEeiEgNhWmVVBKQ" output="_2gSTYMvMEeiEgNhWmVVBKQ _Cqg0kMvNEeiEgNhWmVVBKQ _OjNq0MmyEeiep6WenHc9eQ">
+              <methodElementProperty xmi:id="_VjHHsMvMEeiEgNhWmVVBKQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-15Z3iOkJ68l8JcJONSZCnA" href="uma://-15Z3iOkJ68l8JcJONSZCnA#-15Z3iOkJ68l8JcJONSZCnA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_uumf8NqXEeiQ6fKd-ySInQ" name="rizeni_modifikaci_a_zmen" guid="_uumf8NqXEeiQ6fKd-ySInQ" presentationName="Řízení modifikací a změn" mandatoryInput="_2gSTYMvMEeiEgNhWmVVBKQ _Cqg0kMvNEeiEgNhWmVVBKQ _PLrgMNqhEeiQ6fKd-ySInQ _bcS9QNqhEeiQ6fKd-ySInQ _nh5HMNrPEeigTYOG64T-fw" optionalInput="_2_CKoNrPEeigTYOG64T-fw _9GHdoNrPEeigTYOG64T-fw _TvyZMNrQEeigTYOG64T-fw">
+              <methodElementProperty xmi:id="__Nz40NqhEeiQ6fKd-ySInQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-FaCF5cEn7jYgEhkR1upnjQ" href="uma://-FaCF5cEn7jYgEhkR1upnjQ#-FaCF5cEn7jYgEhkR1upnjQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KdDXoNrSEeigTYOG64T-fw" name="podpurne_nastroje_a_jazyky" guid="_KdDXoNrSEeigTYOG64T-fw" presentationName="Podpůrné nástroje a jazyky" mandatoryInput="_74cpQNrSEeigTYOG64T-fw" output="_H4SfYNrTEeigTYOG64T-fw">
+              <methodElementProperty xmi:id="_ohFzANrSEeigTYOG64T-fw" name="me_edited" value="true"/>
+              <presentation xmi:id="-JlA2GxVczvx9TPIZsdK5TQ" href="uma://-JlA2GxVczvx9TPIZsdK5TQ#-JlA2GxVczvx9TPIZsdK5TQ"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gdMe0NxjEeia7sPQjHrmPg" name="vyvoj_generickeho_softwaru" guid="_gdMe0NxjEeia7sPQjHrmPg" presentationName="Vývoj generického softwaru">
+            <methodElementProperty xmi:id="_gdQwQNxjEeia7sPQjHrmPg" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_otfhENxjEeia7sPQjHrmPg" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_nlRfUNxkEeia7sPQjHrmPg" name="zivotni_cyklus_a_dokumentace_pro_genericky_software" guid="_nlRfUNxkEeia7sPQjHrmPg" presentationName="Životní cyklus a dokumentace pro generický software">
+              <methodElementProperty xmi:id="_fekogNxlEeia7sPQjHrmPg" name="me_edited" value="true"/>
+              <presentation xmi:id="-61wzyHeUQc_SEn-jHn-cUw" href="uma://-61wzyHeUQc_SEn-jHn-cUw#-61wzyHeUQc_SEn-jHn-cUw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mC4qENxlEeia7sPQjHrmPg" name="pozadavky_na_software" guid="_mC4qENxlEeia7sPQjHrmPg" presentationName="Požadavky na software" performedBy="_boUSAMjEEeixxZe6yMuoZA _3Evx8MjEEeixxZe6yMuoZA _5kE7IMjEEeixxZe6yMuoZA" mandatoryInput="_AeQc4N3rEeivMoitHDjecw _hJ-PsN3sEeivMoitHDjecw _A_mkgN3tEeivMoitHDjecw _2gSTYMvMEeiEgNhWmVVBKQ _OaBaYMumEeiY4aKR2f3NAQ _SKNvAN3wEeivMoitHDjecw" optionalInput="_2y75AN3oEeivMoitHDjecw _TF-bcMmeEeioC4xUIHgX5A _-ywLEN3vEeivMoitHDjecw">
+              <methodElementProperty xmi:id="_PnZCgNxnEeia7sPQjHrmPg" name="me_edited" value="true"/>
+              <presentation xmi:id="-CMgCJ_f2U1BBrk_TWPKKQA" href="uma://-CMgCJ_f2U1BBrk_TWPKKQA#-CMgCJ_f2U1BBrk_TWPKKQA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_o5DaQN33EeivMoitHDjecw" name="architektura_a_navrh" guid="_o5DaQN33EeivMoitHDjecw" presentationName="Architektura a návrh" performedBy="_hA0AsMjEEeixxZe6yMuoZA _xyEXYMjEEeixxZe6yMuoZA _5kE7IMjEEeixxZe6yMuoZA" mandatoryInput="_2y75AN3oEeivMoitHDjecw" optionalInput="_QhZ0wN4JEei9xO8zovSwhQ _eWeuMN4JEei9xO8zovSwhQ _orG_sN4JEei9xO8zovSwhQ _d9ILMMmeEeioC4xUIHgX5A _rB8FUMmeEeioC4xUIHgX5A _iqV6oN4KEei9xO8zovSwhQ">
+              <methodElementProperty xmi:id="_q2c7EN33EeivMoitHDjecw" name="me_edited" value="true"/>
+              <presentation xmi:id="-AyZGy0scFsUCtjSNFL42FQ" href="uma://-AyZGy0scFsUCtjSNFL42FQ#-AyZGy0scFsUCtjSNFL42FQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vFTtcN6BEeiWpbcrOebAyw" name="navrh_komponent" guid="_vFTtcN6BEeiWpbcrOebAyw" presentationName="Návrh komponent" performedBy="_hA0AsMjEEeixxZe6yMuoZA _3Evx8MjEEeixxZe6yMuoZA _5kE7IMjEEeixxZe6yMuoZA" mandatoryInput="_eWeuMN4JEei9xO8zovSwhQ" output="__YavkN6BEeiWpbcrOebAyw _F7cXsN6CEeiWpbcrOebAyw _lKu84N6QEeiWpbcrOebAyw">
+              <methodElementProperty xmi:id="_w2PfkN6BEeiWpbcrOebAyw" name="me_edited" value="true"/>
+              <presentation xmi:id="--hhuFqHZlbNyYrqJ_o50qA" href="uma://--hhuFqHZlbNyYrqJ_o50qA#--hhuFqHZlbNyYrqJ_o50qA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_LJjyoN6TEeiWpbcrOebAyw" name="implementace_a_testovani_komponent" guid="_LJjyoN6TEeiWpbcrOebAyw" presentationName="Implementace a testování komponent" performedBy="_qFKWEMjEEeixxZe6yMuoZA _3Evx8MjEEeixxZe6yMuoZA _5kE7IMjEEeixxZe6yMuoZA" mandatoryInput="__YavkN6BEeiWpbcrOebAyw _F7cXsN6CEeiWpbcrOebAyw" output="_SAktwN6TEeiWpbcrOebAyw _3cEDsMmeEeioC4xUIHgX5A _453tEN6oEeiYXL4To-I0wg">
+              <methodElementProperty xmi:id="_Mo-W8N6TEeiWpbcrOebAyw" name="me_edited" value="true"/>
+              <presentation xmi:id="-YsAWlsuXZ8yQeXaQj_yeMQ" href="uma://-YsAWlsuXZ8yQeXaQj_yeMQ#-YsAWlsuXZ8yQeXaQj_yeMQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8zCsIN6qEeiYJ4LpaF_C_Q" name="integrace" guid="_8zCsIN6qEeiYJ4LpaF_C_Q" presentationName="Integrace" performedBy="_xyEXYMjEEeixxZe6yMuoZA _5kE7IMjEEeixxZe6yMuoZA" mandatoryInput="_d9ILMMmeEeioC4xUIHgX5A _rB8FUMmeEeioC4xUIHgX5A" output="_mN4gcMmeEeioC4xUIHgX5A _depKwMuTEeir883_jylfPA _VdZGAN6rEeiYJ4LpaF_C_Q">
+              <methodElementProperty xmi:id="_9phoMN6qEeiYJ4LpaF_C_Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-VITi1ZR8TsGPKvQ8qsW6Vw" href="uma://-VITi1ZR8TsGPKvQ8qsW6Vw#-VITi1ZR8TsGPKvQ8qsW6Vw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WsPz4N6tEeiYJ4LpaF_C_Q" name="celkove_testovani_softwaru_zaverecna_validace" guid="_WsPz4N6tEeiYJ4LpaF_C_Q" presentationName="Celkové testování softwaru / Závěrečná validace" performedBy="_3Evx8MjEEeixxZe6yMuoZA" mandatoryInput="_2y75AN3oEeivMoitHDjecw _TF-bcMmeEeioC4xUIHgX5A _EubXAMmyEeiep6WenHc9eQ _OaBaYMumEeiY4aKR2f3NAQ _i4twwN6tEeiYJ4LpaF_C_Q _AeQc4N3rEeivMoitHDjecw" output="_Xf_IoMmeEeioC4xUIHgX5A _z3daUMuoEeiY4aKR2f3NAQ _re0D4N6tEeiYJ4LpaF_C_Q">
+              <methodElementProperty xmi:id="_Z_qscN6tEeiYJ4LpaF_C_Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-ceRiQe22784kYPGswB5Miw" href="uma://-ceRiQe22784kYPGswB5Miw#-ceRiQe22784kYPGswB5Miw"/>
+            </contentElements>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_2y75AN3oEeivMoitHDjecw" name="specifikace_pozadavku_na_software" guid="_2y75AN3oEeivMoitHDjecw" presentationName="Specifikace požadavků na software">
+            <methodElementProperty xmi:id="_4pt0cN3oEeivMoitHDjecw" name="me_edited" value="true"/>
+            <presentation xmi:id="-M6u44nYKCr1icR00k-QVQw" href="uma://-M6u44nYKCr1icR00k-QVQw#-M6u44nYKCr1icR00k-QVQw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_AeQc4N3rEeivMoitHDjecw" name="specifikace_pozadavku_na_bezpecnost_systemu" guid="_AeQc4N3rEeivMoitHDjecw" presentationName="Specifikace požadavků na bezpečnost systému">
+            <methodElementProperty xmi:id="_CtwaUN3rEeivMoitHDjecw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_hJ-PsN3sEeivMoitHDjecw" name="popis_architektury_systemu" guid="_hJ-PsN3sEeivMoitHDjecw" presentationName="Popis architektury systému">
+            <methodElementProperty xmi:id="_7pliEN3sEeivMoitHDjecw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_A_mkgN3tEeivMoitHDjecw" name="specifikace_externich_rozhrani" guid="_A_mkgN3tEeivMoitHDjecw" presentationName="Specifikace externích rozhraní" briefDescription="např. specifikace rozhraní software/software, specifikace rozhraní software/hardware">
+            <methodElementProperty xmi:id="_CcD7cN3tEeivMoitHDjecw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_2gSTYMvMEeiEgNhWmVVBKQ" name="plan_zajisteni_kvality_softwaru" guid="_2gSTYMvMEeiEgNhWmVVBKQ" presentationName="Plán zajištění kvality softwaru">
+            <methodElementProperty xmi:id="_34hRoMvMEeiEgNhWmVVBKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Jm3YylQsAsWfmdk0ekRRPA" href="uma://-Jm3YylQsAsWfmdk0ekRRPA#-Jm3YylQsAsWfmdk0ekRRPA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_OaBaYMumEeiY4aKR2f3NAQ" name="plan_validace_softwaru" guid="_OaBaYMumEeiY4aKR2f3NAQ" presentationName="Plán validace softwaru">
+            <methodElementProperty xmi:id="_XbsPMMumEeiY4aKR2f3NAQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-FUbDwpuH0fVL6h44Qw0eog" href="uma://-FUbDwpuH0fVL6h44Qw0eog#-FUbDwpuH0fVL6h44Qw0eog"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_TF-bcMmeEeioC4xUIHgX5A" name="specifikace_celkoveho_testovani_softwaru" guid="_TF-bcMmeEeioC4xUIHgX5A" presentationName="Specifikace celkového testování softwaru">
+            <methodElementProperty xmi:id="_WRA0EMmeEeioC4xUIHgX5A" name="me_edited" value="true"/>
+            <presentation xmi:id="-yepSc8Kbv-hobnClk80fdg" href="uma://-yepSc8Kbv-hobnClk80fdg#-yepSc8Kbv-hobnClk80fdg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_-ywLEN3vEeivMoitHDjecw" name="zprava_z_verifikace_pozadavku_na_software" guid="_-ywLEN3vEeivMoitHDjecw" presentationName="Zpráva z verifikace požadavků na software">
+            <methodElementProperty xmi:id="_CqUSgN3wEeivMoitHDjecw" name="me_edited" value="true"/>
+            <presentation xmi:id="-PtJNRFcR-evCzOwTZA7VmQ" href="uma://-PtJNRFcR-evCzOwTZA7VmQ#-PtJNRFcR-evCzOwTZA7VmQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_SKNvAN3wEeivMoitHDjecw" name="specifikace_pozadavku_na_system" guid="_SKNvAN3wEeivMoitHDjecw" presentationName="Specifikace požadavků na systém">
+            <methodElementProperty xmi:id="_VmAgcN3wEeivMoitHDjecw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_QhZ0wN4JEei9xO8zovSwhQ" name="specifikace_architektury_softwaru" guid="_QhZ0wN4JEei9xO8zovSwhQ" presentationName="Specifikace architektury softwaru">
+            <methodElementProperty xmi:id="_TmogUN4JEei9xO8zovSwhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Fimurc9jNsATDnijv1L0oQ" href="uma://-Fimurc9jNsATDnijv1L0oQ#-Fimurc9jNsATDnijv1L0oQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_eWeuMN4JEei9xO8zovSwhQ" name="specifikace_navrhu_softwaru" guid="_eWeuMN4JEei9xO8zovSwhQ" presentationName="Specifikace návrhu softwaru">
+            <methodElementProperty xmi:id="_gYuSwN4JEei9xO8zovSwhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-8qIsBO2PgyxumFan4RsbSw" href="uma://-8qIsBO2PgyxumFan4RsbSw#-8qIsBO2PgyxumFan4RsbSw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_orG_sN4JEei9xO8zovSwhQ" name="specifikace_rozhrani_softwaru" guid="_orG_sN4JEei9xO8zovSwhQ" presentationName="Specifikace rozhraní softwaru">
+            <methodElementProperty xmi:id="_q5wBgN4JEei9xO8zovSwhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-qwRxZM6Gq4DPydbQ-DqFKg" href="uma://-qwRxZM6Gq4DPydbQ-DqFKg#-qwRxZM6Gq4DPydbQ-DqFKg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_d9ILMMmeEeioC4xUIHgX5A" name="specifikace_testu_integrace_softwaru" guid="_d9ILMMmeEeioC4xUIHgX5A" presentationName="Specifikace testů integrace softwaru">
+            <methodElementProperty xmi:id="_ILv60MmkEeioC4xUIHgX5A" name="me_edited" value="true"/>
+            <presentation xmi:id="-jk-gJhgEydYyV9QyY9YxOA" href="uma://-jk-gJhgEydYyV9QyY9YxOA#-jk-gJhgEydYyV9QyY9YxOA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_rB8FUMmeEeioC4xUIHgX5A" name="specifikace_testu_integrace_softwaru_hardwaru" guid="_rB8FUMmeEeioC4xUIHgX5A" presentationName="Specifikace testů integrace softwaru/hardwaru">
+            <methodElementProperty xmi:id="_uuIqQMmeEeioC4xUIHgX5A" name="me_edited" value="true"/>
+            <presentation xmi:id="-r634GN6dtI2xK0JJ9vl_cw" href="uma://-r634GN6dtI2xK0JJ9vl_cw#-r634GN6dtI2xK0JJ9vl_cw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_iqV6oN4KEei9xO8zovSwhQ" name="zprava_z_verifikace_architektury_a_navrhu_softwaru" guid="_iqV6oN4KEei9xO8zovSwhQ" presentationName="Zpráva z verifikace architektury a návrhu softwaru">
+            <methodElementProperty xmi:id="_mky-AN4KEei9xO8zovSwhQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-ZrPJ_07Q5pIV-5_Q0dyjdg" href="uma://-ZrPJ_07Q5pIV-5_Q0dyjdg#-ZrPJ_07Q5pIV-5_Q0dyjdg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="__YavkN6BEeiWpbcrOebAyw" name="specifikace_navrhu_komponent_softwaru" guid="__YavkN6BEeiWpbcrOebAyw" presentationName="Specifikace návrhu komponent softwaru">
+            <methodElementProperty xmi:id="_CbyZ8N6CEeiWpbcrOebAyw" name="me_edited" value="true"/>
+            <presentation xmi:id="-kT3blI2MXcT05TPN-EoKDA" href="uma://-kT3blI2MXcT05TPN-EoKDA#-kT3blI2MXcT05TPN-EoKDA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_F7cXsN6CEeiWpbcrOebAyw" name="specifikace_testu_komponent_softwaru" guid="_F7cXsN6CEeiWpbcrOebAyw" presentationName="Specifikace testů komponent softwaru">
+            <methodElementProperty xmi:id="_IfV30N6CEeiWpbcrOebAyw" name="me_edited" value="true"/>
+            <presentation xmi:id="-LKsVB0p7CV8XS2e9ptHy9Q" href="uma://-LKsVB0p7CV8XS2e9ptHy9Q#-LKsVB0p7CV8XS2e9ptHy9Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_lKu84N6QEeiWpbcrOebAyw" name="zprava_z_verifikace_navrhu_komponent_softwaru" guid="_lKu84N6QEeiWpbcrOebAyw" presentationName="Zpráva z verifikace návrhu komponent softwaru">
+            <methodElementProperty xmi:id="_nFGX0N6QEeiWpbcrOebAyw" name="me_edited" value="true"/>
+            <presentation xmi:id="-EP11CIFfoNCnzfnkLhDGXw" href="uma://-EP11CIFfoNCnzfnkLhDGXw#-EP11CIFfoNCnzfnkLhDGXw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_SAktwN6TEeiWpbcrOebAyw" name="zdrojovy_kod_softwaru_a_podpurna_dokumentace" guid="_SAktwN6TEeiWpbcrOebAyw" presentationName="Zdrojový kód softwaru a podpůrná dokumentace">
+            <methodElementProperty xmi:id="_TRp7IN6TEeiWpbcrOebAyw" name="me_edited" value="true"/>
+            <presentation xmi:id="-emJQiokAPG3kS5yOIo63OA" href="uma://-emJQiokAPG3kS5yOIo63OA#-emJQiokAPG3kS5yOIo63OA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_3cEDsMmeEeioC4xUIHgX5A" name="zprava_z_testu_softwarovych_komponent" guid="_3cEDsMmeEeioC4xUIHgX5A" presentationName="Zpráva z testů softwarových komponent">
+            <methodElementProperty xmi:id="_6BjfQMmeEeioC4xUIHgX5A" name="me_edited" value="true"/>
+            <presentation xmi:id="-XwT9XGguVtl44UE2_xVibg" href="uma://-XwT9XGguVtl44UE2_xVibg#-XwT9XGguVtl44UE2_xVibg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_453tEN6oEeiYXL4To-I0wg" name="zprava_z_verifikace_zdrojoveho_kodu_softwaru" guid="_453tEN6oEeiYXL4To-I0wg" presentationName="Zpráva z verifikace zdrojového kódu softwaru">
+            <methodElementProperty xmi:id="_7cNG8N6oEeiYXL4To-I0wg" name="me_edited" value="true"/>
+            <presentation xmi:id="-zLsC-zKboGS4eAP9ZoF6HA" href="uma://-zLsC-zKboGS4eAP9ZoF6HA#-zLsC-zKboGS4eAP9ZoF6HA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_MI24UMmeEeioC4xUIHgX5A" name="6.1.2" guid="_MI24UMmeEeioC4xUIHgX5A" presentationName="Všechna nezbytná systémová, hardwarová a softwarová dokumentace, která je specifikována v plánu.">
+            <methodElementProperty xmi:id="_OK3zYMmeEeioC4xUIHgX5A" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="__13soMmxEeiep6WenHc9eQ" name="6.2.2" guid="__13soMmxEeiep6WenHc9eQ" presentationName="Všechna nezbytná systémová, hardwarová a softwarová dokumentace.">
+            <methodElementProperty xmi:id="_BW8d0MmyEeiep6WenHc9eQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_HlmgQMumEeiY4aKR2f3NAQ" name="6.3.2" guid="_HlmgQMumEeiY4aKR2f3NAQ" presentationName="Všechna systémová, hardwarová a softwarová dokumentace jak je specifikována v této evropské normě.">
+            <methodElementProperty xmi:id="_K9aJkMumEeiY4aKR2f3NAQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_iVeWAMvDEeiEgNhWmVVBKQ" name="6.4.2" guid="_iVeWAMvDEeiEgNhWmVVBKQ" presentationName="Všechny ostatní dokumenty nezbytné k provedení pokusu hodnocení.">
+            <methodElementProperty xmi:id="_m6VoUMvDEeiEgNhWmVVBKQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_vat-4MvMEeiEgNhWmVVBKQ" name="6.5.2" guid="_vat-4MvMEeiEgNhWmVVBKQ" presentationName="Všechny dokumenty dostupné v každé etapě životního cyklu.">
+            <methodElementProperty xmi:id="_wib04MvMEeiEgNhWmVVBKQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_PLrgMNqhEeiQ6fKd-ySInQ" name="6.6.2" guid="_PLrgMNqhEeiQ6fKd-ySInQ" presentationName="Všechna relevantní dokumentace návrhu, vývoje a analýzy">
+            <methodElementProperty xmi:id="_VlC2ANqhEeiQ6fKd-ySInQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_2_CKoNrPEeigTYOG64T-fw" name="6.6.3" guid="_2_CKoNrPEeigTYOG64T-fw" presentationName="Všechny změněné vstupní dokumenty">
+            <methodElementProperty xmi:id="_5SQxgNrPEeigTYOG64T-fw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nh5HMNrPEeigTYOG64T-fw" name="analyza_dopadu_zmen_a_autorizace" guid="_nh5HMNrPEeigTYOG64T-fw" presentationName="Analýza dopadu změn a autorizace">
+            <methodElementProperty xmi:id="_shiRANrPEeigTYOG64T-fw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_TvyZMNrQEeigTYOG64T-fw" name="nove_zaznamy_konfigurace" guid="_TvyZMNrQEeigTYOG64T-fw" presentationName="Nové záznamy konfigurace">
+            <methodElementProperty xmi:id="_WsxHsNrQEeigTYOG64T-fw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xbvKgMvDEeiEgNhWmVVBKQ" name="plan_hodnoceni_softwaru" guid="_xbvKgMvDEeiEgNhWmVVBKQ" presentationName="Plán hodnocení softwaru">
+            <methodElementProperty xmi:id="_yumgkMvDEeiEgNhWmVVBKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-TYkiunM-HMhqouuwLO2FLQ" href="uma://-TYkiunM-HMhqouuwLO2FLQ#-TYkiunM-HMhqouuwLO2FLQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Cqg0kMvNEeiEgNhWmVVBKQ" name="plan_rizeni_konfigurace_softwaru" guid="_Cqg0kMvNEeiEgNhWmVVBKQ" presentationName="Plán řízení konfigurace softwaru." briefDescription="(Pokud není dostupný na systémové úrovni.)">
+            <methodElementProperty xmi:id="_G886IMvNEeiEgNhWmVVBKQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_EubXAMmyEeiep6WenHc9eQ" name="plan_verifikace_softwaru" guid="_EubXAMmyEeiep6WenHc9eQ" presentationName="Plán verifikace softwaru">
+            <methodElementProperty xmi:id="_HmtywMmyEeiep6WenHc9eQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-YtYrQEVgKeG_isINRbEavg" href="uma://-YtYrQEVgKeG_isINRbEavg#-YtYrQEVgKeG_isINRbEavg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bcS9QNqhEeiQ6fKd-ySInQ" name="pozadavky_na_zmeny" guid="_bcS9QNqhEeiQ6fKd-ySInQ" presentationName="Požadavky na změny">
+            <methodElementProperty xmi:id="_dzrrYNqhEeiQ6fKd-ySInQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_74cpQNrSEeigTYOG64T-fw" name="specifikace_nastroje_nebo_manual" guid="_74cpQNrSEeigTYOG64T-fw" presentationName="Specifikace nástroje nebo manuál">
+            <methodElementProperty xmi:id="__drqkNrSEeigTYOG64T-fw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_yy0nsMmeEeioC4xUIHgX5A" name="specifikace_testu_softwarovych_komponent" guid="_yy0nsMmeEeioC4xUIHgX5A" presentationName="Specifikace testů softwarových komponent">
+            <methodElementProperty xmi:id="_01tsgMmeEeioC4xUIHgX5A" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_9GHdoNrPEeigTYOG64T-fw" name="zaznamy_o_zmenach_v_softwaru" guid="_9GHdoNrPEeigTYOG64T-fw" presentationName="Záznamy o změnách v softwaru">
+            <methodElementProperty xmi:id="_-96FsNrPEeigTYOG64T-fw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_12DZsMvDEeiEgNhWmVVBKQ" name="zprava_o_hodnoceni_softwaru" guid="_12DZsMvDEeiEgNhWmVVBKQ" presentationName="Zpráva o hodnocení softwaru">
+            <methodElementProperty xmi:id="_3kobYMvDEeiEgNhWmVVBKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-At12nfu3aQELjBOL4Ny4xw" href="uma://-At12nfu3aQELjBOL4Ny4xw#-At12nfu3aQELjBOL4Ny4xw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Xf_IoMmeEeioC4xUIHgX5A" name="zprava_z_celkoveho_testovani_softwaru" guid="_Xf_IoMmeEeioC4xUIHgX5A" presentationName="Zpráva z celkového testování softwaru">
+            <methodElementProperty xmi:id="_ceC-EMmeEeioC4xUIHgX5A" name="me_edited" value="true"/>
+            <presentation xmi:id="-q7DMBxXoSSLMhQ_H6TkqlQ" href="uma://-q7DMBxXoSSLMhQ_H6TkqlQ#-q7DMBxXoSSLMhQ_H6TkqlQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_mN4gcMmeEeioC4xUIHgX5A" name="zprava_z_testu_integrace_softwaru" guid="_mN4gcMmeEeioC4xUIHgX5A" presentationName="Zpráva z testů integrace softwaru">
+            <methodElementProperty xmi:id="_qcdZsMmeEeioC4xUIHgX5A" name="me_edited" value="true"/>
+            <presentation xmi:id="-RBnSCG8X40Ztc1_FTsxa4g" href="uma://-RBnSCG8X40Ztc1_FTsxa4g#-RBnSCG8X40Ztc1_FTsxa4g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_depKwMuTEeir883_jylfPA" name="zprava_z_testu_integrace_softwaru_hardwaru" guid="_depKwMuTEeir883_jylfPA" presentationName="Zpráva z testů integrace softwaru/hardwaru">
+            <methodElementProperty xmi:id="_habD0MuTEeir883_jylfPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-UY65LXC6gRPPa9KdeiAcrA" href="uma://-UY65LXC6gRPPa9KdeiAcrA#-UY65LXC6gRPPa9KdeiAcrA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_H4SfYNrTEeigTYOG64T-fw" name="zprava_z_validace_nastroje" guid="_H4SfYNrTEeigTYOG64T-fw" presentationName="Zpráva z validace nástroje" briefDescription="(v případě potřeby viz 6.7.4.4 nebo 6.7.4.6)">
+            <methodElementProperty xmi:id="_Oa2NcNrTEeigTYOG64T-fw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_z3daUMuoEeiY4aKR2f3NAQ" name="zprava_z_validace_softwaru" guid="_z3daUMuoEeiY4aKR2f3NAQ" presentationName="Zpráva z validace softwaru">
+            <methodElementProperty xmi:id="_2OAa8MuoEeiY4aKR2f3NAQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-xtdXsk6bhQ_8Bv83q_UkRQ" href="uma://-xtdXsk6bhQ_8Bv83q_UkRQ#-xtdXsk6bhQ_8Bv83q_UkRQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_9z3k0MvDEeiEgNhWmVVBKQ" name="zprava_z_verifikace_hodnoceni_softwaru" guid="_9z3k0MvDEeiEgNhWmVVBKQ" presentationName="Zpráva z verifikace hodnocení softwaru">
+            <methodElementProperty xmi:id="__gwkcMvDEeiEgNhWmVVBKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-NiUpklOeMP1PgAuNJfT9Kg" href="uma://-NiUpklOeMP1PgAuNJfT9Kg#-NiUpklOeMP1PgAuNJfT9Kg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_5gRc8MuoEeiY4aKR2f3NAQ" name="zprava_z_verifikace_validace_softwaru" guid="_5gRc8MuoEeiY4aKR2f3NAQ" presentationName="Zpráva z verifikace validace softwaru">
+            <methodElementProperty xmi:id="_7kXboMuoEeiY4aKR2f3NAQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-BO4JyVTONu-AMFhqRvVEUw" href="uma://-BO4JyVTONu-AMFhqRvVEUw#-BO4JyVTONu-AMFhqRvVEUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_OjNq0MmyEeiep6WenHc9eQ" name="zprava_z_verifikace_zajisteni_kvality_softwaru" guid="_OjNq0MmyEeiep6WenHc9eQ" presentationName="Zpráva z verifikace zajištění kvality softwaru">
+            <methodElementProperty xmi:id="_SLZScMmyEeiep6WenHc9eQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-VqTweM1hpUYakU08TLum1A" href="uma://-VqTweM1hpUYakU08TLum1A#-VqTweM1hpUYakU08TLum1A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KvxOYMmyEeiep6WenHc9eQ" name="zprava_zpravy_z_verifikace_softwaru" guid="_KvxOYMmyEeiep6WenHc9eQ" presentationName="Zpráva (Zprávy) z verifikace softwaru">
+            <methodElementProperty xmi:id="_MpFgcMmyEeiep6WenHc9eQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-zwLh52HXBlYisV1eW-mAoA" href="uma://-zwLh52HXBlYisV1eW-mAoA#-zwLh52HXBlYisV1eW-mAoA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_VdZGAN6rEeiYJ4LpaF_C_Q" name="zprava_z_verifikace_integrace_softwaru" guid="_VdZGAN6rEeiYJ4LpaF_C_Q" presentationName="Zpráva z verifikace integrace softwaru">
+            <methodElementProperty xmi:id="_XxRNIN6rEeiYJ4LpaF_C_Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-pbovkOgPZzoaazfkI-j4MA" href="uma://-pbovkOgPZzoaazfkI-j4MA#-pbovkOgPZzoaazfkI-j4MA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_i4twwN6tEeiYJ4LpaF_C_Q" name="7.7.2" guid="_i4twwN6tEeiYJ4LpaF_C_Q" presentationName="Veškerá dokumentace hardwaru a softwaru včetně výsledků z částečných verifikací">
+            <methodElementProperty xmi:id="_lOKlMN6tEeiYJ4LpaF_C_Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_re0D4N6tEeiYJ4LpaF_C_Q" name="poznamky_k_vydani" guid="_re0D4N6tEeiYJ4LpaF_C_Q" presentationName="Poznámky k vydání">
+            <methodElementProperty xmi:id="_uEnBcN6tEeiYJ4LpaF_C_Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-8NezowdqaL_DoADfGo7EUQ" href="uma://-8NezowdqaL_DoADfGo7EUQ#-8NezowdqaL_DoADfGo7EUQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ol1t3cjDEeixxZe6yMuoZA" name="CapabilityPatterns" guid="_ol1t3cjDEeixxZe6yMuoZA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ol1t3sjDEeixxZe6yMuoZA" name="DeliveryProcesses" guid="_ol1t3sjDEeixxZe6yMuoZA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ol1t38jDEeixxZe6yMuoZA" name="ProcessContributions" guid="_ol1t38jDEeixxZe6yMuoZA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

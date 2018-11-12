@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8qIsBO2PgyxumFan4RsbSw" name="specifikace_navrhu_softwaru,_eWeuMN4JEei9xO8zovSwhQ" guid="-8qIsBO2PgyxumFan4RsbSw" changeDate="2018-11-02T09:40:29.657+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Vstupní dokumenty musí být k dispozici, i když nemusí být nezbytně dokončené, dříve než je započat proces návrhu.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Specifikace návrhu softwaru musí popisovat návrh softwaru založený na rozkladu na komponenty a každá taková&#xD;
+        komponenta musí mít specifikaci návrhu komponenty softwaru a specifikaci testu komponenty softwaru.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Specifikace návrhu softwaru musí určit:&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; a) softwarové komponenty, které musí být sledovány&#xD;
+    zpět k architektuře softwaru a musí určit jejich úrovně integrity bezpečnosti;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) rozhraní softwarových komponent s prostředím;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; c) rozhraní mezi softwarovými komponentami navzájem;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; d) datové struktury;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;e) rozdělení a sledování požadavků na&#xD;
+    komponenty;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;f) hlavní algoritmy a sekvence;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; g) mechanismy reportování chyb.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Specifikace návrhu softwaru musí vybrat techniky a opatření z Tabulky A.4. Vybraná kombinace musí být odůvodněná&#xD;
+        jako sada a plnit články 4.8 a 4.9.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

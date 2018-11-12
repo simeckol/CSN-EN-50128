@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:MethodConfiguration xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_EtwGoN6wEeiYJ4LpaF_C_Q" name="Method Configuration" guid="_EtwGoN6wEeiYJ4LpaF_C_Q">
+  <methodElementProperty xmi:id="_GhVkIN6wEeiYJ4LpaF_C_Q" name="TouchedByConfigEditor" value="true"/>
+  <methodElementProperty xmi:id="_GheuEN6wEeiYJ4LpaF_C_Q" name="Config_doneLoadCheckPkgs" value="_0mA0UMk1EeiYyavT6KtpzQ/_8a4e0Mk1EeiYyavT6KtpzQ/_gdMe0NxjEeia7sPQjHrmPg/_u0x8UMjDEeixxZe6yMuoZA/_uAn5cMmdEeioC4xUIHgX5A"/>
+  <methodElementProperty xmi:id="_G1B8MN6wEeiYJ4LpaF_C_Q" name="me_edited" value="true"/>
+  <methodElementProperty xmi:id="_OIbfEN61EeiYJ4LpaF_C_Q" name="no_update_on_click" value="true"/>
+  <methodElementProperty xmi:id="_OIcGIN61EeiYJ4LpaF_C_Q" name="update_on_click" value="false"/>
+  <methodPluginSelection href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ol1t0MjDEeixxZe6yMuoZA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_u0x8UMjDEeixxZe6yMuoZA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ol1t3sjDEeixxZe6yMuoZA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_uAn5cMmdEeioC4xUIHgX5A"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ol1t3cjDEeixxZe6yMuoZA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_8a4e0Mk1EeiYyavT6KtpzQ"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_0mA0UMk1EeiYyavT6KtpzQ"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_gdMe0NxjEeia7sPQjHrmPg"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ol1t3MjDEeixxZe6yMuoZA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ol1t0cjDEeixxZe6yMuoZA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ol1t1cjDEeixxZe6yMuoZA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ol1t0sjDEeixxZe6yMuoZA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ol1t1MjDEeixxZe6yMuoZA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ol1t08jDEeixxZe6yMuoZA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ol1t18jDEeixxZe6yMuoZA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ol1t1sjDEeixxZe6yMuoZA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ol1t2cjDEeixxZe6yMuoZA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ol1t2MjDEeixxZe6yMuoZA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ol1t2sjDEeixxZe6yMuoZA"/>
+  <processViews xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_fBqIwMurEeiIqqn8rKlhIA"/>
+  <processViews xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_HRg8gN6zEeiYJ4LpaF_C_Q"/>
+  <processViews xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ICi7YN60EeiYJ4LpaF_C_Q"/>
+  <defaultView xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_ol1t0MjDEeixxZe6yMuoZA#_fBqIwMurEeiIqqn8rKlhIA"/>
+</org.eclipse.epf.uma:MethodConfiguration>

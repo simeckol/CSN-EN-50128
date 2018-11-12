@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6WFkxCf6i6Lx_3kSxBX_Mg" name="new_role,_5kE7IMjEEeixxZe6yMuoZA" guid="-6WFkxCf6i6Lx_3kSxBX_Mg" changeDate="2018-10-05T19:34:46.676+0200">
+  <synonyms>VER, verifier</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

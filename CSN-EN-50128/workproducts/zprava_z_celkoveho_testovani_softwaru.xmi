@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-q7DMBxXoSSLMhQ_H6TkqlQ" name="zprava_z_celkoveho_testovani_softwaru,_Xf_IoMmeEeioC4xUIHgX5A" guid="-q7DMBxXoSSLMhQ_H6TkqlQ" changeDate="2018-11-02T15:46:54.984+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Zpráva z celkového testování softwaru musí být napsána v souladu s obecnými požadavky stanovenými pro zprávu z&#xD;
+        testů (viz 6.1.4.5).&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Validátor musí specifikovat a provést doplňkové testy dle svého uvážení nebo je nechat provést testerem. Zatímco&#xD;
+        celkové testy softwaru vycházejí především ze struktury specifikace požadavků na software, validátor může jejich&#xD;
+        hodnotu zvýšit o testy, které zatíží systém komplexními scénáři odrážejícími aktuální potřeby uživatele.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Výsledky všech testů a analýz musí být zaznamenány ve zprávě z celkového testování softwaru.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

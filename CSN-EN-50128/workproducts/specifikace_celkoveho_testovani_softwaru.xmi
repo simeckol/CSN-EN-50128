@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yepSc8Kbv-hobnClk80fdg" name="specifikace_celkoveho_testovani_softwaru,_TF-bcMmeEeioC4xUIHgX5A" guid="-yepSc8Kbv-hobnClk80fdg" changeDate="2018-11-01T17:49:28.421+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Specifikace celkového testování softwaru musí být popisem testů, které budou provedeny na dokončeném softwaru.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Specifikace celkového testování softwaru si musí vybrat techniky a opatření z Tabulky A.7. Zvolená kombinace musí&#xD;
+        být zdůvodněna jako sada a plnit články 4.8 a 4.9.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Specifikace celkového testování softwaru musí pro každou požadovanou funkci identifikovat testovací případy&#xD;
+        zahrnující:&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; a) požadované vstupní signály s jejich pořadím a jejich hodnotami;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) očekávané výstupní signály s jejich pořadím a jejich hodnotami;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; c) kritéria úspěšnosti testu, včetně aspektů výkonu a kvality.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

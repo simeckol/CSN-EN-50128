@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LO59Ybw8mhc2RbB0Nl6y6g" name="new_role,_qFKWEMjEEeixxZe6yMuoZA" guid="-LO59Ybw8mhc2RbB0Nl6y6g" changeDate="2018-11-02T15:55:42.866+0100">
+  <synonyms>IMP, implementer</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

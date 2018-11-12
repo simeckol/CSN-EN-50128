@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zLsC-zKboGS4eAP9ZoF6HA" name="zprava_z_verifikace_zdrojoveho_kodu_softwaru,_453tEN6oEeiYXL4To-I0wg" guid="-zLsC-zKboGS4eAP9ZoF6HA" changeDate="2018-11-02T15:22:44.049+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Zpráva z verifikace zdrojového kódu softwaru musí být napsána v souladu s obecnými požadavky stanovenými pro zprávu&#xD;
+        z verifikace (viz 6.2.4.13).&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Poté, co jsou dokončeny zdrojový kód softwaru a zpráva z testů komponent softwaru, musí se jejich verifikace&#xD;
+        zabývat:&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; a) přiměřeností zdrojového kódu softwaru jako implementace&#xD;
+    specifikace návrhu komponenty softwaru;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) správným použitím zvolených technik a opatření z Tabulky A.4&#xD;
+    jako sady plnící 4.8 a 4.9;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; c) posouzením správného použití kódovacích standardů;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; d) tím, že zdrojový kód softwaru splňuje obecné požadavky na&#xD;
+    čitelnost a sledovatelnost dle 5.3.2.7 až 5.3.2.10 a dle 6.5.4.14 až 6.5.4.17 a také zvláštní požadavky dle 7.5.4.1 až&#xD;
+    7.5.4.4;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; e) přiměřeností zprávy z testů komponenty softwaru jako záznamu&#xD;
+    z testů provedených v souladu se specifikací testů komponenty softwaru.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Výsledky musí být zaznamenány ve zprávě z verifikace zdrojového&#xD;
+    kódu softwaru.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

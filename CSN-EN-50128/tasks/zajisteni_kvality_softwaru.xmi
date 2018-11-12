@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-15Z3iOkJ68l8JcJONSZCnA" name=",_TgvAQMvMEeiEgNhWmVVBKQ" guid="-15Z3iOkJ68l8JcJONSZCnA">
+  <sections xmi:id="_xi9BQMvNEeiEgNhWmVVBKQ" name="Všechny plány musí být připraveny na začátku projektu a aktualizovány během životního cyklu." guid="_xi9BQMvNEeiEgNhWmVVBKQ"/>
+  <sections xmi:id="_4mhKoMvNEeiEgNhWmVVBKQ" name="Organizace, které se účastní vývoje softwaru, musí zavést a používat systém zajištění kvality v souladu s EN ISO 9000 na podporu požadavků této evropské normy. Certifikace dle EN ISO 9001 je vysoce doporučena." guid="_4mhKoMvNEeiEgNhWmVVBKQ"/>
+  <sections xmi:id="_7kfjYNqOEeiQ6fKd-ySInQ" name="Plán zajištění kvality softwaru musí být napsán v rámci odpovědnosti verifikátora na základě vystupních dokumentů z 6.5.2." guid="_7kfjYNqOEeiQ6fKd-ySInQ"/>
+  <sections xmi:id="_d9nBQNqSEeiQ6fKd-ySInQ" name="Zpráva z verifikace zajištění kvality softwaru musí být napsána v rámci odpovědnosti verifikátora na základě vstupních dokumentů z 6.5.2." guid="_d9nBQNqSEeiQ6fKd-ySInQ"/>
+  <sections xmi:id="_ecb10NqTEeiQ6fKd-ySInQ" name="Každý plán musí mít odstavec specifikující detaily o jeho vlastní aktualizaci po celou dobu trvání projektu: četnost, odpovědnost, způsob." guid="_ecb10NqTEeiQ6fKd-ySInQ"/>
+  <sections xmi:id="_he0owNqTEeiQ6fKd-ySInQ" name="Každý softwarový dokument a každá dodávaná část musí být umístěny v řízení konfigurace a to od chvíle jejich prvního vydání." guid="_he0owNqTEeiQ6fKd-ySInQ"/>
+  <sections xmi:id="_lq61wNqTEeiQ6fKd-ySInQ" name="Změny všech položek v rámci řízení konfigurace musí být autorizovány a zaznamenány." guid="_lq61wNqTEeiQ6fKd-ySInQ"/>
+  <sections xmi:id="_nRZEUNqTEeiQ6fKd-ySInQ" name="Vedle vývoje softwaru musí systém řízení konfigurace pokrývat i použité vývojové prostředí softwaru během celého životního cyklu." guid="_nRZEUNqTEeiQ6fKd-ySInQ">
+    <sectionDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Toto rozšiřeni, nezbytné&#xD;
+    pro reprodukovatelnost vývoje a pro činnosti údržby, musí zahrnovat všechny nástroje,&lt;/font>&lt;/font> &lt;font lang=&quot;JA&quot;     size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>překladače, data a testovací soubory,&#xD;
+    parametrizační soubory a podpůrné hardwarové platformy.&lt;/font>&lt;/font>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_l4CZ0NqVEeiQ6fKd-ySInQ" name="Dodavatel musí stanovit, dokumentovat a udržovat postupy pro kontrolu externích dodavatelů včetně" guid="_l4CZ0NqVEeiQ6fKd-ySInQ">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;p align=&quot;left&quot;>&#xD;
+            &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>metod a&#xD;
+            relevantnich záznamů pro zajištění, že software poskytnutý externími dodavately dodržuje stanovené požadavky.&#xD;
+            Musí být zajištěno, že dřive vyvinutý software vyhovuje požadované úrovni integrity bezpečnosti softwaru a&#xD;
+            spolehlivosti. Nový software musí být vyvíjen a udržován ve shodě s plánem zajištění kvality softwaru&#xD;
+            dodavatele nebo s vlastním plánem zajištěni kvality softwaru připraveným externím dodavatelem v souladu s&#xD;
+            plánem zajištění kvality softwaru dodavatele.&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p align=&quot;left&quot;>&#xD;
+            &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot;&#xD;
+            size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>metod a relevantních zaznamů pro&#xD;
+            zajištění, že požadavky poskytnuté externímu dodavateli jsou dostatečné a&#xD;
+            kompletní.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_OL7e8NqXEeiQ6fKd-ySInQ" name="Sledovatelnost požadavků musí být důležitým aspektem ve validaci bezpečnostně relevantních systémů a musí být poskytnuty prostředky, aby mohla být prokázána během všech etap životního cyklu." guid="_OL7e8NqXEeiQ6fKd-ySInQ"/>
+  <sections xmi:id="_QtMh0NqXEeiQ6fKd-ySInQ" name="V kontextu této evropské normy a v míře odpovídající specifikované úrovni integrace bezpečnosti softwaru se musí sledovatelnost zaměřit zejména na" guid="_QtMh0NqXEeiQ6fKd-ySInQ">
+    <sectionDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>a) sledovatelnost&#xD;
+    požadavků na položky návrhu nebo jiné, které je naplňují;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>b) sledovatelnost položek&#xD;
+    navrhu na položky implementace, které je realizují;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>c) sledovatelnost&#xD;
+    požadavků a návrhu na testy (komponent, integrace, celkový test softwaru) a analýzy,&lt;/font>&lt;/font> &lt;font lang=&quot;JA&quot;&#xD;
+    size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>které je verifikují.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Sledovatelnost musí být&#xD;
+    předmětem řízení konfigurace.&lt;/font>&lt;/font>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_jDqi0NqXEeiQ6fKd-ySInQ" name="Ve zvláštních případech, např. u již existujícího softwaru nebo prototypového softwaru, se může sledovatelnost prokázat až po implementaci a/nebo zdokumentování kódu, ale ještě před verifikací/validací. V těchto případech musí být prokázáno, že verifikace/validace je stejně efektivní jako by byla, kdyby byla sledovatelnost prováděna během všech etap." guid="_jDqi0NqXEeiQ6fKd-ySInQ"/>
+  <sections xmi:id="_opCP4NqXEeiQ6fKd-ySInQ" name="U položek požadavků, návrhu nebo implementace, které nemohou být dostatečně sledovány musí být prokázáno, že nemají žádný vliv na bezpečnost nebo integritu systému." guid="_opCP4NqXEeiQ6fKd-ySInQ"/>
+  <purpose>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;p align=&quot;left&quot;>&#xD;
+            &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Identifikovat,&#xD;
+            monitorovat a kontrolovat všechny činnosti, jak technické tak manažerské, které jsou&lt;/font>&lt;/font> &lt;font&#xD;
+            lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>nezbytné pro zajištění&#xD;
+            toho, že software dosáhne požadované kvality. To je nezbytné pro poskytnutí&lt;/font>&lt;/font> &lt;font lang=&quot;JA&quot;&#xD;
+            size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>požadované kvalitativní obrany&#xD;
+            proti systematickým vadám a pro zajištění možnosti provádět audity, aby mohly&lt;/font>&lt;/font> &lt;font lang=&quot;JA&quot;&#xD;
+            size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>být verifikační a validační&#xD;
+            činnosti prováděny efektivně.&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p>&#xD;
+            &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Poskytnout důkaz,&#xD;
+            že výše zmíněné činnosti jsou prováděny.&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

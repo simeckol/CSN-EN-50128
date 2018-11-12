@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RBnSCG8X40Ztc1_FTsxa4g" name="zprava_z_testu_integrace_softwaru,_mN4gcMmeEeioC4xUIHgX5A" guid="-RBnSCG8X40Ztc1_FTsxa4g" changeDate="2018-11-02T15:31:57.538+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Zpráva z testů integrace softwaru musí být napsána v souladu s obecnými požadavky stanovenými pro zprávu z testů&#xD;
+        (viz 6.1.4.5).&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Zpráva z testů integrace softwaru musí být vytvořena následovně:&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; a) zpráva z testů integrace softwaru musí uvádět výsledky testů&#xD;
+    a zda cíle a kritéria specifikace testů integrace softwaru byly splněny. Pokud se vyskytne porucha, musí být&#xD;
+    zaznamenány její okolnosti;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) testovací případy a jejich výsledky musí být zaznamenány,&#xD;
+    nejlépe ve strojově čitelné formě pro další analýzu;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; c) testy musí být opakovatelné a pokud je to možné prováděné&#xD;
+    automaticky;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; d) zpráva z testů integrace softwaru musí dokumentovat identitu&#xD;
+    a konfiguraci všech zahrnutých položek.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Zpráva z testů integrace softwaru musí prokázat správné použití zvolených technik a opatření z Tabulky A.6 jako&#xD;
+        sady a plnit články 4.8 a 4.9.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

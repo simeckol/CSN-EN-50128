@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LKsVB0p7CV8XS2e9ptHy9Q" name="new_artifact,_F7cXsN6CEeiWpbcrOebAyw" guid="-LKsVB0p7CV8XS2e9ptHy9Q" changeDate="2018-11-02T12:23:15.890+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Specifikace testů komponenty softwaru musí být napsány v souladu s obecnými požadavky stanovenými pro specifikaci&#xD;
+        testů (viz 6.1.4.4).&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Musí být vytvořena specifikace testů komponenty softwaru proti které bude komponenta testována.Tyto testy musí&#xD;
+        ukázat, že každá komponenta vykonává zamýšlenou funkci. Specifikace testů komponenty softwaru musí definovat a&#xD;
+        odůvodnit požadovaná kritéria a stupeň pokrytí kódu testem v rozsahu požadovaném úrovní integrity bezpečnosti&#xD;
+        softwaru. Testy musí být navrženy tak, aby naplnily tři cíle:&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; a) potvrdit, že komponenta vykonává&#xD;
+    zamýšlené funkce (black box testování);&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) prověřit interakce vnitřních částí&#xD;
+    komponenty při provádění zamýšlené funkce (black/white box testování);&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; c) potvrdit, že všechny části komponenty&#xD;
+    jsou testovány (white box testování).&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Specifikace testů komponenty softwaru musí vybrat techniky a opatření z Tabulky A.5. Zvolená kombinace musí být&#xD;
+        odůvodněna jako sada a plnit 4.8 a 4.9.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

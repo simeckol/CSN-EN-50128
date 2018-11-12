@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Sy8sNofrltbH5BGsAG2FTA" name="new_role,_9m6ecMjEEeixxZe6yMuoZA" guid="-Sy8sNofrltbH5BGsAG2FTA" changeDate="2018-11-02T15:59:18.214+0100">
+  <synonyms>VAL, validator</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

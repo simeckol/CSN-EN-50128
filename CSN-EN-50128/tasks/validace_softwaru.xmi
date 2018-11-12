@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UornW3r9DlSeWZHYrq55CA" name=",_ovuYQMulEeiY4aKR2f3NAQ" guid="-UornW3r9DlSeWZHYrq55CA" changeDate="2018-10-09T11:28:32.665+0200">
+  <sections xmi:id="_18pTQMuqEeiIqqn8rKlhIA" name="Činnosti validace softwaru musí být formulovány a vykonány, s vyhodnocením jejich výsledků, validátorem s příslušnou úrovní nezávislosti jak je definováno v 5.1." guid="_18pTQMuqEeiIqqn8rKlhIA"/>
+  <sections xmi:id="_7mIrUMuqEeiIqqn8rKlhIA" name="Validace musí být dokumentována nejméně plánem validace softwaru a zprávou z validace softwaru, jak je definováno dále." guid="_7mIrUMuqEeiIqqn8rKlhIA"/>
+  <sections xmi:id="_NDkykMurEeiIqqn8rKlhIA" name="Plán validace softwaru musí být napsán v rámci odpovědnosti validátora na základě vstupních dokumentů." guid="_NDkykMurEeiIqqn8rKlhIA"/>
+  <sections xmi:id="_mnpIEMu-EeieA-ZJ-sVNIQ" name="Plán validace softwaru musí zahrnovat shrnutí odůvodňující zvolenou strategii validace. Odůvodnění musí obsahovat zvážení, podle požadované úrovně bezpečnosti, použití:" guid="_mnpIEMu-EeieA-ZJ-sVNIQ">
+    <sectionDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>a) ručních nebo&#xD;
+    automatizovaných technik nebo obou;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>b) statických nebo&#xD;
+    dynamických technik nebo obou;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>c) analytických nebo&#xD;
+    statistických technik nebo obou;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>d) testování v reálném&#xD;
+    nebo simulovaném prostředí nebo v obou.&lt;/font>&lt;/font>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_GnMN4Mu_EeieA-ZJ-sVNIQ" name="Plán validace softwaru musí identifikovat kroky nezbytné k prokázání přiměřenosti jakékoliv specifikace softwaru pro splnění požadavků na bezpečnost stanovených ve specifikaci požadavků na bezpečnost systému." guid="_GnMN4Mu_EeieA-ZJ-sVNIQ"/>
+  <sections xmi:id="_VFVScMu_EeieA-ZJ-sVNIQ" name="Plán validace softwaru musí identifikovat kroky nezbytné k prokázání přiměřenosti specifikace celkového testování softwaru jako testu prováděného proti specifikaci požadavků na software." guid="_VFVScMu_EeieA-ZJ-sVNIQ"/>
+  <sections xmi:id="_aPJr8Mu_EeieA-ZJ-sVNIQ" name="Zpráva z validace softwaru musí být napsána v rámci odpovědnosti validátora na základě vstupních dokumentů." guid="_aPJr8Mu_EeieA-ZJ-sVNIQ"/>
+  <sections xmi:id="_n_G00Mu_EeieA-ZJ-sVNIQ" name="Výsledky validace musí být dokumentovány ve zprávě o validaci softwaru." guid="_n_G00Mu_EeieA-ZJ-sVNIQ"/>
+  <sections xmi:id="_re7xsMu_EeieA-ZJ-sVNIQ" name="Validátor musí zkontrolovat, že je proces verifikace kompletní." guid="_re7xsMu_EeieA-ZJ-sVNIQ"/>
+  <sections xmi:id="_v-DoYMu_EeieA-ZJ-sVNIQ" name="Zpráva z validace softwaru musí zřetelně uvést softwarovou baseline, která byla validována." guid="_v-DoYMu_EeieA-ZJ-sVNIQ"/>
+  <sections xmi:id="_6Z0coMu_EeieA-ZJ-sVNIQ" name="Zpráva z validace softwaru musí jasně identifikovat jakékoliv známé nedostatky v softwaru a jejich dopad, který mohou mít při použití softwaru." guid="_6Z0coMu_EeieA-ZJ-sVNIQ"/>
+  <sections xmi:id="_D4cTMMvAEeieA-ZJ-sVNIQ" name="Zpráva z verifikace validace softwaru musí být napsána, v rámci odpovědnosti verifikátora, na základě vstupních dokumentů z 6.3.2." guid="_D4cTMMvAEeieA-ZJ-sVNIQ"/>
+  <sections xmi:id="_l4vv0MvAEeieA-ZJ-sVNIQ" name="Jakmile se stanoví plán validace softwaru, pak se musí jeho verifikace zabývat" guid="_l4vv0MvAEeieA-ZJ-sVNIQ">
+    <sectionDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>a) tím, že plan validace&#xD;
+    softwaru splňuje obecné požadavky na čitelnost a sledovatelnost uvedené v článcích 5.3.2.7 až 5.3.2.10 a 6.5.4.14 až&#xD;
+    6.5.4.17 jako i konkrétní požadavky uvedené v článcích 6.3.4.4 až 6.3.4.6;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>b) vnitřní konzistencí&#xD;
+    plánu validace softwaru.&lt;/font>&lt;/font>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_MZstIMvBEeieA-ZJ-sVNIQ" name="Poté, co je vypracována zpráva z validace softwaru, pak se musí její verifikace zabývat" guid="_MZstIMvBEeieA-ZJ-sVNIQ">
+    <sectionDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>a) tím, že zpráva z&#xD;
+    validace softwaru splňuje obecné požadavky na čitelnost a sledovatelnost uvedené v článcích 5.3.2.7 až 5.3.2.10 a&#xD;
+    6.5.4.14 až 6.5.4.17 jako i konkrétní požadavky uvedené v článcích 6.3.4.8&lt;/font>&lt;/font> &lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>až 6.3.4.11 a 7.7.4.7 až 7.7.4.11;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>b) vnitřní konzistencí&#xD;
+    zprávy o validaci softwaru.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Výsledky musí být zaznamenány ve zprávě z verifikace validace softwaru.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_shr9QMvBEeieA-ZJ-sVNIQ" name="Validátor musí být oprávněn požadovat nebo sám provést dodatečné přezkoumání, analýzy a testy." guid="_shr9QMvBEeieA-ZJ-sVNIQ"/>
+  <sections xmi:id="_ua_BMMvBEeieA-ZJ-sVNIQ" name="Software může být vydán pro používání pouze po autorizaci validátorem." guid="_ua_BMMvBEeieA-ZJ-sVNIQ"/>
+  <sections xmi:id="_wFmv8MvBEeieA-ZJ-sVNIQ" name="Pro doplnění validačního procesu mohou být použity simulace a modelování." guid="_wFmv8MvBEeieA-ZJ-sVNIQ"/>
+  <purpose>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Cílem validace je&#xD;
+            ukázat, že procesy a jejich výstupy jsou takové, že software má definovanou úroveň&lt;/font>&lt;/font> &lt;font&#xD;
+            lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>integrity bezpečnosti&#xD;
+            softwaru, splňuje požadavky na software a odpovídá zamýšlenému použití. Tato činnost&lt;/font>&lt;/font> &lt;font&#xD;
+            lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>je prováděna&#xD;
+            validátorem.&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;p align=&quot;left&quot;>&#xD;
+                &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Hlavní&#xD;
+                činnosti validace mají ukázat analýzou a/nebo testováním, že jsou všechny požadavky na software&#xD;
+                specifikovány, implementovány, testovány a splněny tak, jak je vyžadováno příslušnou úrovní SIL a&#xD;
+                vyhodnotit bezpečnostní kritičnost všech odchylek a neshod založených na výsledcích přezkoumání, analýz a&#xD;
+                testů ve vztahu k bezpečnosti.&lt;/font>&lt;/font>&#xD;
+            &lt;/p>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

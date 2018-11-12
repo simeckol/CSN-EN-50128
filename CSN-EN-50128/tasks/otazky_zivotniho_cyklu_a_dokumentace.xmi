@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IXy4M50RhFC5nV0rcOfoaA" name=",_Uw834MmQEeioC4xUIHgX5A" guid="-IXy4M50RhFC5nV0rcOfoaA" changeDate="2018-10-06T23:49:21.143+0200">
+  <sections xmi:id="_wX5T0MmSEeioC4xUIHgX5A" name="Musí být zvolen model životního cyklu pro vývoj softwaru a musí být podrobně popsán v plánu zajištění kvality softwaru v souladu s kapitolou 6.5." guid="_wX5T0MmSEeioC4xUIHgX5A">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Dva přiklady modelů&#xD;
+    životniho cyklu jsou zobrazeny na následujících obrázcích:&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;img&#xD;
+    alt=&quot;Názorný příklad životního cyklu vývoje 1&quot; src=&quot;./resources/obr3.PNG&quot; width=&quot;600&quot; height=&quot;600&quot; />&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;b>&lt;font size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans-Bold&quot;>&lt;font size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans-Bold&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+    Názorný příklad životního cyklu vývoje 1&lt;/font>&lt;/font>&lt;/b>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;img&#xD;
+    style=&quot;HEIGHT: 600px; WIDTH: 879px&quot; alt=&quot;Názorný příklad životního cyklu vývoje 2&quot; src=&quot;./resources/obr4.PNG&quot;&#xD;
+    width=&quot;600&quot; height=&quot;600&quot; />&lt;br />&#xD;
+    &amp;nbsp;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;b>&lt;font size=&quot;2&quot; face=&quot;LiberationSans-Bold&quot;>&lt;font size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans-Bold&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+    Názorný příklad životního cyklu vývoje 2&lt;/font>&lt;/font>&lt;/b>&lt;br />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_zehGgMmSEeioC4xUIHgX5A" name="Model životního cyklu musí brát v úvahu možnost iterací během jednotlivých etap i mezi nimi." guid="_zehGgMmSEeioC4xUIHgX5A"/>
+  <sections xmi:id="_5fKk4MmTEeioC4xUIHgX5A" name="Procedury zajištění kvality musí probíhat paralelně s činnostmi životního cyklu a musí se používat stejná terminologie." guid="_5fKk4MmTEeioC4xUIHgX5A"/>
+  <sections xmi:id="_8zYusMmTEeioC4xUIHgX5A" name="Plán zajištění kvality softwaru, plán verifikace softwaru, plán validace softwaru a plán řízení konfigurace softwaru musí být vypracovány na počátku projektu a udržovány během životního cyklu vývoje softwaru." guid="_8zYusMmTEeioC4xUIHgX5A"/>
+  <sections xmi:id="_qHo54MmWEeioC4xUIHgX5A" name="Všechny činnosti, které mají být provedeny během etapy musí být stanoveny a naplánovány před zahájením této etapy." guid="_qHo54MmWEeioC4xUIHgX5A"/>
+  <sections xmi:id="_tsJicMmWEeioC4xUIHgX5A" name="Všechny dokumenty musí být strukturovány tak, aby umožňovaly další rozšiřování paralelně s procesem návrhu." guid="_tsJicMmWEeioC4xUIHgX5A"/>
+  <sections xmi:id="_w3CKEMmWEeioC4xUIHgX5A" name="Pro každý dokument musí být zajištěna sledovatelnost a to jednoznačným referenčním číslem a definovaným a dokumentovaným vztahem k dalším dokumentům." guid="_w3CKEMmWEeioC4xUIHgX5A"/>
+  <sections xmi:id="_1rBdgMmWEeioC4xUIHgX5A" name="Každý termín, akronym nebo zkratka musí mít v každém dokumentu stejný význam. Jestliže to není z historických důvodů možné, pak musí být uvedeny různé významy a odkazy na ně." guid="_1rBdgMmWEeioC4xUIHgX5A"/>
+  <sections xmi:id="_5tje0MmWEeioC4xUIHgX5A" name="Kromě toho musí být každý dokument, s výjimkou dokumentů pro již existující software (viz 7.3.4.7), napsán podle následujících pravidel:" guid="_5tje0MmWEeioC4xUIHgX5A">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>musí obsahovat&#xD;
+            nebo realizovat všechny použitelné podmínky a požadavky předcházejicího dokumentu, s nimž je v hierarchickém&#xD;
+            vztahu;&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>nesmí být v rozporu s&#xD;
+        předcházejícím dokumentem.&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_2B2aYMmcEeioC4xUIHgX5A" name="Každá položka nebo princip musí být v každém dokumentu nazván stejným jménem nebo opatřen stejným popisem." guid="_2B2aYMmcEeioC4xUIHgX5A"/>
+  <sections xmi:id="_40TT4MmcEeioC4xUIHgX5A" name="Obsah všech dokumentů musí být zaznamenán ve formě vhodné pro manipulaci, zpracování a uchování." guid="_40TT4MmcEeioC4xUIHgX5A"/>
+  <sections xmi:id="_-pNRwMmcEeioC4xUIHgX5A" name="Jestliže jsou dokumenty, které byly vytvořeny nezávislými rolemi spojovány do jednoho dokumentu, musí být v tomto dokumentu vysledovatelná vazba jednotlivých nezávislých rolí na části dokumentu, které byly těmito rolemi vytvořeny." guid="_-pNRwMmcEeioC4xUIHgX5A"/>
+  <sections xmi:id="_FsIh8MmdEeioC4xUIHgX5A" name="Dokumenty mohou být spojovány nebo rozdělovány v souladu s 5.3.2.12. Některé kroky vývoje mohou být spojeny, rozděleny nebo, pokud je to odůvodněné, vynechány podle uvážení manažera projektu a se souhlasem validátora." guid="_FsIh8MmdEeioC4xUIHgX5A"/>
+  <sections xmi:id="_N4NykMmdEeioC4xUIHgX5A" name="Pokud se použije jakýkoliv alternativní životní cyklus nebo struktura dokumentace, musí být prokázáno, že jsou splněny všechny cíle a požadavky této evropské normy." guid="_N4NykMmdEeioC4xUIHgX5A"/>
+  <purpose>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Strukturovat vývoj softwaru do definovaných etap a činností.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Zaznamenávat všechny informace týkající se softwaru během životního cyklu softwaru.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

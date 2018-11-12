@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CMgCJ_f2U1BBrk_TWPKKQA" name=",_mC4qENxlEeia7sPQjHrmPg" guid="-CMgCJ_f2U1BBrk_TWPKKQA" changeDate="2018-10-30T18:03:49.489+0100">
+  <sections xmi:id="_lLhAQN3xEeivMoitHDjecw" name="Specifikace požadavků na software musí být napsány, v rámci odpovědnosti manažera pro požadavky, na základě vstupních dokumentů dle 7.2.2." guid="_lLhAQN3xEeivMoitHDjecw"/>
+  <sections xmi:id="_223q4N31EeivMoitHDjecw" name="Specifikace celkového testování softwaru musí být napsány, v rámci odpovědnosti testera, na základě specifikace požadavků na software." guid="_223q4N31EeivMoitHDjecw"/>
+  <sections xmi:id="_WiwN0N32EeivMoitHDjecw" name="Zpráva z verifikace požadavků na software musí být napsána, v rámci odpovědnosti verifikátora, na základě specifikace požadavků na bezpečnost systému, specifikace požadavků na software, specifikace celkového testování softwaru a plánu zajištění kvality softwaru." guid="_WiwN0N32EeivMoitHDjecw"/>
+  <purpose>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Popsat kompletní&#xD;
+            sadu požadavků na software, splňující všechny požadavky na systém a na bezpečnost a poskytnout úplnou sadu&#xD;
+            dokumentů pro každou následující etapu.&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;p>&#xD;
+                &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Popsat&#xD;
+                specifikaci celkového testování softwaru.&lt;/font>&lt;/font>&#xD;
+            &lt;/p>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>
