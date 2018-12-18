@@ -1,4 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PWzTZZkOwdj9vIeLjjR1fQ" name="new_role,_boUSAMjEEeixxZe6yMuoZA" guid="-PWzTZZkOwdj9vIeLjjR1fQ" changeDate="2018-10-05T19:31:32.178+0200">
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PWzTZZkOwdj9vIeLjjR1fQ" name="new_role,_boUSAMjEEeixxZe6yMuoZA" guid="-PWzTZZkOwdj9vIeLjjR1fQ" changeDate="2018-12-19T00:03:37.640+0100">
+  <mainDescription>&lt;p>&#xD;
+    Odpovědnosti:&lt;br />&#xD;
+    1. musí být zodpovědný za specifikaci požadavků na software&lt;br />&#xD;
+    2. musí vlastnit specifikaci požadavků na software&lt;br />&#xD;
+    3. musí prokázat a udržovat sledovatelnost k a od požadavků systémové úrovně&lt;br />&#xD;
+    4. musí zajistit, že specifikace a požadavky na software jsou v systému řízení změn a konfigurace včetně&lt;br />&#xD;
+    stavu, verze a autorizačního statusu&lt;br />&#xD;
+    5. musí zajistit konzistenci a kompletnost specifikace požadavků na software (s odkazy na požadavky&lt;br />&#xD;
+    uživatele a konečné prostředí aplikace)&lt;br />&#xD;
+    6. musí vypracovat a udržovat dokumenty požadavků na software&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    5.1.2.10 a) Manažer pro požadavky, návrhář a implementátor softwarové komponenty může být jedna a ta samá osoba.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    5.1.2.10 b) Manažer pro požadavky, návrhář a implementátor softwarové komponenty zodpovídají manažerovi projektu.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    5.1.2.10 g) Osoba, která je manažerem pro požadavky, návrhářem nebo implementátorem softwarové komponenty&lt;br />&#xD;
+    Nesmí být testerem ani integrátorem stejné softwarové komponenty.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    5.1.2.10 l) Manažer projektu, manažer pro požadavky, návrhář, implementátor, integrátor, tester, verifikátor a&#xD;
+    validátor&lt;br />&#xD;
+    mohou patřit do stejné organizace.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    5.1.2.13 Role manažera pro požadavky, návrháře, implementátora jedné softwarové komponenty mohou&lt;br />&#xD;
+    vykonávat role testera a integrátora pro jinou komponentu.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    Klíčové kompetence:&lt;br />&#xD;
+    1. musí být kompetentní v technice vytváření požadavků&lt;br />&#xD;
+    2. musí mít zkušenosti v oblasti dané aplikace&lt;br />&#xD;
+    3. musí mít zkušenosti s atributy bezpečnosti v oblasti dané aplikace&lt;br />&#xD;
+    4. musí rozumět celkové funkci systému a prostředí aplikace&lt;br />&#xD;
+    5. musí rozumět analytickým technikám a výstupům&lt;br />&#xD;
+    6. musí rozumět příslušným předpisům&lt;br />&#xD;
+    7. musí rozumět požadavkům EN 50128&#xD;
+&lt;/p></keyConsiderations>
   <synonyms>RQM, requirements manager</synonyms>
 </org.eclipse.epf.uma:RoleDescription>

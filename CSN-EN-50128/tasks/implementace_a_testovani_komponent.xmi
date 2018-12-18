@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YsAWlsuXZ8yQeXaQj_yeMQ" name=",_LJjyoN6TEeiWpbcrOebAyw" guid="-YsAWlsuXZ8yQeXaQj_yeMQ" changeDate="2018-11-02T12:34:18.220+0100">
-  <sections xmi:id="__V1D4N6oEeiYXL4To-I0wg" name="Zdrojový kód softwaru musí být napsán, v rámci odpovědnosti implementátora, na základě specifikace návrhu komponenty softwaru." guid="__V1D4N6oEeiYXL4To-I0wg"/>
-  <sections xmi:id="_UsRnkN6qEeiYJ4LpaF_C_Q" name="Zpráva z testů komponenty softwaru musí být napsána, v rámci odpovědnosti testera, na základě specifikace testů komponenty softwaru a zdrojového kódu softwaru." guid="_UsRnkN6qEeiYJ4LpaF_C_Q"/>
-  <sections xmi:id="_o0mAsN6qEeiYJ4LpaF_C_Q" name="Zpráva z verifikace zdrojového kódu softwaru musí být napsána, v rámci odpovědnosti verifikátora, na základě specifikace návrhu komponenty softwaru, specifikace testů komponenty softwaru a zdrojového kódu softwaru." guid="_o0mAsN6qEeiYJ4LpaF_C_Q"/>
-  <purpose>Dosáhnout softwaru, který je analyzovatelný, testovatelný, verifikovatelný a udržovatelný. V této etapě je zahrnuto i&#xD;
-testování komponent.</purpose>
-</org.eclipse.epf.uma:TaskDescription>

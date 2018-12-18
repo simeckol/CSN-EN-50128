@@ -1,4 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ECg-uc54iZKS6TRLaCvbOg" name="new_role,_uZ_BQMjEEeixxZe6yMuoZA" guid="-ECg-uc54iZKS6TRLaCvbOg" changeDate="2018-10-05T19:33:26.782+0200">
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ECg-uc54iZKS6TRLaCvbOg" name="new_role,_uZ_BQMjEEeixxZe6yMuoZA" guid="-ECg-uc54iZKS6TRLaCvbOg" changeDate="2018-12-19T00:00:49.350+0100">
+  <mainDescription>Odpovědnosti:&lt;br />&#xD;
+1. musí získat systémové porozumění softwaru v zamýšleném prostředí jeho aplikace&lt;br />&#xD;
+2. musí vypracovat plán hodnocení a předložit jej orgánu pro otázky bezpečnosti a organizaci zákazníka&lt;br />&#xD;
+(orgánu uzavírajícímu smlouvu s hodnotitelem)&lt;br />&#xD;
+3. musí vyhodnotit shodu procesů tvorby softwaru a vyvinutého softwaru s požadavky této evropské normy,&lt;br />&#xD;
+včetně přiřazené úrovně SIL&lt;br />&#xD;
+4. musí vyhodnotit kvalifikaci pracovníků na projektu a organizace pro vývoj softwaru&lt;br />&#xD;
+5. musí vyhodnotit činnosti verifikace a validace a související důkazy&lt;br />&#xD;
+6. musí vyhodnotit systém řízení kvality přijatý pro vývoj softwaru&lt;br />&#xD;
+7. musí vyhodnotit systém řízení konfigurace a změn a důkaz o jejich použití a aplikaci&lt;br />&#xD;
+8. musí ve zprávě z hodnocení identifikovat a vyhodnotit v termínech (dopadu) rizika jakékoliv odchylky&lt;br />&#xD;
+od požadavků na software&lt;br />&#xD;
+9. musí zajistit, že je plán hodnocení zaveden&lt;br />&#xD;
+10. musí provést audity bezpečnosti a inspekce celkového vývojového procesu, podle potřeby, v různých&lt;br />&#xD;
+etapách vývoje&lt;br />&#xD;
+11. v případě potřeby musí poskytnout profesionální pohled na vhodnost vyvinutého softwaru pro jeho&lt;br />&#xD;
+zamýšlené použití s podrobným popisem jakýchkoliv omezení, podmínek použití a postřehů k řízení rizika&lt;br />&#xD;
+12. musí vytvořit zprávu z hodnocení a udržovat záznamy z procesu hodnocení</mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    Klíčové kompetence:1. musí být kompetentní v oblasti/technologiích, ve kterých je hodnocení prováděno&lt;br />&#xD;
+    2. musí mít schválení/licenci od uznaného orgánu pro otázky bezpečnosti&lt;br />&#xD;
+    3. musí mít/usilovat o nepřetžité zvyšování dostatečné úrovně zkušeností v principech bezpečnosti a aplikaci&lt;br />&#xD;
+    principů v oblasti aplikace&lt;br />&#xD;
+    4. musí být kompetentní zkontrolovat, že byla použita vhodná metoda nebo kombinace metod v daném&lt;br />&#xD;
+    kontextu&lt;br />&#xD;
+    5. musí být kompetentní ve znalosti příslušné bezpečnosti, lidských zdrojů, technických procesech&lt;br />&#xD;
+    a procesech řízení kvality při plnění požadavků EN 50128&lt;br />&#xD;
+    6. musí být kompetentní v přístupech/metodologiích hodnocení&lt;br />&#xD;
+    7. musí mít schopnost analytického myšlení a dobré pozorovací schopnosti&lt;br />&#xD;
+    8. musí být schopný kombinovat různé zdroje a typy důkazů a vytvořit celkový pohled týkající se vhodnosti&lt;br />&#xD;
+    pro daný účel nebo omezení a limitů aplikace&lt;br />&#xD;
+    9. musí rozumět softwaru jako celku a mít náhled zahrnující porozumění aplikačnímu prostředí&lt;br />&#xD;
+    10. musí být schopný posoudit dostatečnost všech vývojových procesů (jako řízení kvality, řízení konfigurace,&lt;br />&#xD;
+    procesy validace a verifikace)&lt;br />&#xD;
+    11. musí rozumět požadavkům EN 50128&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    5.1.2.5 Hodnotitel musí být nezávislý na dodavateli nebo na základě rozhodnutí orgánu pro otázky bezpečnosti může být&#xD;
+    součástí organizace dodavatele nebo organizace zákazníka.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    5.1.2.6 Hodnotitel musí být nezávislý na daném projektu.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    5.1.2.10 m) Hodnotitel musí být nezávislý a to i organizačně od rolí manažera projektu, manažera pro požadavky,&lt;br />&#xD;
+    návrháře, implementátora, integrátora, testera, verifikátora a validátora.&#xD;
+&lt;/p></keyConsiderations>
   <synonyms>ASR, assessor</synonyms>
 </org.eclipse.epf.uma:RoleDescription>

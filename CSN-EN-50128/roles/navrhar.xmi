@@ -1,4 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bDi4XOZ3-Iv0_oA40Yk_uA" name="new_role,_hA0AsMjEEeixxZe6yMuoZA" guid="-bDi4XOZ3-Iv0_oA40Yk_uA" changeDate="2018-10-05T19:32:33.201+0200">
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bDi4XOZ3-Iv0_oA40Yk_uA" name="new_role,_hA0AsMjEEeixxZe6yMuoZA" guid="-bDi4XOZ3-Iv0_oA40Yk_uA" changeDate="2018-12-19T00:04:33.809+0100">
+  <mainDescription>&amp;nbsp; &#xD;
+&lt;table cellspacing=&quot;0&quot; border=&quot;0&quot;>&#xD;
+    &lt;colgroup width=&quot;1160&quot;>&#xD;
+    &lt;/colgroup>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td style=&quot;BORDER-TOP: #000000 1px solid&quot; height=&quot;164&quot; valign=&quot;bottom&quot; align=&quot;left&quot;>&#xD;
+                &lt;font color=&quot;#000000&quot;>Odpovědnosti:&lt;br />&#xD;
+                1. musí transformovat specifikované požadavky na software do akceptovatelných řešení&lt;br />&#xD;
+                2. musí vlastnit architekturu a z ní vyplývající řešení&lt;br />&#xD;
+                3. musí definovat nebo vybrat metody návrhu a podpůrné nástroje&lt;br />&#xD;
+                4. musí použít přiměřené principy a standardy návrhu&lt;br />&#xD;
+                5. musí vypracovat specifikace komponent kde je potřeba&lt;br />&#xD;
+                6. musí udržovat sledovatelnost k a od specifikovaných požadavků na software&lt;br />&#xD;
+                7. musí vypracovat a udržovat dokumentaci návrhu&lt;br />&#xD;
+                8. musí zajistit, že dokumenty návrhu jsou v systému řízení změn a konfigurace&lt;/font>&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td height=&quot;20&quot; valign=&quot;bottom&quot; align=&quot;left&quot;>&#xD;
+                &lt;font color=&quot;#000000&quot;>5.1.2.10 a) Manažer pro požadavky, návrhář a implementátor softwarové komponenty může&#xD;
+                být jedna a ta samá osoba.&lt;/font>&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td height=&quot;20&quot; valign=&quot;bottom&quot; align=&quot;left&quot;>&#xD;
+                &lt;font color=&quot;#000000&quot;>5.1.2.10 b) Manažer pro požadavky, návrhář a implementátor softwarové komponenty&#xD;
+                zodpovídají manažerovi projektu.&lt;/font>&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td height=&quot;38&quot; valign=&quot;bottom&quot; align=&quot;left&quot;>&#xD;
+                &lt;font color=&quot;#000000&quot;>5.1.2.10 g) Osoba, která je manažerem pro požadavky, návrhářem nebo implementátorem&#xD;
+                softwarové komponenty&lt;br />&#xD;
+                nesmí být testerem ani integrátorem stejné softwarové komponenty.&lt;/font>&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td height=&quot;38&quot; valign=&quot;bottom&quot; align=&quot;left&quot;>&#xD;
+                &lt;font color=&quot;#000000&quot;>5.1.2.10 l) Manažer projektu, manažer pro požadavky, návrhář, implementátor,&#xD;
+                integrátor, tester, verifikátor a validátor&lt;br />&#xD;
+                mohou patřit do stejné organizace.&lt;/font>&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td style=&quot;BORDER-BOTTOM: #000000 1px solid&quot; height=&quot;38&quot; valign=&quot;bottom&quot; align=&quot;left&quot;>&#xD;
+                &lt;font color=&quot;#000000&quot;>5.1.2.13 Role manažera pro požadavky, návrháře, implementátora jedné softwarové&#xD;
+                komponenty mohou&lt;br />&#xD;
+                vykonávat role testera a integrátora pro jinou komponentu.&lt;/font>&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table></mainDescription>
+  <keyConsiderations>Klíčové kompetence:&lt;br />&#xD;
+1. musí být kompetentní v oboru přiměřeně k oblasti aplikace&lt;br />&#xD;
+2. musí být kompetentní v principech týkajících se bezpečného návrhu&lt;br />&#xD;
+3. musí být kompetentní v metodologii analýzy návrhu a testu návrhu&lt;br />&#xD;
+4. musí být schopný pracovat v rámci omezení návrhu souvisejícím s daným prostředím&lt;br />&#xD;
+5. musí být kompetentní v porozumění oblasti týkající se daného problému&lt;br />&#xD;
+6. musí rozumět všem omezením vynuceným hardwarovou platformou, operačním systémem a systémy&lt;br />&#xD;
+rozhraní&lt;br />&#xD;
+7. musí rozumět příslušným částem EN 50128</keyConsiderations>
   <synonyms>DES, designer</synonyms>
 </org.eclipse.epf.uma:RoleDescription>
