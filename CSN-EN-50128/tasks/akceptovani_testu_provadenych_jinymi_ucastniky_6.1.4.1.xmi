@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-x2SU6i7t2wQAmTj3S7qT_A" name="akceptovani_testu_provadenych_jinymi_ucastniky_6.1.4.1,_6jAzYAK-Eem5xO6MgdqFCA" guid="-x2SU6i7t2wQAmTj3S7qT_A" changeDate="2019-01-28T10:29:30.161+0100">
+  <mainDescription>Testy prováděné jinými účastníky jako jsou manažer pro požadavky, návrhář nebo implementátor mohou být verifikátorem&#xD;
+akceptovány, pokud jsou plně dokumentované a splňují následující požadavky. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.1.4.1&lt;/font>&lt;/font>)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

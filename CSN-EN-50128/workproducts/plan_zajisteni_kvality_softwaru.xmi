@@ -6,7 +6,8 @@
             &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Plán zajištění&#xD;
             kvality softwaru musí být napsán a musí být přesně stanovený pro daný projekt. Musí &lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
             face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>realizovat požadavky uvedené v článku&#xD;
-            6.5.4.5.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+            6.5.4.5.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&amp;nbsp;(&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot;&#xD;
+            size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.5.4.3&lt;/font>&lt;/font>)&#xD;
         &lt;/p>&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
@@ -123,7 +124,8 @@
             přezkoumány za účelem zajištění, že poskytují všechny požadované&lt;/font>&lt;/font>&lt;/font>&lt;/font> &lt;font lang=&quot;JA&quot;&#xD;
             size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
             face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>informace a že plně uspokojují požadavky&#xD;
-            této evropské normy.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+            této evropské normy.&lt;/font>&lt;/font>&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font&#xD;
+            lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.5.4.5&lt;/font>&lt;/font>)&#xD;
         &lt;/p>&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
@@ -131,7 +133,8 @@
             &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Činnosti&#xD;
             zajištění kvality, opatření, dokumenty atd. požadované všemi normativními články této evropské normy musí být&#xD;
             specifikovány nebo na ně musí existovat odkaz v plánu zajištění kvality softwaru a musý být&amp;nbsp;přizpůsobeny&#xD;
-            konkrétnímu projektu.&lt;/font>&lt;/font>&#xD;
+            konkrétnímu projektu.&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+            face=&quot;LiberationSans&quot;>6.5.4.6&lt;/font>&lt;/font>)&#xD;
         &lt;/p>&#xD;
     &lt;/li>&#xD;
 &lt;/ul></mainDescription>

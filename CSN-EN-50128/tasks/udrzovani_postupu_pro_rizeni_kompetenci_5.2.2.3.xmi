@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QxsTYSlFd9cm2GsTnztULA" name="udrzovani_postupu_pro_rizeni_kompetenci_5.2.2.3,_m_lGwAFPEemotNoRmJYMQQ" guid="-QxsTYSlFd9cm2GsTnztULA" changeDate="2019-01-14T01:17:52.425+0100">
+  <mainDescription>&lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/organizace_9F2F3086.html&quot;&#xD;
+guid=&quot;_HGi5ABeSEem5bPedq4QhIg&quot;>Organizace&lt;/a>&amp;nbsp;musí udržovat postupy pro řízení kompetencí personálu tak, aby&#xD;
+kompetence odpovídaly příslušným rolím v souladu s platnými normami kvality. (5.2.2.3)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -3,7 +3,8 @@
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Zpráva z verifikace validace softwaru musí být napsána, v rámci odpovědnosti verifikátora, na základě vstupních&#xD;
-        dokumentů z 6.3.2.&#xD;
+        dokumentů z 6.3.2. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>6.3.4.12&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Jakmile se stanoví plán validace softwaru, pak se musí jeho verifikace zabývat&#xD;
@@ -18,7 +19,8 @@
 &lt;p align=&quot;left&quot;>&#xD;
     &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
     face=&quot;LiberationSans&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) vnitřní konzistencí plánu validace&#xD;
-    softwaru.&lt;/font>&lt;/font>&#xD;
+    softwaru.&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>6.3.4.13&lt;/font>&lt;/font>)&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
@@ -42,6 +44,7 @@
 &lt;p>&#xD;
     &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
     face=&quot;LiberationSans&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Výsledky musí být zaznamenány ve zprávě z&#xD;
-    verifikace validace softwaru.&lt;/font>&lt;/font>&#xD;
+    verifikace validace softwaru.&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>6.3.4.14&lt;/font>&lt;/font>)&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

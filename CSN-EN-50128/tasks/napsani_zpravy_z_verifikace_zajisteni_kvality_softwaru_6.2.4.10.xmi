@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-m5Y_dUodTrAs2Ag8C-1AMg" name="napsani_zpravy_z_verifikace_zajisteni_kvality_softwaru_6.2.4.10,_hD6UcAMOEem_mu8SW8LMeg" guid="-m5Y_dUodTrAs2Ag8C-1AMg" changeDate="2019-01-28T10:35:48.762+0100">
+  <mainDescription>Zpráva z verifikace zajištění kvality softwaru musí být napsána, v rámci odpovědnosti verifikátora, na základě všech&#xD;
+nezbytných systémových, hardwarových a softwarových dokumentací. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font&#xD;
+lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.2.4.10&lt;/font>&lt;/font>)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

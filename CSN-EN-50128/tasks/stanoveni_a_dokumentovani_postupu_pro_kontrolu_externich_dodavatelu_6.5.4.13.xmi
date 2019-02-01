@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vBjtdo0UqgG5-c31ImGR1Q" name=",_1p-XgCLhEemo7MfG6V_evw" guid="-vBjtdo0UqgG5-c31ImGR1Q" changeDate="2019-01-28T10:49:23.739+0100">
+  <mainDescription>&lt;p>&#xD;
+    Dodavatel musí stanovit, dokumentovat a udržovat postupy pro kontrolu externích dodavatelů včetně&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    – metod a relevantních záznamů pro zajištění, že software poskytnutý externími dodavateli dodržuje stanovené požadavky.&#xD;
+    Musí být zajištěno, že dříve vyvinutý software vyhovuje požadované úrovni integrity bezpečnosti softwaru a&#xD;
+    spolehlivosti. Nový software musí být vyvíjen a udržován ve shodě s plánem zajištění kvality softwaru dodavatele nebo s&#xD;
+    vlastním plánem zajištění kvality softwaru připraveným externím dodavatelem v souladu s plánem zajištění kvality&#xD;
+    softwaru dodavatele.&lt;br />&#xD;
+    – metod a relevantních záznamů pro zajištění, že požadavky poskytnuté externímu dodavateli jsou dostatečné a kompletní.&#xD;
+    (6.5.4.13)&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

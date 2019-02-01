@@ -3,7 +3,8 @@
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Zpráva z testů integrace softwaru/hardwaru musí být napsána v souladu s obecnými požadavky stanovenými pro zprávu z&#xD;
-        testu (viz 6.1.4.5).&#xD;
+        testu (viz 6.1.4.5). (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>7.6.4.8&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Zpráva z testu integrace softwaru/hardwaru musí být vytvořena následovně:&#xD;
@@ -20,12 +21,14 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; c) zpráva z testů integrace softwaru/hardwaru musí&#xD;
-    dokumentovat identitu a konfiguraci všech zahrnutých položek.&#xD;
+    dokumentovat identitu a konfiguraci všech zahrnutých položek. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font&#xD;
+    lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.6.4.9&lt;/font>&lt;/font>)&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
         Zpráva z testů integrace softwaru/hardwaru musí prokázat korektní použití zvolených technik a opatření z Tabulky&#xD;
-        A.6 jako sady a plnit články 4.8 a 4.9.&#xD;
+        A.6 jako sady a plnit články 4.8 a 4.9. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>7.6.4.6&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
 &lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

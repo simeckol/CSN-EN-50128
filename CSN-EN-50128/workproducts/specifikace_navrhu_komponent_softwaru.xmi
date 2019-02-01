@@ -16,7 +16,8 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Historie konfigurace musí zahrnovat přesnou identifikaci současné verze a všech&#xD;
-    předchozích verzí komponenty specifikováním verze, data a autora a popisu změn učiněných od předchozí verze.&#xD;
+    předchozích verzí komponenty specifikováním verze, data a autora a popisu změn učiněných od předchozí verze. (&lt;font&#xD;
+    lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.4.4.2&lt;/font>&lt;/font>)&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
@@ -40,18 +41,22 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Každá specifikace návrhu komponenty softwaru musí být konzistentní a umožnit&#xD;
-    transformaci do kódu odpovídajících komponent.&#xD;
+    transformaci do kódu odpovídajících komponent. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>7.4.4.3&lt;/font>&lt;/font>)&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
-        Každá specifikace návrhu komponenty softwaru musí být čitelná, pochopitelná a testovatelná.&#xD;
+        Každá specifikace návrhu komponenty softwaru musí být čitelná, pochopitelná a testovatelná. (&lt;font lang=&quot;JA&quot;&#xD;
+        size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.4.4.4&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
-        Velikost a složitost každé vyvíjené komponenty softwaru musí být vyvážená.&#xD;
+        Velikost a složitost každé vyvíjené komponenty softwaru musí být vyvážená. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.4.4.5&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Specifikace návrhu komponenty softwaru musí vybrat techniky a opatření z Tabulky A.4. Zvolená kombinace musí být&#xD;
-        odůvodněna jako sada a plnit články 4.8 a 4.9.&#xD;
+        odůvodněna jako sada a plnit články 4.8 a 4.9. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot;&#xD;
+        size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.4.4.6&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
 &lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Qv_b8sTtrULm38KODeKXnA" name=",_SJ3xgCLgEemo7MfG6V_evw" guid="-Qv_b8sTtrULm38KODeKXnA">
+  <mainDescription>Všechny plány musí být připraveny na začátku projektu a aktualizovány během životního cyklu. (6.5.4.1)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -3,15 +3,18 @@
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Zpráva z celkového testování softwaru musí být napsána v souladu s obecnými požadavky stanovenými pro zprávu z&#xD;
-        testů (viz 6.1.4.5).&#xD;
+        testů (viz 6.1.4.5). (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>7.7.4.1&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Validátor musí specifikovat a provést doplňkové testy dle svého uvážení nebo je nechat provést testerem. Zatímco&#xD;
         celkové testy softwaru vycházejí především ze struktury specifikace požadavků na software, validátor může jejich&#xD;
-        hodnotu zvýšit o testy, které zatíží systém komplexními scénáři odrážejícími aktuální potřeby uživatele.&#xD;
+        hodnotu zvýšit o testy, které zatíží systém komplexními scénáři odrážejícími aktuální potřeby uživatele. (&lt;font&#xD;
+        lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.7.4.3&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
-        Výsledky všech testů a analýz musí být zaznamenány ve zprávě z celkového testování softwaru.&#xD;
+        Výsledky všech testů a analýz musí být zaznamenány ve zprávě z celkového testování softwaru. (&lt;font lang=&quot;JA&quot;&#xD;
+        size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.7.4.4&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
 &lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

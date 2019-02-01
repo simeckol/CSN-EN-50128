@@ -3,7 +3,8 @@
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Zpráva z verifikace požadavků na software musí být napsána v souladu s obecnými požadavky ustanovenými pro všechny&#xD;
-        verifikační zprávy (viz 6.2.4.13).&#xD;
+        verifikační zprávy (viz 6.2.4.13). (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>7.2.4.21&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Jakmile jsou stanoveny specifikace požadavků na software, verifikace musí určit:&#xD;
@@ -34,6 +35,7 @@
     omezení mezi hardwarem a softwarem.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Výsledky musí být zaznamenány ve zprávě z verifikace požadavků na software.&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Výsledky musí být zaznamenány ve zprávě z verifikace požadavků na software. (&lt;font&#xD;
+    lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.2.4.22&lt;/font>&lt;/font>)&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VBVdAP7PH2fjO-Y9MkSgFQ" name="souhlas_s_vydanim_softwaru_5.1.2.8,_HoFgcAFEEemotNoRmJYMQQ" guid="-VBVdAP7PH2fjO-Y9MkSgFQ" changeDate="2019-01-14T01:24:57.385+0100">
+  <mainDescription>&lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/validator_47118FBE.html&quot;&#xD;
+guid=&quot;_9m6ecMjEEeixxZe6yMuoZA&quot;>Validátor&lt;/a>&amp;nbsp;musí dát souhlas/nesouhlas pro vydání softwaru. (5.1.2.8)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

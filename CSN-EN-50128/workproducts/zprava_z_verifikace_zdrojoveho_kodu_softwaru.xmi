@@ -3,7 +3,8 @@
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Zpráva z verifikace zdrojového kódu softwaru musí být napsána v souladu s obecnými požadavky stanovenými pro zprávu&#xD;
-        z verifikace (viz 6.2.4.13).&#xD;
+        z verifikace (viz 6.2.4.13). (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>7.5.4.9&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Poté, co jsou dokončeny zdrojový kód softwaru a zpráva z testů komponent softwaru, musí se jejich verifikace&#xD;
@@ -32,6 +33,7 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Výsledky musí být zaznamenány ve zprávě z verifikace zdrojového&#xD;
-    kódu softwaru.&#xD;
+    kódu softwaru. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>7.5.4.10&lt;/font>&lt;/font>)&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Fimurc9jNsATDnijv1L0oQ" name="new_artifact,_QhZ0wN4JEei9xO8zovSwhQ" guid="-Fimurc9jNsATDnijv1L0oQ" changeDate="2018-11-01T20:21:56.507+0100">
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Fimurc9jNsATDnijv1L0oQ" name="new_artifact,_QhZ0wN4JEei9xO8zovSwhQ" guid="-Fimurc9jNsATDnijv1L0oQ" changeDate="2019-01-28T12:58:15.323+0100">
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
-        Navržená architektura softwaru musí být uvedena a podrobně popsána ve specifikaci architektury softwaru.&#xD;
+        Navržená architektura softwaru musí být uvedena a podrobně popsána ve specifikaci architektury softwaru. (&lt;font&#xD;
+        lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.3.4.2&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Specifikace architektury softwaru musí brát v úvahu dosažitelnost specifikace požadavků na software při požadované&#xD;
@@ -11,12 +12,14 @@
 &lt;/ul>&#xD;
 &lt;p>&#xD;
     &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; POZNÁMKA Specifikace architektury&#xD;
-    softwaru by měla minimalizovat rozsah a složitost bezpečnostní části aplikace.&#xD;
+    softwaru by měla minimalizovat rozsah a složitost bezpečnostní části aplikace. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.3.4.3&lt;/font>&lt;/font>)&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
         Specifikace architektury softwaru musí identifikovat, analyzovat a podrobně popsat význam všech interakcí&#xD;
-        hardware/software.&#xD;
+        hardware/software. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>7.3.4.4&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Specifikace architektury softwaru musí identifikovat všechny softwarové komponenty a pro tyto komponenty&#xD;
@@ -33,7 +36,8 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; c) úroveň integrity bezpečnosti softwaru&#xD;
-    těchto komponent.&#xD;
+    těchto komponent. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>7.3.4.5&lt;/font>&lt;/font>)&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
@@ -46,7 +50,8 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;b) být jasně identifikované a nezávisle&#xD;
-    verzované uvnitř systému řízení konfigurace.&#xD;
+    verzované uvnitř systému řízení konfigurace. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>7.3.4.6&lt;/font>&lt;/font>)&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
@@ -112,18 +117,22 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
-    &amp;nbsp;POZNÁMKA Ve validační strategii již existujícího softwaru může být použit statistický důkaz.&#xD;
+    &amp;nbsp;POZNÁMKA Ve validační strategii již existujícího softwaru může být použit statistický důkaz. (&lt;font lang=&quot;JA&quot;&#xD;
+    size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.3.4.7&lt;/font>&lt;/font>)&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
         Kdekoliv je to možné, preferuje se, aby byly v návrhu použity existujících verifikované softwarové komponenty&#xD;
-        vyvinuté v souladu s touto evropskou normou.&#xD;
+        vyvinuté v souladu s touto evropskou normou. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot;&#xD;
+        size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.3.4.8&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Jestliže se software skládá z komponent o různých úrovních integrity bezpečnosti softwaru, pak musí být všechny&#xD;
         softwarové komponenty považovány za komponenty příslušející do nejvyšší z těchto úrovní, pokud neexistuje důkaz&#xD;
         nezávislosti mezi komponentami s vyšší úrovní integrity bezpečnosti softwaru a komponentami s nižší úrovní&#xD;
         integrity bezpečnosti softwaru. Tento důkaz musí být zřetelně zaznamenán ve specifikaci architektury softwaru.&#xD;
+        (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>7.3.4.9&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Specifikace architektury softwaru musí popisovat strategii pro vývoj softwaru v rozsahu požadovaném úrovní&#xD;
@@ -137,25 +146,29 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) sledovatelná zpět&#xD;
-    na specifikaci požadavků na software.&#xD;
+    na specifikaci požadavků na software. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>7.3.4.10&lt;/font>&lt;/font>)&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
         Opatření pro nakládání s vadami musí být zahrnuty ve specifikaci architektury softwaru s cílem dosažení rovnováhy&#xD;
-        mezi vyhnutím se vadám a strategiemi nakládání s vadami.&#xD;
+        mezi vyhnutím se vadám a strategiemi nakládání s vadami. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font&#xD;
+        lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.3.4.11&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Specifikace architektury softwaru musí odůvodnit, že zvolené techniky, opatření a nástroje tvoří soubor, který&#xD;
-        vyhoví specifikaci požadavků na software na požadované úrovni integrity bezpečnosti softwaru.&#xD;
+        vyhoví specifikaci požadavků na software na požadované úrovni integrity bezpečnosti softwaru. (&lt;font lang=&quot;JA&quot;&#xD;
+        size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.3.4.12&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Specifikace architektury softwaru musí vzít v úvahu požadavky z 8.4.8 v případě, že je software konfigurovaný&#xD;
-        aplikačními daty nebo algoritmy.&#xD;
+        aplikačními daty nebo algoritmy. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>7.3.4.13&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Specifikace architektury softwaru musí vybrat techniky a opatření z Tabulky A.3. Vybraná kombinace musí být&#xD;
-        zdůvodněna jako sada a plnit články 4.8 a 4.9.&#xD;
+        zdůvodněna jako sada a plnit články 4.8 a 4.9. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot;&#xD;
+        size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.3.4.14&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
-&lt;/ul>&#xD;
-&lt;br /></mainDescription>
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

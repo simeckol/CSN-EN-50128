@@ -6,7 +6,8 @@
             &lt;p align=&quot;left&quot;>&#xD;
                 &lt;font lang=&quot;JA&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
                 face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Musí být napsán, v rámci odpovědnosti&#xD;
-                verifikátora, na základě potřebné dokumentace.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+                verifikátora, na základě potřebné dokumentace.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&amp;nbsp;(&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+                face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.2.4.2&lt;/font>&lt;/font>)&#xD;
             &lt;/p>&#xD;
         &lt;/div>&#xD;
     &lt;/li>&#xD;
@@ -15,7 +16,8 @@
             &lt;p align=&quot;left&quot;>&#xD;
                 &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Musí&#xD;
                 popisovat činnosti, které mají být provedeny, aby byla zajištěna náležitá verifikace a že je dostupný&#xD;
-                vhodný konkrétní návrh nebo další potřeby verifikace pro jejich provedení.&lt;/font>&lt;/font>&#xD;
+                vhodný konkrétní návrh nebo další potřeby verifikace pro jejich provedení.&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot;&#xD;
+                size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.2.4.3&lt;/font>&lt;/font>)&#xD;
             &lt;/p>&#xD;
         &lt;/div>&#xD;
     &lt;/li>&#xD;
@@ -25,7 +27,9 @@
                 &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Během vývoje&#xD;
                 (a v závislosti na velikosti systému) může být plán rozdělen na několik podřízených&lt;/font>&lt;/font> &lt;font&#xD;
                 lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>dokumentů, které&#xD;
-                budou doplňovány, jakmile začnou být jasnější podrobné potřeby verifikace.&lt;/font>&lt;/font>&#xD;
+                budou doplňovány, jakmile začnou být jasnější podrobné potřeby verifikace.&lt;/font>&lt;/font>&amp;nbsp;(&lt;font&#xD;
+                lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+                face=&quot;LiberationSans&quot;>6.2.4.4&lt;/font>&lt;/font>)&#xD;
             &lt;/p>&#xD;
         &lt;/div>&#xD;
     &lt;/li>&#xD;
@@ -38,7 +42,9 @@
                 verifikace softwaru musí obsahovat techniky a opatření vybrané z Tabulky A.5,&lt;/font>&lt;/font> &lt;font lang=&quot;JA&quot;&#xD;
                 size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Tabulky A.6, Tabulky A.7 a&#xD;
                 Tabulky A.8. Tato vybraná kombinace musí být odůvodněna a musí vyhovovat 4.8,&lt;/font>&lt;/font> &lt;font lang=&quot;JA&quot;&#xD;
-                size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>4.9 a 4.10.&lt;/font>&lt;/font>&#xD;
+                size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>4.9 a&#xD;
+                4.10.&lt;/font>&lt;/font>&amp;nbsp;(&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+                face=&quot;LiberationSans&quot;>6.2.4.5&lt;/font>&lt;/font>)&#xD;
             &lt;/p>&#xD;
         &lt;/div>&#xD;
     &lt;/li>&#xD;
@@ -47,7 +53,8 @@
             &lt;p>&#xD;
                 &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Musí&#xD;
                 popisovat činnosti, které musí být vykonány pro zajištění správnosti a konzistence s ohledem na vstupy do&#xD;
-                příslušné etapy. To zahrnuje přezkoumání, testování a integraci.&lt;/font>&lt;/font>&#xD;
+                příslušné etapy. To zahrnuje přezkoumání, testování a integraci.&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+                face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.2.4.6&lt;/font>&lt;/font>)&#xD;
             &lt;/p>&#xD;
         &lt;/div>&#xD;
     &lt;/li>&#xD;
@@ -57,7 +64,8 @@
                 &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font&#xD;
                 lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>V každé etapě&#xD;
                 vyvoje musí být prokázáno, že jsou splněny požadavky na funkcionalitu, výkon a&#xD;
-                bezpečnost.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+                bezpečnost.&lt;/font>&lt;/font>&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot;&#xD;
+                size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.2.4.7&lt;/font>&lt;/font>)&#xD;
             &lt;/p>&#xD;
         &lt;/div>&#xD;
     &lt;/li>&#xD;
@@ -67,7 +75,8 @@
                 &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font&#xD;
                 lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Výsledky každé&#xD;
                 verifikace musí být uchovány ve formátu definovaném nebo odkazovaném v plánu verifikace&#xD;
-                softwaru.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+                softwaru.&lt;/font>&lt;/font>&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot;&#xD;
+                size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.2.4.8&lt;/font>&lt;/font>)&#xD;
             &lt;/p>&#xD;
         &lt;/div>&#xD;
     &lt;/li>&#xD;
@@ -112,6 +121,7 @@
     (7.3.4.41, 7.3.4.42), verifikaci softwarových komponent (7.4.4.13), verifikaci&lt;/font>&lt;/font> &lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
     face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>zdrojového kódu softwaru (7.5.4.10) a verifikaci&#xD;
     integrace (7.6.4.13) a to způsobem, který usnadní&lt;/font>&lt;/font> &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font&#xD;
-    lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>přezkoumání proti plánu verifikace softwaru.&lt;/font>&lt;/font>&#xD;
+    lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>přezkoumání proti plánu verifikace softwaru.&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot;&#xD;
+    size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.2.4.9&lt;/font>&lt;/font>)&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

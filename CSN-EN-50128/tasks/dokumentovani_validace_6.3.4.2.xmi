@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-R7dOLc4Nli9Q8us6A_eolQ" name="dokumentovani_validace_6.3.4.2,_36p-gAMVEem_mu8SW8LMeg" guid="-R7dOLc4Nli9Q8us6A_eolQ" changeDate="2019-01-14T01:40:26.461+0100">
+  <mainDescription>Validace musí být dokumentována nejméně&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+href=&quot;./../../CSN-EN-50128/workproducts/plan_validace_softwaru_D93FE65F.html&quot; guid=&quot;_OaBaYMumEeiY4aKR2f3NAQ&quot;>plánem&#xD;
+validace softwaru&lt;/a> a&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+href=&quot;./../../CSN-EN-50128/workproducts/zprava_z_validace_softwaru_9327E68A.html&quot; guid=&quot;_z3daUMuoEeiY4aKR2f3NAQ&quot;>zprávou z&#xD;
+validace softwaru&lt;/a> jak je definováno dále. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+face=&quot;LiberationSans&quot;>6.3.4.2&lt;/font>&lt;/font>)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

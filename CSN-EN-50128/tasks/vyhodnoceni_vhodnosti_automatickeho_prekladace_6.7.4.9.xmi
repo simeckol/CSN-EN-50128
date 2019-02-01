@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yZ7988LNxJvWCmuANYS3Zw" name=",_EjMHICLlEemo7MfG6V_evw" guid="-yZ7988LNxJvWCmuANYS3Zw">
+  <mainDescription>Pokud se používá automatické generování kódu nebo podobné automatické překlady, pak musí být vhodnost automatického&#xD;
+překladače pro vývoj bezpečnostně relevantního softwaru musí být vyhodnocena v té fázi životního cyklu vývoje, kde jsou&#xD;
+zvoleny podpůrné nástroje vývoje. (6.7.4.9)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

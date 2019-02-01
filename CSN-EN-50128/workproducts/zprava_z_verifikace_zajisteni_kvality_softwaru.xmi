@@ -4,7 +4,8 @@
     &lt;li>&#xD;
         &lt;div align=&quot;left&quot;>&#xD;
             &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Musí být napsána,&#xD;
-            v rámci odpovědnosti verifikátora, na základě vstupních dokumentů z 6.2.2.&lt;/font>&lt;/font>&#xD;
+            v rámci odpovědnosti verifikátora, na základě vstupních dokumentů z 6.2.2.&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot;&#xD;
+            size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.2.4.10&lt;/font>&lt;/font>)&#xD;
         &lt;/div>&#xD;
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
@@ -31,7 +32,8 @@
     &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
     face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
     face=&quot;LiberationSans&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Výsledky musí být&#xD;
-    zaznamenány ve zprávě z verifikace zajištění kvality softwaru.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    zaznamenány ve zprávě z verifikace zajištění kvality softwaru.&lt;/font>&lt;/font>&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.2.4.11&lt;/font>&lt;/font>)&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
@@ -44,7 +46,8 @@
             zprávy mohou být rozděleny kvůli přehlednosti a pohodlí a musí se řídit&lt;/font>&lt;/font>&lt;/font>&lt;/font> &lt;font&#xD;
             lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot;&#xD;
             size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>plánem verifikace softwaru.&#xD;
-            Požadavek 6.2.4.13 se týká zpráv z verifikace softwaru.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+            Požadavek 6.2.4.13 se týká zpráv z verifikace softwaru.&lt;/font>&lt;/font>&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+            face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.2.4.12&lt;/font>&lt;/font>)&#xD;
         &lt;/div>&#xD;
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
@@ -100,7 +103,8 @@
     &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
     face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
     face=&quot;LiberationSans&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; g) shrnutí výsledků&#xD;
-    verifikace.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    verifikace.&lt;/font>&lt;/font>&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>6.2.4.13&lt;/font>&lt;/font>)&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
@@ -126,6 +130,7 @@
 &lt;p>&#xD;
     &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
     face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Výsledky musí být zaznamenány ve zpravě z&#xD;
-    verifikace zajištění kvality softwaru.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    verifikace zajištění kvality softwaru.&lt;/font>&lt;/font>&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.5.4.8&lt;/font>&lt;/font>)&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

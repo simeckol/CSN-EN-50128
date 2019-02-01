@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fCtz9AP_s96OZLi5sk3rJQ" name=",_INAN0CLiEemo7MfG6V_evw" guid="-fCtz9AP_s96OZLi5sk3rJQ">
+  <mainDescription>&lt;p>&#xD;
+    Sledovatelnost požadavků musí být důležitým aspektem ve validaci bezpečnostně relevantních systémů a musí být&#xD;
+    poskytnuty prostředky, aby mohla být prokázána během všech etap životního cyklu. (6.5.4.14)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    V kontextu této evropské normy a v míře odpovídající specifikované úrovni integrace bezpečnosti softwaru se musí&#xD;
+    sledovatelnost zaměřit zejména na&lt;br />&#xD;
+    a) sledovatelnost požadavků na položky návrhu nebo jiné, které je naplňují;&lt;br />&#xD;
+    b) sledovatelnost položek návrhu na položky implementace, které je realizují;&lt;br />&#xD;
+    c) sledovatelnost požadavků a návrhu na testy (komponent, integrace, celkový test softwaru) a analýzy, které je&#xD;
+    verifikují.&lt;br />&#xD;
+    Sledovatelnost musí být předmětem řízení konfigurace. (6.5.4.15)&lt;br />&#xD;
+    Ve zvláštních případech, např. u již existujícího softwaru nebo prototypového softwaru, se může sledovatelnost prokázat&#xD;
+    až po implementaci a/nebo zdokumentování kódu, ale ještě před verifikací/validací.V těchto případech musí být&#xD;
+    prokázáno, že verifikace/validace je stejně efektivní jako by byla, kdyby byla sledovatelnost prováděna během všech&#xD;
+    etap. (6.5.4.16)&lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XcUA-EtLX920b_sGRwFu9Q" name="prokazani_vhodnosti_nastroju_6.1.4.2,_ieJ2wAK_Eem5xO6MgdqFCA" guid="-XcUA-EtLX920b_sGRwFu9Q" changeDate="2019-01-28T10:31:18.629+0100">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Pro jakékoliv nástroje&#xD;
+    použité pro testování, hardwarové nebo softwarové se musí prokázat, že jsou vhodné pro tento účel.&#xD;
+    (6.1.4.2)&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

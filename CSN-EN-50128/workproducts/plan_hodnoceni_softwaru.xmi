@@ -4,7 +4,8 @@
     &lt;li>&#xD;
         Plán hodnocení softwaru musí být napsán v rámci odpovědnosti hodnotitele na základě vstupních dokumentů z 6.4.2.&#xD;
         Kde je to vhodné, může být použit existující dokumentovaný obecný plán hodnocení softwaru nebo postup. Požadavek&#xD;
-        6.4.4.5 se týká plánu hodnocení softwaru.&#xD;
+        6.4.4.5 se týká plánu hodnocení softwaru. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>6.4.4.4&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Plán hodnocení softwaru musí obsahovat následující oblasti:&#xD;
@@ -33,6 +34,7 @@
 &lt;p>&#xD;
     &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
     face=&quot;LiberationSans&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; e) požadavky pokud jde o obsah a formu zprávy o&#xD;
-    hodnocení softwaru.&lt;/font>&lt;/font>&#xD;
+    hodnocení softwaru.&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>6.4.4.5&lt;/font>&lt;/font>)&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

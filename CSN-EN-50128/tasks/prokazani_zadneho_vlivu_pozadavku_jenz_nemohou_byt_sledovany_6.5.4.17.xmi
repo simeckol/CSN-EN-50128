@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nzmW1v9-vSep6aU_jb5JBw" name=",_e7MdACLiEemo7MfG6V_evw" guid="-nzmW1v9-vSep6aU_jb5JBw">
+  <mainDescription>U položek požadavků, návrhu nebo implementace, které nemohou být dostatečně sledovány musí být prokázáno, že nemají žádný&#xD;
+vliv na bezpečnost nebo integritu systému. (6.5.4.17)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

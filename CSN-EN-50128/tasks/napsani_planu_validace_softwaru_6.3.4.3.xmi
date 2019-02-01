@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bvi2i1uaIKdAFnCbHhISNQ" name="napsani_planu_validace_softwaru_6.3.4.3,_VYEewAMWEem_mu8SW8LMeg" guid="-bvi2i1uaIKdAFnCbHhISNQ" changeDate="2019-01-28T10:33:03.721+0100">
+  <mainDescription>Plán validace softwaru musí být napsán v rámci odpovědnosti validátora na základě vstupních Dokumentů. (&lt;font lang=&quot;JA&quot;&#xD;
+size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.3.4.3&lt;/font>&lt;/font>)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

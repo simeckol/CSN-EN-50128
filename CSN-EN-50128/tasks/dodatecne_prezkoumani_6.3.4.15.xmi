@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1oyS5I6kGACrpwCsmFziiw" name="dodatecne_prezkoumani_6.3.4.15,_Vuu10AMXEem_mu8SW8LMeg" guid="-1oyS5I6kGACrpwCsmFziiw" changeDate="2019-01-28T10:32:00.914+0100">
+  <mainDescription>Validátor musí být oprávněn požadovat nebo sám provést dodatečné přezkoumání, analýzy a testy. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.3.4.15&lt;/font>&lt;/font>)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

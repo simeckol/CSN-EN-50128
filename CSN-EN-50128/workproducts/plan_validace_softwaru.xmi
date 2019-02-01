@@ -2,7 +2,8 @@
 <org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FUbDwpuH0fVL6h44Qw0eog" name="plan_validace_softwaru,_OaBaYMumEeiY4aKR2f3NAQ" guid="-FUbDwpuH0fVL6h44Qw0eog" changeDate="2018-10-09T12:08:19.839+0200">
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
-        Plán validace softwaru musí být napsán v rámci odpovědnosti validátora na základě vstupních dokumentů.&#xD;
+        Plán validace softwaru musí být napsán v rámci odpovědnosti validátora na základě vstupních dokumentů.&amp;nbsp;(&lt;font&#xD;
+        lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.3.4.3&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Plán validace softwaru musí zahrnovat shrnutí odůvodňující zvolenou strategii validace. Odůvodnění musí obsahovat&#xD;
@@ -27,16 +28,19 @@
 &lt;p>&#xD;
     &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
     face=&quot;LiberationSans&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
-    d) testování v reálném nebo simulovaném prostředí nebo v obou.&lt;/font>&lt;/font>&#xD;
+    d) testování v reálném nebo simulovaném prostředí nebo v obou.&lt;/font>&lt;/font>&amp;nbsp;(&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.3.4.4&lt;/font>&lt;/font>)&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
         Plán validace softwaru musí identifikovat kroky nezbytné k prokázání přiměřenosti jakékoliv specifikace softwaru&#xD;
-        pro splnění požadavků na bezpečnost stanovených ve specifikaci požadavků na bezpečnost systému.&#xD;
+        pro splnění požadavků na bezpečnost stanovených ve specifikaci požadavků na bezpečnost systému.&amp;nbsp;(&lt;font&#xD;
+        lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.3.4.5&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Plán validace softwaru musí identifikovat kroky nezbytné k prokázání přiměřenosti specifikace celkového testování&#xD;
-        softwaru jako testu prováděného proti specifikaci požadavků na software.&#xD;
+        softwaru jako testu prováděného proti specifikaci požadavků na software. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.3.4.6&lt;/font>&lt;/font>)&amp;nbsp;&#xD;
     &lt;/li>&#xD;
 &lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

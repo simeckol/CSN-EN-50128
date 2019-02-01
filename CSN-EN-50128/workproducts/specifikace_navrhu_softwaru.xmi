@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8qIsBO2PgyxumFan4RsbSw" name="specifikace_navrhu_softwaru,_eWeuMN4JEei9xO8zovSwhQ" guid="-8qIsBO2PgyxumFan4RsbSw" changeDate="2018-11-02T09:40:29.657+0100">
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8qIsBO2PgyxumFan4RsbSw" name="specifikace_navrhu_softwaru,_eWeuMN4JEei9xO8zovSwhQ" guid="-8qIsBO2PgyxumFan4RsbSw" changeDate="2019-01-28T13:04:22.338+0100">
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Vstupní dokumenty musí být k dispozici, i když nemusí být nezbytně dokončené, dříve než je započat proces návrhu.&#xD;
+        (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>7.3.4.21&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Specifikace návrhu softwaru musí popisovat návrh softwaru založený na rozkladu na komponenty a každá taková&#xD;
-        komponenta musí mít specifikaci návrhu komponenty softwaru a specifikaci testu komponenty softwaru.&#xD;
+        komponenta musí mít specifikaci návrhu komponenty softwaru a specifikaci testu komponenty softwaru. (&lt;font&#xD;
+        lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.3.4.22&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Specifikace návrhu softwaru musí určit:&#xD;
@@ -33,13 +36,14 @@
     &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;f) hlavní algoritmy a sekvence;&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; g) mechanismy reportování chyb.&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; g) mechanismy reportování chyb. (&lt;font lang=&quot;JA&quot;&#xD;
+    size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.3.4.23&lt;/font>&lt;/font>)&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
         Specifikace návrhu softwaru musí vybrat techniky a opatření z Tabulky A.4. Vybraná kombinace musí být odůvodněná&#xD;
-        jako sada a plnit články 4.8 a 4.9.&#xD;
+        jako sada a plnit články 4.8 a 4.9. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>7.3.4.24&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
-&lt;/ul>&#xD;
-&lt;br /></mainDescription>
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

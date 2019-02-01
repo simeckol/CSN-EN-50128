@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0Eqi7TVxWhV0PMkRSfBIyA" name="udrzovani_dukazu_kompetence_personalu_5.2.2.2,_TgzZ4AFPEemotNoRmJYMQQ" guid="-0Eqi7TVxWhV0PMkRSfBIyA" changeDate="2019-01-14T01:14:31.413+0100">
+  <mainDescription>Dokumentovaný důkaz kompetence personálu, včetně odborných znalostí, kvalifikací, odpovídajících zkušeností a příslušných&#xD;
+školení musí být udržován organizací&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+href=&quot;./../../CSN-EN-50128/roles/dodavatel_583D36FB.html&quot; guid=&quot;_i7nMYN6wEeiYJ4LpaF_C_Q&quot;>dodavatel&lt;/a>e za účelem prokázání&#xD;
+odpovídající organizace bezpečnosti. (5.2.2.2)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

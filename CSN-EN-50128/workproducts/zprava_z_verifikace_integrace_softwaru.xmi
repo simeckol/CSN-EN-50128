@@ -3,7 +3,8 @@
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Zpráva z verifikace integrace softwaru musí být napsána v souladu s obecnými požadavky stanovenými pro zprávu z&#xD;
-        verifikace (viz 6.2.4.13).&#xD;
+        verifikace (viz 6.2.4.13). (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>7.6.4.12&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Poté, co jsou vytvořeny zpráva z testů integrace softwaru a testů integrace softwaru/hardwaru musí se jejich&#xD;
@@ -26,6 +27,7 @@
 &lt;p>&#xD;
     &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; d) tím, zda zpráva z testů integrace softwaru/hardwaru splňuje&#xD;
     požadavky na čitelnost a sledovatelnost dle 5.3.2.7 až 5.3.2.10 a dle 6.5.4.14 až 6.5.4.17 a také zvláštní požadavky&#xD;
-    7.6.4.7 až 7.6.4.10.&#xD;
+    7.6.4.7 až 7.6.4.10. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>7.6.4.13&lt;/font>&lt;/font>)&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

@@ -3,7 +3,8 @@
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Zpráva z verifikace architektury a návrhu softwaru musí být napsána v souladu s obecnými požadavky ustanovenými pro&#xD;
-        zprávu z verifikace (viz 6.2.4.13).&#xD;
+        zprávu z verifikace (viz 6.2.4.13). (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>7.3.4.41&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Poté, co jsou vytvořeny specifikace architektury softwaru, rozhraní softwaru a návrhu softwaru, musí se jejich&#xD;
@@ -40,6 +41,7 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Výsledky musí být zaznamenány ve zprávě z verifikace&#xD;
-    architektury a návrhu softwaru.&#xD;
+    architektury a návrhu softwaru. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+    face=&quot;LiberationSans&quot;>7.3.4.42&lt;/font>&lt;/font>)&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

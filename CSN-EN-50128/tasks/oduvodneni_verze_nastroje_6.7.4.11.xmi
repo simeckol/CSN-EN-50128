@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-h0-G7fM2Uyt5RQxFFhppTg" name=",_dCw0YCLlEemo7MfG6V_evw" guid="-h0-G7fM2Uyt5RQxFFhppTg">
+  <mainDescription>Každá nová verze nástroje, která je použita musí být odůvodněna (viz Tabulka 1). Toto odůvodnění se může spolehnout na&#xD;
+důkazy podané pro dřívější verzi jestliže jsou podané dostatečné důkazy že:&lt;br />&#xD;
+a) funkční rozdíly (pokud nějaké jsou) neovlivní kompatibilitu nástroje se zbytkem sady nástrojů;&lt;br />&#xD;
+b) je nepravděpodobné, že nová verze nástroje obsahuje významné nové neznámé chyby.&lt;br />&#xD;
+POZNÁMKA Důkaz, že je nepravděpodobné, že nová verze obsahuje významné nové neznámé chyby, může být založen na spolehlivé&#xD;
+identifikaci provedených změn a na analýze provedených verifikačních a validačních činností. (6.7.4.11)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

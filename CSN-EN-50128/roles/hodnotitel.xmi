@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ECg-uc54iZKS6TRLaCvbOg" name="new_role,_uZ_BQMjEEeixxZe6yMuoZA" guid="-ECg-uc54iZKS6TRLaCvbOg" changeDate="2018-12-19T00:00:49.350+0100">
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ECg-uc54iZKS6TRLaCvbOg" name="new_role,_uZ_BQMjEEeixxZe6yMuoZA" guid="-ECg-uc54iZKS6TRLaCvbOg" changeDate="2019-01-14T01:07:20.656+0100">
   <mainDescription>Odpovědnosti:&lt;br />&#xD;
 1. musí získat systémové porozumění softwaru v zamýšleném prostředí jeho aplikace&lt;br />&#xD;
-2. musí vypracovat plán hodnocení a předložit jej orgánu pro otázky bezpečnosti a organizaci zákazníka&lt;br />&#xD;
-(orgánu uzavírajícímu smlouvu s hodnotitelem)&lt;br />&#xD;
-3. musí vyhodnotit shodu procesů tvorby softwaru a vyvinutého softwaru s požadavky této evropské normy,&lt;br />&#xD;
-včetně přiřazené úrovně SIL&lt;br />&#xD;
+2. musí vypracovat plán hodnocení a předložit jej orgánu pro otázky bezpečnosti a organizaci zákazníka (orgánu&#xD;
+uzavírajícímu smlouvu s hodnotitelem)&lt;br />&#xD;
+3. musí vyhodnotit shodu procesů tvorby softwaru a vyvinutého softwaru s požadavky této evropské normy, včetně přiřazené&#xD;
+úrovně SIL&lt;br />&#xD;
 4. musí vyhodnotit kvalifikaci pracovníků na projektu a organizace pro vývoj softwaru&lt;br />&#xD;
 5. musí vyhodnotit činnosti verifikace a validace a související důkazy&lt;br />&#xD;
 6. musí vyhodnotit systém řízení kvality přijatý pro vývoj softwaru&lt;br />&#xD;
@@ -19,7 +19,10 @@ etapách vývoje&lt;br />&#xD;
 zamýšlené použití s podrobným popisem jakýchkoliv omezení, podmínek použití a postřehů k řízení rizika&lt;br />&#xD;
 12. musí vytvořit zprávu z hodnocení a udržovat záznamy z procesu hodnocení</mainDescription>
   <keyConsiderations>&lt;p>&#xD;
-    Klíčové kompetence:1. musí být kompetentní v oblasti/technologiích, ve kterých je hodnocení prováděno&lt;br />&#xD;
+    Klíčové kompetence:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    1. musí být kompetentní v oblasti/technologiích, ve kterých je hodnocení prováděno&lt;br />&#xD;
     2. musí mít schválení/licenci od uznaného orgánu pro otázky bezpečnosti&lt;br />&#xD;
     3. musí mít/usilovat o nepřetžité zvyšování dostatečné úrovně zkušeností v principech bezpečnosti a aplikaci&lt;br />&#xD;
     principů v oblasti aplikace&lt;br />&#xD;

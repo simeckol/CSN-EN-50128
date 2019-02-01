@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CiPA0X9YkhU6d4dOLjWsMQ" name="formulovani_a_vykonani_validace_6.3.4.1,_PYun8AMVEem_mu8SW8LMeg" guid="-CiPA0X9YkhU6d4dOLjWsMQ">
+  <mainDescription>Činnosti validace softwaru musí být formulovány a vykonány, s vyhodnocením jejich výsledků, validátorem s příslušnou úrovní&#xD;
+nezávislosti jak je definováno v 5.1. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+face=&quot;LiberationSans&quot;>6.3.4.1&lt;/font>&lt;/font>)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
