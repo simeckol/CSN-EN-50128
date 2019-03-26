@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VUQ8rLpRJHtolRW58GauhQ" name=",_0OLH4EUPEem9AMCF5qvX5g" guid="-VUQ8rLpRJHtolRW58GauhQ">
+  <mainDescription>Plán přípravy aplikace musí být napsán, v rámci odpovědnosti manažera pro požadavky nebo návrháře, na základě vstupních&#xD;
+dokumentů dle 8.2. (8.4.1.1)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

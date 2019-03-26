@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LzKbkyPjRkesVO8U1AT07Q" name="new_artifact,_DDm1oEUREem9AMCF5qvX5g" guid="-LzKbkyPjRkesVO8U1AT07Q">
+  <mainDescription>8.4.1.13 Poté, co je stanoven plán přípravy aplikace musí se jeho verifikace zabývat:&lt;br />&#xD;
+a) tím, zda plán přípravy aplikace splňuje obecné požadavky na čitelnost a sledovatelnost dle 5.3.2.7&lt;br />&#xD;
+až 5.3.2.10 a dle 6.5.4.14 až 6.5.4.17 a také zvláštní požadavky dle 8.4.1.2 až 8.4.1.11;&lt;br />&#xD;
+b) vnitřní konzistencí plánu přípravy aplikace.&lt;br />&#xD;
+Výsledky musí být zaznamenány ve zprávě z verifikace aplikačních dat/algoritmů.&lt;br />&#xD;
+8.4.5.5 Poté, co je stanovena specifikace testů aplikace, musí se její verifikace zabývat, zda specifikace testů&lt;br />&#xD;
+aplikace splňuje zvláštní požadavky dle 8.4.5.3.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

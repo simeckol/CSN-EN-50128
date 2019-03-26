@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CVhi2W-2y37QjNFHFNrHsA" name=",_quiEAEUXEem9AMCF5qvX5g" guid="-CVhi2W-2y37QjNFHFNrHsA" changeDate="2019-03-12T23:39:54.762+0100">
+  <mainDescription>Udržovatelnost musí být navržena jako vrozená součást softwaru, zejména za dodržení požadavků 7.3, 7.4 a 7.5. Série norem&#xD;
+ISO/IEC 9126 má být rovněž uplatněna s cílem implementovat a verifikovat minimální úroveň udržovatelnosti. (9.2.4.4)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

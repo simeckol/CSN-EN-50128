@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-l5sUioDdAWzium8pwPYR_g" name="new_artifact,_JeBXgEUVEem9AMCF5qvX5g" guid="-l5sUioDdAWzium8pwPYR_g">
+  <mainDescription>Záznam z údržby softwaru musí být zřízen pro každou položku softwaru před jejím prvním vydáním a musí být udržován. Kromě&#xD;
+požadavků normy ISO/IEC 90003:2004 pro „Záznamy a zprávy z údržby“ (viz ISO/IEC 90003:2004, kapitola „Údržba“) musí tento&#xD;
+záznam zahrnovat také:&lt;br />&#xD;
+a) odkaz na všechny záznamy změn softwaru pro danou položku softwaru;&lt;br />&#xD;
+b) hodnocení dopadu změny;&lt;br />&#xD;
+c) testovací případy pro komponenty, včetně dat opakované validace a regresního testování;&lt;br />&#xD;
+d) historii konfigurace softwaru. (9.2.4.8)</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

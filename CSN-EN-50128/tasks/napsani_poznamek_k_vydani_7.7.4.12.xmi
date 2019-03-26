@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cjbCH3XDrkGJmqdKkzZGrQ" name=",_RGhBoEUPEem9AMCF5qvX5g" guid="-cjbCH3XDrkGJmqdKkzZGrQ">
+  <mainDescription>Poznámky k vydání, které jsou součástí dodávaného softwaru musí zahrnovat všechna omezení v použití softwaru. Tato omezení&#xD;
+jsou odvozena od:&lt;br />&#xD;
+a) detekovaných chyb;&lt;br />&#xD;
+b) nesouladů s touto evropskou normou;&lt;br />&#xD;
+c) stupně plnění požadavků;&lt;br />&#xD;
+d) stupně plnění všech plánů. (7.7.4.12)&lt;br />&#xD;
+Poznámky k vydání musí být napsány, v rámci odpovědnosti návrháře, na základě vstupních dokumentů dle 9.1.2. (9.1.4.4)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

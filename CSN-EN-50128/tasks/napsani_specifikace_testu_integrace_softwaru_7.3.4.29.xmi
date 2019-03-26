@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IRZQ_BEXJXjydWselROieA" name=",_bVKrIEUIEem9AMCF5qvX5g" guid="-IRZQ_BEXJXjydWselROieA">
+  <mainDescription>Specifikace testů integrace softwaru musí být napsána, v rámci odpovědnosti integrátora, na základě specifikace požadavků&#xD;
+na software, specifikace architektury softwaru, specifikace návrhu softwaru a specifikace rozhraní softwaru. (7.3.4.29)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

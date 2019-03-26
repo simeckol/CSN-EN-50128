@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_wtPN8EWiEem2O-StvTKz2Q" name="aktiv">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_wtPN8UWiEem2O-StvTKz2Q" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_wtPN8kWiEem2O-StvTKz2Q" key="uri" value="uma://_aZv8kEWIEemhELvG__VSRQ#_sypnsUWiEem2O-StvTKz2Q"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_wtPN80WiEem2O-StvTKz2Q" key="type" value="Activity"/>
+    </eAnnotations>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_wtYX4EWiEem2O-StvTKz2Q" type="AD" element="_wtPN8EWiEem2O-StvTKz2Q" name="aktiv" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_wtYX4UWiEem2O-StvTKz2Q"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_wtYX4kWiEem2O-StvTKz2Q"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_wtYX40WiEem2O-StvTKz2Q"/>
+  </notation:Diagram>
+</xmi:XMI>

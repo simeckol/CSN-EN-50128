@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yfAbiGwiGAT2SO2FxZdglg" name=",_PSU1QCLjEemo7MfG6V_evw" guid="-yfAbiGwiGAT2SO2FxZdglg">
-  <mainDescription>Proces řízení změn musí definovat nejméně následující aspekty:&lt;br />&#xD;
-a) dokumentaci potřebnou pro nahlášení problému a/nebo nápravné akce, s cílem poskytnout zpětnou vazbu&lt;br />&#xD;
-odpovědnému managementu;&lt;br />&#xD;
-b) analýzu informací shromážděných ve zprávách o nahlášení problému pro identifikaci jeho příčin;&lt;br />&#xD;
-c) postupy, které se musí dodržet pro nahlašování, sledování a řešení problémů identifikovaných buď během&lt;br />&#xD;
-etap vývoje nebo během údržby softwaru;&lt;br />&#xD;
-d) konkrétní organizační odpovědnosti ohledně vývoje a údržby softwaru;&lt;br />&#xD;
-e) jak uplatnit kontroly pro zajištění, že jsou nápravná opatření provedená a že jsou efektivní;&lt;br />&#xD;
-f) analýzu dopadu vlivu změn komponent softwaru, který je ve vývoji nebo je již dodán;&lt;br />&#xD;
-g) analýza dopadu musí specifikovat opakovanou verifikaci, validaci a hodnocení nezbytné pro danou změnu.&lt;br />&#xD;
-h) Pokud je aplikováno více změn, pak musí analýza dopadu uvážovat jejich kumulovaný dopad;&lt;br />&#xD;
-POZNÁMKA Několik změn může kumulativně vyžadovat kompletní opakované testování.&lt;br />&#xD;
-i) autorizaci před implementací. (6.6.4.1)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yfAbiGwiGAT2SO2FxZdglg" name=",_PSU1QCLjEemo7MfG6V_evw" guid="-yfAbiGwiGAT2SO2FxZdglg" changeDate="2019-02-01T13:28:15.864+0100">
+  <mainDescription>&lt;p style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    Proces řízení změn musí definovat nejméně následující aspekty: (6.6.4.1)&amp;nbsp;&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp; a) dokumentaci potřebnou pro nahlášení problému a/nebo nápravné akce, s cílem poskytnout zpětnou vazbu&#xD;
+    odpovědnému managementu;&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp; b) analýzu informací shromážděných ve zprávách o nahlášení problému pro identifikaci jeho příčin;&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp; c) postupy, které se musí dodržet pro nahlašování, sledování a řešení problémů identifikovaných buď během&#xD;
+    etap vývoje nebo během údržby softwaru;&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp; d) konkrétní organizační odpovědnosti ohledně vývoje a údržby softwaru;&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp; e) jak uplatnit kontroly pro zajištění, že jsou nápravná opatření provedená a že jsou efektivní;&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp; f) analýzu dopadu vlivu změn komponent softwaru, který je ve vývoji nebo je již dodán;&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp; g) analýza dopadu musí specifikovat opakovanou verifikaci, validaci a hodnocení nezbytné pro danou&#xD;
+    změnu.&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp; h) Pokud je aplikováno více změn, pak musí analýza dopadu uvážovat jejich kumulovaný dopad;&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; POZNÁMKA Několik změn může kumulativně vyžadovat kompletní opakované&#xD;
+    testování.&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp; i) autorizaci před implementací.&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

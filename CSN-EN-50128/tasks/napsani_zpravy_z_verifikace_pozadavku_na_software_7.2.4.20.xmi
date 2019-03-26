@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EW0LhYRSLSfXf6RaxWSBzg" name=",_T56h4EUFEem9AMCF5qvX5g" guid="-EW0LhYRSLSfXf6RaxWSBzg">
+  <mainDescription>Zpráva z verifikace požadavků na software musí být napsána, v rámci odpovědnosti verifikátora, na základě specifikace&#xD;
+požadavků na bezpečnost systému, specifikace požadavků na software, specifikace celkového testování softwaru a plánu&#xD;
+zajištění kvality softwaru. (7.2.4.20)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

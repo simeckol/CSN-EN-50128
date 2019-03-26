@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rd3853lksylfnPUcOS5jdw" name=",_VkrbIEV0EemhELvG__VSRQ" guid="-rd3853lksylfnPUcOS5jdw">
+  <mainDescription>Pro software, na kterém probíhá údržba, musí být přijmuty kroky ke zmírnění následků, které jsou úměrné identifikovanému&#xD;
+riziku s cílem zajistit celkovou integritu systému, zatímco jsou řešeny a opravovány reportované problémy. (9.2.4.20)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

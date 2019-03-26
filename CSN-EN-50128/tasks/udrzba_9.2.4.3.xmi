@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OVJcWbnGQ9DMTJn9M8RApA" name=",_gAcJoEUXEem9AMCF5qvX5g" guid="-OVJcWbnGQ9DMTJn9M8RApA">
+  <mainDescription>Údržba musí být provedena v souladu se směrnicemi obsaženými v ISO/IEC 90003. (9.2.4.3)&lt;br />&#xD;
+Činnosti údržby musí být prováděny v souladu s plánem údržby softwaru. (9.2.4.15)&lt;br />&#xD;
+Údržba musí být provedena s nejméně stejnou úrovní odbornosti, nástrojů, dokumentace, plánování a řízení jako u původního&#xD;
+vývoje softwaru. To musí platit i pro řízení konfigurace, řízení změn, řízení dokumentů a nezávislost zúčastněných stran.&#xD;
+(9.2.4.17)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

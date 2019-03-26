@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Cx4lSm_Y5g3VnrMswJfhOA" name=",_rn2QcET9Eem9AMCF5qvX5g" guid="-Cx4lSm_Y5g3VnrMswJfhOA" changeDate="2019-03-12T21:22:18.264+0100">
+  <mainDescription>Specifikace požadavků na software musí být napsány, v rámci odpovědnosti manažera pro požadavky, na základě vstupních&#xD;
+dokumentů. (7.2.4.1)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

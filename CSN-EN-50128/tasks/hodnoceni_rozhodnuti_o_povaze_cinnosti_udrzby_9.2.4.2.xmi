@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UNF_xAEEjteig1ArxmwbeA" name=",_SEoWEEUXEem9AMCF5qvX5g" guid="-UNF_xAEEjteig1ArxmwbeA">
+  <mainDescription>Pro jakoukoliv úroveň integrity bezpečnosti softwaru musí dodavatel, před započetím práce na jakékoliv změně, rozhodnout,&#xD;
+zda jsou činnosti údržby považovány za majoritní nebo minoritní nebo zda jsou existující metody údržby pro systém&#xD;
+adekvátní. Toto rozhodnutí musí být zdůvodněno a zaznamenáno dodavatelem a musí být předloženo hodnotiteli k hodnocení.&#xD;
+(9.2.4.2)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

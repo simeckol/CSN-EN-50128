@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oVQ4FiAyQkluL5nZG8nnbw" name="new_artifact,_q_lxEEUSEem9AMCF5qvX5g" guid="-oVQ4FiAyQkluL5nZG8nnbw">
+  <mainDescription>Záznam z nasazení softwaru musí podat důkaz, že byl nahrán zamýšlený software, přezkoumáním vložených mechanismů pro jeho&#xD;
+vlastní identifikaci (viz 9.1.4.11). Tento záznam musí být uložen mezi dokumenty souvisejícími s dodaným systémem jako i&#xD;
+další verifikace a je součástí přejímky a uvedení do provozu. (9.1.4.13)</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

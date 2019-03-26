@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oDl41sYOpJGqvSvCbkWIEw" name="new_artifact,_E8QOwEUQEem9AMCF5qvX5g" guid="-oDl41sYOpJGqvSvCbkWIEw">
+  <mainDescription>8.4.1.2 Plán přípravy aplikace musí být vytvořen za účelem definování a podrobného popisu vývojového&lt;br />&#xD;
+procesu aplikace, včetně všech činností, výstupů a rolí, které za ně odpovídají. Může být vytvořen buď pro&lt;br />&#xD;
+každou specifickou aplikaci nebo pro třídu specifických aplikací, tj. pro generickou aplikaci.&lt;br />&#xD;
+8.4.1.3 Plán přípravy aplikace musí definovat strukturu dokumentace pro proces přípravy aplikace.&lt;br />&#xD;
+8.4.1.4 Plán přípravy aplikace musí vybrat techniky a opatření z Tabulky A.11. Zvolená kombinace musí být&lt;br />&#xD;
+odůvodněna jako sada a plnit články 4.8 a 4.9.&lt;br />&#xD;
+8.4.1.5 Plán přípravy aplikace musí specifikovat procedury a aplikační nástroje (s jejich klasifikací vycházející&lt;br />&#xD;
+z 6.7), které budou v procesu vývoje aplikace použity.&lt;br />&#xD;
+8.4.1.6 Plán přípravy aplikace musí zahrnovat verifikační a validační činnosti pro zajištění, že aplikační&lt;br />&#xD;
+data/algoritmy jsou kompletní, správné a kompatibilní jak navzájem, tak s generickou aplikací a pro poskytnutí&lt;br />&#xD;
+důkazu, že podmínky použití generické aplikace jsou splněny. Tyto verifikační a validační činnosti a důkazy&lt;br />&#xD;
+mohou být nahraženy verifikací a validací provedenou na nástrojích, které vytvářejí aplikační data/algoritmy.&lt;br />&#xD;
+Tyto výsledky jsou shromážděny společně ve zprávě z verifikace přípravy aplikace a ve zprávě z testů aplikace.&lt;br />&#xD;
+8.4.1.7 Plán přípravy aplikace musí zahrnovat verifikační a validační činnosti pro zajištění, že aplikační&lt;br />&#xD;
+nástroje a generický software jsou kompatibilní jak vzájemně, tak se specifickou aplikací a pro poskytnutí&lt;br />&#xD;
+důkazu, že jsou splněny jejich podmínky použití.&lt;br />&#xD;
+8.4.1.8 Musí být provedena analýza rizik pokrývající vývojový proces aplikace, včetně aplikačních nástrojů&lt;br />&#xD;
+a procedur za účelem validace plánu přípravy aplikace a dosažení požadované úrovně integrity bezpečnosti&lt;br />&#xD;
+softwaru. Plán přípravy aplikace musí zahrnovat analýzu rizik.&lt;br />&#xD;
+8.4.1.9 Plán přípravy aplikace musí specifikovat požadavky na nezávislost personálu provádějícího verifikaci,&lt;br />&#xD;
+validaci a přípravné úkoly v souladu s 5.1.&lt;br />&#xD;
+POZNÁMKA Činnosti ohledně přípravy dat jsou prováděny návrháři aplikace.&lt;br />&#xD;
+8.4.1.10 Plán přípravy aplikace musí definovat třídu nástrojů pro jakékoliv hardwarové nebo softwarové&lt;br />&#xD;
+nástroje použité během životního cyklu přípravy aplikace.&lt;br />&#xD;
+8.4.1.11 Kde je to možné, musí plán přípravy aplikace požadovat použití takové symboliky zápisu&lt;br />&#xD;
+pro specifikování požadavků a návrhu, které jsou srozumitelné pro inženýry aplikací. Pokud je zavedena nějaká&lt;br />&#xD;
+nová symbolika nebo zápis, pak musí být vytvořena nezbytná uživatelská dokumentace a pokud to je vhodné&lt;br />&#xD;
+i příslušné školení.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

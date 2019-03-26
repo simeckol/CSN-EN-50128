@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-13xR3W7cLh-gpGS8IF1cgQ" name=",_FxaKkEUPEem9AMCF5qvX5g" guid="-13xR3W7cLh-gpGS8IF1cgQ">
+  <mainDescription>Zpráva z validace softwaru musí být napsána, v rámci odpovědnosti validátora, na základě plánu validace softwaru. (7.7.4.6)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

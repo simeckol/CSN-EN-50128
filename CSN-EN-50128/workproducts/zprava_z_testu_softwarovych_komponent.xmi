@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XwT9XGguVtl44UE2_xVibg" name="zprava_z_testu_softwarovych_komponent,_3cEDsMmeEeioC4xUIHgX5A" guid="-XwT9XGguVtl44UE2_xVibg" changeDate="2018-11-02T15:20:19.305+0100">
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XwT9XGguVtl44UE2_xVibg" name="zprava_z_testu_softwarovych_komponent,_3cEDsMmeEeioC4xUIHgX5A" guid="-XwT9XGguVtl44UE2_xVibg" changeDate="2019-02-01T14:12:17.966+0100">
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Zpráva z testů komponenty softwaru musí být napsána v souladu s obecnými požadavky stanovenými pro zprávu z testů&#xD;
@@ -7,7 +7,8 @@
         face=&quot;LiberationSans&quot;>7.5.4.6&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
-        Zpráva z testů komponenty softwaru musí zahrnovat následující:&#xD;
+        Zpráva z testů komponenty softwaru musí zahrnovat následující: (&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.5.4.7&lt;/font>&lt;/font>)&#xD;
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
 &lt;p>&#xD;
@@ -17,7 +18,5 @@
 &lt;p>&#xD;
     &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) údaje o pokrytí kódu testem musí být poskytnuty pro&#xD;
     každou komponentu a prokázat, že požadovaný stupeň pokrytí kódu testem byl dosažen pro všechna požadovaná kritéria.&#xD;
-    (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-    face=&quot;LiberationSans&quot;>7.5.4.7&lt;/font>&lt;/font>)&amp;nbsp;&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

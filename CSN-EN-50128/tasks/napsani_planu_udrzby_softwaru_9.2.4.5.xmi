@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MR2sjC-1oDyFz0M_NKyx1g" name=",_06-p4EUXEem9AMCF5qvX5g" guid="-MR2sjC-1oDyFz0M_NKyx1g">
+  <mainDescription>Plán údržby softwaru musí být napsán na základě vstupních dokumentů dle 9.2.2. (9.2.4.5)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

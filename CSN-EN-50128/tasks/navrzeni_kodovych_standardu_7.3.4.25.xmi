@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6-edUokTeiRqAVoDxByRKw" name=",_NKi08EUHEem9AMCF5qvX5g" guid="-6-edUokTeiRqAVoDxByRKw">
+  <mainDescription>Musí být navrženy kódovací standardy a ty mají specifikovat:&lt;br />&#xD;
+a) rozumné postupy programování, jak je definováno v Tabulce A.12;&lt;br />&#xD;
+b) opatření pro zabránění chybám nebo pro detekci chyb, které se mohou vyskytnout během použití jazyka&lt;br />&#xD;
+a nejsou detekovatelné během verifikace (viz 7.5 a 7.6). Tyto chyby jsou odvozeny analýzou přes všechny&lt;br />&#xD;
+prvky jazyka;&lt;br />&#xD;
+c) postupy pro dokumentaci zdrojového kódu. (7.3.4.25)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

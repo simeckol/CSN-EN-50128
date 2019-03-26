@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZcI_eQw5NKlmUrl7KdbLkQ" name=",_ZsRsoEUGEem9AMCF5qvX5g" guid="-ZcI_eQw5NKlmUrl7KdbLkQ">
+  <mainDescription>7.3.4.16 Prototypování může být použito v jakékoliv etapě pro odvození požadavků nebo pro získání detailnějšího pohledu na&#xD;
+požadavky a jejich důsledky.&lt;br />&#xD;
+7.3.4.17 Kód z prototypu může být použit v cílovém systému pouze pokud je dokázáno, že tento kód a jeho vývoj a dokumentace&#xD;
+plní tuto evropskou normu.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

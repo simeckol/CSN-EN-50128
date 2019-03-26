@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7DF9grQgRnb6FtEMdA7a_g" name=",_J4cYwEUMEem9AMCF5qvX5g" guid="-7DF9grQgRnb6FtEMdA7a_g">
+  <mainDescription>Zpráva z testů komponenty softwaru musí být napsána, v rámci odpovědnosti testera, na základě specifikace testů komponenty&#xD;
+softwaru a zdrojového kódu softwaru. (7.5.4.5)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

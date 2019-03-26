@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-29NlzfI16IRXnvbUmodExg" name=",_e3Wz8EUSEem9AMCF5qvX5g" guid="-29NlzfI16IRXnvbUmodExg">
+  <mainDescription>Záznam z nasazení musí být napsán na základě vstupních dokumentů dle 9.1.2. (9.1.4.12)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

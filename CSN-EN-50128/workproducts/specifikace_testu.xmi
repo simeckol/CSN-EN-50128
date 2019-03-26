@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OT3vhrKprdGNLRCYH7NMMw" name="new_artifact,_i7ZskCYjEemSeZcT9hWL7w" guid="-OT3vhrKprdGNLRCYH7NMMw" changeDate="2019-02-01T14:18:00.087+0100">
+  <mainDescription>&lt;p style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    Každá specifikace testu musí obsahovat následující: (6.1.4.4)&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;blockquote>&#xD;
+    a) cíle testu;&lt;br />&#xD;
+    b) testovací případy, data použitá v testu a očekávané výsledky;&lt;br />&#xD;
+    c) typy testů, které je třeba provést;&lt;br />&#xD;
+    d) prostředí testu, nástroje, konfiguraci a programy;&lt;br />&#xD;
+    e) kritéria testu, na základě kterých bude rozhodnuto o ukončení testu;&lt;br />&#xD;
+    f) kritéria a stupeň pokrytí kódu testem, kterého bude dosaženo;&lt;br />&#xD;
+    g) role a odpovědnosti personálu zúčastněného v procesu testování;&lt;br />&#xD;
+    h) požadavky, které jsou pokryty danou specifikací testu;&lt;br />&#xD;
+    i) výběr a využití zařízení pro testování softwaru.&lt;br />&#xD;
+&lt;/blockquote></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

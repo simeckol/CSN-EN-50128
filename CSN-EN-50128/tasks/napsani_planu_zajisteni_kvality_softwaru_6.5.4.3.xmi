@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-s2ugc2Sj9hU-TJlIh-KU8Q" name=",_gcfGECLhEemo7MfG6V_evw" guid="-s2ugc2Sj9hU-TJlIh-KU8Q" changeDate="2019-01-28T10:46:54.715+0100">
-  <mainDescription>Plán zajištění kvality softwaru musí být napsán v rámci odpovědnosti verifikátora na základě vystupních dokumentů z 6.5.2.&#xD;
-(6.5.4.3)</mainDescription>
+  <mainDescription>&lt;p>&#xD;
+    Plán zajištění kvality softwaru musí být napsán v rámci odpovědnosti verifikátora na základě vystupních dokumentů z&#xD;
+    6.5.2. (6.5.4.3)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Klíčové kompetence požadované pro každou roli ve vývoji softwaru jsou definovány v příloze B.&lt;br />&#xD;
+    Jestliže jsou pro nějakou roli v životním cyklu softwaru požadovány další zkušenosti, schopnosti nebo kvalifikace, musí&#xD;
+    to být definováno v plánu zajištění kvality softwaru.&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

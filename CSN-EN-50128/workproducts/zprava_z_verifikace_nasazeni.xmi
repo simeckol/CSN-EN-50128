@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-O0ayutvfM63EsJcPSSrthw" name="new_artifact,_kLz6sEUTEem9AMCF5qvX5g" guid="-O0ayutvfM63EsJcPSSrthw">
+  <mainDescription>Poté, co je vytvořen manuál pro nasazení softwaru musí se jeho verifikace zabývat:&lt;br />&#xD;
+a) zda manuál pro nasazení softwaru splňuje obecné požadavky na čitelnost a sledovatelnost dle 5.3.2.7 až 5.3.2.10 a dle&#xD;
+6.5.4.14 až 6.5.4.17 a také specifické požadavky dle 9.1.4.7;&lt;br />&#xD;
+b) vnitřní konzistenci manuálu pro nasazení softwaru.&lt;br />&#xD;
+9.1.4.18 Poté, co je vytvořen záznam z nasazení musí se jeho verifikace zabývat:&lt;br />&#xD;
+a) zda záznam z nasazení splňuje obecné požadavky na čitelnost a sledovatelnost dle 5.3.2.7 až 5.3.2.10 a dle 6.5.4.14 až&#xD;
+6.5.4.17 a také specifické požadavky dle 9.1.4.13;&lt;br />&#xD;
+b) vnitřní konzistencí záznamu z nasazení. (9.1.4.17)&lt;br />&#xD;
+Jakmile jsou vytvořeny poznámky k vydání musí se jejich verifikace zbývat:&lt;br />&#xD;
+a) zda poznámky k vydání splňují obecné požadavky na čitelnost a sledovatelnost dle 5.3.2.7 až 5.3.2.10 a dle 6.5.4.14 až&#xD;
+6.5.4.17 a také specifické požadavky dle 9.1.4.5;&lt;br />&#xD;
+b) vnitřní konzistencí poznámek k vydání. (9.1.4.19)&lt;br />&#xD;
+Výsledky musí být zaznamenány ve zprávě z verifikace nasazení.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

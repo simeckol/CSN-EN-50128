@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8-udP5iCr8ZERxH4pe3R-g" name="new_artifact,_8AYRMEUVEem9AMCF5qvX5g" guid="-8-udP5iCr8ZERxH4pe3R-g">
+  <mainDescription>9.2.4.12 Poté, co je vytvořen plán údržby softwaru, musí se jeho verifikace zabývat:&lt;br />&#xD;
+a) zda plán údržby softwaru splňuje obecné požadavky na čitelnost a sledovatelnost dle 5.3.2.7 až 5.3.2.10&lt;br />&#xD;
+a dle 6.5.4.14 až 6.5.4.17 a také specifické požadavky dle 9.2.4.6;&lt;br />&#xD;
+b) vnitřní konzistenci plánu údržby softwaru.&lt;br />&#xD;
+9.2.4.13 Poté co je vytvořen záznam z údržby softwaru, musí se jeho verifikace zabývat:&lt;br />&#xD;
+a) zda záznam údržby softwaru splňuje obecné požadavky na čitelnost a sledovatelnost dle 5.3.2.7 až 5.3.2.10&lt;br />&#xD;
+a dle 6.5.4.14 až 6.5.4.17 a také specifické požadavky dle 9.2.4.8;&lt;br />&#xD;
+b) vnitřní konzistencí záznamu údržby softwaru.&lt;br />&#xD;
+9.2.4.14 Poté, co je vytvořen záznam změny softwaru musí se jeho verifikace zabývat:&lt;br />&#xD;
+a) zda záznam změny softwaru splňuje obecné požadavky na čitelnost a sledovatelnost dle 5.3.2.7 až 5.3.2.10&lt;br />&#xD;
+a dle 6.5.4.14 až 6.5.4.17 a také specifické požadavky dle 9.2.4.10;&lt;br />&#xD;
+b) vnitřní konzistencí záznamu změny softwaru.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

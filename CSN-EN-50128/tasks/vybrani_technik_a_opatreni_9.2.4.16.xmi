@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5sk_yTqSgXkSJP5YLifmoA" name=",_CBngoEVzEemhELvG__VSRQ" guid="-5sk_yTqSgXkSJP5YLifmoA">
+  <mainDescription>Musí být vybrány techniky a opatření z Tabulky A.10. Zvolená kombinace musí být odůvodněna jako sada a naplnit 4.8 a 4.9.&#xD;
+(9.2.4.16)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

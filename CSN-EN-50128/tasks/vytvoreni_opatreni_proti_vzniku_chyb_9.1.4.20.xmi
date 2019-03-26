@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vEtZGo0-ldntR9k8kwJrTg" name=",_zZPuMEUTEem9AMCF5qvX5g" guid="-vEtZGo0-ldntR9k8kwJrTg">
+  <mainDescription>V balíku softwaru musí být zahrnuta opatření, která zamezí vzniku chyb nebo detekují chyby, které se vyskytnou během&#xD;
+skladování, převozu, přenosu, nebo kopírování spustitelného kódu nebo dat. Doporučuje se naprogramovat spustitelný kód (viz&#xD;
+Tabulka A.3 „Kódy s detekcí chyby“) jako část kontroly integrity kódu během procesu načítání. (9.1.4.20)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

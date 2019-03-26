@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_aalqEEWIEemhELvG__VSRQ" guid="_aalqEEWIEemhELvG__VSRQ">
+    <resourceDescriptors xmi:id="_aalqEUWIEemhELvG__VSRQ" id="-iOk2-3gchx1fzoocu9pXyA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_aZv8kEWIEemhELvG__VSRQ" name="Delivery Process" guid="_aZv8kEWIEemhELvG__VSRQ">
+    <methodElementProperty xmi:id="_aZv8kkWIEemhELvG__VSRQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_MYhoEEWJEemhELvG__VSRQ" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_CxSoEEWJEemhELvG__VSRQ" name="Management softwaru a organizace" guid="_CxSoEEWJEemhELvG__VSRQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_CxTPIEWJEemhELvG__VSRQ" name="Management softwaru a organizace" guid="_CxTPIEWJEemhELvG__VSRQ" presentationName="Management softwaru a organizace" superActivities="_aZv8kUWIEemhELvG__VSRQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Goe8EEWJEemhELvG__VSRQ" name="Nasazení a údržba softwaru" guid="_Goe8EEWJEemhELvG__VSRQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_KRoNAEWJEemhELvG__VSRQ" name="Nasazení softwaru" guid="_KRoNAEWJEemhELvG__VSRQ">
+        <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_KRoNAUWJEemhELvG__VSRQ" name="Nasazení softwaru" guid="_KRoNAUWJEemhELvG__VSRQ" presentationName="Nasazení softwaru" superActivities="_Goe8EUWJEemhELvG__VSRQ" breakdownElements="_vIxT4EWJEemhELvG__VSRQ _VEKigEWJEemhELvG__VSRQ _xpMCMEWJEemhELvG__VSRQ _tNfS8EWJEemhELvG__VSRQ _Ap3zIEWKEemhELvG__VSRQ _ovF1AEWJEemhELvG__VSRQ _VELwoEWJEemhELvG__VSRQ _ovF1AUWJEemhELvG__VSRQ _vIxT4UWJEemhELvG__VSRQ _xpMCMUWJEemhELvG__VSRQ _oZda4EWXEem2O-StvTKz2Q _1H8BAEWJEemhELvG__VSRQ _1H8oEEWJEemhELvG__VSRQ _1H8oEUWJEemhELvG__VSRQ _KoVnYEWKEemhELvG__VSRQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_VEKigEWJEemhELvG__VSRQ" name="nasazeni_9.1.4.1" guid="_VEKigEWJEemhELvG__VSRQ" presentationName="nasazení (9.1.4.1)" isPlanned="true" superActivities="_KRoNAUWJEemhELvG__VSRQ" linkToPredecessor="_2GkEEEWXEem2O-StvTKz2Q" isSynchronizedWithSource="false" performedPrimarilyBy="_VELwoEWJEemhELvG__VSRQ">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_fWFz0EUREem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_VELwoEWJEemhELvG__VSRQ" name="manazer_projektu" guid="_VELwoEWJEemhELvG__VSRQ" presentationName="Manažer projektu" isPlanned="false" superActivities="_KRoNAUWJEemhELvG__VSRQ">
+          <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_O8RdMMjEEeixxZe6yMuoZA"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ovF1AEWJEemhELvG__VSRQ" name="instalace_noveho_vydani_softwaru_9.1.4.10" guid="_ovF1AEWJEemhELvG__VSRQ" presentationName="instalace nového vydání softwaru (9.1.4.10)" superActivities="_KRoNAUWJEemhELvG__VSRQ" performedPrimarilyBy="_ovF1AUWJEemhELvG__VSRQ">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_UjYpwEUSEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_ovF1AUWJEemhELvG__VSRQ" name="dodavatel" guid="_ovF1AUWJEemhELvG__VSRQ" presentationName="Dodavatel" isPlanned="false" superActivities="_KRoNAUWJEemhELvG__VSRQ" modifies="_vIxT4UWJEemhELvG__VSRQ _xpMCMUWJEemhELvG__VSRQ">
+          <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_i7nMYN6wEeiYJ4LpaF_C_Q"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_tNfS8EWJEemhELvG__VSRQ" name="nahrani_softwarove_baseline_9.1.4.2" guid="_tNfS8EWJEemhELvG__VSRQ" presentationName="nahrání softwarové baseline (9.1.4.2)" superActivities="_KRoNAUWJEemhELvG__VSRQ" performedPrimarilyBy="_ovF1AUWJEemhELvG__VSRQ">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_oh7RQEUREem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_vIxT4EWJEemhELvG__VSRQ" name="napsani_manualu_pro_nasazeni_softwaru_9.1.4.6" guid="_vIxT4EWJEemhELvG__VSRQ" presentationName="napsání Manuálu pro nasazení softwaru (9.1.4.6)" superActivities="_KRoNAUWJEemhELvG__VSRQ" output="_vIxT4UWJEemhELvG__VSRQ" performedPrimarilyBy="_ovF1AUWJEemhELvG__VSRQ">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_61E4gEUREem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_vIxT4UWJEemhELvG__VSRQ" name="manual_pro_nasazeni_softwaru" guid="_vIxT4UWJEemhELvG__VSRQ" presentationName="Manuál pro nasazení softwaru" isPlanned="false" superActivities="_KRoNAUWJEemhELvG__VSRQ">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_EjNKsEUSEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_xpMCMEWJEemhELvG__VSRQ" name="napsani_zaznamu_z_nasazeni_9.1.4.12" guid="_xpMCMEWJEemhELvG__VSRQ" presentationName="napsání Záznamu z nasazení (9.1.4.12)" isPlanned="true" superActivities="_KRoNAUWJEemhELvG__VSRQ" linkToPredecessor="_Bd_FwEWMEemhELvG__VSRQ" output="_xpMCMUWJEemhELvG__VSRQ" performedPrimarilyBy="_ovF1AUWJEemhELvG__VSRQ">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_e3Wz8EUSEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_xpMCMUWJEemhELvG__VSRQ" name="zaznam_z_nasazeni" guid="_xpMCMUWJEemhELvG__VSRQ" presentationName="Záznam z nasazení" isPlanned="false" superActivities="_KRoNAUWJEemhELvG__VSRQ">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_q_lxEEUSEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_1H8BAEWJEemhELvG__VSRQ" name="napsani_zpravy_z_verifikace_nasazeni_9.1.4.16" guid="_1H8BAEWJEemhELvG__VSRQ" presentationName="napsání Zprávy z verifikace nasazení (9.1.4.16)" isPlanned="true" superActivities="_KRoNAUWJEemhELvG__VSRQ" output="_1H8oEUWJEemhELvG__VSRQ" performedPrimarilyBy="_1H8oEEWJEemhELvG__VSRQ">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_YxsAwEUTEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_1H8oEEWJEemhELvG__VSRQ" name="verifikator" guid="_1H8oEEWJEemhELvG__VSRQ" presentationName="Verifikátor" isPlanned="false" superActivities="_KRoNAUWJEemhELvG__VSRQ" modifies="_1H8oEUWJEemhELvG__VSRQ">
+          <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5kE7IMjEEeixxZe6yMuoZA"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_1H8oEUWJEemhELvG__VSRQ" name="zprava_z_verifikace_nasazeni" guid="_1H8oEUWJEemhELvG__VSRQ" presentationName="Zpráva z verifikace nasazení" isPlanned="false" superActivities="_KRoNAUWJEemhELvG__VSRQ">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_kLz6sEUTEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Ap3zIEWKEemhELvG__VSRQ" name="vydani_softwaru_9.1.4.2" guid="_Ap3zIEWKEemhELvG__VSRQ" presentationName="vydání softwaru (9.1.4.2)" superActivities="_KRoNAUWJEemhELvG__VSRQ" performedPrimarilyBy="_ovF1AUWJEemhELvG__VSRQ">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_xZiyMEUREem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_KoVnYEWKEemhELvG__VSRQ" name="vytvoreni_opatreni_proti_vzniku_chyb_9.1.4.20" guid="_KoVnYEWKEemhELvG__VSRQ" presentationName="vytvoření opatření proti vzniku chyb (9.1.4.20)" superActivities="_KRoNAUWJEemhELvG__VSRQ" performedPrimarilyBy="_ovF1AUWJEemhELvG__VSRQ">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_zZPuMEUTEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_-lZIAEWLEemhELvG__VSRQ" guid="_-lZIAEWLEemhELvG__VSRQ" pred="_VEKigEWJEemhELvG__VSRQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Bd_FwEWMEemhELvG__VSRQ" guid="_Bd_FwEWMEemhELvG__VSRQ" pred="_VEKigEWJEemhELvG__VSRQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_oZda4EWXEem2O-StvTKz2Q" name="zajisteni_monitorovani_vad_9.1.4.15" guid="_oZda4EWXEem2O-StvTKz2Q" presentationName="zajištění monitorování vad (9.1.4.15)" superActivities="_KRoNAUWJEemhELvG__VSRQ" performedPrimarilyBy="_ovF1AUWJEemhELvG__VSRQ">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_Mf2bsEUTEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_2GkEEEWXEem2O-StvTKz2Q" guid="_2GkEEEWXEem2O-StvTKz2Q" pred="_vIxT4EWJEemhELvG__VSRQ"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_M3bKkEWJEemhELvG__VSRQ" name="Údržba softwaru" guid="_M3bKkEWJEemhELvG__VSRQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_sypnsEWiEem2O-StvTKz2Q" name="aktiv" guid="_sypnsEWiEem2O-StvTKz2Q">
+          <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_sypnsUWiEem2O-StvTKz2Q" name="aktiv" guid="_sypnsUWiEem2O-StvTKz2Q" presentationName="aktiv" superActivities="_M3bKkUWJEemhELvG__VSRQ"/>
+        </childPackages>
+        <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_M3bKkUWJEemhELvG__VSRQ" name="Údržba softwaru" guid="_M3bKkUWJEemhELvG__VSRQ" presentationName="Údržba softwaru" superActivities="_Goe8EUWJEemhELvG__VSRQ" breakdownElements="_42TdQ0WWEem2O-StvTKz2Q _42TdREWWEem2O-StvTKz2Q _42TdQkWWEem2O-StvTKz2Q _42TdQUWWEem2O-StvTKz2Q _oT_hgEWWEem2O-StvTKz2Q _7iVwQEWXEem2O-StvTKz2Q _42TdQEWWEem2O-StvTKz2Q _42TdRUWWEem2O-StvTKz2Q _l8YJ4EWWEem2O-StvTKz2Q _tUWdAEWWEem2O-StvTKz2Q _l8YJ4UWWEem2O-StvTKz2Q _oT_hgUWWEem2O-StvTKz2Q _42TdRkWWEem2O-StvTKz2Q _42TdR0WWEem2O-StvTKz2Q _42TdSEWWEem2O-StvTKz2Q _sypnsUWiEem2O-StvTKz2Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_l8YJ4EWWEem2O-StvTKz2Q" name="reseni_a_opravovani_reportovanych_problemu_9.2.4.20" guid="_l8YJ4EWWEem2O-StvTKz2Q" presentationName="řešení a opravování reportovaných problémů (9.2.4.20)" hasMultipleOccurrences="true" superActivities="_M3bKkUWJEemhELvG__VSRQ" isRepeatable="true" performedPrimarilyBy="_l8YJ4UWWEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_VkrbIEV0EemhELvG__VSRQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_l8YJ4UWWEem2O-StvTKz2Q" name="dodavatel" guid="_l8YJ4UWWEem2O-StvTKz2Q" presentationName="Dodavatel" isPlanned="false" superActivities="_M3bKkUWJEemhELvG__VSRQ" modifies="_oT_hgUWWEem2O-StvTKz2Q _42TdSEWWEem2O-StvTKz2Q">
+          <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_i7nMYN6wEeiYJ4LpaF_C_Q"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_oT_hgEWWEem2O-StvTKz2Q" name="napsani_zaznamu_zmen_softwaru_9.2.4.9" guid="_oT_hgEWWEem2O-StvTKz2Q" presentationName="napsání Záznamu změn softwaru (9.2.4.9)" superActivities="_M3bKkUWJEemhELvG__VSRQ" output="_oT_hgUWWEem2O-StvTKz2Q" performedPrimarilyBy="_l8YJ4UWWEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_OJHtUEUYEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_oT_hgUWWEem2O-StvTKz2Q" name="zaznamy_o_zmenach_v_softwaru" guid="_oT_hgUWWEem2O-StvTKz2Q" presentationName="Záznamy o změnách v softwaru" isPlanned="false" superActivities="_M3bKkUWJEemhELvG__VSRQ">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_9GHdoNrPEeigTYOG64T-fw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_tUWdAEWWEem2O-StvTKz2Q" name="prijmuti_kroku_ke_zmirneni_nasledku_9.2.4.20" guid="_tUWdAEWWEem2O-StvTKz2Q" presentationName="přijmutí kroků ke zmírnění následků (9.2.4.20)" hasMultipleOccurrences="true" superActivities="_M3bKkUWJEemhELvG__VSRQ" isRepeatable="true" linkToPredecessor="_ww7RkEWWEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_fjoNAEVzEemhELvG__VSRQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ww7RkEWWEem2O-StvTKz2Q" guid="_ww7RkEWWEem2O-StvTKz2Q" pred="_l8YJ4EWWEem2O-StvTKz2Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_42TdQEWWEem2O-StvTKz2Q" name="napsani_zpravy_z_verifikace_udrzby_softwaru_9.2.4.11" guid="_42TdQEWWEem2O-StvTKz2Q" presentationName="napsání Zprávy z verifikace údržby softwaru (9.2.4.11)" superActivities="_M3bKkUWJEemhELvG__VSRQ" linkToPredecessor="_9Tgy8EWXEem2O-StvTKz2Q" output="_42TdR0WWEem2O-StvTKz2Q" performedPrimarilyBy="_42TdRkWWEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_wKg8MEVyEemhELvG__VSRQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_42TdQUWWEem2O-StvTKz2Q" name="napsni_zaznamu_z_udrzby_softwaru_9.2.4.7" guid="_42TdQUWWEem2O-StvTKz2Q" presentationName="napsání Záznamu z údržby softwaru (9.2.4.7)" superActivities="_M3bKkUWJEemhELvG__VSRQ" linkToPredecessor="_xHvZoEWXEem2O-StvTKz2Q" output="_42TdSEWWEem2O-StvTKz2Q" performedPrimarilyBy="_l8YJ4UWWEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_AayVEEUYEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_42TdQkWWEem2O-StvTKz2Q" name="navrzeni_udrzovatelnosti_9.2.4.4" guid="_42TdQkWWEem2O-StvTKz2Q" presentationName="navržení udržovatelnosti (9.2.4.4)" superActivities="_M3bKkUWJEemhELvG__VSRQ" performedPrimarilyBy="_l8YJ4UWWEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_quiEAEUXEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_42TdQ0WWEem2O-StvTKz2Q" name="rozhodnuti_o_povaze_cinnost_udrzby_9.2.4.2" guid="_42TdQ0WWEem2O-StvTKz2Q" presentationName="rozhodnutí o povaze činností údržby (9.2.4.2)" superActivities="_M3bKkUWJEemhELvG__VSRQ" performedPrimarilyBy="_l8YJ4UWWEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_Gge9cEUXEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_42TdREWWEem2O-StvTKz2Q" name="udrzba_9.2.4.3" guid="_42TdREWWEem2O-StvTKz2Q" presentationName="údržba (9.2.4.3)" hasMultipleOccurrences="true" superActivities="_M3bKkUWJEemhELvG__VSRQ" isRepeatable="true" linkToPredecessor="__XcPAEWWEem2O-StvTKz2Q" performedPrimarilyBy="_l8YJ4UWWEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_gAcJoEUXEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_42TdRUWWEem2O-StvTKz2Q" name="vybrani_technik_a_opatreni_9.2.4.16" guid="_42TdRUWWEem2O-StvTKz2Q" presentationName="vybrání technik a opatření (9.2.4.16)" superActivities="_M3bKkUWJEemhELvG__VSRQ" performedPrimarilyBy="_l8YJ4UWWEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_CBngoEVzEemhELvG__VSRQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_42TdRkWWEem2O-StvTKz2Q" name="verifikator" guid="_42TdRkWWEem2O-StvTKz2Q" presentationName="Verifikátor" isPlanned="false" superActivities="_M3bKkUWJEemhELvG__VSRQ" modifies="_42TdR0WWEem2O-StvTKz2Q">
+          <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5kE7IMjEEeixxZe6yMuoZA"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_42TdR0WWEem2O-StvTKz2Q" name="zprava_z_verifikace_udrzby_softwaru" guid="_42TdR0WWEem2O-StvTKz2Q" presentationName="Zpráva z verifikace údržby softwaru" isPlanned="false" superActivities="_M3bKkUWJEemhELvG__VSRQ">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_8AYRMEUVEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_42TdSEWWEem2O-StvTKz2Q" name="zaznam_z_udrzby_softwaru" guid="_42TdSEWWEem2O-StvTKz2Q" presentationName="Záznam z údržby softwaru" isPlanned="false" superActivities="_M3bKkUWJEemhELvG__VSRQ">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_JeBXgEUVEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="__XcPAEWWEem2O-StvTKz2Q" guid="__XcPAEWWEem2O-StvTKz2Q" pred="_42TdQ0WWEem2O-StvTKz2Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_xHvZoEWXEem2O-StvTKz2Q" guid="_xHvZoEWXEem2O-StvTKz2Q" pred="_42TdREWWEem2O-StvTKz2Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_7iVwQEWXEem2O-StvTKz2Q" name="verifikace_udrzby_softwaru_9.2.4.11" guid="_7iVwQEWXEem2O-StvTKz2Q" presentationName="verifikace údržby softwaru (9.2.4.11)" superActivities="_M3bKkUWJEemhELvG__VSRQ" linkToPredecessor="__ocC8EWXEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_L_q60EWXEem2O-StvTKz2Q"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_9Tgy8EWXEem2O-StvTKz2Q" guid="_9Tgy8EWXEem2O-StvTKz2Q" pred="_7iVwQEWXEem2O-StvTKz2Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="__ocC8EWXEem2O-StvTKz2Q" guid="__ocC8EWXEem2O-StvTKz2Q" pred="_42TdREWWEem2O-StvTKz2Q"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_Goe8EUWJEemhELvG__VSRQ" name="Nasazení a údržba softwaru" guid="_Goe8EUWJEemhELvG__VSRQ" presentationName="Nasazení a údržba softwaru" superActivities="_aZv8kUWIEemhELvG__VSRQ" linkToPredecessor="_Gnm0gEWYEem2O-StvTKz2Q" breakdownElements="_KRoNAUWJEemhELvG__VSRQ _M3bKkUWJEemhELvG__VSRQ"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Gnm0gEWYEem2O-StvTKz2Q" guid="_Gnm0gEWYEem2O-StvTKz2Q" pred="_Di-l4UWYEem2O-StvTKz2Q"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Di-l4EWYEem2O-StvTKz2Q" name="Vývoj generického softwaru" guid="_Di-l4EWYEem2O-StvTKz2Q">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_TXnjUEWYEem2O-StvTKz2Q" name="Životní cyklus dokumentace pro generický software" guid="_TXnjUEWYEem2O-StvTKz2Q">
+        <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_TXnjUUWYEem2O-StvTKz2Q" name="Životní cyklus dokumentace pro generický software" guid="_TXnjUUWYEem2O-StvTKz2Q" presentationName="Životní cyklus dokumentace pro generický software" superActivities="_Di-l4UWYEem2O-StvTKz2Q" breakdownElements="_XSju4EWYEem2O-StvTKz2Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_XSju4EWYEem2O-StvTKz2Q" name="vytvoreni_dokumentu_uvedenych_v_tabulce_a1_7.1.2.1" guid="_XSju4EWYEem2O-StvTKz2Q" presentationName="vytvoření dokumentů uvedených v tabulce A1 (7.1.2.1)" superActivities="_TXnjUUWYEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_FNDlgET9Eem9AMCF5qvX5g"/>
+        </processElements>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ZSipoEWYEem2O-StvTKz2Q" name="Architektura a návrh" guid="_ZSipoEWYEem2O-StvTKz2Q">
+        <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_ZSipoUWYEem2O-StvTKz2Q" name="Architektura a návrh" guid="_ZSipoUWYEem2O-StvTKz2Q" presentationName="Architektura a návrh" superActivities="_Di-l4UWYEem2O-StvTKz2Q" breakdownElements="_9LwIoEWYEem2O-StvTKz2Q _9LwIoUWYEem2O-StvTKz2Q _9LwIokWYEem2O-StvTKz2Q _9LwIo0WYEem2O-StvTKz2Q __0zOgEWYEem2O-StvTKz2Q __0zOgUWYEem2O-StvTKz2Q __0zOgkWYEem2O-StvTKz2Q _ESb3cEWZEem2O-StvTKz2Q _ESb3cUWZEem2O-StvTKz2Q _ESb3ckWZEem2O-StvTKz2Q _ESb3c0WZEem2O-StvTKz2Q _ESb3dEWZEem2O-StvTKz2Q _ESb3dUWZEem2O-StvTKz2Q _ESb3dkWZEem2O-StvTKz2Q _ESb3d0WZEem2O-StvTKz2Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_9LwIoEWYEem2O-StvTKz2Q" name="napsani_specifikace_architektury_softwaru_7.3.4.1" guid="_9LwIoEWYEem2O-StvTKz2Q" presentationName="napsání Specifikace architektury softwaru (7.3.4.1)" superActivities="_ZSipoUWYEem2O-StvTKz2Q" mandatoryInput="_9LwIokWYEem2O-StvTKz2Q" output="_9LwIo0WYEem2O-StvTKz2Q" performedPrimarilyBy="_9LwIoUWYEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_PjrE8EUGEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_9LwIoUWYEem2O-StvTKz2Q" name="navrhar" guid="_9LwIoUWYEem2O-StvTKz2Q" presentationName="Návrhář" isPlanned="false" superActivities="_ZSipoUWYEem2O-StvTKz2Q" modifies="_9LwIo0WYEem2O-StvTKz2Q __0zOgkWYEem2O-StvTKz2Q __0zOgUWYEem2O-StvTKz2Q">
+          <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_hA0AsMjEEeixxZe6yMuoZA"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_9LwIokWYEem2O-StvTKz2Q" name="specifikace_pozadavku_na_software" guid="_9LwIokWYEem2O-StvTKz2Q" presentationName="Specifikace požadavků na software" isPlanned="false" superActivities="_ZSipoUWYEem2O-StvTKz2Q">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_2y75AN3oEeivMoitHDjecw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_9LwIo0WYEem2O-StvTKz2Q" name="specifikace_architektury_softwaru" guid="_9LwIo0WYEem2O-StvTKz2Q" presentationName="Specifikace architektury softwaru" isPlanned="false" superActivities="_ZSipoUWYEem2O-StvTKz2Q">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_QhZ0wN4JEei9xO8zovSwhQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="__0zOgEWYEem2O-StvTKz2Q" name="napsani_specifikace_navrhu_softwaru_7.3.4.22" guid="__0zOgEWYEem2O-StvTKz2Q" presentationName="napsání specifikace návrhu softwaru (7.3.4.22)" superActivities="_ZSipoUWYEem2O-StvTKz2Q" mandatoryInput="_9LwIokWYEem2O-StvTKz2Q _9LwIo0WYEem2O-StvTKz2Q __0zOgUWYEem2O-StvTKz2Q" output="__0zOgkWYEem2O-StvTKz2Q" performedPrimarilyBy="_9LwIoUWYEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5CIVMEUGEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="__0zOgUWYEem2O-StvTKz2Q" name="specifikace_rozhrani_softwaru" guid="__0zOgUWYEem2O-StvTKz2Q" presentationName="Specifikace rozhraní softwaru" isPlanned="false" superActivities="_ZSipoUWYEem2O-StvTKz2Q">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_orG_sN4JEei9xO8zovSwhQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="__0zOgkWYEem2O-StvTKz2Q" name="specifikace_navrhu_softwaru" guid="__0zOgkWYEem2O-StvTKz2Q" presentationName="Specifikace návrhu softwaru" isPlanned="false" superActivities="_ZSipoUWYEem2O-StvTKz2Q">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_eWeuMN4JEei9xO8zovSwhQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ESb3cEWZEem2O-StvTKz2Q" name="napsani_specifikace_rozhrani_softwaru_7.3.4.18" guid="_ESb3cEWZEem2O-StvTKz2Q" presentationName="napsání Specifikace rozhraní softwaru (7.3.4.18)" superActivities="_ZSipoUWYEem2O-StvTKz2Q" mandatoryInput="_9LwIokWYEem2O-StvTKz2Q _9LwIo0WYEem2O-StvTKz2Q" output="__0zOgUWYEem2O-StvTKz2Q" performedPrimarilyBy="_9LwIoUWYEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_ikH3EEUGEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ESb3cUWZEem2O-StvTKz2Q" name="napsani_zpravy_z_testu_integrace_softwaru_7.6.4.3" guid="_ESb3cUWZEem2O-StvTKz2Q" presentationName="napsání Zprávy z testů integrace softwaru (7.6.4.3)" superActivities="_ZSipoUWYEem2O-StvTKz2Q" mandatoryInput="_ESb3dEWZEem2O-StvTKz2Q" output="_ESb3dUWZEem2O-StvTKz2Q" performedPrimarilyBy="_ESb3c0WZEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_nWTvgEUNEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ESb3ckWZEem2O-StvTKz2Q" name="napsani_zpravy_z_testu_integrace_softwaru_hardwaru_7.6.4.7" guid="_ESb3ckWZEem2O-StvTKz2Q" presentationName="napsání Zprávy z testů integrace softwaru/hardwaru (7.6.4.7)" superActivities="_ZSipoUWYEem2O-StvTKz2Q" mandatoryInput="_ESb3dkWZEem2O-StvTKz2Q" output="_ESb3d0WZEem2O-StvTKz2Q" performedPrimarilyBy="_ESb3c0WZEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_B-zREEUOEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_ESb3c0WZEem2O-StvTKz2Q" name="integrator" guid="_ESb3c0WZEem2O-StvTKz2Q" presentationName="Integrátor" isPlanned="false" superActivities="_ZSipoUWYEem2O-StvTKz2Q" modifies="_ESb3dUWZEem2O-StvTKz2Q _ESb3d0WZEem2O-StvTKz2Q">
+          <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_xyEXYMjEEeixxZe6yMuoZA"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_ESb3dEWZEem2O-StvTKz2Q" name="specifikace_testu_integrace_softwaru" guid="_ESb3dEWZEem2O-StvTKz2Q" presentationName="Specifikace testů integrace softwaru" isPlanned="false" superActivities="_ZSipoUWYEem2O-StvTKz2Q">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_d9ILMMmeEeioC4xUIHgX5A"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_ESb3dUWZEem2O-StvTKz2Q" name="zprava_z_verifikace_integrace_softwaru" guid="_ESb3dUWZEem2O-StvTKz2Q" presentationName="Zpráva z verifikace integrace softwaru" isPlanned="false" superActivities="_ZSipoUWYEem2O-StvTKz2Q">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_VdZGAN6rEeiYJ4LpaF_C_Q"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_ESb3dkWZEem2O-StvTKz2Q" name="specifikace_testu_integrace_softwaru_hardwaru" guid="_ESb3dkWZEem2O-StvTKz2Q" presentationName="Specifikace testů integrace softwaru/hardwaru" isPlanned="false" superActivities="_ZSipoUWYEem2O-StvTKz2Q">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_rB8FUMmeEeioC4xUIHgX5A"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_ESb3d0WZEem2O-StvTKz2Q" name="zprava_z_testu_integrace_softwaru_hardwaru" guid="_ESb3d0WZEem2O-StvTKz2Q" presentationName="Zpráva z testů integrace softwaru/hardwaru" isPlanned="false" superActivities="_ZSipoUWYEem2O-StvTKz2Q">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_depKwMuTEeir883_jylfPA"/>
+        </processElements>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_GqNAEEWZEem2O-StvTKz2Q" name="Celkové testování softwaru/Závěrečná vallidace" guid="_GqNAEEWZEem2O-StvTKz2Q">
+        <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_GqNAEUWZEem2O-StvTKz2Q" name="Celkové testování softwaru/Závěrečná vallidace" guid="_GqNAEUWZEem2O-StvTKz2Q" presentationName="Celkové testování softwaru/Závěrečná vallidace" superActivities="_Di-l4UWYEem2O-StvTKz2Q" breakdownElements="_N_CfoEWZEem2O-StvTKz2Q _N_Cfo0WZEem2O-StvTKz2Q _N_CfoUWZEem2O-StvTKz2Q _N_CfokWZEem2O-StvTKz2Q _N_CfpEWZEem2O-StvTKz2Q _N_CfpUWZEem2O-StvTKz2Q _N_CfpkWZEem2O-StvTKz2Q _N_Cfp0WZEem2O-StvTKz2Q _N_CfqEWZEem2O-StvTKz2Q _N_CfqUWZEem2O-StvTKz2Q _N_CfqkWZEem2O-StvTKz2Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_N_CfoEWZEem2O-StvTKz2Q" name="napsani_poznamek_k_vydani_7.7.4.12" guid="_N_CfoEWZEem2O-StvTKz2Q" presentationName="napsání Poznámek k vydání (7.7.4.12)" superActivities="_GqNAEUWZEem2O-StvTKz2Q" output="_N_Cfp0WZEem2O-StvTKz2Q" performedPrimarilyBy="_N_CfpEWZEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_RGhBoEUPEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_N_CfoUWZEem2O-StvTKz2Q" name="napsani_zpravy_z_celkoveho_testovani_softwaru_7.7.4.1" guid="_N_CfoUWZEem2O-StvTKz2Q" presentationName="napsání Zprávy z celkového testování softwaru (7.7.4.1)" superActivities="_GqNAEUWZEem2O-StvTKz2Q" linkToPredecessor="_P7BEIEWZEem2O-StvTKz2Q" mandatoryInput="_N_CfqEWZEem2O-StvTKz2Q" output="_N_CfqUWZEem2O-StvTKz2Q" performedPrimarilyBy="_N_CfpUWZEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_wwptkEUOEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_N_CfokWZEem2O-StvTKz2Q" name="napsani_zpravy_z_validace_softwaru_6.3.4.7" guid="_N_CfokWZEem2O-StvTKz2Q" presentationName="napsání Zprávy z validace softwaru (6.3.4.7)" superActivities="_GqNAEUWZEem2O-StvTKz2Q" output="_N_CfqkWZEem2O-StvTKz2Q" performedPrimarilyBy="_N_CfpkWZEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_qnzy8AMWEem_mu8SW8LMeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_N_Cfo0WZEem2O-StvTKz2Q" name="zkouseni_softwaru_7.7.4.5" guid="_N_Cfo0WZEem2O-StvTKz2Q" presentationName="zkoušení softwaru (7.7.4.5)" superActivities="_GqNAEUWZEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#__Md24EUOEem9AMCF5qvX5g"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_N_CfpEWZEem2O-StvTKz2Q" name="navrhar" guid="_N_CfpEWZEem2O-StvTKz2Q" presentationName="Návrhář" isPlanned="false" superActivities="_GqNAEUWZEem2O-StvTKz2Q" modifies="_N_Cfp0WZEem2O-StvTKz2Q">
+          <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_hA0AsMjEEeixxZe6yMuoZA"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_N_CfpUWZEem2O-StvTKz2Q" name="tester" guid="_N_CfpUWZEem2O-StvTKz2Q" presentationName="Tester" isPlanned="false" superActivities="_GqNAEUWZEem2O-StvTKz2Q" modifies="_N_CfqUWZEem2O-StvTKz2Q">
+          <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_3Evx8MjEEeixxZe6yMuoZA"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_N_CfpkWZEem2O-StvTKz2Q" name="validator" guid="_N_CfpkWZEem2O-StvTKz2Q" presentationName="Validátor" isPlanned="false" superActivities="_GqNAEUWZEem2O-StvTKz2Q" modifies="_N_CfqkWZEem2O-StvTKz2Q">
+          <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_9m6ecMjEEeixxZe6yMuoZA"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_N_Cfp0WZEem2O-StvTKz2Q" name="poznamky_k_vydani" guid="_N_Cfp0WZEem2O-StvTKz2Q" presentationName="Poznámky k vydání" isPlanned="false" superActivities="_GqNAEUWZEem2O-StvTKz2Q">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_re0D4N6tEeiYJ4LpaF_C_Q"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_N_CfqEWZEem2O-StvTKz2Q" name="specifikace_celkoveho_testovani_softwaru" guid="_N_CfqEWZEem2O-StvTKz2Q" presentationName="Specifikace celkového testování softwaru" isPlanned="false" superActivities="_GqNAEUWZEem2O-StvTKz2Q">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_TF-bcMmeEeioC4xUIHgX5A"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_N_CfqUWZEem2O-StvTKz2Q" name="zprava_z_celkoveho_testovani_softwaru" guid="_N_CfqUWZEem2O-StvTKz2Q" presentationName="Zpráva z celkového testování softwaru" isPlanned="false" superActivities="_GqNAEUWZEem2O-StvTKz2Q">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_Xf_IoMmeEeioC4xUIHgX5A"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_N_CfqkWZEem2O-StvTKz2Q" name="zprava_z_validace_softwaru" guid="_N_CfqkWZEem2O-StvTKz2Q" presentationName="Zpráva z validace softwaru" isPlanned="false" superActivities="_GqNAEUWZEem2O-StvTKz2Q">
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_z3daUMuoEeiY4aKR2f3NAQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_P7BEIEWZEem2O-StvTKz2Q" guid="_P7BEIEWZEem2O-StvTKz2Q" pred="_N_Cfo0WZEem2O-StvTKz2Q"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_dncX4EWZEem2O-StvTKz2Q" name="Implementace a testování komponent" guid="_dncX4EWZEem2O-StvTKz2Q">
+        <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_dncX4UWZEem2O-StvTKz2Q" name="Implementace a testování komponent" guid="_dncX4UWZEem2O-StvTKz2Q" presentationName="Implementace a testování komponent" superActivities="_Di-l4UWYEem2O-StvTKz2Q"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_Di-l4UWYEem2O-StvTKz2Q" name="Vývoj generického softwaru" guid="_Di-l4UWYEem2O-StvTKz2Q" presentationName="Vývoj generického softwaru" superActivities="_aZv8kUWIEemhELvG__VSRQ" linkToPredecessor="_fGlZ8EWaEem2O-StvTKz2Q" breakdownElements="_TXnjUUWYEem2O-StvTKz2Q _ZSipoUWYEem2O-StvTKz2Q _GqNAEUWZEem2O-StvTKz2Q _dncX4UWZEem2O-StvTKz2Q"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_fGlZ8EWaEem2O-StvTKz2Q" guid="_fGlZ8EWaEem2O-StvTKz2Q" pred="_J0tCoUWYEem2O-StvTKz2Q"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_J0tCoEWYEem2O-StvTKz2Q" name="Zajištění softwwaru" guid="_J0tCoEWYEem2O-StvTKz2Q">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_WBn2AEWZEem2O-StvTKz2Q" name="Hodnocení softwaru" guid="_WBn2AEWZEem2O-StvTKz2Q">
+        <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_WBn2AUWZEem2O-StvTKz2Q" name="Hodnocení softwaru" guid="_WBn2AUWZEem2O-StvTKz2Q" presentationName="Hodnocení softwaru" superActivities="_J0tCoUWYEem2O-StvTKz2Q" breakdownElements="_YpyLEEWZEem2O-StvTKz2Q _YpyyIEWZEem2O-StvTKz2Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_YpyLEEWZEem2O-StvTKz2Q" name="hodnoceni_softwaru_6.4.4.1" guid="_YpyLEEWZEem2O-StvTKz2Q" presentationName="hodnocení softwaru (6.4.4.1)" superActivities="_WBn2AUWZEem2O-StvTKz2Q" performedPrimarilyBy="_YpyyIEWZEem2O-StvTKz2Q">
+          <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_f9YlsAMYEem_mu8SW8LMeg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_YpyyIEWZEem2O-StvTKz2Q" name="hodnotitel" guid="_YpyyIEWZEem2O-StvTKz2Q" presentationName="Hodnotitel" isPlanned="false" superActivities="_WBn2AUWZEem2O-StvTKz2Q">
+          <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_uZ_BQMjEEeixxZe6yMuoZA"/>
+        </processElements>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_J0tCoUWYEem2O-StvTKz2Q" name="Zajištění softwwaru" guid="_J0tCoUWYEem2O-StvTKz2Q" presentationName="Zajištění softwaru" superActivities="_aZv8kUWIEemhELvG__VSRQ" breakdownElements="_WBn2AUWZEem2O-StvTKz2Q"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_NumsYEWYEem2O-StvTKz2Q" name="Vývoj aplikačních dat nebo algoritmů" guid="_NumsYEWYEem2O-StvTKz2Q">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_NunTcEWYEem2O-StvTKz2Q" name="Vývoj aplikačních dat nebo algoritmů" guid="_NunTcEWYEem2O-StvTKz2Q" presentationName="Vývoj aplikačních dat nebo algoritmů" superActivities="_aZv8kUWIEemhELvG__VSRQ"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_aZv8kUWIEemhELvG__VSRQ" name="Delivery Process" guid="_aZv8kUWIEemhELvG__VSRQ" presentationName="Delivery Process" breakdownElements="_CxTPIEWJEemhELvG__VSRQ _J0tCoUWYEem2O-StvTKz2Q _Di-l4UWYEem2O-StvTKz2Q _NunTcEWYEem2O-StvTKz2Q _Goe8EUWJEemhELvG__VSRQ">
+      <presentation xmi:id="-iOk2-3gchx1fzoocu9pXyA" href="uma://-iOk2-3gchx1fzoocu9pXyA#-iOk2-3gchx1fzoocu9pXyA"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>
