@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-odJhyX3zR4bTjD8lKyKC_Q" name=",_WEgrIFSxEemXxoBG7rYlSQ" guid="-odJhyX3zR4bTjD8lKyKC_Q">
+  <mainDescription>&lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Pro každý nový typ systému konfigurovaného aplikačními&#xD;
+    daty/algoritmy musí být vyvinuty specifické procedury a nástroje, které umožní aby byl proces vývoje aplikace&#xD;
+    specifikovaný v 8.4.1 aplikován na instalace nového systému. Vývoj těchto nástrojů musí být proveden v souladu s touto&#xD;
+    evropskou normou souběžně s generickým softwarem a hardwarem pro tento systém. Činnosti verifikace, validace a&#xD;
+    hodnocení musí zajistit, že nástroje přípravy dat a generický software jsou kompatibilní. (8.4.7.1)&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

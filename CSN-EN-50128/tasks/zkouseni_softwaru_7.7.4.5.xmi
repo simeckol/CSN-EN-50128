@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IbbZL7nipLGb-uKOvsMbWQ" name=",__Md24EUOEem9AMCF5qvX5g" guid="-IbbZL7nipLGb-uKOvsMbWQ">
-  <mainDescription>Software musí být zkoušen buď ve spojení s reálným hardwarem či skutečnými systémem se kterým&lt;br />&#xD;
-by měl spolupracovat v provozu, nebo simulací vstupních signálů a zátěže výstupů. Musí být zkoušen&lt;br />&#xD;
-v podmínkách odpovídajících normálnímu provozu, očekávaných událostí a nežádoucích stavů vyžadujících&lt;br />&#xD;
-patřičnou reakci systému. Pokud se používá simulovaných vstupů nebo zátěže, musí být prokázáno, že se tyto&lt;br />&#xD;
-významně neliší od vstupů nebo zátěží vyskytujících se v provozu. (7.7.4.5)&lt;br />&#xD;
-POZNÁMKA Simulované vstupy nebo zátěž by mohly nahradit vstupy nebo zátěž, které se vyskytují pouze na systémové&lt;br />&#xD;
-úrovni nebo v poruchových stavech.</mainDescription>
+  <mainDescription>Software musí být zkoušen buď ve spojení s reálným hardwarem či skutečnými systémem se kterým by měl spolupracovat v&#xD;
+provozu, nebo simulací vstupních signálů a zátěže výstupů. Musí být zkoušen v podmínkách odpovídajících normálnímu provozu,&#xD;
+očekávaných událostí a nežádoucích stavů vyžadujících patřičnou reakci systému. Pokud se používá simulovaných vstupů nebo&#xD;
+zátěže, musí být prokázáno, že se tyto významně neliší od vstupů nebo zátěží vyskytujících se v provozu. (7.7.4.5)&lt;br />&#xD;
+POZNÁMKA Simulované vstupy nebo zátěž by mohly nahradit vstupy nebo zátěž, které se vyskytují pouze na systémové úrovni&#xD;
+nebo v poruchových stavech.</mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

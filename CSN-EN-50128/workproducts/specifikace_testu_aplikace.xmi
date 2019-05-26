@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-r_GVjS4V4mWa-IFOxbnLng" name="new_artifact,_Re88oFSuEemXxoBG7rYlSQ" guid="-r_GVjS4V4mWa-IFOxbnLng" changeDate="2019-04-01T20:48:57.410+0200">
+  <mainDescription>&lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Specifikace testů aplikace musí specifikovat testy, které&#xD;
+    se provedou v průběhu nebo v závěrečné etapě přípravy dat/algoritmů, s cílem zajistit:&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
+        &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>a) koherentnost a kompletnost dat/algoritmů s ohledem&#xD;
+        na principy aplikace;&lt;/font>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
+        &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>b) koherentnost a kompletnost dat/algoritmů s ohledem&#xD;
+        na architekturu specifické aplikace. (8.4.4.6)&lt;/font>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Specifikace testů aplikace musí specifikovat testy, které&#xD;
+    budou provedeny pro zajištění:&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
+        &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>a) správné integrace dat/algoritmů do generického&#xD;
+        hardwaru a softwaru, pokud to je potřeba;&lt;/font>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
+        &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>b) správné integrace dat/algoritmů s kompletní&#xD;
+        instalací. (8.4.5.3)&lt;/font>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

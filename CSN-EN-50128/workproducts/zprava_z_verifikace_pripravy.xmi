@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gLfxtSzdM6gIx4ZSDJ_JaA" name="new_artifact,_0v4wIFStEemXxoBG7rYlSQ" guid="-gLfxtSzdM6gIx4ZSDJ_JaA">
+  <mainDescription>&lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Zpráva z verifikace přípravy aplikace musí:&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>a) dokumentovat každou činnost provedenou pro zajištění&#xD;
+    správnosti a kompletnosti dat/algoritmů a jejich koherentnost s principy aplikace a architekturou specifické&#xD;
+    aplikace;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>b) vyhodnotit kompatibilitu dat/algoritmů s generickou&#xD;
+    aplikací. (8.4.4.4)&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

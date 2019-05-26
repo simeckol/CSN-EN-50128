@@ -3,7 +3,6 @@
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_ol-3wMjDEeixxZe6yMuoZA" guid="_ol-3wMjDEeixxZe6yMuoZA">
     <subManagers xmi:id="_aalqEEWIEemhELvG__VSRQ" href="uma://_aZv8kEWIEemhELvG__VSRQ#_aalqEEWIEemhELvG__VSRQ"/>
     <subManagers xmi:id="_fqYIsEWIEemhELvG__VSRQ" href="uma://_fpbGcEWIEemhELvG__VSRQ#_fqYIsEWIEemhELvG__VSRQ"/>
-    <subManagers xmi:id="_r8KYgEWKEemhELvG__VSRQ" href="uma://_r7S10EWKEemhELvG__VSRQ#_r8KYgEWKEemhELvG__VSRQ"/>
     <resourceDescriptors xmi:id="_fSlu4cjFEeixxZe6yMuoZA" id="-b-6hJ6XAD50EmbVTJpO0gA" uri="roles/manazer_projektu.xmi"/>
     <resourceDescriptors xmi:id="_fSuRwMjFEeixxZe6yMuoZA" id="-PWzTZZkOwdj9vIeLjjR1fQ" uri="roles/manazer_pro_pozadavky.xmi"/>
     <resourceDescriptors xmi:id="_fSuRwcjFEeixxZe6yMuoZA" id="-bDi4XOZ3-Iv0_oA40Yk_uA" uri="roles/navrhar.xmi"/>
@@ -84,7 +83,7 @@
     <resourceDescriptors xmi:id="_MzctICLlEemo7MfG6V_evw" id="-yZ7988LNxJvWCmuANYS3Zw" uri="tasks/vyhodnoceni_vhodnosti_automatickeho_prekladace_6.7.4.9.xmi"/>
     <resourceDescriptors xmi:id="_Wz_lACLlEemo7MfG6V_evw" id="-K5_j-dQ_Ub4rxzoWZdvi9g" uri="tasks/rizeni_konfigurace_6.7.4.10.xmi"/>
     <resourceDescriptors xmi:id="_lZnKkCLlEemo7MfG6V_evw" id="-h0-G7fM2Uyt5RQxFFhppTg" uri="tasks/oduvodneni_verze_nastroje_6.7.4.11.xmi"/>
-    <resourceDescriptors xmi:id="_axrGECLmEemo7MfG6V_evw" id="-pkIjeLS9uqRZ69uUQAUowA" uri="tasks/stanovani_a_naplanovani_cinnosti_pro_etapu_5.3.2.5.xmi"/>
+    <resourceDescriptors xmi:id="_axrGECLmEemo7MfG6V_evw" id="-pkIjeLS9uqRZ69uUQAUowA" uri="tasks/stanoveni_a_naplanovani_cinnosti_pro_etapu_5.3.2.5.xmi"/>
     <resourceDescriptors xmi:id="_insAECLmEemo7MfG6V_evw" id="-IeYTRsQplhXAAXpPiTS0EQ" uri="tasks/zajisteni_sledovatelnosti_dokumentu_5.3.2.7.xmi"/>
     <resourceDescriptors xmi:id="_cuOc0CYcEemSeZcT9hWL7w" id="--1Lh2nPjerVsnoiZ43O-xA" uri="roles/manazer_konfigurace.xmi"/>
     <resourceDescriptors xmi:id="_j_ajwCYiEemSeZcT9hWL7w" id="-eA_wcVOZN0KvJCqwHak5qw" uri="workproducts/zprava_z_testu.xmi"/>
@@ -116,7 +115,6 @@
     <resourceDescriptors xmi:id="_YmB8oEUOEem9AMCF5qvX5g" id="-YqfKtU1m_2rAfRYku5ofcg" uri="tasks/napsani_zpravy_z_verifikace_integrace_softwaru_7.6.4.11.xmi"/>
     <resourceDescriptors xmi:id="_3lk-AEUOEem9AMCF5qvX5g" id="-9TDPNLnpQiaYRhzM8rnCKA" uri="tasks/napsani_zpravy_z_celkoveho_testovani_softwaru_7.7.4.1.xmi"/>
     <resourceDescriptors xmi:id="_ENfgwEUPEem9AMCF5qvX5g" id="-IbbZL7nipLGb-uKOvsMbWQ" uri="tasks/zkouseni_softwaru_7.7.4.5.xmi"/>
-    <resourceDescriptors xmi:id="_LPhZEEUPEem9AMCF5qvX5g" id="-13xR3W7cLh-gpGS8IF1cgQ" uri="tasks/napsani_zpravy_z_validace_softwaru_7.7.4.6.xmi"/>
     <resourceDescriptors xmi:id="_ZZC4gEUPEem9AMCF5qvX5g" id="-cjbCH3XDrkGJmqdKkzZGrQ" uri="tasks/napsani_poznamek_k_vydani_7.7.4.12.xmi"/>
     <resourceDescriptors xmi:id="_AnmisEUQEem9AMCF5qvX5g" id="-VUQ8rLpRJHtolRW58GauhQ" uri="tasks/napsani_planu_pripravy_aplikace_8.4.1.1.xmi"/>
     <resourceDescriptors xmi:id="_LYy0YEUQEem9AMCF5qvX5g" id="-oDl41sYOpJGqvSvCbkWIEw" uri="workproducts/plan_pripravy_aplikace.xmi"/>
@@ -154,8 +152,23 @@
     <resourceDescriptors xmi:id="_1pDPMEV3EemhELvG__VSRQ" id="-vL5D8UepgZ6Ku3wzgXHdNA" uri="workproducts/zprava_z_verifikace_softwaru.xmi"/>
     <resourceDescriptors xmi:id="_aajN0EWIEemhELvG__VSRQ" id="_aZv8kEWIEemhELvG__VSRQ" uri="deliveryprocesses/Delivery%20Process/model.xmi"/>
     <resourceDescriptors xmi:id="_fqWTgEWIEemhELvG__VSRQ" id="_fpbGcEWIEemhELvG__VSRQ" uri="capabilitypatterns/Capability%20Pattern/model.xmi"/>
-    <resourceDescriptors xmi:id="_r8JKYEWKEemhELvG__VSRQ" id="_r7S10EWKEemhELvG__VSRQ" uri="deliveryprocesses/DeliveryConfig/model.xmi"/>
     <resourceDescriptors xmi:id="_OsK9UEWXEem2O-StvTKz2Q" id="-CuPOAa8EZM8vTlT2etM8kQ" uri="tasks/verifikace_udrzby_softwaru_9.2.4.11.xmi"/>
+    <resourceDescriptors xmi:id="_YN3zEFSrEemXxoBG7rYlSQ" id="-JKVUi-DJzlsa2neCZHpsXg" uri="tasks/napsani_specifikace_pozadavku_na_aplikaci_8.4.2.1.xmi"/>
+    <resourceDescriptors xmi:id="_1u39YFSsEemXxoBG7rYlSQ" id="-zqwxXCHmbIENF4AsunFSOg" uri="tasks/definice_generickych_hardwarovych_a_softwarovych_komponent_8.4.3.0.xmi"/>
+    <resourceDescriptors xmi:id="_hlRVYFStEemXxoBG7rYlSQ" id="-fthPzfBW6bYrpzNa3cbw6g" uri="tasks/tvorba_a_kompilace_zdrojoveho_kodu_generickych_a_specifickych_dat_algoritmu_8.4.4.1.xmi"/>
+    <resourceDescriptors xmi:id="_6EdBEFStEemXxoBG7rYlSQ" id="-gLfxtSzdM6gIx4ZSDJ_JaA" uri="workproducts/zprava_z_verifikace_pripravy.xmi"/>
+    <resourceDescriptors xmi:id="_dn7goFSuEemXxoBG7rYlSQ" id="-Ve6Wjki-ISg8OEDQtqr-kw" uri="tasks/napsani_specifikace_testu_aplikace_8.4.4.5_8.4.5.2.xmi"/>
+    <resourceDescriptors xmi:id="_waAfkFSuEemXxoBG7rYlSQ" id="-r_GVjS4V4mWa-IFOxbnLng" uri="workproducts/specifikace_testu_aplikace.xmi"/>
+    <resourceDescriptors xmi:id="_gHgE8FSvEemXxoBG7rYlSQ" id="-G92wpVyHnDS_j-sJE2w0EA" uri="tasks/integrace_aplikacnich_dat_algoritmu_s_generickym_hardwarem_a_softwarem_8.4.5.1.xmi"/>
+    <resourceDescriptors xmi:id="_qnOMIFSvEemXxoBG7rYlSQ" id="-GfNQbazR2PnjnJ-xH3WcBg" uri="tasks/nainstalovani_aplikace_do_ciloveho_systemu_8.4.5.1.xmi"/>
+    <resourceDescriptors xmi:id="_2LW9sFSvEemXxoBG7rYlSQ" id="-ZiVlPsTzEOP4kYB0EGe3DA" uri="tasks/provedeni_testu_integrace_v_ramci_kompletni_instalace_8.4.5.1.xmi"/>
+    <resourceDescriptors xmi:id="_CyYvoFSwEemXxoBG7rYlSQ" id="-RN_U8GKISwpcw2OImX4F3w" uri="tasks/uvedeni_ciloveho_systemu_do_provozu_jako_provozuschopneho_8.4.5.1.xmi"/>
+    <resourceDescriptors xmi:id="_XY9yEFSwEemXxoBG7rYlSQ" id="-G2GsZ2igzFHhI3dw7-7hSA" uri="tasks/provedeni_procesu_zaverecne_prejimky_8.4.5.1.xmi"/>
+    <resourceDescriptors xmi:id="_tpE-IFSwEemXxoBG7rYlSQ" id="-4wWvNhGhW_nf9UZhGOgGWw" uri="tasks/validace_a_hodnoceni_aplikace_8.4.6.0.xmi"/>
+    <resourceDescriptors xmi:id="_eF5usFSxEemXxoBG7rYlSQ" id="-odJhyX3zR4bTjD8lKyKC_Q" uri="tasks/vyvinuti_specifickych_procedur_a_nastroju_8.4.7.1.xmi"/>
+    <resourceDescriptors xmi:id="_oRIzoFSxEemXxoBG7rYlSQ" id="-FFjwITwKPDNbTTqi-dv-xQ" uri="tasks/validovani_a_hodnoceni_procesu_kompilace_8.4.7.2.xmi"/>
+    <resourceDescriptors xmi:id="_znVP0FSxEemXxoBG7rYlSQ" id="-e1BWqhYI-vPS_pgHRJy-bA" uri="tasks/ulozeni_dat_algoritmu_8.4.7.5.xmi"/>
+    <resourceDescriptors xmi:id="_YcsS8FU_EemV8b7OFrwc1g" id="-9D3uJvDYzCRn1Rc_1Zfm4g" uri="tasks/vydani_poznmek_k_vydn_generickho_softwaru_a_aplikanch_nstroj_8.4.8.8.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_ol1t0MjDEeixxZe6yMuoZA" name="CSN-EN-50128" guid="_ol1t0MjDEeixxZe6yMuoZA">
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ol1t0cjDEeixxZe6yMuoZA" name="Content" guid="_ol1t0cjDEeixxZe6yMuoZA">
@@ -169,8 +182,20 @@
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ol1t1sjDEeixxZe6yMuoZA" name="WP Types" guid="_ol1t1sjDEeixxZe6yMuoZA">
-          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_90-Z4EWaEem2O-StvTKz2Q" name="aaaaa" guid="_90-Z4EWaEem2O-StvTKz2Q" presentationName="aaaaa" workProducts="_5HlgQBeQEem5bPedq4QhIg _SV4XUC-QEemRIuy9Ziu68A">
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_90-Z4EWaEem2O-StvTKz2Q" name="validace" guid="_90-Z4EWaEem2O-StvTKz2Q" presentationName="Validace" workProducts="_OaBaYMumEeiY4aKR2f3NAQ _H4SfYNrTEeigTYOG64T-fw _z3daUMuoEeiY4aKR2f3NAQ">
             <methodElementProperty xmi:id="__bBKoEWaEem2O-StvTKz2Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_9b8gIFSTEemHfqj60BG4hw" name="verifikace" guid="_9b8gIFSTEemHfqj60BG4hw" presentationName="Verifikace" workProducts="_DDm1oEUREem9AMCF5qvX5g _iqV6oN4KEei9xO8zovSwhQ _9z3k0MvDEeiEgNhWmVVBKQ _VdZGAN6rEeiYJ4LpaF_C_Q _kLz6sEUTEem9AMCF5qvX5g _lKu84N6QEeiWpbcrOebAyw _-ywLEN3vEeivMoitHDjecw _tKGAECYhEemSeZcT9hWL7w _8AYRMEUVEem9AMCF5qvX5g _5gRc8MuoEeiY4aKR2f3NAQ _OjNq0MmyEeiep6WenHc9eQ _453tEN6oEeiYXL4To-I0wg _EubXAMmyEeiep6WenHc9eQ">
+            <methodElementProperty xmi:id="_-nFdkFSTEemHfqj60BG4hw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_MtO44FSUEemHfqj60BG4hw" name="navrh" guid="_MtO44FSUEemHfqj60BG4hw" presentationName="Návrh" workProducts="_moVhIEULEem9AMCF5qvX5g _XLJFQEUJEem9AMCF5qvX5g __YavkN6BEeiWpbcrOebAyw _eWeuMN4JEei9xO8zovSwhQ _IOCQgEV8EemhELvG__VSRQ _lKu84N6QEeiWpbcrOebAyw">
+            <methodElementProperty xmi:id="_NxsmkFSUEemHfqj60BG4hw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_96oKwFSUEemHfqj60BG4hw" name="dokumenty_generickeho_softwaru" guid="_96oKwFSUEemHfqj60BG4hw" presentationName="Dokumenty generického softwaru" workProducts="_pmTV8FSUEemHfqj60BG4hw _ulE9EFSUEemHfqj60BG4hw _2j3YkFSUEemHfqj60BG4hw _lGEsAFSUEemHfqj60BG4hw">
+            <methodElementProperty xmi:id="__pQ20FSUEemHfqj60BG4hw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_p-K-8FU6EemV8b7OFrwc1g" name="vechna_systmov_hardwarov_a_softwarov_dokumentace_jak_je_specifikovna_v_tto_evropsk_norm._1" guid="_p-K-8FU6EemV8b7OFrwc1g" presentationName="Všechna systémová, hardwarová a softwarová dokumentace jak je specifikována v této evropské normě.">
+            <methodElementProperty xmi:id="_qdjpoFU6EemV8b7OFrwc1g" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ol1t18jDEeixxZe6yMuoZA" name="Tools" guid="_ol1t18jDEeixxZe6yMuoZA"/>
@@ -293,7 +318,7 @@
                 <methodElementProperty xmi:id="_o-HWEAK6Eem5xO6MgdqFCA" name="me_edited" value="true"/>
                 <presentation xmi:id="-rnUrzqv-V-TysLa9R5U8AA" href="uma://-rnUrzqv-V-TysLa9R5U8AA#-rnUrzqv-V-TysLa9R5U8AA"/>
               </contentElements>
-              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4DVBsAK6Eem5xO6MgdqFCA" name="stanovani_a_naplanovani_cinnosti_pro_etapu_5.3.2.5" guid="_4DVBsAK6Eem5xO6MgdqFCA" presentationName="stanovení a naplánování činností pro etapu (5.3.2.5)" performedBy="_i7nMYN6wEeiYJ4LpaF_C_Q">
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4DVBsAK6Eem5xO6MgdqFCA" name="stanoveni_a_naplanovani_cinnosti_pro_etapu_5.3.2.5" guid="_4DVBsAK6Eem5xO6MgdqFCA" presentationName="stanovení a naplánování činností pro etapu (5.3.2.5)" performedBy="_i7nMYN6wEeiYJ4LpaF_C_Q">
                 <methodElementProperty xmi:id="_h2dhcAK7Eem5xO6MgdqFCA" name="me_edited" value="true"/>
                 <presentation xmi:id="-pkIjeLS9uqRZ69uUQAUowA" href="uma://-pkIjeLS9uqRZ69uUQAUowA#-pkIjeLS9uqRZ69uUQAUowA"/>
               </contentElements>
@@ -357,7 +382,7 @@
                 <methodElementProperty xmi:id="_bvEdEAMWEem_mu8SW8LMeg" name="me_edited" value="true"/>
                 <presentation xmi:id="-bvi2i1uaIKdAFnCbHhISNQ" href="uma://-bvi2i1uaIKdAFnCbHhISNQ#-bvi2i1uaIKdAFnCbHhISNQ"/>
               </contentElements>
-              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qnzy8AMWEem_mu8SW8LMeg" name="napsani_zpravy_z_validace_softwaru_6.3.4.7" guid="_qnzy8AMWEem_mu8SW8LMeg" presentationName="napsání Zprávy z validace softwaru (6.3.4.7)" performedBy="_9m6ecMjEEeixxZe6yMuoZA" output="_z3daUMuoEeiY4aKR2f3NAQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qnzy8AMWEem_mu8SW8LMeg" name="napsani_zpravy_z_validace_softwaru_6.3.4.7" guid="_qnzy8AMWEem_mu8SW8LMeg" presentationName="napsání Zprávy z validace softwaru (6.3.4.7)" performedBy="_9m6ecMjEEeixxZe6yMuoZA" mandatoryInput="_OaBaYMumEeiY4aKR2f3NAQ" output="_z3daUMuoEeiY4aKR2f3NAQ">
                 <methodElementProperty xmi:id="_vmt88AMWEem_mu8SW8LMeg" name="me_edited" value="true"/>
                 <presentation xmi:id="-joJkLEqF3seMQ5VFtKKBAA" href="uma://-joJkLEqF3seMQ5VFtKKBAA#-joJkLEqF3seMQ5VFtKKBAA"/>
               </contentElements>
@@ -589,29 +614,112 @@
                 <methodElementProperty xmi:id="_Bpf6AEUPEem9AMCF5qvX5g" name="me_edited" value="true"/>
                 <presentation xmi:id="-IbbZL7nipLGb-uKOvsMbWQ" href="uma://-IbbZL7nipLGb-uKOvsMbWQ#-IbbZL7nipLGb-uKOvsMbWQ"/>
               </contentElements>
-              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_FxaKkEUPEem9AMCF5qvX5g" name="napsani_zpravy_z_validace_softwaru_7.7.4.6" guid="_FxaKkEUPEem9AMCF5qvX5g" presentationName="napsání Zprávy z validace softwaru (7.7.4.6)" performedBy="_9m6ecMjEEeixxZe6yMuoZA" mandatoryInput="_OaBaYMumEeiY4aKR2f3NAQ" output="_z3daUMuoEeiY4aKR2f3NAQ">
-                <methodElementProperty xmi:id="_Hdyz4EUPEem9AMCF5qvX5g" name="me_edited" value="true"/>
-                <presentation xmi:id="-13xR3W7cLh-gpGS8IF1cgQ" href="uma://-13xR3W7cLh-gpGS8IF1cgQ#-13xR3W7cLh-gpGS8IF1cgQ"/>
-              </contentElements>
               <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_RGhBoEUPEem9AMCF5qvX5g" name="napsani_poznamek_k_vydani_7.7.4.12" guid="_RGhBoEUPEem9AMCF5qvX5g" presentationName="napsání Poznámek k vydání (7.7.4.12)" performedBy="_hA0AsMjEEeixxZe6yMuoZA" output="_re0D4N6tEeiYJ4LpaF_C_Q">
                 <methodElementProperty xmi:id="_Sj3wcEUPEem9AMCF5qvX5g" name="me_edited" value="true"/>
                 <presentation xmi:id="-cjbCH3XDrkGJmqdKkzZGrQ" href="uma://-cjbCH3XDrkGJmqdKkzZGrQ#-cjbCH3XDrkGJmqdKkzZGrQ"/>
               </contentElements>
             </childPackages>
           </childPackages>
-          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oP7NMEUPEem9AMCF5qvX5g" name="vyvoj_aplikacnich_dat_nebo_algoritmu_systemy_konfigurovane_aplikacnmi_daty_nebo_algoritmy_8" guid="_oP7NMEUPEem9AMCF5qvX5g" presentationName="Vývoj aplikačních dat nebo algoritmů: systémy konfigurované aplikačními daty nebo algoritmy (8)">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oP7NMEUPEem9AMCF5qvX5g" name="vyvoj_aplikacnich_dat_nebo_algoritmu_systemy_konfigurovane_aplikacnimi_daty_nebo_algoritmy_8" guid="_oP7NMEUPEem9AMCF5qvX5g" presentationName="Vývoj aplikačních dat nebo algoritmů: systémy konfigurované aplikačními daty nebo algoritmy (8)">
             <methodElementProperty xmi:id="_oP70QEUPEem9AMCF5qvX5g" name="pkg_loadCheck" value="true"/>
             <methodElementProperty xmi:id="_se2EsEUPEem9AMCF5qvX5g" name="me_edited" value="true"/>
             <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_wazj8EUPEem9AMCF5qvX5g" name="proces_vyvoje_aplikace_8.4.1" guid="_wazj8EUPEem9AMCF5qvX5g" presentationName="Proces vývoje aplikace (8.4.1)">
               <methodElementProperty xmi:id="_wazj8UUPEem9AMCF5qvX5g" name="pkg_loadCheck" value="true"/>
               <methodElementProperty xmi:id="_yzLwkEUPEem9AMCF5qvX5g" name="me_edited" value="true"/>
-              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_0OLH4EUPEem9AMCF5qvX5g" name="napsani_planu_pripravy_aplikace_8.4.1.1" guid="_0OLH4EUPEem9AMCF5qvX5g" presentationName="napsání Plánu přípravy aplikace (8.4.1.1)" performedBy="_boUSAMjEEeixxZe6yMuoZA _hA0AsMjEEeixxZe6yMuoZA" mandatoryInput="_2y75AN3oEeivMoitHDjecw _E8QOwEUQEem9AMCF5qvX5g _UVTcYEUQEem9AMCF5qvX5g _ifHPsEUQEem9AMCF5qvX5g" output="_QhZ0wN4JEei9xO8zovSwhQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_0OLH4EUPEem9AMCF5qvX5g" name="napsani_planu_pripravy_aplikace_8.4.1.1" guid="_0OLH4EUPEem9AMCF5qvX5g" presentationName="napsání Plánu přípravy aplikace (8.4.1.1)" performedBy="_boUSAMjEEeixxZe6yMuoZA _hA0AsMjEEeixxZe6yMuoZA" mandatoryInput="_ulE9EFSUEemHfqj60BG4hw _pmTV8FSUEemHfqj60BG4hw _lGEsAFSUEemHfqj60BG4hw _2j3YkFSUEemHfqj60BG4hw" output="_QhZ0wN4JEei9xO8zovSwhQ">
                 <methodElementProperty xmi:id="_2wFD8EUPEem9AMCF5qvX5g" name="me_edited" value="true"/>
                 <presentation xmi:id="-VUQ8rLpRJHtolRW58GauhQ" href="uma://-VUQ8rLpRJHtolRW58GauhQ#-VUQ8rLpRJHtolRW58GauhQ"/>
               </contentElements>
-              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_reK1YEUQEem9AMCF5qvX5g" name="napsani_zpravy_z_verifikace_aplikacnich_dat_algoritmu_8.4.1.12" guid="_reK1YEUQEem9AMCF5qvX5g" presentationName="napsání Zprávy z verifikace aplikačních dat/algoritmů (8.4.1.12)" performedBy="_5kE7IMjEEeixxZe6yMuoZA" mandatoryInput="_2y75AN3oEeivMoitHDjecw _QhZ0wN4JEei9xO8zovSwhQ _UVTcYEUQEem9AMCF5qvX5g _ifHPsEUQEem9AMCF5qvX5g" output="_DDm1oEUREem9AMCF5qvX5g">
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_reK1YEUQEem9AMCF5qvX5g" name="napsani_zpravy_z_verifikace_aplikacnich_dat_algoritmu_8.4.1.12" guid="_reK1YEUQEem9AMCF5qvX5g" presentationName="napsání Zprávy z verifikace aplikačních dat/algoritmů (8.4.1.12_8.4.2.4_8.4.4.7_8.4.5.4)" performedBy="_5kE7IMjEEeixxZe6yMuoZA" mandatoryInput="_ulE9EFSUEemHfqj60BG4hw _pmTV8FSUEemHfqj60BG4hw _lGEsAFSUEemHfqj60BG4hw _2j3YkFSUEemHfqj60BG4hw" output="_DDm1oEUREem9AMCF5qvX5g">
                 <methodElementProperty xmi:id="_vus2cEUQEem9AMCF5qvX5g" name="me_edited" value="true"/>
                 <presentation xmi:id="-0wlbgJENF3FQSKYxVxiDAA" href="uma://-0wlbgJENF3FQSKYxVxiDAA#-0wlbgJENF3FQSKYxVxiDAA"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NaUWcFSWEemCh9D_ZQRTtw" name="specifikace_pozadavku_na_aplikaci_8.4.2" guid="_NaUWcFSWEemCh9D_ZQRTtw" presentationName="Specifikace požadavků na aplikaci (8.4.2)">
+              <methodElementProperty xmi:id="_NaXZwFSWEemCh9D_ZQRTtw" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_SV7U0FSWEemCh9D_ZQRTtw" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KZL7MFSrEemXxoBG7rYlSQ" name="napsani_specifikace_pozadavku_na_aplikaci_8.4.2.1" guid="_KZL7MFSrEemXxoBG7rYlSQ" presentationName="napsání Specifikace požadavků na aplikaci (8.4.2.1)" performedBy="_boUSAMjEEeixxZe6yMuoZA" mandatoryInput="_ulE9EFSUEemHfqj60BG4hw _pmTV8FSUEemHfqj60BG4hw _lGEsAFSUEemHfqj60BG4hw _2j3YkFSUEemHfqj60BG4hw">
+                <methodElementProperty xmi:id="_P4hRsFSrEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-JKVUi-DJzlsa2neCZHpsXg" href="uma://-JKVUi-DJzlsa2neCZHpsXg#-JKVUi-DJzlsa2neCZHpsXg"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_lellwFSsEemXxoBG7rYlSQ" name="architektura_a_navrh_8.4.3" guid="_lellwFSsEemXxoBG7rYlSQ" presentationName="Architektura a návrh (8.4.3)">
+              <methodElementProperty xmi:id="_lellwVSsEemXxoBG7rYlSQ" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_n04HsFSsEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rzhHgFSsEemXxoBG7rYlSQ" name="definice_generickych_hardwarovych_a_softwarovych_komponent_8.4.3.0" guid="_rzhHgFSsEemXxoBG7rYlSQ" presentationName="definice generických hardwarových a softwarových komponent (8.4.3.0)" performedBy="_i7nMYN6wEeiYJ4LpaF_C_Q">
+                <methodElementProperty xmi:id="_sWyMoFSsEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-zqwxXCHmbIENF4AsunFSOg" href="uma://-zqwxXCHmbIENF4AsunFSOg#-zqwxXCHmbIENF4AsunFSOg"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_AtSywFStEemXxoBG7rYlSQ" name="tvorba_aplikacnich_dat_algoritmu_8.4.4" guid="_AtSywFStEemXxoBG7rYlSQ" presentationName="Tvorba aplikačních dat/algoritmů (8.4.4)">
+              <methodElementProperty xmi:id="_AtSywVStEemXxoBG7rYlSQ" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_C53_EFStEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_RKRikFStEemXxoBG7rYlSQ" name="tvorba_a_kompilace_zdrojoveho_kodu_generickych_a_specifickych_dat_algoritmu_8.4.4.1" guid="_RKRikFStEemXxoBG7rYlSQ" presentationName="tvorba a kompilace zdrojového kódu generických a specifických dat/algoritmů (8.4.4.1)">
+                <methodElementProperty xmi:id="_T4-kgFStEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-fthPzfBW6bYrpzNa3cbw6g" href="uma://-fthPzfBW6bYrpzNa3cbw6g#-fthPzfBW6bYrpzNa3cbw6g"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ksF8YFStEemXxoBG7rYlSQ" name="napsani_zpravy_z_verifikace_pripravy_8.4.4.4" guid="_ksF8YFStEemXxoBG7rYlSQ" presentationName="napsání Zprávy z verifikace přípravy (8.4.4.4)" performedBy="_i7nMYN6wEeiYJ4LpaF_C_Q" output="_0v4wIFStEemXxoBG7rYlSQ">
+                <methodElementProperty xmi:id="_nopNEFStEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_W3QeEFSuEemXxoBG7rYlSQ" name="napsani_specifikace_testu_aplikace_8.4.4.5_8.4.5.2" guid="_W3QeEFSuEemXxoBG7rYlSQ" presentationName="napsání Specifikace testů aplikace (8.4.4.5_8.4.5.2)" performedBy="_3Evx8MjEEeixxZe6yMuoZA" mandatoryInput="_ulE9EFSUEemHfqj60BG4hw _pmTV8FSUEemHfqj60BG4hw _lGEsAFSUEemHfqj60BG4hw _2j3YkFSUEemHfqj60BG4hw" output="_Re88oFSuEemXxoBG7rYlSQ">
+                <methodElementProperty xmi:id="_ZcpL8FSuEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-Ve6Wjki-ISg8OEDQtqr-kw" href="uma://-Ve6Wjki-ISg8OEDQtqr-kw#-Ve6Wjki-ISg8OEDQtqr-kw"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_G3lf4FSvEemXxoBG7rYlSQ" name="integrace_aplikace_a_testovani_pri_prejimce_systemu_8.4.5" guid="_G3lf4FSvEemXxoBG7rYlSQ" presentationName="Integrace aplikace a testování při přejímce systému (8.4.5)">
+              <methodElementProperty xmi:id="_G3mG8FSvEemXxoBG7rYlSQ" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_IPpfAFSvEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NL7LwFSvEemXxoBG7rYlSQ" name="integrace_aplikacnich_dat_algoritmu_s_generickym_hardwarem_a_softwarem_8.4.5.1" guid="_NL7LwFSvEemXxoBG7rYlSQ" presentationName="integrace aplikačních dat/algoritmů s generickým hardwarem a softwarem (8.4.5.1)" performedBy="_i7nMYN6wEeiYJ4LpaF_C_Q">
+                <methodElementProperty xmi:id="_RQ6EIFSvEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-G92wpVyHnDS_j-sJE2w0EA" href="uma://-G92wpVyHnDS_j-sJE2w0EA#-G92wpVyHnDS_j-sJE2w0EA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mzjGMFSvEemXxoBG7rYlSQ" name="nainstalovani_aplikace_do_ciloveho_systemu_8.4.5.1" guid="_mzjGMFSvEemXxoBG7rYlSQ" presentationName="nainstalování aplikace do cílového systému (8.4.5.1)" performedBy="_i7nMYN6wEeiYJ4LpaF_C_Q">
+                <methodElementProperty xmi:id="_pLt3cFSvEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-GfNQbazR2PnjnJ-xH3WcBg" href="uma://-GfNQbazR2PnjnJ-xH3WcBg#-GfNQbazR2PnjnJ-xH3WcBg"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xcbJYFSvEemXxoBG7rYlSQ" name="provedeni_testu_integrace_v_ramci_kompletni_instalace_8.4.5.1" guid="_xcbJYFSvEemXxoBG7rYlSQ" presentationName="provedení testů integrace v rámci kompletní instalace (8.4.5.1)" performedBy="_i7nMYN6wEeiYJ4LpaF_C_Q">
+                <methodElementProperty xmi:id="_0cg2QFSvEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-ZiVlPsTzEOP4kYB0EGe3DA" href="uma://-ZiVlPsTzEOP4kYB0EGe3DA#-ZiVlPsTzEOP4kYB0EGe3DA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-4FdQFSvEemXxoBG7rYlSQ" name="uvedeni_ciloveho_systemu_do_provozu_jako_provozuschopneho_8.4.5.1" guid="_-4FdQFSvEemXxoBG7rYlSQ" presentationName="uvedení cílového systému do provozu jako provozuschopného (8.4.5.1)" performedBy="_i7nMYN6wEeiYJ4LpaF_C_Q">
+                <methodElementProperty xmi:id="_BHoeAFSwEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-RN_U8GKISwpcw2OImX4F3w" href="uma://-RN_U8GKISwpcw2OImX4F3w#-RN_U8GKISwpcw2OImX4F3w"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QFzGcFSwEemXxoBG7rYlSQ" name="provedeni_procesu_zaverecne_prejimky_8.4.5.1" guid="_QFzGcFSwEemXxoBG7rYlSQ" presentationName="provedení procesu závěrečné přejímky (8.4.5.1)" performedBy="_i7nMYN6wEeiYJ4LpaF_C_Q">
+                <methodElementProperty xmi:id="_TIolUFSwEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-G2GsZ2igzFHhI3dw7-7hSA" href="uma://-G2GsZ2igzFHhI3dw7-7hSA#-G2GsZ2igzFHhI3dw7-7hSA"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jUTisFSwEemXxoBG7rYlSQ" name="validace_a_hodnoceni_aplikace_8.4.6" guid="_jUTisFSwEemXxoBG7rYlSQ" presentationName="Validace a hodnocení aplikace (8.4.6)">
+              <methodElementProperty xmi:id="_jUTisVSwEemXxoBG7rYlSQ" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_lACrwFSwEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_m50Q0FSwEemXxoBG7rYlSQ" name="validace_a_hodnoceni_aplikace_8.4.6.0" guid="_m50Q0FSwEemXxoBG7rYlSQ" presentationName="validace a hodnocení aplikace (8.4.6.0)" performedBy="_i7nMYN6wEeiYJ4LpaF_C_Q">
+                <methodElementProperty xmi:id="_prZnoFSwEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-4wWvNhGhW_nf9UZhGOgGWw" href="uma://-4wWvNhGhW_nf9UZhGOgGWw#-4wWvNhGhW_nf9UZhGOgGWw"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1WlcYFSwEemXxoBG7rYlSQ" name="procedury_a_nastroje_pripravy_aplikace_8.4.7" guid="_1WlcYFSwEemXxoBG7rYlSQ" presentationName="Procedury a nástroje přípravy aplikace (8.4.7)">
+              <methodElementProperty xmi:id="_1WlcYVSwEemXxoBG7rYlSQ" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_3E9CsFSwEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WEgrIFSxEemXxoBG7rYlSQ" name="vyvinuti_specifickych_procedur_a_nastroju_8.4.7.1" guid="_WEgrIFSxEemXxoBG7rYlSQ" presentationName="vyvinutí specifických procedur a nástrojů (8.4.7.1 )" performedBy="_i7nMYN6wEeiYJ4LpaF_C_Q">
+                <methodElementProperty xmi:id="_Ys0KIFSxEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-odJhyX3zR4bTjD8lKyKC_Q" href="uma://-odJhyX3zR4bTjD8lKyKC_Q#-odJhyX3zR4bTjD8lKyKC_Q"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_itTXoFSxEemXxoBG7rYlSQ" name="validovani_a_hodnoceni_procesu_kompilace_8.4.7.2" guid="_itTXoFSxEemXxoBG7rYlSQ" presentationName="validování a hodnocení procesu kompilace (8.4.7.2)" performedBy="_i7nMYN6wEeiYJ4LpaF_C_Q">
+                <methodElementProperty xmi:id="_kW4kkFSxEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-FFjwITwKPDNbTTqi-dv-xQ" href="uma://-FFjwITwKPDNbTTqi-dv-xQ#-FFjwITwKPDNbTTqi-dv-xQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_r3LtQFSxEemXxoBG7rYlSQ" name="ulozeni_dat_algoritmu_8.4.7.5" guid="_r3LtQFSxEemXxoBG7rYlSQ" presentationName="uložení dat/algoritmů (8.4.7.5)" performedBy="_i7nMYN6wEeiYJ4LpaF_C_Q">
+                <methodElementProperty xmi:id="_sRfqsFSxEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-e1BWqhYI-vPS_pgHRJy-bA" href="uma://-e1BWqhYI-vPS_pgHRJy-bA#-e1BWqhYI-vPS_pgHRJy-bA"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Ks2e0FU_EemV8b7OFrwc1g" name="vyvoj_generickeho_softwaru_8.4.8" guid="_Ks2e0FU_EemV8b7OFrwc1g" presentationName="Vývoj generického softwaru (8.4.8)">
+              <methodElementProperty xmi:id="_Ks3s8FU_EemV8b7OFrwc1g" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_OiiW8FU_EemV8b7OFrwc1g" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_P92eYFU_EemV8b7OFrwc1g" name="vydani_poznmek_k_vydn_generickho_softwaru_a_aplikanch_nstroj_8.4.8.8" guid="_P92eYFU_EemV8b7OFrwc1g" presentationName="vydání poznámek k vydání generického softwaru a aplikačních nástrojů (8.4.8.8)">
+                <methodElementProperty xmi:id="_TTIYIFU_EemV8b7OFrwc1g" name="me_edited" value="true"/>
+                <presentation xmi:id="-9D3uJvDYzCRn1Rc_1Zfm4g" href="uma://-9D3uJvDYzCRn1Rc_1Zfm4g#-9D3uJvDYzCRn1Rc_1Zfm4g"/>
               </contentElements>
             </childPackages>
           </childPackages>
@@ -963,6 +1071,26 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_fPAxcEV_EemhELvG__VSRQ" name="popis" guid="_fPAxcEV_EemhELvG__VSRQ" presentationName="Popis" variabilityType="extends" variabilityBasedOnElement="_MNZWIC-QEemRIuy9Ziu68A">
             <methodElementProperty xmi:id="_gMd4MEV_EemhELvG__VSRQ" name="me_edited" value="true"/>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_lGEsAFSUEemHfqj60BG4hw" name="specifikace_pozadavku_na_software_pro_genericky_software" guid="_lGEsAFSUEemHfqj60BG4hw" presentationName="Specifikace požadavků na software pro generický software" variabilityType="extends" variabilityBasedOnElement="_GnL-ICYlEemSeZcT9hWL7w">
+            <methodElementProperty xmi:id="_mxUF0FSUEemHfqj60BG4hw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_pmTV8FSUEemHfqj60BG4hw" name="specifikace_architektury_softwaru_pro_genericky_software" guid="_pmTV8FSUEemHfqj60BG4hw" presentationName="Specifikace architektury softwaru pro generický software" variabilityType="extends" variabilityBasedOnElement="_wv0t0DArEemg9uinv5dbVA">
+            <methodElementProperty xmi:id="_qepTMFSUEemHfqj60BG4hw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ulE9EFSUEemHfqj60BG4hw" name="podminky_pouziti_generickeho_softwaru_a_aplikacnich_nastroju" guid="_ulE9EFSUEemHfqj60BG4hw" presentationName="Podmínky použití generického softwaru a aplikačních nástrojů">
+            <methodElementProperty xmi:id="_v0xqYFSUEemHfqj60BG4hw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_2j3YkFSUEemHfqj60BG4hw" name="uzivatelske_manualy_pro_genericky_software_a_aplikacni_nastroje" guid="_2j3YkFSUEemHfqj60BG4hw" presentationName="Uživatelské manuály pro generický software a aplikační nástroje">
+            <methodElementProperty xmi:id="_3N3-4FSUEemHfqj60BG4hw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_0v4wIFStEemXxoBG7rYlSQ" name="zprava_z_verifikace_pripravy" guid="_0v4wIFStEemXxoBG7rYlSQ" presentationName="Zpráva z verifikace přípravy">
+            <methodElementProperty xmi:id="_3MumAFStEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-gLfxtSzdM6gIx4ZSDJ_JaA" href="uma://-gLfxtSzdM6gIx4ZSDJ_JaA#-gLfxtSzdM6gIx4ZSDJ_JaA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Re88oFSuEemXxoBG7rYlSQ" name="specifikace_testu_aplikace" guid="_Re88oFSuEemXxoBG7rYlSQ" presentationName="Specifikace testů aplikace" variabilityType="extends" variabilityBasedOnElement="_i7ZskCYjEemSeZcT9hWL7w">
+            <methodElementProperty xmi:id="_UNp-kFSuEemXxoBG7rYlSQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-r_GVjS4V4mWa-IFOxbnLng" href="uma://-r_GVjS4V4mWa-IFOxbnLng#-r_GVjS4V4mWa-IFOxbnLng"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ol1t3cjDEeixxZe6yMuoZA" name="CapabilityPatterns" guid="_ol1t3cjDEeixxZe6yMuoZA">
@@ -971,7 +1099,6 @@
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ol1t3sjDEeixxZe6yMuoZA" name="DeliveryProcesses" guid="_ol1t3sjDEeixxZe6yMuoZA">
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_aZv8kEWIEemhELvG__VSRQ" href="uma://_aZv8kEWIEemhELvG__VSRQ#_aZv8kEWIEemhELvG__VSRQ"/>
-      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_r7S10EWKEemhELvG__VSRQ" href="uma://_r7S10EWKEemhELvG__VSRQ#_r7S10EWKEemhELvG__VSRQ"/>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ol1t38jDEeixxZe6yMuoZA" name="ProcessContributions" guid="_ol1t38jDEeixxZe6yMuoZA"/>
   </org.eclipse.epf.uma:MethodPlugin>

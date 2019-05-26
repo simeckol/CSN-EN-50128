@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fthPzfBW6bYrpzNa3cbw6g" name=",_RKRikFStEemXxoBG7rYlSQ" guid="-fthPzfBW6bYrpzNa3cbw6g">
+  <mainDescription>&lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Proces vývoje aplikace musí zahrnovat tvorbu a kompilaci&#xD;
+    zdrojového kódu generických a specifických dat/algoritmů, jako i činnosti verifikace a testování, které s touto tvorbou&#xD;
+    souvisejí. Pro tvorbu zdrojového kódu aplikačních algoritmů je doporučeno použití schématických jazyků. Viz Tabulka&#xD;
+    A.16. (8.4.4.1)&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

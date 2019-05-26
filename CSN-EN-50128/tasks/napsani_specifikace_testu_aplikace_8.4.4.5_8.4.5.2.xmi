@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ve6Wjki-ISg8OEDQtqr-kw" name=",_W3QeEFSuEemXxoBG7rYlSQ" guid="-Ve6Wjki-ISg8OEDQtqr-kw" changeDate="2019-04-01T20:46:24.411+0200">
+  <mainDescription>&lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Specifikace testů aplikace musí být napsána, v rámci&#xD;
+    odpovědnosti testera, na základě vstupních dokumentů dle 8.2. (8.4.4.5)&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

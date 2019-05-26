@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yfAbiGwiGAT2SO2FxZdglg" name=",_PSU1QCLjEemo7MfG6V_evw" guid="-yfAbiGwiGAT2SO2FxZdglg" changeDate="2019-02-01T13:28:15.864+0100">
   <mainDescription>&lt;p style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
-    Proces řízení změn musí definovat nejméně následující aspekty: (6.6.4.1)&amp;nbsp;&lt;br />&#xD;
+    Proces řízení změn musí definovat nejméně následující aspekty: (6.6.4.1)&lt;br />&#xD;
     &amp;nbsp;&amp;nbsp; a) dokumentaci potřebnou pro nahlášení problému a/nebo nápravné akce, s cílem poskytnout zpětnou vazbu&#xD;
     odpovědnému managementu;&lt;br />&#xD;
     &amp;nbsp;&amp;nbsp; b) analýzu informací shromážděných ve zprávách o nahlášení problému pro identifikaci jeho příčin;&lt;br />&#xD;
