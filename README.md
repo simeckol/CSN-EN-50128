@@ -7,7 +7,7 @@
 
 ## Reprezentace úkolů
 * úkoly (tasky) jsou rozděleny do balíků podle kapitol a podkapitol
-* jsou odvozeny z aktivit popsaných v textu normy
+* jsou odvozeny z aktivit popsaných v textu normy TODO
 * závislosti mezi úkoly jsou vytvořeny pouze takové, které jsou explicitně uvedeny v normě (např. podmíněné dokumenty)
 
 ## Reprezentace rolí
@@ -16,5 +16,5 @@
 
 ## Reprezentace artefaktů
 * artefakty mají danou hiearchii založenou na jejich povaze
-* tato hiearchie artefaktů je naznačena na diagramu artefacts.pdf v adresáři doc
-* na některých místech je na artefakty odkazováno po skupinách, tyto skupiny jsou v projektu reprezentovány jako typy artefaktů (work product kinds) a zároveň artefakty (aby na ně mohlo být odkazováno z úkolů)
+* tato hiearchie artefaktů je naznačena na diagramu artefacts.pdf v adresáři doc TODO
+* na některých místech je na artefakty odkazováno po skupinách, tyto skupiny jsou v projektu reprezentovány jako typy artefaktů (work product kinds) a zároveň artefakty (aby na ně mohlo být odkazováno z úkolů) TODO schéma
