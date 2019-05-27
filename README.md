@@ -17,4 +17,4 @@
 ## Reprezentace artefaktů
 * artefakty mají danou hiearchii založenou na jejich povaze
 * tato hiearchie artefaktů je naznačena na diagramu artefacts.pdf v adresáři doc
-* na některých místech je na artefakty odkazováno po skupinách, tyto skupiny jsou v projektu reprezentovány jako typy artefaktů (work product kinds)
+* na některých místech je na artefakty odkazováno po skupinách, tyto skupiny jsou v projektu reprezentovány jako typy artefaktů (work product kinds) a zároveň artefakty (aby na ně mohlo být odkazováno z úkolů)
