@@ -1,4 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gavlKmYsFOp20cuWr5WnUg" name="new_role,_3Evx8MjEEeixxZe6yMuoZA" guid="-gavlKmYsFOp20cuWr5WnUg" changeDate="2018-10-05T19:34:21.515+0200">
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gavlKmYsFOp20cuWr5WnUg" name="new_role,_3Evx8MjEEeixxZe6yMuoZA" guid="-gavlKmYsFOp20cuWr5WnUg" changeDate="2019-05-28T13:43:21.809+0200">
+  <keyConsiderations>&lt;p>&#xD;
+    &lt;strong>Odpovědnosti:&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        musí zajistit, že činnosti testování jsou plánovány&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí vytvořit specifikaci testů (cíle &amp;amp; případy)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí zajistit sledovatelnost cílů testů vzhledem k specifikovaným požadavkům na software a testovacích případů&#xD;
+        vzhledem k stanoveným cílům testů&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí zajistit, že plánované testy jsou implementovány a že jsou specifikované testy provedeny&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí identifikovat odchylky od očekávaných výsledků a zaznamenat je ve zprávách z testů&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        odchylky musí oznamovat příslušné skupině odpovědné za řízení změn za účelem jejich vyhodnocení a stanovení&#xD;
+        rozhodnutí&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí zachytit výstupy testů ve zprávách&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí zvolit vybavení pro testování softwaru&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></keyConsiderations>
+  <skills>&lt;p>&#xD;
+    &lt;strong>Klíčové kompetence:&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        musí být kompetentní v oblasti ve které je testování prováděno, např. požadavky na software, data, kód atd.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí být kompetentní v různých přístupech/metodologiích testování a verifikace a být schopen identifikovat&#xD;
+        nejvhodnější metodu v daném kontextu&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí být schopný odvodit testovací případ z daných specifikací&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí mít schopnost analytického myšlení a dobré pozorovací schopnosti&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí rozumět příslušným částem EN 50128&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></skills>
   <synonyms>TST</synonyms>
 </org.eclipse.epf.uma:RoleDescription>

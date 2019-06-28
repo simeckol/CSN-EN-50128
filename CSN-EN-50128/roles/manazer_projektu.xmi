@@ -1,4 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b-6hJ6XAD50EmbVTJpO0gA" name="new_role,_O8RdMMjEEeixxZe6yMuoZA" guid="-b-6hJ6XAD50EmbVTJpO0gA" changeDate="2018-10-05T19:30:54.972+0200">
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b-6hJ6XAD50EmbVTJpO0gA" name="new_role,_O8RdMMjEEeixxZe6yMuoZA" guid="-b-6hJ6XAD50EmbVTJpO0gA" changeDate="2019-05-28T21:47:36.767+0200">
+  <keyConsiderations>&lt;p>&#xD;
+    &lt;strong>Odpovědnosti:&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        musí zajistit, že systém řízení kvality a nezávislost rolí dle 5.1 jsou zavedeny v projektu a postup projektu je&#xD;
+        kontrolován proti plánům&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí přidělit dostatečný počet kompetentních zdrojů k projektu pro provedení základních úkolů včetně činností&#xD;
+        bezpečnosti, přičemž musí brát v úvahu předepsanou nezávislost rolí&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí zajistit, že byl pro projekt stanovený vhodný validátor jak je definováno v EN 50128&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí být zodpovědný za dodání a nasazení softwaru a zajistit, že také požadavky na bezpečnost od zainteresovaných&#xD;
+        stran byly splněny a jsou součástí dodání&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí poskytnout dostatečný čas pro správnou realizaci a naplnění úkolů spojených s bezpečností&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí schválit částečné a celkové výstupy z vývojového procesu, které souvisejí s bezpečností&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí zajistit že jsou udržovány dostatečné záznamy a sledovatelnost v oblastech rozhodování, které mají souvislost&#xD;
+        s bezpečností&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></keyConsiderations>
+  <skills>&lt;p>&#xD;
+    &lt;strong>Klíčové kompetence:&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        musí rozumět požadavkům na kvalitu, kompetence, organizaci a řízení dle EN 50128&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí rozumět požadavkům procesu bezpečnosti&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí být schopný zvážit různé možnosti a pochopit vliv rozhodnutí nebo zvoleného opatření na chování z pohledu&#xD;
+        bezpečnosti&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí rozumět požadavkům procesu vývoje softwaru&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí rozumět požadavkům dalších relevantních norem&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></skills>
   <synonyms>PM, project manager</synonyms>
 </org.eclipse.epf.uma:RoleDescription>

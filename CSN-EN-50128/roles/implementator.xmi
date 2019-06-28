@@ -1,4 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LO59Ybw8mhc2RbB0Nl6y6g" name="new_role,_qFKWEMjEEeixxZe6yMuoZA" guid="-LO59Ybw8mhc2RbB0Nl6y6g" changeDate="2018-11-02T15:55:42.866+0100">
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LO59Ybw8mhc2RbB0Nl6y6g" name="new_role,_qFKWEMjEEeixxZe6yMuoZA" guid="-LO59Ybw8mhc2RbB0Nl6y6g" changeDate="2019-05-28T13:39:36.044+0200">
+  <keyConsiderations>&lt;p>&#xD;
+    &lt;strong>Odpovědnosti:&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        musí transformovat řešení návrhu na data / zdrojový kód / jinou reprezentaci návrhu&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí transformovat zdrojový kód na spustitelný kód / jiné reprezentace návrhu&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí použít principy týkající se bezpečného návrhu&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí použít stanovené standardy pro přípravu dat / kódovací standardy&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí provést analýzy za účelem verifikace mezivýsledků&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí integrovat software na cílovém zařízení&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí vypracovat a udržovat dokumenty implementace zahrnující použité metody, typy dat a seznamy&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí udržovat sledovatelnost k a od návrhu&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí udržovat vytvořená nebo modifikovaná data / kód v systému řízení změn a konfigurace&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;br />&#xD;
+&lt;br /></keyConsiderations>
+  <skills>&lt;p>&#xD;
+    &lt;strong>Klíčové kompetence:&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        musí být kompetentní v obotu přiměřeně k oblasti aplikace&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí být kompetentní v jazyku implementace a podpůrných nástrojích&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí být schopný používat stanovené kódovací standardy a styly pro programování&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí rozumět všem omezením vynuceným hardwarovou platformou, operačním systémem a systémy rozhraní&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí rozumět příslušným částem EN 50128&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></skills>
   <synonyms>IMP, implementer</synonyms>
 </org.eclipse.epf.uma:RoleDescription>

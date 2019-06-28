@@ -1,4 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6WFkxCf6i6Lx_3kSxBX_Mg" name="new_role,_5kE7IMjEEeixxZe6yMuoZA" guid="-6WFkxCf6i6Lx_3kSxBX_Mg" changeDate="2018-10-05T19:34:46.676+0200">
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6WFkxCf6i6Lx_3kSxBX_Mg" name="new_role,_5kE7IMjEEeixxZe6yMuoZA" guid="-6WFkxCf6i6Lx_3kSxBX_Mg" changeDate="2019-05-28T14:42:29.504+0200">
+  <keyConsiderations>&lt;p>&#xD;
+    &lt;strong>Odpovědnosti:&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        musí vytvořit plán verifikace softwaru (který může obsahovat otázky kvality) uvádějící co vyžaduje verifikaci a&#xD;
+        jaké typy procesů (např. přezkoumání, analýzu atd.) a testů jsou požadovány jako důkaz&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí zkontrolovat adekvátnost (kompletnost, konzistenci, správnost, závažnost a sledovatelnost) dokumentovaných&#xD;
+        důkazů z přezkoumání, integrace a testování proti specifikovaným cílům verifikace&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí identifikovat anomálie, vyhodnotit je v termínech (dopadu) rizika, zaznamenat je a oznámit příslušné skupině&#xD;
+        odpovědné za řízení změn za účelem jejich vyhodnocení a stanovení rozhodnutí&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí řídit verifikační proces (přezkoumání, integraci a testování) a zajistit nezávislost činností, jak je&#xD;
+        požadováno&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí vytvořit a udržovat záznamy z verifikačních aktivit&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí vytvořit zprávu z verifikace uvádějící výsledek verifikačních činností&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></keyConsiderations>
+  <skills>&lt;p>&#xD;
+    &lt;strong>Klíčové kompetence:&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        musí být kompetentní v oblasti ve které je verifikace prováděna, např. požadavky na software, data, kód atd.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí být kompetentní v různých přístupech/metodologiích verifikace a být schopen identifikovat nejvhodnější metodu&#xD;
+        nebo kombinaci metod v daném kontextu&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí být schopen odvodit typy verifikace z daných specifikací&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí mít schopnost analytického myšlení a dobré pozorovací schopnosti&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí rozumět příslušným částem EN 50128&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></skills>
   <synonyms>VER, verifier</synonyms>
 </org.eclipse.epf.uma:RoleDescription>

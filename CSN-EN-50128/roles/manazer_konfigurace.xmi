@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--1Lh2nPjerVsnoiZ43O-xA" name="new_role,_WFU2MCYcEemSeZcT9hWL7w" guid="--1Lh2nPjerVsnoiZ43O-xA" changeDate="2019-02-01T13:25:06.063+0100">
-  <mainDescription>&lt;p>&#xD;
-    entita, která je zodpovědná za zavádění a provádění procesů pro řízení konfigurace dokumentů, softwaru a souvisejících&#xD;
-    nástrojů včetně řízení změn&#xD;
-&lt;/p></mainDescription>
-  <synonyms>&lt;p>&#xD;
-    Configuration Manager&#xD;
-&lt;/p></synonyms>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--1Lh2nPjerVsnoiZ43O-xA" name="new_role,_WFU2MCYcEemSeZcT9hWL7w" guid="--1Lh2nPjerVsnoiZ43O-xA" changeDate="2019-05-28T21:49:39.408+0200">
+  <keyConsiderations>&lt;p>&#xD;
+    &lt;strong>Odpovědnosti:&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        musí být zodpovědný za plán řízení konfigurace softwaru&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí mít systém řízení konfigurace&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí prokázat, že všechny komponenty softwaru jsou jasně identifikované (rozpoznatelné) a nezávisle verzované v&#xD;
+        rámci systému řízení konfigurace&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí připravit poznámky k vydání, která obsahují nekompatibilní verze softwarových komponent&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></keyConsiderations>
+  <skills>&lt;p>&#xD;
+    &lt;strong>Klíčové kompetence:&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        musí být kompetentní v řízení konfigurace softwaru&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí rozumět požadavkům EN 50128&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></skills>
+  <synonyms>Configuration Manager</synonyms>
 </org.eclipse.epf.uma:RoleDescription>

@@ -1,4 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gnxTZC_CDx3k_Bf1cKxfUQ" name="new_role,_xyEXYMjEEeixxZe6yMuoZA" guid="-gnxTZC_CDx3k_Bf1cKxfUQ" changeDate="2018-10-05T19:33:57.455+0200">
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gnxTZC_CDx3k_Bf1cKxfUQ" name="new_role,_xyEXYMjEEeixxZe6yMuoZA" guid="-gnxTZC_CDx3k_Bf1cKxfUQ" changeDate="2019-05-28T14:46:11.084+0200">
+  <keyConsiderations>&lt;p>&#xD;
+    &lt;strong>Odpovědnosti:&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        musí řídit integrační proces s použitím softwarové baseline&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí vytvořit specifikaci testů integrace softwaru a integrace softwaru/hardwaru pro softwarové komponenty,&#xD;
+        založené na specifikaci a architektuře komponent od návrháře, uvádějící jaké jsou nezbytné vstupní komponenty,&#xD;
+        pořadí integračních činností a výsledné integrované komponenty&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí vytvořit a udržovat záznamy o činnostech integrace&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí identifikovat anomálie z integrace, zaznamenat je a oznámit příslušné skupině odpovědné za řízení změn za&#xD;
+        účelem jejich vyhodnocení a stanovení rozhodnutí&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí vytvořit zprávu z integrace komponent a integrace systému jako celku uvádějící výsledek integrace&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></keyConsiderations>
+  <skills>&lt;p>&#xD;
+    &lt;strong>Klíčové kompetence:&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        musí být kompetentní v oblasti, ve které je integrace prováděna, např. příslušné programovací jazyky, rozhraní&#xD;
+        softwaru, operační systémy, data, platformy, kód atd.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí být kompetentní v různých přístupech/metodologiích integrace a být schopen identifikovat nejvhodnější metody&#xD;
+        nebo kombinace metod v daném kontextu&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí být kompetentní v porozumění návrhu a funkcionality požadované na různých meziúrovních&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí být schopen odvodit typy testů integrace ze sady integrovaných funkcí&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí mít schopnost analytického myšlení a dobrou pozorovací schopnost s ohledem na systémovou úroveň&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí rozumět příslušným částem EN 50128&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></skills>
   <synonyms>INT, integrator</synonyms>
 </org.eclipse.epf.uma:RoleDescription>
