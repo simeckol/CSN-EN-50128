@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZoBCGiPjI1_L33XQw_ZDcg" name="new_practice,_MuujsJ5AEemood4EUWwS2g" guid="-ZoBCGiPjI1_L33XQw_ZDcg">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Tato technika dává priority různým funkcím, které más systém provést. Návrh potom zajišťuje, že pokud by byly&#xD;
+    nedostatečné zdroje pro provedení všech funkcí systému, budou provedeny přednostně funkce s vyšší prioritou před&#xD;
+    funkcemi s nižší prioritou. Například funkce zaznamenávání chyb a událostí mohou mít nižší prioritu než funkce řízení&#xD;
+    systému a v tomto případě by řízení systému pokračovalo i kdyby došlo k poruše hardwaru spojeného se záznamenáváním&#xD;
+    chyb.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Dalším příkladem může být zabezpečovací systém kde v případě ztráty komunikace s řídícím centrem místní traťové&#xD;
+    zařízení automaticky nastaví povolené cesty pro směr odvozený od nejvyšší priority provozu. To může být mírná&#xD;
+    degradace, protože vlaky na prioritních cestách mohou projíždět přes oblast postiženou ztrátou komunikace s řídícím&#xD;
+    centrem, ale ostatní provoz, jako posun, není možný.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Udržet navzdory poruchám dostupné kritičtější funkce systému tak, že se vypustí méně kritické funkce.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

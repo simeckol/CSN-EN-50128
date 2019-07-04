@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cPrEJu2ENM3nNbIPm1_epg" name="new_practice,_Ncm5QIUZEem814tjJkKTtQ" guid="-cPrEJu2ENM3nNbIPm1_epg" changeDate="2019-06-02T11:32:22.385+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Podobně jako CSP je CCS matematická výpočtová metoda týkající se chování systémů. Návrh systému je modelován jako síť&#xD;
+    nezávislých procesů, které pracují sekvenčně nebo paralelně. Procesy mohou komunikovat přes porty (podobně jako kanály&#xD;
+    CSP), přičemž ke komunikaci dojde pouze tehdy, když jsou oba procesy připraveny. Může být modelován také&#xD;
+    nedeterminismus. Počínaje vysokoúrovňovým abstraktním popisem celého systému (známým jako stopa); je možné systém&#xD;
+    postupně zjemňovat na složky komunikačních procesů, jejichž celkové chování je chování vyžadované od celého systému.&#xD;
+    Stejně tak je možné pracovat způsobem zdola nahoru skládáním procesů a odvozováním vlastností výsledného systému pomocí&#xD;
+    inferenčních pravidel vztahujících se k pravidlům skládání.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    CCS je prostředek pro popis a zdůvodnění chování systémů souběžných komunikačních procesů.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tEoL-4hag1NGwxqvrZXNsg" name="new_practice,_8-NCgJ5FEempu9k_SdMtDQ" guid="-tEoL-4hag1NGwxqvrZXNsg" changeDate="2019-07-04T12:25:48.080+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pravděpodobnostní úvahy jsou buď založeny na pravděpodobnostním testování nebo na zkušenostech z provozu. Počet&#xD;
+    testovacích případů pro danou provozní aplikaci je obvykle velmi velký.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pro usnadnění testování se obykle používají automatické pomůcky, které se týkají detailního zajištění testovacích dat a&#xD;
+    dohledu nad výstupem testu. Rozsáhlé testy jsou prováděny na velkých hlavních počítačích s příslušnou periferií pro&#xD;
+    simulaci procesu. Testovací data jsou volena jak podle systematického, tak podle náhodného hlediska. První hledisko se&#xD;
+    týká celkového řízení testu, například zaručuje profil testovacích dat.&lt;br />&#xD;
+    Náhodný výběr je zaměřen podrobně na jednotlivé testovací případy.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Jednotlivé testovací prostředí (test harnesses), provádění testování a dohled nad testováním jsou určeny prodrobnými&#xD;
+    cíly testování, jak je popsáno výše. Jiné důležité podmínky jsou dány pomocí matematických předpokladů, které mají být&#xD;
+    splněny, aby bylo umožněno hodnocení testování z hlediska stanoveného cíle testování.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pravděpodobnostní údaje o chování jakéhokoliv objektu testování mohou být také odvozeny ze zkušeností z provozu. Za&#xD;
+    předpokladu, že jsou splněny stejné podmínky, může být pro hodnocení výsledků testování aplikován stejný matematický&#xD;
+    postup.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Získat kvantitativní údaj o vlastnostech bezporuchovosti vyšetřovaného softwaru. Tento údaj se může týkat příslušné&#xD;
+    úrovni konfidence a významnosti a&#xD;
+&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        a) pravděpodobnosti poruchy podle požadavku;&lt;br />&#xD;
+        b) pravděpodobnosti poruchy během určitého časového období; a&lt;br />&#xD;
+        c) pravděpodobnosti izolace chyb.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;p>&#xD;
+    Z těchto údajů mohou být odvozeny jiné parametry, jako:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        pravděpodobnost provedení bez poruch;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        pravděpodobnost přežití;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        pohotovost;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        MTBF*) nebo intenzita poruch; a&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        pravděpodobnost bezpečného provedení.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    *) NÁRODNÍ POZNÁMKA MTBF – střední doba provozu mezi poruchami (Mean operating Time Between Failures).&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

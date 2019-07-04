@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6-KkNsp1YHVL7H_nZuhSMw" name="new_practice,_i2_P4IRYEem0C-IAHWDyTw" guid="-6-KkNsp1YHVL7H_nZuhSMw" changeDate="2019-06-01T12:33:09.250+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    „Formální“ prověření dokumentů pro zjištění kvality zaměřené na nalezení chyb a jejich vypuštění. Proces inspekce&#xD;
+    sestává z pěti etap: plánování, příprava, kontrola, přepracování a sledování. Každá z těchto etap má svůj vlastní&#xD;
+    samostatný cíl. Inspekcí musí být podorben vývoj celého systému (specifikace, návrh, kódování a testování).&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Odhalit chyby ve všech etapách vývoje programu.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

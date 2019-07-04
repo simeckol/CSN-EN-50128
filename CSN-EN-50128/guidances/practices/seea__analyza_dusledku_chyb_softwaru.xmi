@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-apeDfrpv24aBMaA-jVnb1w" name="new_practice,_fMthEIRZEem0C-IAHWDyTw" guid="-apeDfrpv24aBMaA-jVnb1w" changeDate="2019-06-01T12:40:00.023+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Analýza se provádí ve třech etapách:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Identifikace podstatných softwarových komponent&lt;br />&#xD;
+        Stanovení hloubky analýzy (na úrovni jednotlivé řádky instrukce, skupiny instrukcí, komponenty atd.) potřebnou pro&#xD;
+        každou softwarovou komponentu podle jeho specifikace.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Analýza chyb softwaru&lt;br />&#xD;
+        Výsledkem této etapy je tabulka, v níž jsou uvedeny následující informace:&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                název komponenty;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                uvažovaná chyba;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                důsledky chyby na úrovni modulu;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                důsledky na úrovni systému;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                porušené kritérium bezpečnosti;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                kritičnost chyby;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                navrhované prostředky pro detekci chyby;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                porušené kritérium, jsou-li implementovány prostředky pro detekci;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                zbytková kritičnost, jsou-li implementovány prostředky pro detekci.&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Syntéza&lt;br />&#xD;
+        Syntéza identifikuje zbývající scénáře, které nejsou bezpečné a úsilí potřebné pro validaci při dané kritičnosti&#xD;
+        každého modulu.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    SEEA, která je hloubkovou analýzou prováděnou nezávislým týmem, je účinná metoda nacházení vad.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Identifikovat softwarové moduly, jejich kritičnost, navrhnout prostředky pro detekci chyb softwaru a zvýšení&#xD;
+    robustnosti softwaru; hodnotit rozsah validace potřebný pro různé komponenty softwaru.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

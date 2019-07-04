@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cPPdTFE3FkikTvC287v1Bw" name="new_practice,_WdH94IUhEem814tjJkKTtQ" guid="-cPPdTFE3FkikTvC287v1Bw" changeDate="2019-06-02T12:31:31.036+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    B modelování volá matematické položky z teorie množin. Na jedné straně invarianty (predikáty) definují statické&#xD;
+    vlastnosti modelu. Na druhé straně operace stanovují následné podmínky, tedy definují jeho dynamické chování.&#xD;
+    Specifikace komplexního systému nebo softwaru je možná dekompozicí modelu na „stroje“ (machines) svázané společně&#xD;
+    vztahy různých sémantik.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Můžeme rozlišit dvě hlavní kategorie modelování s B formalismem.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Dřívější (historicky první) se zaměřuje na vývoj softwaru: v tomto případě je cílem vytvořit program, který&#xD;
+        respektuje specifikace. Model se setává z abstraktních strojů (ne nezbytně deterministických) a postupných&#xD;
+        vylepšení těchto strojů, vedoucích k deterministickým implementacím napsaným v pseudokódu nazývaném „B0“. Tento&#xD;
+        pseudo-kód pak může být automaticky přeložen do cílového programovacího jazyka.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Pozdější se zaměřuje na modelování systémů a v tomto případě mluvíme o „události B“ (Event B): účelem je&#xD;
+        specifikovat, bez nejasností a koherentně, systém tak, že naplňuje explicitní vlastnosti. Model bere v úvahu&#xD;
+        vlastní systém a jeho prostředí. Dynamika systému je modelována „událostmi“, a jsou použity zlepšovací techniky,&#xD;
+        aby byly zpřesněny interakce mezi systémem a jeho prostředím.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Sada závazných důkazů (logické ujištění, že se formálně prokázaly od hypotéz, které byly získány z B formálního modelu)&#xD;
+    je generována automaticky. Tyto závazné důkazy garantují:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        existenci dat, které splňují statické a dynamické vlastnosti modelu;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        že operace (dynamické chování modelu) respektují invarianty;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        že zlepšování dat a operací (a B0 pseudo-kódu pokud to je nezbytné) neodporuje specifikacím zapsaným v abstraktních&#xD;
+        strojích;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        že každá operace je volána v rámci kontextu své předchozí podmínky;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        v případě modelování softwaru, že program bude ukončen (zejména že každá smyčka bude ukončena).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Jsou také generovány další závazné důkazy, například ověření přetečení nebo podtečení celého čísla.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Stejně jako VDM, je účel metody B modelova formálně systém nebo software a prokázat, že chování systému nebo softwaru&#xD;
+    respektuje vlastnosti, které byly explicitní během modelování.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

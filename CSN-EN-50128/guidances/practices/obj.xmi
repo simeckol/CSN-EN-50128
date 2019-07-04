@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0iarbiyVWtyNBBDDkkDGmw" name="new_practice,_Fja9MIUeEem814tjJkKTtQ" guid="-0iarbiyVWtyNBBDDkkDGmw" changeDate="2019-06-02T12:10:41.482+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    OBJ je algebraický jazyk pro specifikace. Uživatelé specifikují požadavky pomocí algebraických rovnic. Funkční nebo&#xD;
+    konstrukční aspekty systému jsou specifikovány na základě operací působících nad abstraktními typy dat (ADT). ADT je&#xD;
+    podobné konstrukci „balíčku“ (package) v jazyce Ada*), kde je operační chování viditelné, zatímco detaily implemetace&#xD;
+    jsou „skryté“.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Na specifikaci OBJ a následnou postupnou implementaci je možné užít stejné formální kontrolní techniky jako na jiné&#xD;
+    formální přístupy. Kromě toho, protože jsou konstruktivní aspekty specifikace OBJ strojově proveditelné, je jednoduché&#xD;
+    dosáhnout validace systému ze samotné specifikace. Provádění je v podstatě vyhodnocování hodnoty funkce náhradou do&#xD;
+    rovnice (přepsáním), které se provádí dokud není dosaženo specifikované výstupní hodnoty. Tato proveditelnost umožňuje&#xD;
+    konečným uživatelům předpokládaného systému získat „pohled“ na uvažovaný systém ve stádiu specifikace systému, aniž by&#xD;
+    bylo třeba seznamovat se s vlastními formálními technikami specifikace.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Stejně jako v případě všech ostatních technik ADT je OBJ možno použít pouze pro sekvenční systémy nebo pro sekvenční&#xD;
+    aspekty paralelních systémů. OBJ se používá v širokém měřítku pro specifikaci jak malých, tak rozsáhlých průmyslových&#xD;
+    aplikací.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    *) POZNÁMKA Ada je strukturovaný, typově statický, příkazový, širokospektrální a objektově orientovaný vysokoúrovňový&#xD;
+    počítačový programovací jazyk, odvozený z Pascalu a dalších jazyků.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Poskytnout přesnou specifikaci systému s uživatelskou zpětnou vazbou a validací systému před implementací.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

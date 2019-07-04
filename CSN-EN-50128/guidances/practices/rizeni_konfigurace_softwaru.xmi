@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QmM7CAduPWVAlYx5iVUHyw" name="new_practice,_oHDGEJ5IEempu9k_SdMtDQ" guid="-QmM7CAduPWVAlYx5iVUHyw" changeDate="2019-07-04T12:44:24.716+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Řízení konfigurace softwaru je technika používaná během vývoje. V podstatě vyžaduje zaznamenávání tvorby každé verze&#xD;
+    každé významné sestavy a každého vztahu mezi různými verzemi různých sestav. Výsledné záznamy umožňují, aby návrhář&#xD;
+    určil při změně jedné sestavy vliv na jiné sestavy. Z konzistentních sestav verzí komponent mohou být spolehlivě znovu&#xD;
+    vytvářeny zejména systémy nebo subsystémy.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Cílem řízení konfigurace softwaru je zajistit konzistenci skupin výsledků vývoje během jejich změn. Řízení konfigurace&#xD;
+    platí obecně jak pro vývoj hardwaru tak softwaru.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

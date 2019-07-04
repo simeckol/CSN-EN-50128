@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bA8yZG78h9xL9TGgs1rIPA" name="new_practice,_yqiJwIOrEem5iP69ELuW8w" guid="-bA8yZG78h9xL9TGgs1rIPA" changeDate="2019-05-31T15:56:59.182+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Do programu jsou zavedeny některé známé typy chyb a program je spuštěn s testovacími případy za testovacích podmínek.&#xD;
+    Jsou-li nalezeny pouze některé z rozsetých chyb, sada testovacích případů není dostatečná. Poměr počtu nalezených&#xD;
+    rozsetých chyb k celkovému počtu rozsetých chyb je odhadem poměru počtu nalezených skutečných chyb k celkovému počtu&#xD;
+    chyb. To umožňuje odhadnout počet zbývajících chyb a tím zabývající úsilí spojené s testováním.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 52px; WIDTH: 547px&quot; alt=&quot;&quot; src=&quot;resources/seeding.png&quot; width=&quot;600&quot; height=&quot;128&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Detekce všech rozsetých chyb může indikovat buď to, že sada testovacích případů je dostatečná, nebo že bylo příliš&#xD;
+    snadné rozseté chyby najít. Omezení metody spočívají v tom, že aby se dosáhlo jakýchkoliv použitelných výsledků, typy&#xD;
+    chyb i polohy rozsetí musí odrážet statistické rozdělení skutečných chyb.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pokud je rozsévání chyb použito, musí být zaznamenány polohy všech chyb a validátor musí zaručit, že všechny rozseté&#xD;
+    chyby byly odstraněny před vydáním softwaru.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ujistit se, že je sada testovacích případů dostatečná.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

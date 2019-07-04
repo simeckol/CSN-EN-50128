@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-apY1ohuDjYBRVCk5XdjESg" name="new_custom_category,_LOcCoILWEemqnsVyRnP7Fg" guid="-apY1ohuDjYBRVCk5XdjESg">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Poskytnout popis softwaru, z vyšších úrovní abstrakce dolů až po podrobné zjemňování s cílem vytvořit kostru pro&#xD;
+        důkaz dosažené bezpečnosti a také pro budoucí činnosti údržby. (7.1.1.1)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

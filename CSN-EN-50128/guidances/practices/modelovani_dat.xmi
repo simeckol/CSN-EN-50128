@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UtUOTuuOrr0-F_w29fd01Q" name="new_practice,_b7z3QJ5TEempu9k_SdMtDQ" guid="-UtUOTuuOrr0-F_w29fd01Q" changeDate="2019-07-04T14:03:58.402+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Modelování dat v počítačové disciplíně je proces vytváření modelu dat aplikováním popisů formálních modelů dat s&#xD;
+    použitím technik modelování dat.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Model dat v softwarovém inženýrství je abstraktní model který popisuje, jak jsou data reprezentována a jaký je k nim&#xD;
+    možný přístup. Datové modely formálně definují datové objekty a vztahy mezi datovými objekty v oblasti zájmu. Některé&#xD;
+    typické aplikace modelů databáze zahrnují podporu vývoje databáze a umožňují výměnu dat pro konkrétní oblast zájmu.&#xD;
+    Modely dat jsou specifikovány v jazyko modelování dat (data modelling language).&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Vytvořit model dat.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

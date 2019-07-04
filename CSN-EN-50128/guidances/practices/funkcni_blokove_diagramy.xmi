@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pxvLhFVL5cuDe4vUlCR8HA" name="new_practice,_rqgPoJ5REempu9k_SdMtDQ" guid="-pxvLhFVL5cuDe4vUlCR8HA" changeDate="2019-07-04T13:49:23.289+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Viz EN 61131-3:2003, kapitola 4.3.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Popsat funkci mezi vstupními proměnnými a výstupními proměnnými schématickým způsobem.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

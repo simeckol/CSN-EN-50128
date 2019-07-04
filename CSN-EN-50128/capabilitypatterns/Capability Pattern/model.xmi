@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_fqYIsEWIEemhELvG__VSRQ" guid="_fqYIsEWIEemhELvG__VSRQ">
-    <resourceDescriptors xmi:id="_fqYIsUWIEemhELvG__VSRQ" id="-tPA9FzI7nLOu4QRUl-K13Q" uri="content.xmi"/>
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_xEJ_kIHvEemoPoTBJsGLNw" guid="_xEJ_kIHvEemoPoTBJsGLNw">
+    <resourceDescriptors xmi:id="_xEJ_kYHvEemoPoTBJsGLNw" id="-sr_ZWVum7Fjt-YWtdm66aA" uri="content.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:ProcessComponent xmi:id="_fpbGcEWIEemhELvG__VSRQ" name="Capability Pattern" guid="_fpbGcEWIEemhELvG__VSRQ">
-    <methodElementProperty xmi:id="_fpbGckWIEemhELvG__VSRQ" name="pkg_loadCheck" value="true"/>
-    <methodElementProperty xmi:id="_MM-p8EWKEemhELvG__VSRQ" name="me_edited" value="true"/>
-    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ISf0kEWOEemhELvG__VSRQ" name="Nasazení a údržba softwaru" guid="_ISf0kEWOEemhELvG__VSRQ">
-      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_ISf0kUWOEemhELvG__VSRQ" name="Nasazení a údržba softwaru" guid="_ISf0kUWOEemhELvG__VSRQ" presentationName="Nasazení a údržba softwaru" superActivities="_fpbGcUWIEemhELvG__VSRQ"/>
-    </childPackages>
-    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_fpbGcUWIEemhELvG__VSRQ" name="Capability Pattern" guid="_fpbGcUWIEemhELvG__VSRQ" presentationName="Capability Pattern" breakdownElements="_ISf0kUWOEemhELvG__VSRQ">
-      <presentation xmi:id="-tPA9FzI7nLOu4QRUl-K13Q" href="uma://-tPA9FzI7nLOu4QRUl-K13Q#-tPA9FzI7nLOu4QRUl-K13Q"/>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_xDDMUIHvEemoPoTBJsGLNw" name="Capability Pattern" guid="_xDDMUIHvEemoPoTBJsGLNw">
+    <methodElementProperty xmi:id="_xDDMUoHvEemoPoTBJsGLNw" name="pkg_loadCheck" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_xDDMUYHvEemoPoTBJsGLNw" name="Capability Pattern" guid="_xDDMUYHvEemoPoTBJsGLNw" presentationName="Capability Pattern">
+      <presentation xmi:id="-sr_ZWVum7Fjt-YWtdm66aA" href="uma://-sr_ZWVum7Fjt-YWtdm66aA#-sr_ZWVum7Fjt-YWtdm66aA"/>
     </process>
   </org.eclipse.epf.uma:ProcessComponent>
 </xmi:XMI>

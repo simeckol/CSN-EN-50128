@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EEvBLSHecHxG2dh4XVZ4OQ" name="new_practice,_RquqAJ5IEempu9k_SdMtDQ" guid="-EEvBLSHecHxG2dh4XVZ4OQ" changeDate="2019-07-04T12:42:02.825+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    „Safety Bag“ je vnější monitor realizovaný na nezávislém počítači podle odlišné specifikace. Tento „Safety Bag“ má&#xD;
+    výhradně zajišťovat, aby hlavní počítač prováděl bezpečné, nikoliv nutně správné činnosti. „Safety Bag“ monitoruje&#xD;
+    hlavní počítač trvale. Tento „Safety Bag“ chrání systém, aby se nedostal do nebezpečného stavu. Kromě toho, zjistí-li,&#xD;
+    že hlavní počítač se dostává do potenciálně nebezpečného stavu, musí být systém přiveden zpět do bezpečného stavu buď&#xD;
+    pomocí „Safety Bagu“ nebo hlavního počítače.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Chránit před reziduálními vadami specifikace a implementace softwaru, které nepříznivě ovlivňují bezpečnost.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

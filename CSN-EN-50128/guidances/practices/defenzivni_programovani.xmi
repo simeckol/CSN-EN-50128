@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lSU_jlNvYrj0rvwvWHsXcw" name="new_practice,_X8j3EIMCEem3ePduwn22WA" guid="-lSU_jlNvYrj0rvwvWHsXcw" changeDate="2019-05-30T19:44:27.049+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Během programování mohou být používány mnohé techniky pro kontrolu anomálií řízení nebo dat. Tyto techniky mohou být&#xD;
+    používány systematicky během programování systému pro snížení pravděpodobnosti chybného zpracování dat.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Mohou být stanoveny dvě překrývající se oblasti defenzivních technik. Navrhne se software s vlastní bezpečností proti&#xD;
+    chybám pro úpravu nedostatků vlastního návrhu. Tyto nedostatky mohou být způsobeny prostou chybou návrhu nebo kódování,&#xD;
+    nebo chybnými požadavky. Dále jsou uvedeny některé z defenzivních&lt;br />&#xD;
+    technik:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        hodnoty proměnných mají být kontrolovány, pokud jde o jejich rozsah;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        kde je to možné, má být provedena kontrola smyslu hodnot;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        parametry procedur mají být kontrolovány na vstupu procedury, pokud jde o typ, rozměr a rozsah.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Tato první tři doporučení pomáhají zajistit, že čísla manipulovaná programem jsou smysluplná, jak pokud jde o funkci&#xD;
+    programu, tak o fyzický význam proměnných.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Parametry pouze pro čtení a parametry pro čtení a zápis mají být odděleny a přístup k nim zkontrolován. Funkce mají&#xD;
+    zpracovávat všechny parametry jako by měly status pouze pro čtení. Literální konstanty nemají být přístupné pro zápis.&#xD;
+    To pomáhá nalézt náhodné přepsání nebo chybné používání proměnných.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Navrhne se software odolný proti chybám, který „očekává“ poruchy v jeho vlastním prostředí nebo použití mimo jmenovité&#xD;
+    nebo očekávané podmínky a chová se předem definovaným způsobem. Techniky zahrnují:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        u vstupních proměnných a pracovních proměnných s fyzickým významem by měla být provedena kontrola smyslu hodnot;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        měl by být zkontrolován vliv výstupních proměnných, nejlépe přímým pozorováním změn stavu příslušného systému;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        software by měl zkontrolovat svou konfiguraci. To může zahrnovat jak existenci a přístupnost předpokládaného&#xD;
+        hardwaru, tak také to zda je samotný software úplný. Je to zvlášť důležité pro zachování integrity po provedení&#xD;
+        údržby.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Některé z technik defenzivního programování, jako je kontrola sledu toku řízení, rovněž zvládají problematiku vnějších&#xD;
+    poruch.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Vytvořit programy, které odhalují anomální tok řízení, tok dat nebo hodnoty dat během jejich provádění a reagují na ně&#xD;
+    předem stanoveným a přijatelným způsobem.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

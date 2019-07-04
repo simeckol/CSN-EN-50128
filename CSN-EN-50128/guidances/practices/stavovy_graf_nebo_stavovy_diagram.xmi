@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-j-eH4Qm1ObCyycHWdYGMeA" name="new_practice,_Kd7rIJ5TEempu9k_SdMtDQ" guid="-j-eH4Qm1ObCyycHWdYGMeA" changeDate="2019-07-04T13:59:56.917+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Stavový graf nebo stavový diagram jsou používány pro popis chování systému. Stavové diagramy mohou popsat možné stavy&#xD;
+    objektu během výskytu jednotlivých událostí. Každý diagram obvykle představuje objekty jedné třídy a sleduje různé&#xD;
+    stavy těchto objektů skrz systém.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Stavový diagram může být použit pro grafickou reprezentaci automatu konečných stavů. To poprvé představil Taylor Booth&#xD;
+    v roce 1967 ve své knize „Sequential Machines and Automata Theory“. Další možná reprezentace je tabulka stavových&#xD;
+    přechodů (State transition table).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Klasickou formou stavových diagramů pro automat konečných stavů je řízený graf.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Popsat chování systému schématickým způsobem.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

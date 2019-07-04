@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VUDkN43p7ZApDstj8efGOw" name="new_practice,_obgAMJ5VEempu9k_SdMtDQ" guid="-VUDkN43p7ZApDstj8efGOw" changeDate="2019-07-04T14:18:17.130+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Tabulkové notace jako návěstní kontrolní tabulky jsou dobře zavedené metody dokumentace specifických požadavků&#xD;
+    instalace pro železniční návěstní soustavy.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Tato technika je vhodná tam, kde jsou stanadardizované druhy vztahů mezi elementy systému.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Výhoda: Formát tabulky a možné vstupy v každé položce mohou sloužit jako kontrolní seznam během verifikace.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Cílem je poskytnout standardizované a dobře strukturované prostředky definování datově řízených funkcí systému.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

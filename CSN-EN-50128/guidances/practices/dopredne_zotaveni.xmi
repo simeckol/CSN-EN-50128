@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lGks2aT7j-s0BIh3rAtWMw" name="new_practice,_xiBh0J4_Eemood4EUWwS2g" guid="-lGks2aT7j-s0BIh3rAtWMw" changeDate="2019-07-04T11:41:58.020+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pokud byla detekována vada, je systém řízen tak, aby po nějaké době bylo dosaženo konsistentního stavu. Tato koncepce&#xD;
+    je zvlášť vhodná pro systémy v reálném čase s malou databází a velkou rychlostí změny vnitřního stavu. Předpokládá se,&#xD;
+    že alespoň část stavu systému prostředí ovlivnit může a pouze část stavů systému prostředím ovlivněna (vynuceně) je.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Zajistit správný funkční provoz za přítomnosti jedné nebo více vad.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

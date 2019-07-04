@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sRy7pvutw2MIOUMTJCPcOA" name="new_practice,_zAGloILxEem3ePduwn22WA" guid="-sRy7pvutw2MIOUMTJCPcOA" changeDate="2019-05-30T17:45:14.330+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Toto může být považováno za kombinaci analýzy stromu vad a stromu událostí. Vychází se z kritické události a graf&#xD;
+    příčina – následek je nakreslen směrem zpětně a vpřed. Ve zpětném směru je ekvivalentní stromu vad s kritickou událostí&#xD;
+    jako danou horní událostí. V dopředném směru jsou identifikovány možné následky vyplývající z událostí. Graf může&#xD;
+    obsahovat vrcholové symboly, které popisují podmínky pro šíření podél různého větvení z vrcholu. Může být rovněž&#xD;
+    zahrnuto časové zpoždění. Tyto podmínky mohou být také popsány pomocí stromů vad. Linie šíření mohou být kombinovány s&#xD;
+    logickými symboly, aby byl diagram kompaktnější. Pro použití v diagramech příčina – následek je definován soubor&#xD;
+    standardních symbolů. Diagramy mohou být použity pro výpočet pravděpodobnosti výskytu určitých kritických následků.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Modelovat ve formě diagramu sled událostí, které mohou vzniknout v systému v důsledku kombinací základních událostí.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

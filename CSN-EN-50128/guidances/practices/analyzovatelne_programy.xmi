@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DGbubi4IsF4YDYt6UewbLw" name="new_practice,_Jb8LcILwEem3ePduwn22WA" guid="-DGbubi4IsF4YDYt6UewbLw">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;b>Popis&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>Záměrem je vytvořit programy, které jsou snadno analyzovatelné za použití metod&#xD;
+    statické analýzy. Aby se toho&lt;/font>&lt;/font>&amp;nbsp;&lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>dosáhlo, je třeba dodržet pravidla&#xD;
+    strukturovaného programování, např.:&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>tok řizení modulu má být složen ze strukturovaných konstrukcí, tj. sekvencí,&#xD;
+            iterací a selekce;&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>moduly mají být malé;&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>počet možných cest modulem má být malý;&lt;/font>&lt;/font>&amp;nbsp;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>jednotlivé části programu musí být navrženy tak, aby byly pokud možno&#xD;
+            nespřaženy;&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>vztah mezi vstupními a výstupními parametry má být co&#xD;
+            nejjednodušší;&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>složité výpočty nemají být použity jako základ rozhodnuti o větvení a&#xD;
+            smyčce;&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>rozhodnutí o větvení a smyčce mají být v jednoduchém vztahu ke vstupním&#xD;
+            parametrům modulu;&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>hranice mezi různými typy zobrazování musí být jednoduché.&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <goals>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;b>Cíl&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>Navrhnout program způsobem, aby byla jeho analýza snadno proveditelná. Chováni programu&#xD;
+    musi být zcela testovatelné na zakladě analýzy.&lt;/font>&lt;/font>&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

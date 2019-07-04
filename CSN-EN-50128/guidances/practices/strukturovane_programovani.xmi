@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZBP8qcYmWVfy1KGxPWB8cg" name="new_practice,_d0JA8J5KEempu9k_SdMtDQ" guid="-ZBP8qcYmWVfy1KGxPWB8cg" changeDate="2019-07-04T13:00:35.699+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Komponenta softwaru má obsahovat minimální strukturální složitost. Má se zabránit komplikovanému větvení. Omezení&#xD;
+    smyčky a větvení má být (kde je to možné) v jednoduchém vztahu ke vstupním parametrům. Program má být rozdělen do&#xD;
+    vhodně malých modulů a interakce těchto modulů mají být explicitní. Charakteristiky programovacího jazyka, které&#xD;
+    podporují výše uvedený přístup, mají být použity přednostně před jinými charakteristikami, které jsou (údajně)&#xD;
+    účinnější, s výjimkou případů, kdy má účinnost absolutní prioritu (např. některé systémy kritické z hlediska&#xD;
+    bezpečnosti).&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Navrhnout a implementovat komponenty softwaru způsobem, který umožní praktickou analýzu těchto komponent. Tato analýza&#xD;
+    má být schopná objevit veškeré významné chování programu.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

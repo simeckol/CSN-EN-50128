@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mGsCTV7zpyVQmXPeabE3ww" name="new_practice,_IZktgIMGEem3ePduwn22WA" guid="-mGsCTV7zpyVQmXPeabE3ww" changeDate="2019-05-31T11:13:02.119+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Při diversifikovaném programování je specifikace daného programu implementována N-krát rozdílnými způsoby. N verzím&#xD;
+    jsou dány stejné vstupní hodnoty a výsledky vytvořené N verzemi jsou porovnány. Je-li výsledek považován za platný, je&#xD;
+    přenesen do výstupů počítače.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Těchto N verzí může probíhat paralelně na samostatných počítačích; alternativně mohou všechny verze probíhat na tomtéž&#xD;
+    počítači a výsledky být podrobeny vnitřnímu rozhodování. Pro těchto N verzí mohou být použity odlišné rozhodovací&#xD;
+    strategie v závislosti na požadavcích aplikace.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Má-li systém bezpečný stav, je možné požadovat úplnou shodu (všech N výsledků souhlasí), jinak je použita výstupní&#xD;
+        hodnota zabezpečená proti poruchám. U systémů s jednoduchým vypnutím může být rozhodováno směrem k bezpečnému&#xD;
+        stavu. V tomto případě by bylo bezpečnou činností vypnutí, pokud by některá verze vyžadovala vypnutí. V tomto&#xD;
+        přístupu jsou v typickém případě použity pouze dvě verze (N=2).&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Pro systémy, které nemají žádný bezpečný stav, mohou být použity strategie majoritního rozhodování. Pro případy,&#xD;
+        kde není žádná kolektivní shoda, mohou být použity pravděpodobnostní přístupy, aby se&amp;nbsp;aximalizovala naděje na&#xD;
+        výběr správné hodnoty, například volbou střední hodnoty nebo dočasným pozastavením výstupů, než se obnoví shoda&#xD;
+        dat.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Tato technika neeliminuje zbytkové vady návrhu softwaru, poskytuje však opatření pro jejich detekci&lt;br />&#xD;
+    a maskování dříve než ovlivní bezpečnost.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Bohužel, experimenty a analytické studie ukazují, že programování s využitím N verzí není vždy tak efektivní jak je&#xD;
+    požadováno. Dokonce i když jsou použity různé algoritmy, rozdílné verze softwaru příliš často selhávají na stejných&#xD;
+    výstupech.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Dvě alternativy k programování s využitím N verzí jsou rozdílnost v návrhu a funkční rozdílnost. Rozdílnost v návrhu&#xD;
+    zahrnuje použití mnohonásobných komponent, každé navrhžené rozdílným způsobem, ale implementující stejnou funkci.&#xD;
+    Funkční rozdílnost zahrnuje řešení stejného problému funkčně rozdílnými cestami. Bez ohledu na přístup, není momentálně&#xD;
+    dostupná žádná efektivní metoda posouzení úrovně rozdílnosti.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Detekce a maskování zbytkových vad návrhu softwaru během zpracování programu, s cílem zabránit bezpečnostně kritickým&#xD;
+    poruchám systému a pokračovat v činnosti za účelem dosažení vysoké bezporuchovosti.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

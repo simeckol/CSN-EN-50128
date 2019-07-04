@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-f23qBisLi3Rr0BNeSc1ueg" name="new_practice,_-NkVcJ5BEemood4EUWwS2g" guid="-f23qBisLi3Rr0BNeSc1ueg" changeDate="2019-07-04T11:56:54.311+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Během povolování se učiní záznam o všech relevantních detailech každého provedení programu. Během normální činnosti se&#xD;
+    každé provedení programu porovná se souborem oprávněných provedení. Pokud se liší, učiní se bezpečnostní opatření.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Zpráva o provedení může být sledem jednotlivých cest od rozhodnutí k rozhodnutí (decision-to-decision paths – DDpaths)&#xD;
+    nebo sledem jednotlivých přístupů k polím, záznamům nebo nosičům dat, nebo k obojímu. Jsou možné různé modely uložení&#xD;
+    provedených cest do paměti. Pro zobrazení posloupnosti provádění do jednoho velkého čísla nebo do posloupnosti čísel&#xD;
+    mohou být použity metody kontrolního hash kódování (Hash-coding). Během normální činnosti, než dojde k jakékoliv&#xD;
+    výstupní operaci, musí být hodnota provedené cesty zkontrolována s případy uloženými do paměti než dojde k jakékoliv&#xD;
+    výstupní operaci.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Protože možné kombinace cest od rozhodnutí k rozhodnutí během jednoho programu jsou velmi četné, nemusí být možné&#xD;
+    zacházet s programem jako s celkem. V tomto případě může být tato metoda aplikována na úrovni komponent.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Přivést software do stavu zabezpečeného proti poruchám, pokud provede nepovolenou cestu.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

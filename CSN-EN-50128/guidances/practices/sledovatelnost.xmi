@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xH5PkMdG2xtcEgzaYz4MWA" name="new_practice,_MVQA0J5NEempu9k_SdMtDQ" guid="-xH5PkMdG2xtcEgzaYz4MWA" changeDate="2019-07-04T13:17:40.080+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Sledovatelnost požadavků musí být důležitým hlediskem při validaci systému; musí být zajištěny prostředky umožňující ve&#xD;
+    všech etapách životního cyklu tuto sledovatelnost prokázat.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Sledovatelnost musí být aplikovatelná jak pro funkční, tak nefunkční požadavky a musí být zaměřena zejména na:&#xD;
+&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        a) sledovatelnost od požadavků k objektům návrhu nebo k jiným objektům, které tyto požadavky splňují;&lt;br />&#xD;
+        b) sledovatelnost od objektů návrhu k objektům implementace, které tento návrh konkretizují;&lt;br />&#xD;
+        c) sledovatelnost od požadavků a objektů návrhu k objektům provozu a objektům údržby, které mají být použity při&#xD;
+        bezpečném a správném provozu systému;&lt;br />&#xD;
+        d) sledovatelnost od požadavků, objektů návrhu, implementace, provozu a údržby k plánům a specifikacím pro&#xD;
+        verifikaci a testování, které rozhodnou o jejich přijatelnosti;&lt;br />&#xD;
+        e) sledovatelnost od plánů a specifikace pro verifikaci a testování ke zprávám z testů nebo k jiným zprávám, které&#xD;
+        zaznamenávají výsledky provedení těchto testů.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;p>&#xD;
+    Jsou-li požadavky, objekty návrhu nebo jiné objekty konkretizovány jako řada samostatných dokumentů, sledovatelnost&#xD;
+    musí být ve struktuře dokumentů zachována a to hierarchickým způsobem.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Výstup procesu sledovatelnosti musí být předmětem formálního řízení konfigurace.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Cílem sledovatelnosti je zajistit, že všechny požadavky byly prokazatelně splněny a že nebyl zaveden žádný&#xD;
+    nesledovatelný materiál.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

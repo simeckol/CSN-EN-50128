@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-I5v-tXxiJm-j8bSlrVxhzA" name="new_practice,_94FbYJ5GEempu9k_SdMtDQ" guid="-I5v-tXxiJm-j8bSlrVxhzA" changeDate="2019-07-04T12:32:57.017+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Zvolí se podmnožina funkcí, omezení a požadavků na výkonnost systému. Vytvoří se prototyp za použití nástrojů vysoké&#xD;
+    úrovně. V tomto stádiu není nutné brát v úvahu omezení jako je cílový počítač, implementační jazyk, velikost programu,&#xD;
+    udržovatelnost, bezporuchovost a pohotovost. Prototyp je hodnocen na základě kritérií zákazníka a požadavky na systém&#xD;
+    mohou být modifikovány na základě tohoto hodnocení.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Kontrolovat proveditelnost implementace systému vzhledem k daným omezením. Zprostředkovat informace o interpretaci&#xD;
+    specifikace jejím autorem zákazníkovi, aby se zjistila případná nedorozumění.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

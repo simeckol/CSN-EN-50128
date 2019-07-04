@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lU4w5JbJvkJ6zt0_N8ErPA" name="new_practice,_RwnFAJ5HEempu9k_SdMtDQ" guid="-lU4w5JbJvkJ6zt0_N8ErPA" changeDate="2019-07-04T12:35:42.554+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Napíše se několik různých segmentů programu, často nezávisle, z nichž každý má provádět stejnou požadovanou funkci. Z&#xD;
+    těchto segmentů se sestaví konečný program. První segment, nazývaný primární, se provede nejdříve. Poté následuje&#xD;
+    přejímací test vypočteného výsledku. Je-li test úspěšný, výsledek je akceptován a převeden na následující části&#xD;
+    systému. Je-li test neúspěšný, veškeré vedlejší účinky prvního segmentu se zruší a provede se druhý segment, nazývaný&#xD;
+    první alternativa. I po tomto segmentu následuje přejímací test a zachází se s ním jako v prvním případě. Je-li to&#xD;
+    požadováno, může být zajištěna druhá, třetí nebo i více alternativ.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Zvýšit pravděpodobnost, že program provádí stanovenou funkci.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

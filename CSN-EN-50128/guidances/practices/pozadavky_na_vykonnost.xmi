@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0ae_gjEIKnxBmB0pme9Z9A" name="new_practice,_HDxPMJ5EEempu9k_SdMtDQ" guid="-0ae_gjEIKnxBmB0pme9Z9A" changeDate="2019-07-04T12:12:17.538+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Provede se analýza systému a specifikace požadavků na software pro identifikování všech obecných a specifických,&#xD;
+    explicitních a implicitních požadavků na výkonnost.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Každý požadavek na výkonnost je postupně přezkoumán, aby byla určena:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        kritéria úspěšnosti, kterých se má dosáhnout;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        zda je možné získat míry pro kritéria úspěšnosti;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        potenciální přesnost takových měření;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        etapy projektu, v nichž mohou být měření odhadnuta; a&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        etapy projektu, v nichž mohou být měření provedena.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Potom je analyzována proveditelnost každého požadavku na výkonnost za účelem získání seznamu požadavků na propustnost,&#xD;
+    kritérií úspěšnosti a potenciálních měření. Hlavní cíle jsou tyto:&#xD;
+&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        a) každý požadavek na výkonnost je spojen nejméně s jedním měřením;&lt;br />&#xD;
+        b) kde je to možné, zvolí se přesná a účinná měření, která mohou být použita co nejdříve v procesu vývoje;&lt;br />&#xD;
+        c) jsou stanoveny základní a volitelné požadavky na výkonnost a kritéria úspěšnosti a&lt;br />&#xD;
+        d) kde je to možné, musí se využít možnosti použití jednoho měření pro více než pro jeden požadavek na výkonnost.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Přesvědčit se, že požadavky na výkonnost softwaru byly splněny.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

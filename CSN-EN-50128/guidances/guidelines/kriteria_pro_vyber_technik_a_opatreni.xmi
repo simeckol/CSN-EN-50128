@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pKAUGwRscePlbwCH9FOvzg" name="new_guideline,_QgKdcIGCEem_jYH7kdgcuw" guid="-pKAUGwRscePlbwCH9FOvzg" changeDate="2019-05-28T21:54:39.603+0200">
+  <mainDescription>&lt;p>&#xD;
+    Články této evropské normy jsou propojené v rámci této přílohy s tabulkami (viz A.1, Tabulka A.1 až Tabulka A.11)&#xD;
+    příslušejícím k jednotlivým článkům normy pro doložení příkladů prostředků potřebných pro dosažení shody. Jsou zde&#xD;
+    uvedeny jak tabulky nižší úrovně, tak detailní tabulky (viz příloha A.2, Tabulka A.12 až Tabulka A.23), které rozvíjejí&#xD;
+    některé položky z tabulek příslušejícím k jednotlivým článkům. Např. modelování v Tabulce A.12 je rozvedeno v Tabulce&#xD;
+    A.17. Také je zde uvedena informativní příloha D, na kterou jsou uvedeny odkazy v tabulkách přiřazených k jednotlivým&#xD;
+    článkům. Pro každou techniku nebo opatření uvedené v tabulkách je pro každou úroveň integrity bezpečnosti softwaru&#xD;
+    (SIL) uvedena závaznost pro jejich splnění. V této verzi dokumentu jsou závaznosti pro úrovně integrity bezpečnosti&#xD;
+    softwaru 1 a 2 stejné pro každou techniku. Podobně má každá technika stejnou závaznost na úrovních integrity&#xD;
+    bezpečnosti softwaru 3 a 4.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Tyto závaznosti mohou být:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        „M“ tento symbol znamená, že použití techniky je povinné;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        „HR“ tento symbol znamená, že daná technika nebo opatření jsou pro tuto úroveň integrity bezpečnosti velmi&#xD;
+        doporučovány. Pokud tato technika nebo opatření nejsou použity, musí být zdůvodnění proč nebyly použity, podrobně&#xD;
+        uvedeno v plánu zajištění kvality softwaru nebo v jiném dokumentu, který je uveden v plánu zajištění kvality&#xD;
+        softwaru; „R“ tento symbol znamená, že daná technika nebo opatření jsou pro tuto úroveň integrity bezpečnosti&#xD;
+        doporučovány. Toto je nižší úroveň doporučení než „HR“ a takové techniky mohou být kombinovány, aby vytvořily část&#xD;
+        nějakého souboru opatření;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        „-“ tento symbol znamená, že pro použití nebo nepoužití dané techniky nebo opatření není žádné doporučení;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        „NR“ tento symbol znamená, že daná technika nebo opatření nejsou pro tuto úroveň integrity bezpečnosti určitě&#xD;
+        doporučeny. Pokud tato technika nebo opatření jsou použity, má být zdůvodnění proč byly použity,&lt;br />&#xD;
+        podrobně uvedeno v plánu zajištění kvality softwaru nebo v jiném dokumentu, na který je uveden v plánu zajištění&#xD;
+        kvality softwaru odkaz.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Kombinace technik nebo opatření má být uvedena v plánu zajištění kvality softwaru nebo v jiném dokumentu, na který je&#xD;
+    uveden v plánu zajištění kvality softwaru odkaz, přičemž se zvolí jedna nebo více technik nebo opatření, pokud nejsou v&#xD;
+    poznámkách připojených k tabulce uvedeny jiné požadavky. Tyto poznámky mohou zahrnovat odkaz na doporučované techniky&#xD;
+    nebo doporučované kombinace technik. Pokud jsou použity takovéto techniky nebo kombinace technik, včetně všech&#xD;
+    příslušných povinných technik, musí je hodnotitel akceptovat jako platné a musí se zajímat pouze o to, zda byly správně&#xD;
+    použity. Je-li použit jiný soubor technik a lze jej zdůvodnit, může jej hodnotitel shledat přijatelným.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

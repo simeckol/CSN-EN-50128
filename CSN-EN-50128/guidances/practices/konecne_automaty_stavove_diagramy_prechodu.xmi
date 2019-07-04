@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_z61wZY56iaGhdpV5r6Nyg" name="new_practice,_-W4Z4IRgEem0C-IAHWDyTw" guid="-_z61wZY56iaGhdpV5r6Nyg" changeDate="2019-06-02T11:28:05.429+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Mnoho systémů může být definováno pomocí jejich stavů, jejich vstupů a jejich činností. Je-li tedy systém ve stavu S1,&#xD;
+    při přijmutí vstupu I může provést činnost A a přesunout se do stavu S2. Definováním činností systému pro každý vstup v&#xD;
+    každém stavu lze úplně definovat systém. Výsledný model systému se nazývá konečný automat (Finite State Machine – FSM).&#xD;
+    Často se kreslí jako tak zvaný stavový diagram přechodů znázorňující, jak se systém dostává z jednoho stavu do druhého,&#xD;
+    nebo jako matice, jejíž rozměry jsou stav a vstup a prvky matice obsahují činnost a nový stav vyplývající z příjmu&#xD;
+    vstupu v daném stavu.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Je-li systém složitý nebo má-li přirozenou strukturu, může se to odrazit ve vrstveném FSM.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Specifikace nebo návrh vyjádřené jako FSM mohou být kontrolovány na úplnost (systém musí mít akci a nový stav pro každý&#xD;
+    vstup v každém stavu), konzistenci (pro každou dvojici stav/vstup je definována pouze jedna změna stavu)*) a&#xD;
+    dosažitelnost (zda je možné dostat se z jednoho stavu do druhého nějakou posloupností vstupů nebo nikoli). Toto jsou&#xD;
+    důležité vlastnosti pro kritické systémy a tyto vlastnosti mohou být kontrolovány. Nástroje pro podporu těchto kontrol&#xD;
+    jsou snadno popsatelné. Existují rovněž algoritmy, které umožňují automatické vytváření testovacích programů pro&#xD;
+    ověřování implementace FSM nebo pro oživení modelu FSM.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Bylo navrženo několik rozšíření základního FSM pro vylepšení popisu chování komplexního systému. Takzvané stavové grafy&#xD;
+    rozšiřující hierarchii (statecharts add hierarchy), kompozice (composition, parallelism), přechody na vnitřní úrovni&#xD;
+    (inter-level transitions), minulé stavy (history states) atd. Zejména užitečná vlastnost je seskupování vnitřních stavů&#xD;
+    a přechodů, což dává možnost dle potřeby odhalit nebo skrýt vnitřní stavy. Stavové grafy jsou částí UML (Unified&#xD;
+    Modeling Language) a jako výsledek podporovány mnoha komerčními nástroji.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    *) NÁRODNÍ POZNÁMKA Tato podmínka je podmínkou pro to, aby konečný automat byl deterministickým.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Definovat nebo implementovat strukturu řízení systému.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

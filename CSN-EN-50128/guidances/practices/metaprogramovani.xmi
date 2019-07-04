@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gQYHGRuC9qUnIeKBBNfJXA" name="new_practice,_qUsQEJ5NEempu9k_SdMtDQ" guid="-gQYHGRuC9qUnIeKBBNfJXA" changeDate="2019-07-04T13:21:15.249+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Metaprogramování je psaní počítačových programů které píší nebo zpracovávají jiné programy (nebo samy sebe) jako jejich&#xD;
+    data nebo dělají část práce během kompilace a ta se pak nemusí provádět během běhu vlastního programu.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Jazyk ve kterém je metaprogram napsán se nazývá metajazyk. Jazyk programů které jsou zpracovávány se nazývá objektový&#xD;
+    jazyk. Schopnost programovacího jazyka být svým vlastním metajazykem se nazývá odraz (reflection) nebo reflexivita&#xD;
+    (reflexivity).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Odraz je hodnotný rys jazyka pro usnadnění metaprogramování. Mít programovací jazyk sám o sobě jako první třídu&#xD;
+    datového typu (fist-class data type) (jako v Lispu) je také velmi užitečné. Generické programování se odvolává na&#xD;
+    metaprogramovací možnost v rámci jazyka v těch jazycích, které to podporují.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Metaprogramování obvykle pracuje jedním ze dvou způsobů. První způsob je vystavit jádro běžícího zařízení&#xD;
+    naprogramovanému kódu skrz rozhraní pro programování aplikací (API – Application Programming Interfaces). Druhý přístup&#xD;
+    je dynamické provádění řetězců výrazů které obsahují programovací příkazy. Takto „mohou programy psát programy“.&#xD;
+    Ačkoliv mohou být použity oba přístupy, většina jazyků má sklon se přiklánět směrem k jednomu nebo druhému.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Metaprogramování umožňuje programátorům dosáhnout vyšší produktivity za stejný čas než kdyby měli psát ručně.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RYwlwcy7x76BKWnZVzmChw" name="new_practice,_lSQ-gIRjEem0C-IAHWDyTw" guid="-RYwlwcy7x76BKWnZVzmChw" changeDate="2019-06-02T11:23:31.453+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    „Matematicky přesné“ znamená, že specifikace použité ve formálních metodách jsou dobře formulované výroky v matematické&#xD;
+    logice a že formální verifikace jsou přísné dedukce v této logice (např. každý následující krok je odvozen od&#xD;
+    následného pravidla a tedy může být ověřen strojovým procesem). Hodnota formálních metod je v tom, že poskytují&#xD;
+    prostředky pro symbolické prověřování celého stavového prostoru digitálního návrhu (ať už hardwaru nebo softwaru) a&#xD;
+    stanovují správnost nebo bezpečnostní vlastnosti, které jsou platné pro všechny možné vstupy. Nicméně to se děje v&#xD;
+    praxi je zřídka (až na kritické komponenty bezpečnostně kritických systémů) protože reálné systémy vykazují obrovskou&#xD;
+    komplexnost.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Používá se několik přístupů pro překonání velmi velkých stavových prostorů spojených s reálnými systémy:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        použití formálních metod na požadavky a vyšší úrovně návrhu kde je většina detailů odstraněna;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        použití formálních metod jen na nejvíce kritické komponenty;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        analýza modelů softwaru a hardwaru kde jsou proměnné diskrétní a jejich rozsahy drasticky omezeny;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        analýza modelů systému v hierarchickém stylu který umožňuje přístup „rozděl a panuj“ (divide and conquer);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        automatizovat co nejvíce verifikačních procesů co je možné.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Přestože je použití matematické logiky sjednocujícím předmětem přes disciplíny formálních metod neexistuje jedna&#xD;
+    nejlepší „formální metoda“. Každá aplikační doména vyžaduje rozdílné modelovací metody a rozdílný přístup k důkazům.&#xD;
+    Kromě toho dokonce i uvnitř konkrétní aplikační domény mohou být různé etapy životního cyklu nejlépe obslouženy různými&#xD;
+    nástroji a technikami. Například ověření teorému (theorem prover) může být nejlepším řešením pro analýzu správnosti&#xD;
+    úrovně přenosu záznamů popisu obvodů rychlé Fourierovy transformace zatímco algebraické derivační metody mohou být&#xD;
+    nejlepším řešením pro analýzu správnosti zlepšení návrhu až do návrhu na úrovni hradel (gate-level design). Proto&#xD;
+    existuje velké množství formálních metod které se stále vyvíjí po celém světě.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Několik příkladů formálních metod je popsáno v následujících pododdílech této bibliografie. Seznam zde uvedených&#xD;
+    příkladů není vyčerpávající. Jsou popsány formální metody CSP, CCS, HOL, LOTOS, OBJ, časová logika, VDM, Z metoda, B&#xD;
+    metoda a ověřování modelu.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    „Formální metody“ odkazují na matematicky přesné techniky a nástroje pro specifikaci, návrh a verifikaci softwarových a&#xD;
+    hardwarových systémů.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

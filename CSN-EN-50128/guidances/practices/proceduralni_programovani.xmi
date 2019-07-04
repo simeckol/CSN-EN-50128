@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SSEm4Cepv6UOb-fosCnCBg" name="new_practice,_AZj1cJ5OEempu9k_SdMtDQ" guid="-SSEm4Cepv6UOb-fosCnCBg" changeDate="2019-07-04T13:25:24.189+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Procedurální programování je založeno na konceptu volání procedur. Procedury, také známy jako rutiny, subrutiny, metody&#xD;
+    nebo funkce (nezaměňovat s matematickými funkcemi, ale podobné funkce jsou používány ve funkčním programování)&#xD;
+    jednoduše obsahují série výpočetních kroků, které mají být provedeny. Jakákoliv daná procedura může být volána v&#xD;
+    jakémkoliv bodě během provádění programu, včetně volání jinou procedurou nebo sama sebou.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Specifikovat kroky, které musí program učinit aby dosáhnul požadovaného stavu.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

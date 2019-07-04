@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FSK3CskG00ZyjNZ-VxKFmg" name="new_practice,_20oKQJ5HEempu9k_SdMtDQ" guid="-FSK3CskG00ZyjNZ-VxKFmg" changeDate="2019-07-04T12:40:01.649+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    V případě detekovaného stavu poruchy nebo chyby se dělají pokusy o zotavení opakovaným provedením stejného kódu.&#xD;
+    Zotavení pomocí opakování může být tak úplné jako postup opětného zavedení a opětného spuštění, nebo menší opětné&#xD;
+    přeplánování a opětné spuštění softwaru po časové prodlevě nebo po zásahu hlídače času (watchdog). Opakovací techniky&#xD;
+    se běžně používají pro zotavení komunikace po poruše nebo chybě a podmínky opakování mohou být stanoveny z chyby&#xD;
+    komunikačního protokolu (z kontrolního součtu) nebo z časové prodlevy odezvy pro potvrzení komunikace.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pokusit se o funkční zotavení z detekovaného poruchového stavu pomocí mechanismu opakování.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

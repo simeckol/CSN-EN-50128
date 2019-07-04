@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7RM94I2WXxTZSlXTcWDixA" name="new_practice,_yo0e4J5MEempu9k_SdMtDQ" guid="-7RM94I2WXxTZSlXTcWDixA" changeDate="2019-07-04T13:14:22.147+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Objektově orientované programování je zásadně nový způsob uvažování o softwaru založený na abstrakcích, které existují&#xD;
+    v reálném světě spíše než na výpočtových abstrakcích. Objektově orientované programování organizuje software jako&#xD;
+    soubor objektů zahrnujících jak strukturu dat, tak chování. To je rozporu s běžným programováním, kde struktura dat a&#xD;
+    chování jsou pouze volně spojeny.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Objekt: objekt sestává z privátní oblasti dat a souboru operací – tak zvaných metod – na tomto objektu. Metody mohou&#xD;
+    být veřejné nebo privátní. Žádné jiné komponentě softwaru není dovoleno, aby přímo četla nebo měnila privátní data&#xD;
+    objektu. Každá jiná komponenta softwaru musí pro čtení nebo zapisování dat do privátní oblasti dat objektu používat&#xD;
+    pouze veřejné metody tohoto objektu.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Třída objektu: specifikováním třídy objektu (často ve formě typové definice) se aktivují instance různých objektů téže&#xD;
+    třídy, tj. všechny instance mají privátní oblast dat a metody definované ve třídě objektu.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    (Vícenásobná) dědičnost: třída objektu může dědit privátní oblast dat a metody jedné nadtřídy (nebo více nadtříd) (v&#xD;
+    hierarchii tříd nadřazené třídy objektů), přičemž je dovoleno přidávat některá privátní data, přidávat některé metody&#xD;
+    nebo modifikovat implementace zděděných metod. Za použití dědičnosti je možno vytvořit vícenásobné stromy tříd objektů.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Polymorfismus: tatáž operace se může chovat odlišně u různých tříd objektů, např. operace zápisu pro objekt třídy&#xD;
+    „terminál“ zapisuje znaky na tento terminál a operace zápisu pro objekt třídy „soubor“ zapisuje znaky do tohoto&#xD;
+    souboru.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Nevýhoda: objektově orientovaný programovací jazyk může vést k dodatečné potřebě zdrojů s negativním dopadem na&#xD;
+    výkonnost systému.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Umožnit rychlé vytváření prototypů, snáze znovu používat stávající komponenty softwaru, dosáhnout skrývání informací,&#xD;
+    omezit pravděpodobnost chyb během celého životního cyklu, omezit nutné úsilí během etapy údržby, rozložit složité&#xD;
+    problémy na snáze zvladatelné malé problémy, omezit závislosti mezi komponentami softwaru, vytvořit snáze&#xD;
+    rozšiřovatelné aplikace.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

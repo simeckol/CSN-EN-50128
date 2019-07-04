@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XU5EHctDm5TVjlC8h3yx7A" name="new_practice,__4jkIIMEEem3ePduwn22WA" guid="-XU5EHctDm5TVjlC8h3yx7A" changeDate="2019-05-30T20:04:55.610+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Kódovací standardy jsou pravidla a omezení pro daný programovací jazyk pro vyvarování se potenciálních vad, které se&#xD;
+    mohou vyskytnout při používání takového jazyka.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Kódovací standardy by měly zahrnovat:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        oprávněnost jazyka;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        rozsah a základní standard když je dostupný;&amp;nbsp;POZNÁMKA Pro jazyky specifické pro určité oblasti nemusí být&#xD;
+        základní standardy dostupné.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        proceduru pro změnu kódovacího standardu;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        analýzu potenciálních vad a doporučené zpracování;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        omezení pro vyvarování se vadám;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        přenositelnost.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Pravidla pro styl kódování se zabývají otázkami jako jsou konvence formátování a pojmenovávání, a ačkoliv to může být&#xD;
+    velmi subjektivní, styl ovlivní čitelnost vašeho kódu více jak cokoliv jiného. Stanovení společného a konzistentního&#xD;
+    stylu pro projekt ulehčí pochopení a údržbu kódu vyvinutého více jak jedním programátorem a ulehčí spolupráci více lidí&#xD;
+    na vývoji stejného programu.&lt;br />&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Zajistit jednotné uspořádání dokumentů návrhu a vytvořeného kódu, prosazovat konzistentní programování a prosadit&#xD;
+    standardní metodu vytváření návrhu, která se vyhýbá chybám.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

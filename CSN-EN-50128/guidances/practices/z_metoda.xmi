@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ab3SA04CQuzR4_X2doKvCQ" name="new_practice,_rEsUQIUgEem814tjJkKTtQ" guid="-Ab3SA04CQuzR4_X2doKvCQ" changeDate="2019-06-02T12:26:18.043+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Stejně jako VDM je technika specifikace založená na modelu tak, že stav systému je modelován na základě struktur teorie&#xD;
+    množin, na nichž jsou definovány invarianty (predikáty); operace nad těmito stavy jsou modelovány specifikováním&#xD;
+    podmínek platných pro stav systému před a po provedení operace. Je možno prokázat, že operace zachovávají invarianty&#xD;
+    systému a tím demonstrovat jejich konzistenci. Formální část specifikace je rozdělena do schémat, která umožňují&#xD;
+    strukturování specifikací pomocí postupného zjemňování.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    V typickém případě je specifikace Z smíšením formálního popisu v Z a neformálního vysvětlujícího popisu v přirozeném&#xD;
+    jazyce. (Formální popis sám o sobě může být příliš hutný pro snadné čtení a často je třeba jeho účel vysvětlit, zatímco&#xD;
+    neformální přirozený jazyk se může snadno stát nejasným a nepřesným).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Na rozdíl od VDM je Z spíše zápis než kompletní metoda. Byla však vyvinuta přidružená metoda (nazývaná B), kterou je&#xD;
+    možno používat společně se Z.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Z je specifikační jazykový zápis pro sekvenční systémy a techniku návrhu, který umožňuje, aby návrhář postupoval od&#xD;
+    specifikace Z k proveditelným algoritmům způsobem, který umožňuje prokázání jejich správnosti vzhledem ke specifikaci.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Z se používá především ve stádiu specifikace, byla však vypracována metoda pro postup od specifikace k návrhu a&#xD;
+    implementaci. Nejlépe se hodí pro vývoj datově orientovaných sekvenčních systémů.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

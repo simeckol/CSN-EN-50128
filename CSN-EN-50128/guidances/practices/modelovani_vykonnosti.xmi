@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0YFLaCenU75wsRF9oYOx7w" name="new_practice,_wsBxIJ5DEempu9k_SdMtDQ" guid="-0YFLaCenU75wsRF9oYOx7w" changeDate="2019-07-04T12:10:26.991+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Specifikace požadavků zahrnuje požadavky na propustnost a odezvu pro specifické funkce, případně kombinované s&#xD;
+    omezeními pro použití zdrojů celého systému. Předkládaný návrh systému je porovnán se stanovenými požadavky:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        definováním modelu systémových procesů a jejich interakcí;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        stanovením využití zdrojů pro každý proces, například pro procesorový čas, šířku komunikačního pásma, paměťové&#xD;
+        jednotky atd.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        stanovením rozložení požadavků kladených na systém v průměrných a nejnepříznivějších podmínkách;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        výpočtem středních a nejnepříznivějších dob propustnosti a dob odezvy pro jednotlivé funkce systému.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    U jednoduchých systémů může být možné analytické řešení, zatímco u složitějších systémů je potřebná určitá forma&#xD;
+    simulace, aby se dosáhlo přesných výsledků. Před detailním modelováním je možno použít jednodušší kontrolu rozvržení&#xD;
+    zdrojů, při které se sečítají požadavky na zdroje pro všechny procesy. Pokud požadavky přesáhnou kapacitu navrhovaného&#xD;
+    systému je návrh neproveditelný. I když návrh projde touto kontrolou, modelování propustnosti může ukázat, že dochází k&#xD;
+    nadměrným zpožděním a dobám odezvy v důsledku nedostatečných zdrojů. Aby se předešlo této situaci, technici často&#xD;
+    navrhují systémy s použitím jen určité části (např. 50%) celkových zdrojů, aby byla pravděpodobnost nedostatečných&#xD;
+    zdrojů snížena.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Zajistit, aby pracovní kapacita systému byla dostatečná pro splnění specifikovaných požadavků.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

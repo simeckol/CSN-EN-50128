@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--KC5J0eV5sw8RCGEuAA63w" name="new_practice,_24DcQJ5IEempu9k_SdMtDQ" guid="--KC5J0eV5sw8RCGEuAA63w" changeDate="2019-07-04T12:46:16.252+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Takové jazyky obvykle umožňují definování datových typů definovaných uživatelem ze základních datových typů jazyka&#xD;
+    (jako je INTEGER, REAL). Tyto typy mohou být potom používány přesně stejným způsobem jako základní typy, jsou však&#xD;
+    nárokovány přísné kontroly, aby se zajistilo, že je použit správný typ. Tyto kontroly jsou uloženy programu jako celku,&#xD;
+    i když je vytvořen ze samostatně kompilovaných jednotek. Kontroly také zajišťují,&lt;br />&#xD;
+    že počet a typ argumentů procedury souhlasí i v případě, že jsou tyto procedury volány ze samostatně kompilovaných&#xD;
+    modulů.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Jazyky s přísnou kontrolou typů také podporují jiné aspekty dobré praxe programového inženýrství, jako jsou snadno&#xD;
+    analyzovatelné řídící struktury (např. IF...THEN...ELSE, DO...WHILE, atd.), které vedou k dobře strukturovaným&#xD;
+    programům.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Typickými příklady jazyků s přísnou kontrolou typů jsou Pascal, Ada a Modula 2.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Omezit pravděpodobnost vad použitím jazyka, který umožňuje vysokou úroveň kontroly kompilátorem.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

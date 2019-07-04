@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zHpjrCVFnQkB-LEIOS3Kjg" name="new_practice,_E8JKoIOFEemcFuH-GN_pKw" guid="-zHpjrCVFnQkB-LEIOS3Kjg" changeDate="2019-05-31T11:19:51.244+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Tato strategie testování je založena na vztahu ekvivalence mezi vstupy, která rozdělí oblast vstupů na třídy.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Testovací případy jsou voleny s cílem pokrytí všech podmnožin tohoto rozkladu. Pro každou třídu ekvivalence je použit&#xD;
+    minimálně jeden testovací případ.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Jsou dvě základní možnosti pro rozklad vstupů:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        třídy ekvivalence mohou být definovány ve specifikaci. Interpretace specifikace může být buď orientovaná na vstupy,&#xD;
+        například se zvolenými hodnotami se zachází stejným způsobem, nebo orientovaná na výstupy, například soubor hodnot&#xD;
+        vedoucích ke stejnému funkčnímu výsledku;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        třídy ekvivalence mohou být definovány ve vnitřní struktuře programu. V tomto případě jsou výsledky třídy&#xD;
+        ekvivalence určeny ze statické analýzy programu, například soubor hodnot vedoucích ke stejné cestě, která je&#xD;
+        provedená.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Testovat software přiměřeně za použití minima testovacích dat. Testovací data se získají rozkladem oblasti vstupů&#xD;
+    potřebným pro vyzkoušení softwaru.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

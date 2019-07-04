@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-H6E8SNamFKuHVUiik-hbvg" name="new_custom_category,_aavxkILSEemTrZ3VjwEoNw" guid="-H6E8SNamFKuHVUiik-hbvg" changeDate="2019-05-30T14:00:14.613+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Zajistit, že i po modifikaci software funguje jak je požadováno, zachovává integritu bezpečnosti a spolehlivost.&#xD;
+        (6.6.1.1)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Tyto cíle jsou řízeny manažerem konfigurace. (6.6.1.2)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Všechny změny musí iniciovat návrat do příslušné etapy životního cyklu. Všechny následné etapy se musí pak provést&#xD;
+        v souladu s postupy specifikovanými pro dané etapy v souladu s požadavky této evropské Normy. (6.6.4.2)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-I5eT8wH45J409VjBrTAYUw" name="new_practice,_lMlYIIMBEem3ePduwn22WA" guid="-I5eT8wH45J409VjBrTAYUw" changeDate="2019-05-30T19:40:05.870+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    V těchto příbuzných metodách se používají dvourozměrné tabulky pro stručný popis logických vztahů mezi booleovskými&#xD;
+    proměnnými programu.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Vzhledem ke stručnosti a tabulkovému charakteru obou metod jsou tyto metody vhodné jako prostředky analyzování&#xD;
+    složitých logických kombinací vyjádřených v kódu.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Obě metody jsou potenciálně proveditelné, jsou-li používány jako specifikace.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Zajistit jasnou a logickou specifikaci a analýzu složitých logických kombinací a vztahů.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

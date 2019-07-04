@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LWTqomSGHbCdJDRoKEncHA" name="new_practice,_UF2EwJ5MEempu9k_SdMtDQ" guid="-LWTqomSGHbCdJDRoKEncHA" changeDate="2019-07-04T13:11:39.711+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    IEC/TC 56 publikovala Směrnici pro formální přezkoumání návrhu, která zahrnuje obecný popis formálních přezkoumání&#xD;
+    návrhů, jejich cíle, podrobné údaje o různých typech přezkoumání návrhu, složení týmu pro přezkoumání návrhu a jeho&#xD;
+    přidružené povinnosti a úkoly. Dokument IEC také poskytuje obecné pokyny pro plánování a provádění formálních&#xD;
+    přezkoukání návrhů a specifické detaily týkající se úlohy nezávislých specialistů v týmu pro přezkoumání návrhu.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    IEC doporučuje, aby „formální přezkoumání návrhu bylo prováděno u všech nových produktů/procesů, nových aplikací a&#xD;
+    revizí stávajících produktů a výrobních procesů, které ovlivňují funkci, výkonnost, bezpečnost, bezporuchovost,&#xD;
+    schopnost kontrolovat udržovatelnost, pohotovost, schopnost odhadnout náklady a jiné charakteristiky ovlivňující&#xD;
+    konečný produkt/proces, uživatele nebo ostatní zúčastněné“.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Při kontrole postupných procházením kódu tým provádějící přezkoumání vybere malou sadu papírových testovacích případů,&#xD;
+    reprezentativní soubory vstupů a odpovídající předpokládané výstupy pro program. Testovací data potom ručně sledována&#xD;
+    skrz logiku programu.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Zjistit chyby v některém produktu vývojového procesu co nejdříve a co nejhospodárněji.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

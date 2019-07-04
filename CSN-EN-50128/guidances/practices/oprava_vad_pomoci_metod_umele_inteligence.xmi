@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DnwTb25Ys94v-5RN2lQp8A" name="new_practice,_zkuLEILwEem3ePduwn22WA" guid="-DnwTb25Ys94v-5RN2lQp8A" changeDate="2019-05-30T17:37:46.472+0200">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;b>Popis&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>Zejména prognózy vad (výpočet trendů), oprava vad, údržba a dohlížecí činnosti mohou&#xD;
+    být podporovány velmi&lt;/font>&lt;/font> ú&lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>činně systémy na bázi umělé inteligence v různých&#xD;
+    kanálech systému, protože pravidla mohou být odvozena&lt;/font>&lt;/font>&amp;nbsp;&lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>přímo ze&#xD;
+    specifikace a na jejich základě zkontrolována. Určitým společným vadám, které jsou zavedeny&lt;/font>&lt;/font> &lt;font&#xD;
+    lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>do specifikací se lze efektivně vyhnout timto způsobem, majíc na paměti návrhové pravidla a&#xD;
+    pravidla&lt;/font>&lt;/font> &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>implementace, zejména při použití kombinace modelů a metod&#xD;
+    funkčním nebo popisným způsobem.&lt;/font>&lt;/font> &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>Aby se vyhovělo požadované bezpečnosti a&#xD;
+    bezporuchovosti, jsou metody zvoleny tak, že vady mohou být&lt;/font>&lt;/font> &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>opraveny a&#xD;
+    vlivy poruch minimalizovány.&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;b>Cíl&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font lang=&quot;JA&quot;>&lt;font lang=&quot;JA&quot;>Schopnost reagovat velmi pružným způsobem na možná nebezpečí zavedením smíšení&#xD;
+    (kombinace) metod a modelů procesů a některého druhu spřažené analýzy bezpečnosti a bezporuchovosti.&lt;/font>&lt;/font>&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

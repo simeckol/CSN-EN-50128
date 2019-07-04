@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Cqojh9_-cGpmSaFX2jDYqw" name="new_practice,_inE-MILwEem3ePduwn22WA" guid="-Cqojh9_-cGpmSaFX2jDYqw">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+Pro testování průrazem/zatížením lavinou může být použita řada podmínek testování. Některé z těchto podmínek testování jsou&#xD;
+uvedeny níže: &lt;br />&#xD;
+&lt;br />&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        jestliže se pracuje v módu výzev dostává se na předmět testování mnohem více změn vstupů než za normálních&#xD;
+        podmínek;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        jestliže se pracuje, zvýší se počet požadavků na jednotku času na předmět testování nad normální podmínky;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        jestliže velikost databáze hraje důležitou roli, zvýší se nad normální podmínky;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        zařízení, která jsou ovlivňující, se nastaví na nejvyšší nebo nejnižší rychlost;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        v extrémních případech se všechny ovlivňující faktory pokud možno vystaví mezním podmínkám současně.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Za těchto podmínek testování může být hodnoceno chování předmětu testování v čase. Může být pozorován vliv změn&#xD;
+    zatížení. Může být kontrolována správná velikost vnitřních vyrovnávacích pamětí nebo dynamických proměnných, zásobníků&#xD;
+    atd.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+Zatížit předmět testování výjimečně vysokým pracovním zatížením, aby se ukázalo, že předmět testování snadno vydrží&#xD;
+normální pracovní zatížení.</goals>
+</org.eclipse.epf.uma:PracticeDescription>

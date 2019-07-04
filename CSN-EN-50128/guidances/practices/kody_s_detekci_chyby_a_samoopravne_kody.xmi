@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ONEAyST66mVmot7qLMi3GQ" name="new_practice,_apqAIIOqEem5iP69ELuW8w" guid="-ONEAyST66mVmot7qLMi3GQ" changeDate="2019-05-31T15:46:59.597+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pro informaci o &lt;em>n&lt;/em> bitech se vytvoří kódovaný blok &lt;em>k&lt;/em> bitů, který umožňuje detekci a opravu chyb. Různé&#xD;
+    typy kódu zahrnují:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Hammingovy kódy;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        cyklické kódy;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        polynomické kódy;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        hash kódy;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        kryptografické kódy.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Detekovat a opravovat chyby v citlivých informacích.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

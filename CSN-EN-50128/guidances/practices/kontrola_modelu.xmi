@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Q4ycavSdek-A38FCx91uag" name="new_practice,_zalLsIUhEem814tjJkKTtQ" guid="-Q4ycavSdek-A38FCx91uag" changeDate="2019-06-02T12:34:26.154+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Kontrola modelu je proces kontroly zda daná struktura je model daného logického vzorce. Koncept je obecný a týká se&#xD;
+    všech druhů logik a vhodných struktur. Problém jednoduché kontroly modelu je testování zda daný vzorec ve výrokové&#xD;
+    logice je splněný danou strukturou.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pro algoritmické ověření formálních systémů byla vyvinuta důležitá třída metod kontroly modelů. To je dosaženo ověřením&#xD;
+    zda struktura, často odvozená z návrhu hardwaru nebo softwaru, uspokojuje formální specifikace, typicky časové logické&#xD;
+    vzorce.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Kontrola modelu je nejčastěji používána na návrh hardwaru. Pro software tento přístup nemůže být plně algoritmický, z&#xD;
+    důvodu nerozhodnutelnosti (viz teorie vypočitatelnosti); typicky může selhat při prokázání nebo vyvrácení dané&#xD;
+    vlastnosti.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Struktura je obvykle dána jako popis zdrojového kódu v průmyslovém hardwarovém popisném jazyce nebo&#xD;
+    specializovaném-účelovém jazyce. Takový program koresponduje s automatem konečných stavů, např. orientovaný graf&#xD;
+    skládající se z uzlů (nebo vrcholů) a hran. Sada „atomových“ výroků (atomic propositions) je spojená s každým uzlem,&#xD;
+    typicky uvádějících které elementy paměti jsou jedním. Uzly reprezentují stavy systému, hrany reprezentují možné&#xD;
+    přechody které mohou změnit stav, zatímco „atomové“ výroky reprezentují základní vlastnosti, které udržují v bodě&#xD;
+    spuštění.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    Formálně může být problém uveden následovně: je posouzena daná požadovaná vlastnost, vyjádřená jako časový logický&#xD;
+    vzorec p a struktura M s počátečním stavem s. Jestli je M konečná, jako je v hardwaru, kontrola modelu se zredukuje na&#xD;
+    hledání grafu.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Daný model systému automaticky testovat zda splňuje dané specifikace.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

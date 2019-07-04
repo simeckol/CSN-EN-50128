@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XlLHFRmXJoZEy_TMzuMKKw" name="new_practice,_QnQJ4J4_Eemood4EUWwS2g" guid="-XlLHFRmXJoZEy_TMzuMKKw" changeDate="2019-07-04T11:39:30.163+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Na různých místech v programu je formulována řada tvrzení a jsou použity jako předchozí a následné podmínky pro různé&#xD;
+    cesty v programu. Kontrola sestává z prokázání, že program přenáší předchozí podmínky do následných podmínek podle&#xD;
+    souboru logických pravidel a že program bude ukončen.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    V této biliografii je popsáno několik formálních metod, například CCS, CSP, HOL, LOTOS, OBJ, časová logika, VDM a Z.&#xD;
+    Popisy těchto metod je možné najít v části D.28 „Formální metody“.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Při použití teoretických a matematických modelů a pravidel je možné dokázat správnost programu bez jeho spuštění.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

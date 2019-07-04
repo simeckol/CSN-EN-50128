@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nKEig-VUUG22HgZl_qOelQ" name="analyza_stromu_udalosti,_hMKY8IOsEem5iP69ELuW8w" guid="-nKEig-VUUG22HgZl_qOelQ" changeDate="2019-06-01T12:30:41.470+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    V horní části diagramu jsou zapsány podmínky posloupnosti, které jsou relevantní pro vývoj následující po spouštěcí&#xD;
+    události, která je cílem analýzy. Začne se od spouštěcí události a pod ni se nakreslí čára vedoucí k první podmínce v&#xD;
+    posloupnosti. V tom místě se diagram rozvětví do větví „ano“ a „ne“, což popisuje, jak příští vývoj závisí na podmínce.&#xD;
+    Pro každou z těchto větví se pokračuje podobným způsobem k další podmínce. Ne všechny podmínky jsou však relevantní pro&#xD;
+    všechny větve. Pokračuje se ke konci posloupnosti a každá větev stromu sestaveného tímto způsobem představuje možný&#xD;
+    následek. Strom událostí může být použit pro výpočet pravděpodobnosti různých následků na základě pravděpodobnosti a&#xD;
+    počtu podmínek v posloupnosti.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Modelovat ve formě diagramu sled událostí, které mohou vzniknout v systému, poté co nastane spouštěcí událost, a tím&#xD;
+    indikovat k jak závažným následkům může dojít.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

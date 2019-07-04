@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xKDcGWG_rcAcEYyKOdXkFw" name="new_practice,_7YzjQJ5LEempu9k_SdMtDQ" guid="-xKDcGWG_rcAcEYyKOdXkFw" changeDate="2019-07-04T13:08:08.141+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Petriho sítě patří do třídy grafických teoretických modelů, které jsou vhodné pro zobrazení informací a toku řízení v&#xD;
+    systémech vykazujících souběžnost a asynchronní chování.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Petriho síť je síť míst a přechodů. Místa mohou být „označená“ nebo „neoznačená“. Přechod je „umožněn“, když jsou&#xD;
+    všechna vstupní místa k němu označena. Jakmile je umožněn, je povolena (ale ne vynucena) jeho „aktivace“ (fire).&#xD;
+    Jestliže je aktivován, vstupní značky jsou odstraněny, a místo toho jsou označeny všechny výstupní místa.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Potenciální nebezpečí jsou zobrazena v modelu jako určité stavy (značky). Rozšířené Petriho sítě umožňují modelování&#xD;
+    časovacích charakteristik systému. Přestože „klasické“ Petriho sítě se soustřeďují na aspekty toku řízení, bylo&#xD;
+    navrženo několik rozšíření pro zahrnutí toku dat do modelu.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Modelovat příslušné aspekty chování systému a posoudit, případně zlepšit bezpečnost a provozní požadavky pomocí analýzy&#xD;
+    a nového návrhu.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

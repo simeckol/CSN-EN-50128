@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OLcPAdiwaRC5ayu655mjAg" name="new_practice,__4cCMJ5JEempu9k_SdMtDQ" guid="-OLcPAdiwaRC5ayu655mjAg" changeDate="2019-07-04T12:54:52.668+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Existuje řada strukturovaných metodologií. Některé, jako SSADM, LBMS, jsou navrženy pro tradiční zpracování dat a&#xD;
+    transakčních procesních funkcí, zatímco jiné (MASCOT, JSD, Yourdon v reálném čase) jsou více orientovány na řízení&#xD;
+    procesů a aplikace v reálném čase (které mají tendenci být z hlediska bezpečnosti více kritické).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Strukturované metody jsou v podstatě „nástrojem myšlení“ pro systematické chápání a rozdělení problému nebo systému.&#xD;
+    Jejich hlavní charakteristické rysy jsou tyto:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        logický řád myšlení, rozdělení velkého problému do zvládnutelných etap;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        identifikace celého systému, včetně prostředí a požadovaného systému;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        rozložení dat a funkce v požadovaném systému;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        kontrolní seznamy, tj. seznamy druhu věcí, které vyžadují definici;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        nízké intelektuální dodatečné nároky – jednoduché, intuitivní, pragmatické.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Podpůrné zápisy pro identifikování problému a entit systému (např. u procesů a toků dat) inklinují k přesnosti, ale&#xD;
+    vyjádření procesních funkcí prováděných těmito entitami inklinuje k použití neformálních zápisů. Některé metody však&#xD;
+    využívají částečně (matematické) formální zápisy (například JSD využívá regulární výrazy; Yourdon, SOM a SDL používají&#xD;
+    konečné automaty). Tato přesnost nejen omezuje prostor pro nesprávné pochopení, ale poskytuje i možnost pro automatické&#xD;
+    zpracování.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Další výhodou strukturovaných zápisů je jejich přehlednost, umožňující intuitivní kontrolu specifikace nebo návrhu&#xD;
+    uživatelem na základě jeho značných, ale nespecifikovaných znalostí.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Hlavním cílem strukturovaných metodologií je podporovat kvalitu vývoje softwaru zaměřením pozornosti na rané části&#xD;
+    životního cyklu. Cílem metod je dosáhnout toho prostřednictvím jak přesných, tak intuitivních procedur a zápisů (za&#xD;
+    pomoci počítačů) pro identifikaci existence požadavků a implementačních vlastností v logickém pořadí a strukturovaným&#xD;
+    způsobem.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

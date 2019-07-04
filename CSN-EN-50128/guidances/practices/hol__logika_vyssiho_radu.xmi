@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VzHZ1nCElAgbFB4ittZZmA" name="new_practice,_h5gbQIUZEem814tjJkKTtQ" guid="-VzHZ1nCElAgbFB4ittZZmA" changeDate="2019-06-02T11:34:44.220+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    HOL (Higher Order Logic – logika vyššího řádu) se vztahuje k určitému logickému zápisu a jeho systému podpory strojem,&#xD;
+    přičemž oba byly vyvinuty v laboratoři počítačů na universitě v Cambridge. Logický zápis je většinou převzat z&#xD;
+    Churchovy teorie jednoduchých typů a systém strojové podpory je založen na systému LCF (Logic of Computable Functions –&#xD;
+    logika vyčíslitelných funkcí).&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Toto je formální jazyk určený jako základ pro specifikaci a ověřování hardwaru.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

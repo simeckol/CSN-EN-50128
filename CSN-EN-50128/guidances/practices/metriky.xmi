@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ky2XwCFoKkJfGuqIKPmlXg" name="new_practice,_XhAIkJ5CEemood4EUWwS2g" guid="-Ky2XwCFoKkJfGuqIKPmlXg" changeDate="2019-07-04T11:59:37.999+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Tyto modely hodnotí některé strukturální vlastnosti a uvádějí jej do vztahu k požadovanému atributu jako je složitost.&#xD;
+    Vyžaduje se, aby softwarové nástroje vypočítávaly většinu z těchto měr. Některé z metrik, které mohou být použity, jsou&#xD;
+    uvedeny níže:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Teoretická složitost grafu*) (Graph Theoretic Complexity): tato míra může být použita na počátku životního cyklu&#xD;
+        pro hodnocení nákladů a je založena na složitosti grafu řízení programu, představované svým cyklomatickým číslem;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        počet způsobů, kterými lze aktivovat daný modul (přístupnost): čím více může být modul zpřístupněn, tím&#xD;
+        pravděpodobnější je, že z něj budou odstraněny chyby;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Halsteadovy míry složitosti (Halstead complexity measures): tato míra počítá délku programu sčítáním počtu&#xD;
+        operátorů a operandů. Poskytuje míru složitosti a odhaduje zdroje potřebné pro vývoj;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        počet vstupů a výstupů na komponentu: minimalizace počtu vstupních/výstupních bodů je klíčovou charakteristikou&#xD;
+        strukturovaných technik návrhu a programování.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    *) NÁRODNÍ POZNÁMKA Nejznámější a zřejmě nejjednodušší z nich je tak zvané cyklomatické číslo grafu, zvané též&#xD;
+    McCabeova složitost, definovaná jako počet hran grafu minus počet uzlů grafu plus 2.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Předpovědět atributy programů z vlastností samotného softwaru spíše než z jeho průběhu vývoje nebo testování.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

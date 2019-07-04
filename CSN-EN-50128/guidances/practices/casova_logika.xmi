@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LUV7pbqRPfQc6doULHDlZw" name="new_practice,_jEFJQIUfEem814tjJkKTtQ" guid="-LUV7pbqRPfQc6doULHDlZw" changeDate="2019-06-02T12:17:31.757+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Standardní predikátová logika prvního řádu neobsahuje žádný koncept pro čas. Časová logika rozšiřuje logiku prvního&#xD;
+    řádu přidáním modálních operátorů (např. „nadále“ (Henceforth) a „nakonec“ (Eventually)). Tyto operátory mohou být&#xD;
+    používány pro kvalifikování tvrzení o systému. Například by mohlo být požadováno, aby vlastnosti týkající se&#xD;
+    bezpečnosti byly uchovány „nadále“, zatímco jiných žádoucích stavů systému bylo dosaženo „nakonec“ z některého jiného&#xD;
+    počátečního stavu. Časové vzorce jsou interpretovány pro posloupnosti stavů (typů chování). Co tvoří „stav“ závisí na&#xD;
+    zvolené úrovni popisu. Může se vztahovat na celý systém, na komponentu systému nebo počítačový program. S&#xD;
+    kvantifikovanými časovými intervaly a omezeními se v časové logice výslovně nemanipuluje. Pro zacházení s absolutním&#xD;
+    časováním je nutno vytvořit přídavné časové stavy jako součást definice stavu.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Přímé vyjádření požadavků na bezpečnost a provoz a formální demonstrace, že tyto vlastnosti jsou v následných krocích&#xD;
+    vývoje zachovány.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

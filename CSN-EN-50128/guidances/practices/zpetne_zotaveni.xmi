@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6Jx2nE4Gvixpj5vZQpQ0hw" name="new_practice,_8efBEILwEem3ePduwn22WA" guid="-6Jx2nE4Gvixpj5vZQpQ0hw" changeDate="2019-05-30T17:40:15.494+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pokud byla detekována vada, systém je znovu vrácen do dřívějšího vnitřního stavu, jehož konzistence byla předtím&#xD;
+    prokázána. Tato metoda znamená zachování vnitřního stavu často při tak zvaných dobře definovaných kontrolních bodech.&#xD;
+    To může být provedeno globálně (pro celou databázi) nebo inkrementálně (změny pouze mezi kontrolními body). Potom musí&#xD;
+    systém kompenzovat změny, k nimž mezitím došlo, použitím protokolování (prověřovací záznam činnosti), kompenzace&#xD;
+    (všechny vlivy těchto změn jsou anulovány) nebo vnější (ruční) interakce.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Zajistit správný funkční provoz za přítomnosti jedné nebo více vad.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

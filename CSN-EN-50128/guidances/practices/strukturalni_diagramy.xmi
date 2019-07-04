@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ezoY8Fvva-F1L9Uh-ld_RQ" name="new_practice,_ljcEYJ5JEempu9k_SdMtDQ" guid="-ezoY8Fvva-F1L9Uh-ld_RQ" changeDate="2019-07-04T12:51:53.281+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Strukturální diagramy jsou zápisem, který doplňuje diagramy toku dat. Popisují programovaný systém a hierarchii jeho&#xD;
+    částí a zobrazují to graficky jako strom. Dokumentují, jak mohou být prvky diagramu toku dat&lt;br />&#xD;
+    implementovány jako hierarchie částí programu.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Strukturální diagram ukazuje vztahy mezi částmi programu bez zahrnutí jakýchkoliv informací o pořadí aktivace těchto&#xD;
+    částí. Jsou nakresleny za použití následujících tří symbolů:&#xD;
+&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        a) pravoúhelník doplněný jménem modulu;&lt;br />&#xD;
+        b) šipka spojující tyto pravoúhelníky;&lt;br />&#xD;
+        c) šipka v kroužku doplněná jménem dat procházejících do prvků a z prvků ve strukturálním diagramu. Normálně je&#xD;
+        šipka v kroužku nakreslena paralelně se šipkou spojující pravoúhelníky v diagramu.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;p>&#xD;
+    Z jakéhokoliv diagramu netriviálního toku dat je možné odvodit řadu různých strukturálních diagramů.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Strukturální diagramy odvozené z diagramů toku dat představují strukturu systému první úrovně, kde každý rámeček na&#xD;
+    strukturálním diagramu představuje bublinu v diagramu toku dat. Přirozeně hlubší úrovně mohou být popsány za použití&#xD;
+    stejné techniky.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Popsat strukturu programu diagramem.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

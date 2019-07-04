@@ -195,6 +195,30 @@
     <resourceDescriptors xmi:id="_lFt2sFVEEemV8b7OFrwc1g" id="-YUJlfpmvHP7FgEVO0gcxHQ" uri="content.xmi"/>
     <resourceDescriptors xmi:id="_lFz9UFVEEemV8b7OFrwc1g" id="-kEJ0sB9OfsXcT__KhobWlA" uri="content.xmi"/>
     <resourceDescriptors xmi:id="_lF6rAFVEEemV8b7OFrwc1g" id="-Y3i6tDnIcjci714xjpMiew" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_G-vnkIHwEemoPoTBJsGLNw" id="-tz1wPUzG1oim3Vy3QLLjyw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_G-5_oIHwEemoPoTBJsGLNw" id="-uUFdHe-SaXxpxMtYO5fOJQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_G_AGQIHwEemoPoTBJsGLNw" id="-aFC6GR4X2RsEu6rw6JHqzg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_G_HbAIHwEemoPoTBJsGLNw" id="-5_aaSalW6vL1grQDPvbAKg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_G_OvwIHwEemoPoTBJsGLNw" id="-qq73RpnQshgnKDTv8TQHoA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_G_VdcIHwEemoPoTBJsGLNw" id="-DGTG3RARvibM9lq4v2aHqg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_G_cLIIHwEemoPoTBJsGLNw" id="-EGN1Ak0HXBTGgpKY2fVKcQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_G_hqsIHwEemoPoTBJsGLNw" id="-hHDGCfd4X8X9uReWGxEJ3g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_G_nxUIHwEemoPoTBJsGLNw" id="-XqYyLpxfpkamq-WunGKNJA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_G_tQ4IHwEemoPoTBJsGLNw" id="-3jo0oJsnMXo_MnerVoORBg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_G_xiUIHwEemoPoTBJsGLNw" id="-A7t0iM7g9F1ksntkBGBKxg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_G_1zwIHwEemoPoTBJsGLNw" id="-35QNNDP9ihCmV1jKckO4cw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_G_6FMIHwEemoPoTBJsGLNw" id="-a6tAC7FwZlSpj9fICtJSTQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_G_-9sIHwEemoPoTBJsGLNw" id="-ghnSJHQ3gTbyfay1HxIXtA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_HAFrYIHwEemoPoTBJsGLNw" id="-GYX-VP1TysOJWGyN4mqQRg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_HAKj4IHwEemoPoTBJsGLNw" id="-NuAuppgxFFkije_I_fa8Sw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_HAPcYIHwEemoPoTBJsGLNw" id="-1-4pEM6BGVlqmQgFlSlghw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_HATGwIHwEemoPoTBJsGLNw" id="-woueY6b8APDWA8opKGb7yw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_HAX_QIHwEemoPoTBJsGLNw" id="-8FotlZqwxh4IcU73FpcsPQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_HAc3wIHwEemoPoTBJsGLNw" id="-K_eHr7srE7cb3czdhaV8gw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_HAgiIIHwEemoPoTBJsGLNw" id="-1pgLZoEYm4UIXa6gX1wU4g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_HAkzkIHwEemoPoTBJsGLNw" id="-kwfyuikTFhY9gZJE2aS3-g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_HAsvYIHwEemoPoTBJsGLNw" id="-iyqRZZW6kjsqG7l9-9GT3w" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_HAxA0IHwEemoPoTBJsGLNw" id="-tRrQ9nOTpxkaYw_bon8cIg" uri="content.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:ProcessComponent xmi:id="_aZv8kEWIEemhELvG__VSRQ" name="Delivery Process" guid="_aZv8kEWIEemhELvG__VSRQ">
     <methodElementProperty xmi:id="_aZv8kkWIEemhELvG__VSRQ" name="pkg_loadCheck" value="true"/>
@@ -257,6 +281,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_5a-iEVS0EemXxoBG7rYlSQ" name="validator" guid="_5a-iEVS0EemXxoBG7rYlSQ" presentationName="Validátor" briefDescription="entita, která je zodpovědná za validaci" isPlanned="false" superActivities="_vlJFYVS0EemXxoBG7rYlSQ">
           <methodElementProperty xmi:id="_V_fQgFUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-tz1wPUzG1oim3Vy3QLLjyw" href="uma://-iOk2-3gchx1fzoocu9pXyA#-tz1wPUzG1oim3Vy3QLLjyw"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_9m6ecMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_668gAFS0EemXxoBG7rYlSQ" name="stanoveni_hodnotitele_5.1.2.4" guid="_668gAFS0EemXxoBG7rYlSQ" presentationName="stanovení hodnotitele (5.1.2.4)" superActivities="_vlJFYVS0EemXxoBG7rYlSQ" performedPrimarilyBy="_668gAVS0EemXxoBG7rYlSQ _668gAlS0EemXxoBG7rYlSQ _2xKnMVS0EemXxoBG7rYlSQ">
@@ -322,6 +347,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_VELwoEWJEemhELvG__VSRQ" name="manazer_projektu" guid="_VELwoEWJEemhELvG__VSRQ" presentationName="Manažer projektu" briefDescription="entita, která provádí řízení projektu" isPlanned="false" superActivities="_KRoNAUWJEemhELvG__VSRQ">
           <methodElementProperty xmi:id="_I-W3wFSyEemXxoBG7rYlSQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-uUFdHe-SaXxpxMtYO5fOJQ" href="uma://-iOk2-3gchx1fzoocu9pXyA#-uUFdHe-SaXxpxMtYO5fOJQ"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_O8RdMMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ovF1AEWJEemhELvG__VSRQ" name="instalace_noveho_vydani_softwaru_9.1.4.10" guid="_ovF1AEWJEemhELvG__VSRQ" presentationName="instalace nového vydání softwaru (9.1.4.10)" superActivities="_KRoNAUWJEemhELvG__VSRQ" isRepeatable="true" performedPrimarilyBy="_ovF1AUWJEemhELvG__VSRQ">
@@ -366,6 +392,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_1H8oEEWJEemhELvG__VSRQ" name="verifikator" guid="_1H8oEEWJEemhELvG__VSRQ" presentationName="Verifikátor" briefDescription="entita, která je zodpovědná za jednu nebo více verifikačních činností" isPlanned="false" superActivities="_KRoNAUWJEemhELvG__VSRQ" modifies="_1H8oEUWJEemhELvG__VSRQ">
           <methodElementProperty xmi:id="_I-bwQ1SyEemXxoBG7rYlSQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-aFC6GR4X2RsEu6rw6JHqzg" href="uma://-iOk2-3gchx1fzoocu9pXyA#-aFC6GR4X2RsEu6rw6JHqzg"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5kE7IMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_1H8oEUWJEemhELvG__VSRQ" name="zprava_z_verifikace_nasazeni" guid="_1H8oEUWJEemhELvG__VSRQ" presentationName="Zpráva z verifikace nasazení" isPlanned="false" superActivities="_KRoNAUWJEemhELvG__VSRQ">
@@ -451,6 +478,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_42TdRkWWEem2O-StvTKz2Q" name="verifikator" guid="_42TdRkWWEem2O-StvTKz2Q" presentationName="Verifikátor" briefDescription="entita, která je zodpovědná za jednu nebo více verifikačních činností" isPlanned="false" superActivities="_M3bKkUWJEemhELvG__VSRQ" modifies="_42TdR0WWEem2O-StvTKz2Q">
           <methodElementProperty xmi:id="_JB8-UVSyEemXxoBG7rYlSQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-5_aaSalW6vL1grQDPvbAKg" href="uma://-iOk2-3gchx1fzoocu9pXyA#-5_aaSalW6vL1grQDPvbAKg"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5kE7IMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_42TdR0WWEem2O-StvTKz2Q" name="zprava_z_verifikace_udrzby_softwaru" guid="_42TdR0WWEem2O-StvTKz2Q" presentationName="Zpráva z verifikace údržby softwaru" isPlanned="false" superActivities="_M3bKkUWJEemhELvG__VSRQ">
@@ -533,6 +561,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_ESb3c0WZEem2O-StvTKz2Q" name="integrator" guid="_ESb3c0WZEem2O-StvTKz2Q" presentationName="Integrátor" isPlanned="false" superActivities="_ZSipoUWYEem2O-StvTKz2Q" modifies="_s7TQglUQEemV8b7OFrwc1g _ESb3dkWZEem2O-StvTKz2Q _ESb3d0WZEem2O-StvTKz2Q">
           <methodElementProperty xmi:id="_I4VIQVSyEemXxoBG7rYlSQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-qq73RpnQshgnKDTv8TQHoA" href="uma://-iOk2-3gchx1fzoocu9pXyA#-qq73RpnQshgnKDTv8TQHoA"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_xyEXYMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_ESb3dkWZEem2O-StvTKz2Q" name="specifikace_testu_integrace_softwaru_hardwaru" guid="_ESb3dkWZEem2O-StvTKz2Q" presentationName="Specifikace testů integrace softwaru/hardwaru" isPlanned="false" superActivities="_ZSipoUWYEem2O-StvTKz2Q">
@@ -578,6 +607,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_s7TQgFUQEemV8b7OFrwc1g" name="verifikator" guid="_s7TQgFUQEemV8b7OFrwc1g" presentationName="Verifikátor" briefDescription="entita, která je zodpovědná za jednu nebo více verifikačních činností" isPlanned="false" superActivities="_ZSipoUWYEem2O-StvTKz2Q" modifies="_s7TQhFUQEemV8b7OFrwc1g">
           <methodElementProperty xmi:id="_Wv1IUFUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-DGTG3RARvibM9lq4v2aHqg" href="uma://-iOk2-3gchx1fzoocu9pXyA#-DGTG3RARvibM9lq4v2aHqg"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5kE7IMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_s7TQgVUQEemV8b7OFrwc1g" name="dodavatel" guid="_s7TQgVUQEemV8b7OFrwc1g" presentationName="Dodavatel" briefDescription="entita, která navrhuje a vytváří drážní řídicí a ochranné systémy obsahující software nebo jeho části" isPlanned="false" superActivities="_ZSipoUWYEem2O-StvTKz2Q">
@@ -650,10 +680,12 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_N_CfpUWZEem2O-StvTKz2Q" name="tester" guid="_N_CfpUWZEem2O-StvTKz2Q" presentationName="Tester" isPlanned="false" superActivities="_GqNAEUWZEem2O-StvTKz2Q" modifies="_N_CfqUWZEem2O-StvTKz2Q">
           <methodElementProperty xmi:id="_I7zTAFSyEemXxoBG7rYlSQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-EGN1Ak0HXBTGgpKY2fVKcQ" href="uma://-iOk2-3gchx1fzoocu9pXyA#-EGN1Ak0HXBTGgpKY2fVKcQ"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_3Evx8MjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_N_CfpkWZEem2O-StvTKz2Q" name="validator" guid="_N_CfpkWZEem2O-StvTKz2Q" presentationName="Validátor" briefDescription="entita, která je zodpovědná za validaci" isPlanned="false" superActivities="_GqNAEUWZEem2O-StvTKz2Q" modifies="_N_CfqkWZEem2O-StvTKz2Q">
           <methodElementProperty xmi:id="_I7-5MFSyEemXxoBG7rYlSQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-hHDGCfd4X8X9uReWGxEJ3g" href="uma://-iOk2-3gchx1fzoocu9pXyA#-hHDGCfd4X8X9uReWGxEJ3g"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_9m6ecMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_N_Cfp0WZEem2O-StvTKz2Q" name="poznamky_k_vydani" guid="_N_Cfp0WZEem2O-StvTKz2Q" presentationName="Poznámky k vydání" isPlanned="false" superActivities="_GqNAEUWZEem2O-StvTKz2Q">
@@ -692,6 +724,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_MUHD4FS4Eem1G9Q9pbLIvg" name="implementator" guid="_MUHD4FS4Eem1G9Q9pbLIvg" presentationName="Implementátor" briefDescription="entita, která transformuje specifikované návrhy do jejich fyzické implementace" isPlanned="false" superActivities="_dncX4UWZEem2O-StvTKz2Q" modifies="_MUHD4lS4Eem1G9Q9pbLIvg">
           <methodElementProperty xmi:id="_W-77UFUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-XqYyLpxfpkamq-WunGKNJA" href="uma://-iOk2-3gchx1fzoocu9pXyA#-XqYyLpxfpkamq-WunGKNJA"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_qFKWEMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_MUHD4VS4Eem1G9Q9pbLIvg" name="specifikace_navrhu_komponent_softwaru" guid="_MUHD4VS4Eem1G9Q9pbLIvg" presentationName="Specifikace návrhu komponent softwaru" isPlanned="false" superActivities="_dncX4UWZEem2O-StvTKz2Q">
@@ -711,6 +744,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_NsPUcVS4Eem1G9Q9pbLIvg" name="tester" guid="_NsPUcVS4Eem1G9Q9pbLIvg" presentationName="Tester" isPlanned="false" superActivities="_dncX4UWZEem2O-StvTKz2Q" modifies="_NsPUc1S4Eem1G9Q9pbLIvg">
           <methodElementProperty xmi:id="_W_IIkFUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-3jo0oJsnMXo_MnerVoORBg" href="uma://-iOk2-3gchx1fzoocu9pXyA#-3jo0oJsnMXo_MnerVoORBg"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_3Evx8MjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_NsPUclS4Eem1G9Q9pbLIvg" name="specifikace_testu_komponent_softwaru" guid="_NsPUclS4Eem1G9Q9pbLIvg" presentationName="Specifikace testů komponent softwaru" isPlanned="false" superActivities="_dncX4UWZEem2O-StvTKz2Q">
@@ -730,6 +764,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_P28RcVS4Eem1G9Q9pbLIvg" name="verifikator" guid="_P28RcVS4Eem1G9Q9pbLIvg" presentationName="Verifikátor" briefDescription="entita, která je zodpovědná za jednu nebo více verifikačních činností" isPlanned="false" superActivities="_dncX4UWZEem2O-StvTKz2Q" modifies="_P28RclS4Eem1G9Q9pbLIvg">
           <methodElementProperty xmi:id="_W_J9wFUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-A7t0iM7g9F1ksntkBGBKxg" href="uma://-iOk2-3gchx1fzoocu9pXyA#-A7t0iM7g9F1ksntkBGBKxg"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5kE7IMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_P28RclS4Eem1G9Q9pbLIvg" name="zprava_z_verifikace_zdrojoveho_kodu_softwaru" guid="_P28RclS4Eem1G9Q9pbLIvg" presentationName="Zpráva z verifikace zdrojového kódu softwaru" isPlanned="false" superActivities="_dncX4UWZEem2O-StvTKz2Q">
@@ -750,6 +785,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_apq0MFS4Eem1G9Q9pbLIvg" name="integrator" guid="_apq0MFS4Eem1G9Q9pbLIvg" presentationName="Integrátor" isPlanned="false" superActivities="_W4-w0VS4Eem1G9Q9pbLIvg" modifies="_cqNIklS4Eem1G9Q9pbLIvg _apq0MlS4Eem1G9Q9pbLIvg">
           <methodElementProperty xmi:id="_XF434FUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-35QNNDP9ihCmV1jKckO4cw" href="uma://-iOk2-3gchx1fzoocu9pXyA#-35QNNDP9ihCmV1jKckO4cw"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_xyEXYMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_apq0MVS4Eem1G9Q9pbLIvg" name="specifikace_testu_integrace_softwaru" guid="_apq0MVS4Eem1G9Q9pbLIvg" presentationName="Specifikace testů integrace softwaru" isPlanned="false" superActivities="_W4-w0VS4Eem1G9Q9pbLIvg">
@@ -784,6 +820,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_gM1h0VS4Eem1G9Q9pbLIvg" name="verifikator" guid="_gM1h0VS4Eem1G9Q9pbLIvg" presentationName="Verifikátor" briefDescription="entita, která je zodpovědná za jednu nebo více verifikačních činností" isPlanned="false" superActivities="_W4-w0VS4Eem1G9Q9pbLIvg" modifies="_apq0MlS4Eem1G9Q9pbLIvg">
           <methodElementProperty xmi:id="_XGG6UVUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-a6tAC7FwZlSpj9fICtJSTQ" href="uma://-iOk2-3gchx1fzoocu9pXyA#-a6tAC7FwZlSpj9fICtJSTQ"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5kE7IMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ik4XQFS4Eem1G9Q9pbLIvg" name="studie_dopadu_7.6.4.2" guid="_ik4XQFS4Eem1G9Q9pbLIvg" presentationName="studie dopadů (7.6.4.2)" superActivities="_W4-w0VS4Eem1G9Q9pbLIvg">
@@ -825,6 +862,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_rBtZoVS4Eem1G9Q9pbLIvg" name="tester" guid="_rBtZoVS4Eem1G9Q9pbLIvg" presentationName="Tester" isPlanned="false" superActivities="_l_VE4VS4Eem1G9Q9pbLIvg" modifies="_rBtZolS4Eem1G9Q9pbLIvg">
           <methodElementProperty xmi:id="_W4FFYFUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-ghnSJHQ3gTbyfay1HxIXtA" href="uma://-iOk2-3gchx1fzoocu9pXyA#-ghnSJHQ3gTbyfay1HxIXtA"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_3Evx8MjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_rBtZolS4Eem1G9Q9pbLIvg" name="specifikace_testu_komponent_softwaru" guid="_rBtZolS4Eem1G9Q9pbLIvg" presentationName="Specifikace testů komponent softwaru" isPlanned="false" superActivities="_l_VE4VS4Eem1G9Q9pbLIvg">
@@ -839,6 +877,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_s1YWsVS4Eem1G9Q9pbLIvg" name="verifikator" guid="_s1YWsVS4Eem1G9Q9pbLIvg" presentationName="Verifikátor" briefDescription="entita, která je zodpovědná za jednu nebo více verifikačních činností" isPlanned="false" superActivities="_l_VE4VS4Eem1G9Q9pbLIvg" modifies="_s1YWs1S4Eem1G9Q9pbLIvg">
           <methodElementProperty xmi:id="_W4NBMFUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-GYX-VP1TysOJWGyN4mqQRg" href="uma://-iOk2-3gchx1fzoocu9pXyA#-GYX-VP1TysOJWGyN4mqQRg"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5kE7IMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_s1YWslS4Eem1G9Q9pbLIvg" name="navrh_softwaru" guid="_s1YWslS4Eem1G9Q9pbLIvg" presentationName="Návrh softwaru" isPlanned="false" superActivities="_l_VE4VS4Eem1G9Q9pbLIvg">
@@ -865,6 +904,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_1XHHMVS4Eem1G9Q9pbLIvg" name="tester" guid="_1XHHMVS4Eem1G9Q9pbLIvg" presentationName="Tester" isPlanned="false" superActivities="_xTbPUVS4Eem1G9Q9pbLIvg" modifies="_1XHHM1S4Eem1G9Q9pbLIvg">
           <methodElementProperty xmi:id="_WnzNsFUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-NuAuppgxFFkije_I_fa8Sw" href="uma://-iOk2-3gchx1fzoocu9pXyA#-NuAuppgxFFkije_I_fa8Sw"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_3Evx8MjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_1XHHMlS4Eem1G9Q9pbLIvg" name="specifikace_pozadavku_na_software" guid="_1XHHMlS4Eem1G9Q9pbLIvg" presentationName="Specifikace požadavků na software" isPlanned="false" superActivities="_xTbPUVS4Eem1G9Q9pbLIvg">
@@ -920,6 +960,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_5G5LoVS4Eem1G9Q9pbLIvg" name="verifikator" guid="_5G5LoVS4Eem1G9Q9pbLIvg" presentationName="Verifikátor" briefDescription="entita, která je zodpovědná za jednu nebo více verifikačních činností" isPlanned="false" superActivities="_xTbPUVS4Eem1G9Q9pbLIvg" modifies="_5G5LolS4Eem1G9Q9pbLIvg">
           <methodElementProperty xmi:id="_Wn9lwFUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-1-4pEM6BGVlqmQgFlSlghw" href="uma://-iOk2-3gchx1fzoocu9pXyA#-1-4pEM6BGVlqmQgFlSlghw"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5kE7IMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_5G5LolS4Eem1G9Q9pbLIvg" name="zprava_z_verifikace_pozadavku_na_software" guid="_5G5LolS4Eem1G9Q9pbLIvg" presentationName="Zpráva z verifikace požadavků na software" isPlanned="false" superActivities="_xTbPUVS4Eem1G9Q9pbLIvg">
@@ -992,7 +1033,7 @@
           <presentation xmi:id="-aViTwj6WRfLui4-a7I-w4g" href="uma://-iOk2-3gchx1fzoocu9pXyA#-aViTwj6WRfLui4-a7I-w4g"/>
           <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_PSU1QCLjEemo7MfG6V_evw"/>
         </processElements>
-        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_uyZu8VS2EemXxoBG7rYlSQ" name="manazer_konfigurace" guid="_uyZu8VS2EemXxoBG7rYlSQ" presentationName="Manažer konfigurace" isPlanned="false" superActivities="_rtnvUVS2EemXxoBG7rYlSQ">
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_uyZu8VS2EemXxoBG7rYlSQ" name="manazer_konfigurace" guid="_uyZu8VS2EemXxoBG7rYlSQ" presentationName="Manažer konfigurace" briefDescription="entita, která je zodpovědná za zavádění a provádění procesů pro řízení konfigurace dokumentů, softwaru a souvisejících nástrojů včetně řízení změn" isPlanned="false" superActivities="_rtnvUVS2EemXxoBG7rYlSQ">
           <methodElementProperty xmi:id="_WWsPkFUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
           <presentation xmi:id="-be28ZnzBUZyi8xevQedQaQ" href="uma://-iOk2-3gchx1fzoocu9pXyA#-be28ZnzBUZyi8xevQedQaQ"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_WFU2MCYcEemSeZcT9hWL7w"/>
@@ -1007,6 +1048,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_zquv0VS2EemXxoBG7rYlSQ" name="verifikator" guid="_zquv0VS2EemXxoBG7rYlSQ" presentationName="Verifikátor" briefDescription="entita, která je zodpovědná za jednu nebo více verifikačních činností" isPlanned="false" superActivities="_xj_FwVS2EemXxoBG7rYlSQ">
           <methodElementProperty xmi:id="_WOLz0FUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-woueY6b8APDWA8opKGb7yw" href="uma://-iOk2-3gchx1fzoocu9pXyA#-woueY6b8APDWA8opKGb7yw"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5kE7IMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_1J6DkFS2EemXxoBG7rYlSQ" name="dokumentace_testovani_6.1.4.3" guid="_1J6DkFS2EemXxoBG7rYlSQ" presentationName="Dokumentace testování (6.1.4.3)" superActivities="_xj_FwVS2EemXxoBG7rYlSQ" output="_1J6qoFS2EemXxoBG7rYlSQ _1J6qoVS2EemXxoBG7rYlSQ _1J6qolS2EemXxoBG7rYlSQ _1J6qo1S2EemXxoBG7rYlSQ _1J6qpFS2EemXxoBG7rYlSQ _1J6qpVS2EemXxoBG7rYlSQ" performedPrimarilyBy="_1J6DkVS2EemXxoBG7rYlSQ">
@@ -1064,7 +1106,7 @@
         <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_zdAbcVU7EemV8b7OFrwc1g" guid="_zdAbcVU7EemV8b7OFrwc1g" pred="_1J6DkFS2EemXxoBG7rYlSQ"/>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_7tba8FS2EemXxoBG7rYlSQ" name="Validace softwaru" guid="_7tba8FS2EemXxoBG7rYlSQ">
-        <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_7tba8VS2EemXxoBG7rYlSQ" name="Validace softwaru" guid="_7tba8VS2EemXxoBG7rYlSQ" presentationName="Validace softwaru" superActivities="_J0tCoUWYEem2O-StvTKz2Q" breakdownElements="_CxZM8FS3EemXxoBG7rYlSQ _BXCu0FS3EemXxoBG7rYlSQ _FIpYMFS3EemXxoBG7rYlSQ _MCPWsFU6EemV8b7OFrwc1g __TnegFS2EemXxoBG7rYlSQ _-Vd0MFS2EemXxoBG7rYlSQ _-Vd0MVS2EemXxoBG7rYlSQ _BXCu0VS3EemXxoBG7rYlSQ _BXDV4FS3EemXxoBG7rYlSQ _FIpYMVS3EemXxoBG7rYlSQ _MCPWsVU6EemV8b7OFrwc1g _MCPWslU6EemV8b7OFrwc1g _MCP9wFU6EemV8b7OFrwc1g _MCP9wVU6EemV8b7OFrwc1g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_7tba8VS2EemXxoBG7rYlSQ" name="Validace softwaru" guid="_7tba8VS2EemXxoBG7rYlSQ" presentationName="Validace softwaru" superActivities="_J0tCoUWYEem2O-StvTKz2Q" breakdownElements="_CxZM8FS3EemXxoBG7rYlSQ _BXCu0FS3EemXxoBG7rYlSQ _FIpYMFS3EemXxoBG7rYlSQ _MCPWsFU6EemV8b7OFrwc1g __TnegFS2EemXxoBG7rYlSQ _-Vd0MFS2EemXxoBG7rYlSQ _-Vd0MVS2EemXxoBG7rYlSQ _BXCu0VS3EemXxoBG7rYlSQ _BXDV4FS3EemXxoBG7rYlSQ _FIpYMVS3EemXxoBG7rYlSQ _MCPWsVU6EemV8b7OFrwc1g _MCPWslU6EemV8b7OFrwc1g _MCP9wFU6EemV8b7OFrwc1g _MCP9wVU6EemV8b7OFrwc1g _4Qv-kYHuEemoPoTBJsGLNw"/>
         <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_-Vd0MFS2EemXxoBG7rYlSQ" name="autorizace_validatorem_6.3.4.16" guid="_-Vd0MFS2EemXxoBG7rYlSQ" presentationName="autorizace validátorem (6.3.4.16)" superActivities="_7tba8VS2EemXxoBG7rYlSQ" performedPrimarilyBy="_-Vd0MVS2EemXxoBG7rYlSQ">
           <methodElementProperty xmi:id="_We-o4FUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
           <presentation xmi:id="-QflhH7iyTSv-mKHpcbEqhg" href="uma://-iOk2-3gchx1fzoocu9pXyA#-QflhH7iyTSv-mKHpcbEqhg"/>
@@ -1072,6 +1114,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_-Vd0MVS2EemXxoBG7rYlSQ" name="validator" guid="_-Vd0MVS2EemXxoBG7rYlSQ" presentationName="Validátor" briefDescription="entita, která je zodpovědná za validaci" isPlanned="false" superActivities="_7tba8VS2EemXxoBG7rYlSQ" modifies="_FIpYMVS3EemXxoBG7rYlSQ _BXDV4FS3EemXxoBG7rYlSQ">
           <methodElementProperty xmi:id="_Wex0kFUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-8FotlZqwxh4IcU73FpcsPQ" href="uma://-iOk2-3gchx1fzoocu9pXyA#-8FotlZqwxh4IcU73FpcsPQ"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_9m6ecMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="__TnegFS2EemXxoBG7rYlSQ" name="dodatecne_prezkoumani_6.3.4.15" guid="__TnegFS2EemXxoBG7rYlSQ" presentationName="dodatečné přezkoumání (6.3.4.15)" superActivities="_7tba8VS2EemXxoBG7rYlSQ" linkToPredecessor="_D8Dn0FU8EemV8b7OFrwc1g" performedPrimarilyBy="_-Vd0MVS2EemXxoBG7rYlSQ">
@@ -1114,7 +1157,7 @@
           <presentation xmi:id="-ysibe8Cx9XtIKvzKuXgMZA" href="uma://-iOk2-3gchx1fzoocu9pXyA#-ysibe8Cx9XtIKvzKuXgMZA"/>
           <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_qnzy8AMWEem_mu8SW8LMeg"/>
         </processElements>
-        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_MCPWsVU6EemV8b7OFrwc1g" name="napsani_zpravy_z_verifikace_validace_softwaru_6.3.4.12" guid="_MCPWsVU6EemV8b7OFrwc1g" presentationName="napsání Zprávy z verifikace validace_softwaru (6.3.4.12)" superActivities="_7tba8VS2EemXxoBG7rYlSQ" output="_MCP9wVU6EemV8b7OFrwc1g" performedPrimarilyBy="_MCP9wFU6EemV8b7OFrwc1g">
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_MCPWsVU6EemV8b7OFrwc1g" name="napsani_zpravy_z_verifikace_validace_softwaru_6.3.4.12" guid="_MCPWsVU6EemV8b7OFrwc1g" presentationName="napsání Zprávy z verifikace validace_softwaru (6.3.4.12)" superActivities="_7tba8VS2EemXxoBG7rYlSQ" mandatoryInput="_4Qv-kYHuEemoPoTBJsGLNw" output="_MCP9wVU6EemV8b7OFrwc1g" performedPrimarilyBy="_MCP9wFU6EemV8b7OFrwc1g">
           <methodElementProperty xmi:id="_RknycFVAEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
           <presentation xmi:id="-UrCGsqfrTLrWJdCWUZ63Jg" href="uma://-iOk2-3gchx1fzoocu9pXyA#-UrCGsqfrTLrWJdCWUZ63Jg"/>
           <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_CFTYIAMXEem_mu8SW8LMeg"/>
@@ -1126,6 +1169,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_MCP9wFU6EemV8b7OFrwc1g" name="verifikator" guid="_MCP9wFU6EemV8b7OFrwc1g" presentationName="Verifikátor" briefDescription="entita, která je zodpovědná za jednu nebo více verifikačních činností" isPlanned="false" superActivities="_7tba8VS2EemXxoBG7rYlSQ" modifies="_MCP9wVU6EemV8b7OFrwc1g">
           <methodElementProperty xmi:id="_RkpAkFVAEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-K_eHr7srE7cb3czdhaV8gw" href="uma://-iOk2-3gchx1fzoocu9pXyA#-K_eHr7srE7cb3czdhaV8gw"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5kE7IMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_MCP9wVU6EemV8b7OFrwc1g" name="zprava_z_verifikace_validace_softwaru" guid="_MCP9wVU6EemV8b7OFrwc1g" presentationName="Zpráva z verifikace validace softwaru" isPlanned="false" superActivities="_7tba8VS2EemXxoBG7rYlSQ">
@@ -1135,9 +1179,14 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_A9haIFU8EemV8b7OFrwc1g" guid="_A9haIFU8EemV8b7OFrwc1g" pred="_FIpYMFS3EemXxoBG7rYlSQ"/>
         <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_D8Dn0FU8EemV8b7OFrwc1g" guid="_D8Dn0FU8EemV8b7OFrwc1g" pred="_MCPWsFU6EemV8b7OFrwc1g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_4Qv-kYHuEemoPoTBJsGLNw" name="vsechna_systemova_hardwarova_a_softwarova_dokumentace_jak_je_specifikovana_v_teto_evropske_norme._1" guid="_4Qv-kYHuEemoPoTBJsGLNw" presentationName="Všechna systémová, hardwarová a softwarová dokumentace jak je specifikována v této evropské normě." isPlanned="false" superActivities="_7tba8VS2EemXxoBG7rYlSQ">
+          <methodElementProperty xmi:id="_4Qv-koHuEemoPoTBJsGLNw" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_4QxzwIHuEemoPoTBJsGLNw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_QPnegIBaEemihLwHLpfqWA"/>
+        </processElements>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_8Fo1QFUnEemV8b7OFrwc1g" name="Verifikace softwaru" guid="_8Fo1QFUnEemV8b7OFrwc1g">
-        <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_8Fo1QVUnEemV8b7OFrwc1g" name="Verifikace softwaru" guid="_8Fo1QVUnEemV8b7OFrwc1g" presentationName="Verifikace softwaru" superActivities="_J0tCoUWYEem2O-StvTKz2Q" breakdownElements="_J3T1YFUoEemV8b7OFrwc1g _J3T1YVUoEemV8b7OFrwc1g _J3T1YlUoEemV8b7OFrwc1g _J3UccFUoEemV8b7OFrwc1g _J3UccVUoEemV8b7OFrwc1g _J3VDgFUoEemV8b7OFrwc1g _J3VDgVUoEemV8b7OFrwc1g _J3VDglUoEemV8b7OFrwc1g _J3VDg1UoEemV8b7OFrwc1g _J3VDhFUoEemV8b7OFrwc1g _J3VDhVUoEemV8b7OFrwc1g _J3VqkFUoEemV8b7OFrwc1g _J3VqkVUoEemV8b7OFrwc1g _J3VqklUoEemV8b7OFrwc1g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_8Fo1QVUnEemV8b7OFrwc1g" name="Verifikace softwaru" guid="_8Fo1QVUnEemV8b7OFrwc1g" presentationName="Verifikace softwaru" superActivities="_J0tCoUWYEem2O-StvTKz2Q" breakdownElements="_J3T1YFUoEemV8b7OFrwc1g _J3T1YVUoEemV8b7OFrwc1g _J3T1YlUoEemV8b7OFrwc1g _J3UccFUoEemV8b7OFrwc1g _J3UccVUoEemV8b7OFrwc1g _J3VDgFUoEemV8b7OFrwc1g _J3VDgVUoEemV8b7OFrwc1g _J3VDglUoEemV8b7OFrwc1g _J3VDg1UoEemV8b7OFrwc1g _J3VDhFUoEemV8b7OFrwc1g _J3VDhVUoEemV8b7OFrwc1g _J3VqkFUoEemV8b7OFrwc1g _J3VqkVUoEemV8b7OFrwc1g _J3VqklUoEemV8b7OFrwc1g _4RiBsYHuEemoPoTBJsGLNw"/>
         <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_J3T1YFUoEemV8b7OFrwc1g" name="dokumentace_verifikace_6.2.4.1" guid="_J3T1YFUoEemV8b7OFrwc1g" presentationName="dokumentace verifikace (6.2.4.1)" superActivities="_8Fo1QVUnEemV8b7OFrwc1g" output="_J3VDgFUoEemV8b7OFrwc1g _J3VDgVUoEemV8b7OFrwc1g _J3VDglUoEemV8b7OFrwc1g _J3VDg1UoEemV8b7OFrwc1g _J3VDhFUoEemV8b7OFrwc1g _J3VDhVUoEemV8b7OFrwc1g _J3VqkFUoEemV8b7OFrwc1g _J3VqkVUoEemV8b7OFrwc1g _J3VqklUoEemV8b7OFrwc1g" performedPrimarilyBy="_J3UccFUoEemV8b7OFrwc1g">
           <methodElementProperty xmi:id="_RsCCAFVAEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
           <presentation xmi:id="-YlChvmZVzzg-hMcQzwSv-Q" href="uma://-iOk2-3gchx1fzoocu9pXyA#-YlChvmZVzzg-hMcQzwSv-Q"/>
@@ -1148,7 +1197,7 @@
           <presentation xmi:id="-l1lverJKdKkJzNY3s4VzRQ" href="uma://-iOk2-3gchx1fzoocu9pXyA#-l1lverJKdKkJzNY3s4VzRQ"/>
           <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_QhzNAAMOEem_mu8SW8LMeg"/>
         </processElements>
-        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_J3T1YlUoEemV8b7OFrwc1g" name="napsani_zpravy_z_verifikace_zajisteni_kvality_softwaru_6.2.4.10" guid="_J3T1YlUoEemV8b7OFrwc1g" presentationName="napsání Zprávy z verifikace zajištění kvality softwaru (6.2.4.10)" superActivities="_8Fo1QVUnEemV8b7OFrwc1g" output="_J3VqkVUoEemV8b7OFrwc1g" performedPrimarilyBy="_J3UccVUoEemV8b7OFrwc1g">
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_J3T1YlUoEemV8b7OFrwc1g" name="napsani_zpravy_z_verifikace_zajisteni_kvality_softwaru_6.2.4.10" guid="_J3T1YlUoEemV8b7OFrwc1g" presentationName="napsání Zprávy z verifikace zajištění kvality softwaru (6.2.4.10)" superActivities="_8Fo1QVUnEemV8b7OFrwc1g" mandatoryInput="_4RiBsYHuEemoPoTBJsGLNw" output="_J3VqkVUoEemV8b7OFrwc1g" performedPrimarilyBy="_J3UccVUoEemV8b7OFrwc1g">
           <methodElementProperty xmi:id="_Rs7Z4FVAEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
           <presentation xmi:id="-4UYJfWHS6DVMdqnKmsuW1g" href="uma://-iOk2-3gchx1fzoocu9pXyA#-4UYJfWHS6DVMdqnKmsuW1g"/>
           <Task href="uma://_ol1t0MjDEeixxZe6yMuoZA#_hD6UcAMOEem_mu8SW8LMeg"/>
@@ -1160,6 +1209,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_J3UccVUoEemV8b7OFrwc1g" name="verifikator" guid="_J3UccVUoEemV8b7OFrwc1g" presentationName="Verifikátor" briefDescription="entita, která je zodpovědná za jednu nebo více verifikačních činností" isPlanned="false" superActivities="_8Fo1QVUnEemV8b7OFrwc1g" modifies="_J3VDgFUoEemV8b7OFrwc1g _J3VqkVUoEemV8b7OFrwc1g">
           <methodElementProperty xmi:id="_Rs6LwFVAEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-1pgLZoEYm4UIXa6gX1wU4g" href="uma://-iOk2-3gchx1fzoocu9pXyA#-1pgLZoEYm4UIXa6gX1wU4g"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5kE7IMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_J3VDgFUoEemV8b7OFrwc1g" name="plan_verifikace_softwaru" guid="_J3VDgFUoEemV8b7OFrwc1g" presentationName="Plán verifikace softwaru" isPlanned="false" superActivities="_8Fo1QVUnEemV8b7OFrwc1g">
@@ -1206,6 +1256,11 @@
           <methodElementProperty xmi:id="_RswawFVAEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
           <presentation xmi:id="-gMHp7I-I40hvon159VvpmA" href="uma://-iOk2-3gchx1fzoocu9pXyA#-gMHp7I-I40hvon159VvpmA"/>
           <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_453tEN6oEeiYXL4To-I0wg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_4RiBsYHuEemoPoTBJsGLNw" name="vsechna_nezbytna_systmova_hardwarova_a_softwarova_dokumentace._1" guid="_4RiBsYHuEemoPoTBJsGLNw" presentationName="Všechna nezbytná systémová, hardwarová a softwarová dokumentace." isPlanned="false" superActivities="_8Fo1QVUnEemV8b7OFrwc1g">
+          <methodElementProperty xmi:id="_4RiBsoHuEemoPoTBJsGLNw" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_4RiBs4HuEemoPoTBJsGLNw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_ol1t0MjDEeixxZe6yMuoZA#_swXiMIBaEemihLwHLpfqWA"/>
         </processElements>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_9mAb0FUnEemV8b7OFrwc1g" name="Zajištění kvality softwaru" guid="_9mAb0FUnEemV8b7OFrwc1g">
@@ -1257,6 +1312,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_NPVhKVUoEemV8b7OFrwc1g" name="verifikator" guid="_NPVhKVUoEemV8b7OFrwc1g" presentationName="Verifikátor" briefDescription="entita, která je zodpovědná za jednu nebo více verifikačních činností" isPlanned="false" superActivities="_9mAb0VUnEemV8b7OFrwc1g" modifies="_NPVhKlUoEemV8b7OFrwc1g">
           <methodElementProperty xmi:id="_SAEYUFVAEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-kwfyuikTFhY9gZJE2aS3-g" href="uma://-iOk2-3gchx1fzoocu9pXyA#-kwfyuikTFhY9gZJE2aS3-g"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5kE7IMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_NPVhKlUoEemV8b7OFrwc1g" name="plan_zajisteni_kvality_softwaru" guid="_NPVhKlUoEemV8b7OFrwc1g" presentationName="Plán zajištění kvality softwaru" isPlanned="false" superActivities="_9mAb0VUnEemV8b7OFrwc1g">
@@ -1392,6 +1448,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_hEJWkVSzEemXxoBG7rYlSQ" name="verifikator" guid="_hEJWkVSzEemXxoBG7rYlSQ" presentationName="Verifikátor" briefDescription="entita, která je zodpovědná za jednu nebo více verifikačních činností" isPlanned="false" superActivities="_Zz2_0VSzEemXxoBG7rYlSQ" modifies="_hEJWklSzEemXxoBG7rYlSQ">
           <methodElementProperty xmi:id="_XM7UAFUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-iyqRZZW6kjsqG7l9-9GT3w" href="uma://-iOk2-3gchx1fzoocu9pXyA#-iyqRZZW6kjsqG7l9-9GT3w"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_5kE7IMjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_hEJWklSzEemXxoBG7rYlSQ" name="zprava_z_verifikace_aplikacnich_dat_algoritmu" guid="_hEJWklSzEemXxoBG7rYlSQ" presentationName="Zpráva z verifikace aplikačních dat/algoritmů" isPlanned="false" superActivities="_Zz2_0VSzEemXxoBG7rYlSQ">
@@ -1438,6 +1495,7 @@
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_4MkDoVSzEemXxoBG7rYlSQ" name="tester" guid="_4MkDoVSzEemXxoBG7rYlSQ" presentationName="Tester" isPlanned="false" superActivities="_zIa0UVSzEemXxoBG7rYlSQ" modifies="_4MkqsVSzEemXxoBG7rYlSQ">
           <methodElementProperty xmi:id="_XZ-RgFUaEemV8b7OFrwc1g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-tRrQ9nOTpxkaYw_bon8cIg" href="uma://-iOk2-3gchx1fzoocu9pXyA#-tRrQ9nOTpxkaYw_bon8cIg"/>
           <Role href="uma://_ol1t0MjDEeixxZe6yMuoZA#_3Evx8MjEEeixxZe6yMuoZA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_4MkDolSzEemXxoBG7rYlSQ" name="podminky_pouziti_generickeho_softwaru_a_aplikacnich_nastroju" guid="_4MkDolSzEemXxoBG7rYlSQ" presentationName="Podmínky použití generického softwaru a aplikačních nástrojů" isPlanned="false" superActivities="_zIa0UVSzEemXxoBG7rYlSQ">
@@ -1499,6 +1557,7 @@
     </childPackages>
     <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_aZv8kUWIEemhELvG__VSRQ" name="Delivery Process" guid="_aZv8kUWIEemhELvG__VSRQ" presentationName="Delivery Process" breakdownElements="_CxTPIEWJEemhELvG__VSRQ _J0tCoUWYEem2O-StvTKz2Q _Di-l4UWYEem2O-StvTKz2Q _NunTcEWYEem2O-StvTKz2Q _Goe8EUWJEemhELvG__VSRQ">
       <presentation xmi:id="-iOk2-3gchx1fzoocu9pXyA" href="uma://-iOk2-3gchx1fzoocu9pXyA#-iOk2-3gchx1fzoocu9pXyA"/>
+      <guidelines href="uma://_ol1t0MjDEeixxZe6yMuoZA#_QgKdcIGCEem_jYH7kdgcuw"/>
     </process>
   </org.eclipse.epf.uma:ProcessComponent>
 </xmi:XMI>

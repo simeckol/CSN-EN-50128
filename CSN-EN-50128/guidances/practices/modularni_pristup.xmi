@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jVr7F7c4VF1H9SKB-cSb_w" name="new_practice,_RcOGMJ5DEempu9k_SdMtDQ" guid="-jVr7F7c4VF1H9SKB-cSb_w" changeDate="2019-07-04T12:07:05.131+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Modulární přístup neboli modularizace obsahuje několik pravidel pro etapy návrhu, kódování a údržby softwarového&#xD;
+    projektu. Tato pravidla se mění podle použité metody návrhu během navrhování. Většina metod obsahuje následující&#xD;
+    pravidla:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        modul/komponenta musí mít jedinou dobře definovanou úlohu nebo funkci, kterou má plnit;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        spřaženost mezi moduly/komponentami musí být omezena a přesně definována, koherence v jednom modulu/komponentě musí&#xD;
+        být silná;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        skupiny podprogramů musí být z modulů/komponent sestavovány na několika úrovních;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        podprogramy musí mít pouze jeden vstup a jeden výstup;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        moduly/komponenty musí komunikovat s jinými moduly/komponentami přes jejich rozhraní. Jsou-li použity globální nebo&#xD;
+        společné proměnné, musí být dobře strukturovány, přístup musí být řízen a jejich použití musí být v každém případě&#xD;
+        odůvodněné;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        všechna rozhraní modulů/komponent musí být plně dokumentována;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        kterékoliv rozhraní modulů/komponent musí obsahovat minimální počet parametrů nutný pro funkci modulů/komponent; a&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        musí být stanoveno vhodné omezení počtu parametrů, v typickém případě to je 5.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Rozložení systémů softwaru do malých srozumitelných částí s cílem omezit složitost systému.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

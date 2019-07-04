@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MjSxWsVDfPQp5ItIPwPzew" name="new_custom_category,_H7IHsILqEem-RZ8bLh7d0A" guid="-MjSxWsVDfPQp5ItIPwPzew">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Zajistit, že software funguje jak je požadováno, zachovává požadovanou úroveň integrity bezpečnosti a spolehlivost,&#xD;
+        když je nasazen v konečném prostředí aplikace. (9.1.1.1)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

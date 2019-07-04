@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rK2csN5upgTaTyXPlM0SQw" name="new_practice,_JPV4cJ5QEempu9k_SdMtDQ" guid="-rK2csN5upgTaTyXPlM0SQw" changeDate="2019-07-04T13:45:00.810+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Prvky SCF (grafy sekvenčních funkcí) umožňují rozdělení jednotky aplikačních algoritmů na soubor kroků a přechodů&#xD;
+    propojených orientovanými spojeními. S každým krokem je spojen soubor činností a každý přechod je spojen s podmínkou&#xD;
+    přechodu. Vzhledem k tomu, že SCF prvky vyžadují ukládání stavových informací, jsou jedinými jednotkami aplikačních&#xD;
+    algoritmů, které mohou být strukturované s použitím těchto prvků, funkční bloky.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Viz EN 61131-3:2003, kapitola 2.6.*)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    *) NÁRODNÍ POZNÁMKA Tato norma je do ČSN zavedena jako ČSN EN 61131-3:2003 Programovatelné řídicí jednotky – Část 3:&#xD;
+    Programovací jazyky.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Popsat algoritmy programu schématickým způsobem.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

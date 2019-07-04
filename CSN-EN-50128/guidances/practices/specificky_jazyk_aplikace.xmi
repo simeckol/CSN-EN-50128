@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GsBcW4OGYo5f9ZUq-CTwQA" name="new_practice,_B-_okJ5WEempu9k_SdMtDQ" guid="-GsBcW4OGYo5f9ZUq-CTwQA" changeDate="2019-07-04T14:20:27.893+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Specifický jazyk aplikace typicky kombinuje řídící konstrukce, které jsou podobné konvenčním vysokoúrovňovým&#xD;
+    programovacím jazykům s operátory, které jsou specifické pro daný typ systému.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Tato technika je vhodná tam, kde je potřeba specifikovat Booleanovské rozhodování, ale může se také uplatnit kdekoliv&#xD;
+    jinde.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Výhoda: Flexibilita, dovolující datům být produkovány za neobvyklých okolností, které nemusí být předvídány během&#xD;
+    původního návrhu systému.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Cílem je poskytnout prostředky specifikování funkcionality datově řízeného systému využitím konceptu a terminologie&#xD;
+    které jsou jednoduše osvojeny aplikačními inženýry, kteří nemusí být obeznámeni s konvenčními programovacími jazyky.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

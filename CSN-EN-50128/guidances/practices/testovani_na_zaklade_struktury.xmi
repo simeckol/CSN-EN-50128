@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kMr8lkkRQy9FpoQRS7v3Nw" name="new_practice,_K5ZqsJ5JEempu9k_SdMtDQ" guid="-kMr8lkkRQy9FpoQRS7v3Nw" changeDate="2019-07-04T12:49:05.498+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Na základě analýzy programu je zvolen soubor vstupních dat tak, aby byla zkoušena velká část zvolených prvků programu.&#xD;
+    Zkoušené prvky programu se mohou lišit v závislosti na požadované úrovni přísnosti:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        příkazy: toto je nejméně přísný test, protože je možné provádět všechny kódové příkazy bez zkoušení obou větvení&#xD;
+        podmíněného příkazu;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        větvení: mají být kontrolovány obě strany každého větvení. To může být nepraktické u některých typů defenzivního&#xD;
+        kódu;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        složené podmínky: zkouší se každá podmínka ve složené podmíněné větvi (tj. spojená pomocí AND/OR);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        LCSAJ (Linear Code Sequence And Jump): lineární posloupnost kódu a skok je jakákoliv lineární posloupnost kódových&#xD;
+        příkazů, včetně podmíněných skoků ukončená skokem. Mnoho potenciálních dílčích cest bude neproveditelných v&#xD;
+        důsledku omezení vstupních dat uložených provedením dřívějšího kódu;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        tok dat: prováděcí cesty jsou voleny na základě použití dat, takže například cesta, ve které je tatáž proměnná,&#xD;
+        bude zapisována dvakrát;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        graf volání: program je složen z podprogramů, které mohou být volány z jiných podprogramů. Graf volání je strom&#xD;
+        volání podprogramů v programu. Testy jsou navrženy tak, aby zahrnovaly všechna volání v tomto stromu;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        veškeré cesty: provede se každá možná cesta procházející kódem. Úplné testování je obvykle neproveditelné v&#xD;
+        důsledku velmi velkého počtu potencionálních cest.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Použít testy, které zkoušejí určité podmnožiny struktury programu.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

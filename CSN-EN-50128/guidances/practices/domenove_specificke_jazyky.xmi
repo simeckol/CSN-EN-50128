@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Q48tx0fFIoQmQ_jRfyvaOg" name="new_practice,__X-tkJ5WEempu9k_SdMtDQ" guid="-Q48tx0fFIoQmQ_jRfyvaOg" changeDate="2019-07-04T14:27:25.162+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Doménově specifický jazyk (DSL) je programovací, specifikační nebo modelovací jazyk vytvořený specificky pro řešení&#xD;
+    problémů v konkrétní aplikační doméně nebo v problémové doméně nebo za pomoci konkrétní techniky. Jazyk je založený na&#xD;
+    konceptech a rysech příslušných dané doméně. Doménově specifické jazyky jsou také často známy jako speciální účelové&#xD;
+    jazyky, na rozdíl od obecně účelových programovacích jazyků nebo modelovacích jazyků jako Java a UML.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Jednou z důležitých výhod doménově specifických jazyků je možnost reprezentovat a řešit problémy uvnitř konkrétní&#xD;
+    domény bez potřeby znalostí obecného programování, specifikací nebo modelování. Jako důsledek programy, specifikace&#xD;
+    nebo modely mohou být tvořeny na vyšší úrovni, eventuálně konečným uživatelem. Poskytnutím konstrukce ušité na míru&#xD;
+    dané doméně a možných prostředků pro automatické generování kódu, DSL obecně zvyšují produktivitu programátorů a&#xD;
+    kvalitu výsledného produktu. Generování kódy je typicky implementováno jako aplikační generátor využívající DSL jako&#xD;
+    vstup.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Reprezentovat softwarové programy a související předměty v jazyku, který je šitý na míru konkrétní doméně.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

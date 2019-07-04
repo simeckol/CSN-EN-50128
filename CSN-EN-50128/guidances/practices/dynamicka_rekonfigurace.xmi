@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XdDTRVYH4My6ozlq14u_Wg" name="new_practice,_hNLz0IOEEemcFuH-GN_pKw" guid="-XdDTRVYH4My6ozlq14u_Wg" changeDate="2019-05-31T11:16:56.176+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Logická architektura systému musí být taková, aby ji bylo možné zobrazit do podmnožiny dostupných zdrojů systému. Je&#xD;
+    třeba, aby byla architektura schopná zjistit poruchu ve fyzickém zdroji a potom znovu zobrazit logickou architekturu&#xD;
+    zpět do zbývajících zdrojů, které zůstaly jako funkční. Přestože koncepce je obvykle omezena na zotavení při poruše&#xD;
+    jednotek hardwaru, je ji možno také použít pro poruchy jednotek softwaru,&lt;br />&#xD;
+    pokud je tu vhodná redundance času zpracování pro umožnění nového pokusu softwaru nebo jsou-li k dispozici vhodná&#xD;
+    redundantní data pro izolaci poruchy.&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Přestože se tato technika aplikuje tradičně na hardware, vyvíjí se i pro softwarové aplikace a tedy pro celý systém.&#xD;
+    Musí být uvažována v prvním stadiu návrhu systému.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Udržovat funkčnost systému navzdory vnitřní vadě.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

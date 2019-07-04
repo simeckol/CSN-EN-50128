@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eYwfdQDiXBoxED3kAZm98A" name="new_custom_category,_3zMHsILREemTrZ3VjwEoNw" guid="-eYwfdQDiXBoxED3kAZm98A" changeDate="2019-05-30T13:56:46.241+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Identifikovat, monitorovat a kontrolovat všechny činnosti, jak technické tak manažerské, které jsou nezbytné pro&#xD;
+        zajištění toho, že software dosáhne požadované kvality. To je nezbytné pro poskytnutí požadované kvalitativní&#xD;
+        obrany proti systematickým vadám a pro zajištění možnosti provádět audity, aby mohly být verifikační a validační&#xD;
+        činnosti prováděny efektivně. (6.5.1.1)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Poskytnout důkaz, že výše zmíněné činnosti jsou prováděny. (6.5.1.2)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Každý plán musí mít odstavec specifikující detaily o jeho vlastní aktualizaci po celou dobu trvání projektu:&#xD;
+        četnost, odpovědnost, způsob. (6.5.4.9)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Každý softwarový dokument a každá dodávaná část musí být umístěny v řízení konfigurace a to od chvíle jejich&#xD;
+        prvního vydání. (6.5.4.10)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Změny všech položek v rámci řízení konfigurace musí být autorizovány a zaznamenány. (6.5.4.11)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Vedle vývoje softwaru musí systém řízení konfigurace pokrývat i použité vývojové prostředí softwaru během celého&#xD;
+        životního cyklu. Toto rozšíření, nezbytné pro reprodukovatelnost vývoje a pro činnosti údržby, musí zahrnovat&#xD;
+        všechny nástroje, překladače, data a testovací soubory, parametrizační soubory a podpůrné hardwarové platformy.&#xD;
+        (6.5.4.12)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

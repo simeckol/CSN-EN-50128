@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WbvqJ_23_By4ZWy3rXus3Q" name="new_practice,_37gLgIRYEem0C-IAHWDyTw" guid="-WbvqJ_23_By4ZWy3rXus3Q" changeDate="2019-06-01T12:36:08.896+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Metoda programování se zajištěním je založena na myšlence kontroly předchozí podmínky (před realizací sledu příkazů se&#xD;
+    kontroluje validita počátečních podmínek) a následné podmínky (výsledky se kontrolují po provedení sledu příkazů).&#xD;
+    Pokud není splněna buď předchozí podmínka nebo následná podmínka, zpracovávání se zastaví s chybou.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Například,&#xD;
+&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        zajištění &amp;lt;předchozí podmínka&amp;gt;&lt;br />&#xD;
+        &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; činnost 1;&lt;br />&#xD;
+        &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; :&lt;br />&#xD;
+        &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; :&lt;br />&#xD;
+        &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; činnost x;&lt;br />&#xD;
+        zajištění &amp;lt;následná podmínka&amp;gt;&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Detekovat zbylé vady během provádění programu.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

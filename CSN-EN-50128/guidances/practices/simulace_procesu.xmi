@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sJOVDblyrzT-rcYk33H0kQ" name="new_practice,_pL9KkJ5GEempu9k_SdMtDQ" guid="-sJOVDblyrzT-rcYk33H0kQ" changeDate="2019-07-04T12:30:47.997+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Vytvoření systému, pouze pro účely testování, který napodobuje chování systému, který má být řízen testovaným systémem.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Simulace může být pouze software nebo kombinace softwaru a hardwaru. Musí:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        zabezpečovat všechny vstupy zkoušeného systému, které budou existovat po instalování systému;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        reagovat na výstupy ze systému způsobem, který věrně reprezentuje řízené zařízení;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        provést opatření týkající se vstupů operátora, která zabrání jakémukoliv rušení s nímž se má testovaný systém&#xD;
+        vyrovnat.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Je-li testován software, simulace může být simulací cílového hardwaru s jeho vstupy a výstupy.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Testovat funkci systému softwaru spolu s jeho rozhraním s vnějším světem, aniž by provedení testu mohlo jakýmkoliv&#xD;
+    způsobem modifikovat reálný svět.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

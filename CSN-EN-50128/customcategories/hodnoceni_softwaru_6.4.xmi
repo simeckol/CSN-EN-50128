@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ir1gCgVW0LdpdZSP9lnO9w" name="new_custom_category,_oo6yYILQEemTrZ3VjwEoNw" guid="-Ir1gCgVW0LdpdZSP9lnO9w" changeDate="2019-05-30T13:54:54.968+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Vyhodnotit, že procesy životního cyklu a jejich výstupy jsou takové, že software má definovanou úroveň integrity&#xD;
+        bezpečnosti softwaru 1-4 a odpovídá jeho zamýšlenému použití. (6.4.1.1)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Pro úroveň SIL 0 softwaru musí být naplněny požadavky této normy, ale pokud je k dispozici certifikát, který&#xD;
+        prokazuje shodu s EN ISO 9001 pak není hodnocení vyžadováno. (6.4.1.2)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

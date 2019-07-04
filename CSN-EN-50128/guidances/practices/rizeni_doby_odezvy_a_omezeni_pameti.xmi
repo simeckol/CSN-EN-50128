@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JGbNOoUmoIee5dVlVSBJiQ" name="new_practice,_lg4KgJ5HEempu9k_SdMtDQ" guid="-JGbNOoUmoIee5dVlVSBJiQ" changeDate="2019-07-04T12:37:08.607+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Specifikace požadavků na systém a software zahrnuje požadavky na paměť a odezvu pro specifické funkce, kombinované&#xD;
+    případně s omezeními při použití zdrojů celého systému. Provádí se analýza, která stanoví požadavky na rozdělení v&#xD;
+    průměrných a nejnepříznivějších podmínkách. Tato analýza vyžaduje odhady použití zdrojů a dobu potřebnou pro každou&#xD;
+    funkci systému. Tyto odhady mohou být získány několika způsoby, například srovnáním se stávajícím systémem nebo&#xD;
+    vytvářením prototypů a srovnávacím testem časově kritických systémů.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Zajistit, že systém bude splňovat požadavky na čas a na paměť.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

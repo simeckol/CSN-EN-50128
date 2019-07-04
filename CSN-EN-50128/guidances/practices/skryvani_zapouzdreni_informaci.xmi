@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SEClaK4qVe3i3OLgG18ZCA" name="skryvani_zapouzdreni_informaci,_8ja9QJ5AEemood4EUWwS2g" guid="-SEClaK4qVe3i3OLgG18ZCA" changeDate="2019-07-04T11:49:48.633+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Data, která jsou globálně přístupná pro všechny komponenty softwaru, mohou být náhodně nebo nesprávně modifikována&#xD;
+    kteroukoliv z těchto komponent. Jakékoliv změny těchto datových struktur mohou vyžadovat podrobné prozkoumání kódu a&#xD;
+    rozsáhlé modifikace.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Skrývání informací je obecným přístupem pro omezení těchto obtíží na minimum. Klíčové datové struktury jsou „skryty“ a&#xD;
+    je možné s nimi manipulovat pouze prostřednictvím definovaného souboru procedur pro přístup. To umožňuje modifikování&#xD;
+    vnitřních struktur nebo přidání dalších procedur bez ovlivnění funkčního chování zbývajícího softwaru. Například&#xD;
+    adresář jmen by mohl mít procedury přístupu Vložit (Insert), Vymazat (Delete) a Najít (Find). Procedury přístupu a&#xD;
+    vnitřní strukury dat by mohly být přepsány (např. použít jinou metodu vyhledávání nebo uložit jména na pevný disk),&#xD;
+    aniž by bylo ovlivněno logické chování zbývajícího softwaru za použití těchto procedur.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Tato koncepce abstraktního typu dat je přímo podporována v řadě programovacích jazyků, základní princip však může být&#xD;
+    aplikován při použití jakéhokoliv programovacího jazyka.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Zvýšit robustnost a udržovatelnost softwaru.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

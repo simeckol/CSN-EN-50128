@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XA18rzwI1Yra0Cyqu2kFsg" name="analyza_mezni_hodnoty,_GZ-EsILvEem3ePduwn22WA" guid="-XA18rzwI1Yra0Cyqu2kFsg" changeDate="2019-05-30T17:25:18.452+0200">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    Vstupní oblast programu je rozdělena do řady vstupních tříd. Testy mají zahrnovat hranice a extrémy tříd. Testy&#xD;
+    kontrolují, zda se hranice ve vstupní oblasti specifikace shodují s hranicemi v programu. Použití nulové hodnoty v&#xD;
+    přímém i v nepřímém posunu je často náchylné k chybám a zvláštní pozornost vyžaduje:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        nulový dělitel;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        prázdné znaky ASCII;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        prázdný zásobník nebo prvek seznamu;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        nulová matice;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        nulový zápis v tabulce.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Normálně odpovídají hranice pro vstup přímo hranicím pro rozsah výstupu. Testovací případy mají být zpracovány tak, aby&#xD;
+    byl výstup nucen ke svým omezeným hodnotám. Také se doporučuje, je-li to možné, zpracovat jeden testovací případ, který&#xD;
+    způsobí, že výstup překročí mezní hodnoty specifikace.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Je-li výstup proudem dat, např. tištěná tabulka, je třeba věnovat zvláštní pozornost prvnímu a poslednímu prvku a&#xD;
+    seznamům neobsahujícím žádný prvek a obsahujícím prvky 1 a 2.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    Odstranit chyby softwaru vyskytující se na mezích nebo na hranicích parametrů.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

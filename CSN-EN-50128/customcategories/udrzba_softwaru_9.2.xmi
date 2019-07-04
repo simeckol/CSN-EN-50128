@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gJDSSd5EzGrPyzPbB8jbYw" name="new_custom_category,_VIs8QILqEem-RZ8bLh7d0A" guid="-gJDSSd5EzGrPyzPbB8jbYw">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Zajistit, že software funguje jak je požadováno, zachovává požadovanou úroveň integrity bezpečnosti softwaru a&#xD;
+        spolehlivost během provádění oprav, vylepšení nebo přizpůsobení v softwaru samotném.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Viz také 6.6 „Řízení modifikací a změn“ této evropské normy a etapu 13 „Modifikace a regenerace“ v EN 50126-1.&#xD;
+        (9.2.1.1)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Přestože tato evropská norma není zamýšlena jako retrospektivní, týká se především nového vývoje a uplatňuje se&#xD;
+        pouze jako celek na existující software, pokud je tento podroben významným modifikacím, kapitola 9.2 se týká údržby&#xD;
+        softwaru a vztahuje se na všechny změny, dokonce i na ty malého charakteru. Nicméně je použití této evropské normy&#xD;
+        během vylepšení a údržby existujícího softwaru velmi doporučené. (9.2.4.1)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Řízení externích dodavatelů, reportování problémů a nápravné činnosti musí být řízeno dle stejných kritérií,&#xD;
+        specifikovaných v odpovídajících paragrafech části zajištění kvality softwaru (6.5), jako pro vývoj nového&#xD;
+        softwaru. (9.2.4.18)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

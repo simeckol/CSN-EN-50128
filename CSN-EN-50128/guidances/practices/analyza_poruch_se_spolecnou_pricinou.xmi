@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GzZGxry9yJpAE7vuutmuhw" name="new_practice,_7TFWMIL2Eem3ePduwn22WA" guid="-GzZGxry9yJpAE7vuutmuhw" changeDate="2019-05-30T18:22:24.209+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Počítačové systémy, které mají zajišťovat bezpečnost zařízení, často používají redundanci v hardwaru a majoritní&#xD;
+    rozhodování. Tato technika se používá proto, aby se předešlo náhodným poruchám komponent, které by bránily správnému&#xD;
+    zpracování dat v počítačovém systému.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Některé poruchy však mohou být společné více než jedné komponentě. Například je-li počítačový systém instalován v jedné&#xD;
+    místnosti, může nedostatečná klimatizace omezit přednosti redundance. Totéž platí pro jiné vnější vlivy působící na&#xD;
+    počítačový systém, jako je požár, povodeň, elektromagnetické rušení, havárie letadla a zemětřesení. Počítačový systém&#xD;
+    může být rovněž ovlivněn událostmi týkajícími se provozu a údržby. Je tedy důležité, aby byly zajištěny adekvátní a&#xD;
+    dobře dokumentované procedury pro provoz a údržbu. Rovněž je důležité důkladné školení personálu provádějícího provoz a&#xD;
+    údržbu.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Vlivy mající původ ve vývoji (interní) přispívají také velkou měrou k poruchám se společnou příčinou (Common-Cause&#xD;
+    Failures [CCF]). Mohou vyplývat obecně z chyb návrhu ze společných nebo identických komponent a jejich rozhraních,&#xD;
+    stejně jako ze stárnutí komponent. Analýza poruch se společnou příčinou musí v systému hledat takové potenciální&#xD;
+    společné poruchy. Metodami analýzy poruch se společnou příčinou jsou všeobecně řízení kvality, přezkoumávání návrhu,&#xD;
+    verifikace a testování nezávislým týmem a analýza skutečných událostí se zpětnou vazbou zkušeností z podobných systémů.&#xD;
+    Rozsah analýzy však přesahuje hardware. I když je v kritických řetězcích redundantního počítačového systému použit&#xD;
+    diversifikovaný software, v metodách vývoje by mohly být některé aspekty společné, které by mohly vyvolat poruchy se&#xD;
+    společnou příčinou. Jsou to například chyby ve společné specifikaci.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pokud se poruchy se společnou příčinou nevyskytují přesně ve stejnou dobu, je možné učinit opatření pomocí srovnávacích&#xD;
+    metod mezi nadbytečnými řetězci, která mají vést k detekci poruchy dříve, než je tato porucha společná pro všechny&#xD;
+    řetězce. Analýza poruch se společnou příčinou má vzít tuto techniku v úvahu.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Identifikovat potenciální poruchy v systémech nebo v subsystémech s redundancí, které by znehodnotily přednosti této&#xD;
+    redundance kvůli výskytu současných poruch v redundantních částech a ve stejném čase.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

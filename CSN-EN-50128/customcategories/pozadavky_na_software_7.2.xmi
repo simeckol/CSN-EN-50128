@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mdJqjIXdr7sHpSsaQnHGLQ" name="new_custom_category,_NZBjgILZEemqnsVyRnP7Fg" guid="-mdJqjIXdr7sHpSsaQnHGLQ" changeDate="2019-05-30T14:52:04.888+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Popsat kompletní sadu požadavků na software, splňující všechny požadavky na systém a na bezpečnost a poskytnout&#xD;
+        úplnou sadu dokumentů pro každou následující etapu. (7.2.1.1)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Popsat specifikaci celkového testování softwaru. (7.2.1.2)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-P7e6m-oM8iad9h-EpiWywg" name="new_practice,__e0ZsIRdEem0C-IAHWDyTw" guid="-P7e6m-oM8iad9h-EpiWywg" changeDate="2019-06-01T13:31:36.028+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Detekce vad je proces kontroly chybných stavů systému (které jsou způsobeny, jak bylo uvedeno dříve, vadou v&#xD;
+    (sub)systému, který má být kontrolován). Primárním cílem detekce vad je omezit vliv špatných výsledků. Systém, který&#xD;
+    odevzdává buď správné výsledky, nebo vůbec žádné výsledky, se nazývá „samokontrolní“.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Detekce vad je založena na principech nadbytečnosti (zejména pro detekci vad hardwaru) a diverzity (pro detekci vad&#xD;
+    softwaru). Pro rozhodnutí o správnosti výsledků je nutný určitý druh rozhodování. Speciální metody, které je možno&#xD;
+    použít, jsou programování se zajištěním (assertion programming), programování v &lt;em>N&lt;/em> verzích (N-version&#xD;
+    programming) a bezpečnostní monitorovací technika (safety bag technique) a na úrovni hardwaru zavedení snímačů,&#xD;
+    regulačních smyček, kódů pro kontrolu chyb atd.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Detekce vad může být dosaženo kontrolami v oblasti hodnot nebo v oblasti času na různých úrovních, zejména na fyzické&#xD;
+    úrovni (teplota, napětí atd.), logické úrovni (kódy s detekcí chyby), funkční úrovni (kontrola zajištění) nebo na&#xD;
+    vnější úrovni (kontroly hodnověrnosti). Výsledky těchto kontrol mohou být uloženy do paměti a přidruženy k zasaženým&#xD;
+    datům pro umožnění sledování poruch.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Složité systémy jsou složeny ze subsystémů. Účinnost detekce vad, diagnostiky a kompenzace vad závisí na složitosti&#xD;
+    interakcí mezi subsystémy, což ovlivňuje šíření vad.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Diagnostika vad izoluje nejmenší subsystém, který může být identifikován. Menší subsystémy umožňují podrobnější&#xD;
+    diagnostiku vad (identifikaci chybných stavů).&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Detekce vad v systému, které by mohly vést k poruše, a tím vytvoření základu pro protiopatření, aby se následky poruch&#xD;
+    omezily na minimum.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

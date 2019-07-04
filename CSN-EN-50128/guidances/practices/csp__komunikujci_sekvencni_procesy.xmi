@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UQ6RvTu-lDmEzMJrrAxsDA" name="new_practice,_j5PT0IUYEem814tjJkKTtQ" guid="-UQ6RvTu-lDmEzMJrrAxsDA" changeDate="2019-06-02T11:29:08.305+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    CSP poskytuje jazyk pro specifikaci systémů procesů a důkaz pro ověření, že implementace procesů vyhovuje jejich&#xD;
+    specifikacím (popsaný jako stopa – přípustné sledy událostí).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Systém je modelován jako síť nezávislých procesů. Každý proces je popsán všemi možnými typy chování. Systém je&#xD;
+    modelován sekvenčním nebo paralelním skládáním procesů. Procesy mohou komunikovat (synchronizovat nebo vyměňovat data)&#xD;
+    přes kanály, přičemž ke komunikaci dochází pouze tehdy, když jsou oba procesy připraveny. Může být modelováno i&#xD;
+    relativní časování událostí.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Teorie, z níž vychází CSP, byla přímo začleněna do architektury transputeru INMOS a jazyk OCCAM umožňuje, aby byl&#xD;
+    specifikovaný systém CSP přímo implementován na síť transputerů.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    CSP je technika pro specifikaci paralelních softwarových systémů, tj. systémů komunikačních procesů pracujících&#xD;
+    souběžně.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

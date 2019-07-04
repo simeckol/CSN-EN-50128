@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-syDPotgaOn5JPD6x0KGKZg" name="new_practice,_daw3EIMAEem3ePduwn22WA" guid="-syDPotgaOn5JPD6x0KGKZg" changeDate="2019-05-30T19:32:56.359+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Záznam a analýza dat tvoří nezbytnou část procesu zlepšování softwaru. Záznam platných dat představuje důležitou část&#xD;
+    studia procesu vývoje softwaru a vyhodnocení alternativních metod vývoje softwaru.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O průběhu projektu se udržují podrobné záznamy, a to jak o projektu samém, tak individuální záznamy. Například se&#xD;
+    požaduje, aby technik vedl záznamy, které mohou zahrnovat:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        činnosti vynaložené na jednotlivé komponenty;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        testování prováděné na každé komponentě;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        rozhodnutí a jejich odůvodnění;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        dosažení milníků návrhu;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        problémy a jejich řešení.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Během projektu a v jeho závěru mohou být tyto záznamy analyzovány pro získání velkého rozsahu informací. Zaznamenávání&#xD;
+    jednotlivých dat je velmi důležité zejména pro údržbu počítačových systémů, protože odůvodnění určitých rozhodnutí&#xD;
+    učiněných během vývojového návrhu není vždycky známé technikům provádějícím údržbu.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Kvůli špatnému plánování má záznam dat tendenci být příliš objemný a mimo účel. Tomu je možné se vyhnout dodržováním&#xD;
+    principu, že záznam dat má být řízen cíly, otázkami a metrikami významnosti toho, co je strategicky důležité pro&#xD;
+    organizaci.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    V zájmu dosažení požadované přesnosti, musí procesy záznamu dat a validace probíhat souběžně s vývojem, např. jako&#xD;
+    součást procesu řízení konfigurace.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Usnadnit zlepšení procesů softwaru záznamem, validací a analýzou důležitých dat od jednotlivých projektů a osob.&#xD;
+    Důležitost dat je určena strategickými cíly organizace. Cíle mohou být zaměřeny na vyhodnocení konkrétních metod vývoje&#xD;
+    softwaru vzhledem k požadavkům na ně, např. vzhledem na účinnost prevence defektů.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

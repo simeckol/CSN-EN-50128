@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QnDSxfub4o7NrT2b9SJLmQ" name="new_practice,_fUfk8J5AEemood4EUWwS2g" guid="-QnDSxfub4o7NrT2b9SJLmQ" changeDate="2019-07-04T11:46:26.217+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Před provedením modifikace nebo rozšíření softwaru musí být provedena analýza pro stanovení dopadu modifikace nebo&#xD;
+    rozšíření na tento software a rovněž pro identifikování ovlivněných systémů a softwarových modulů.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Po ukončení analýzy je nutné rozhodnutí týkající se nové verifikace systému softwaru. To závisí na počtu ovlivněných&#xD;
+    komponent, kritičnosti ovlivněných komponent a na charakteru změny. Možná rozhodnutí jsou:&#xD;
+&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        a) má být znovu verifikována pouze změněná komponenta;&lt;br />&#xD;
+        b) verifikují se znovu všechny identifikované ovlivněné komponenty; a&lt;br />&#xD;
+        c) verifikuje se znovu celý systém.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Stanovit vliv, který bude mít změna nebo rozšíření softwaru na jiné moduly v tohoto softwaru a také na jiné systémy.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

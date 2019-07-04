@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4Y6ytSUopGxppbSpVuGv0Q" name="new_practice,_Cj4JoIL_Eem3ePduwn22WA" guid="-4Y6ytSUopGxppbSpVuGv0Q" changeDate="2019-05-30T19:21:16.991+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Diagramy toku dat dokumentují, jak je vstup dat transformován na výstup, pomocí každého stupně v diagramu&#xD;
+    představujícím odlišnou transformaci.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Základní komponenty diagramů toku dat jsou:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        funkce, reprezentované bublinami;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        toky dat, reprezentované šipkami;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        skladiště dat, reprezentované otevřenými rámečky;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        vstupy/výstupy, reprezentované speciálními typy rámečků.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Diagramy toku dat popisují, jak je vstup transformován na výstup. Nezahrnují a nemají zahrnovat informace o řízení nebo&#xD;
+    informace o sekvenčním zpracování. Každou bublinu je možno považovat za samostatnou černou skříňku, která, jakmile jsou&#xD;
+    k dispozici její vstupy, je transformuje na svoje výstupy.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Jednou z hlavních výhod diagramů toku dat je, že ukazují transformace bez jakýchkoliv předpokladů o způsobu realizace&#xD;
+    těchto transformací.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Nejlepší přístup k přípravě diagramů toku dat je zvažování vstupů systému a propracování se k výstupům systému. Každá&#xD;
+    bublina musí představovat odlišnou transformaci – její výstup má být určitým způsobem odlišný od jejího vstupu.&#xD;
+    Neexistují žádná pravidla pro určení celkové struktury diagramu a sestavení diagramu toku dat je jedním z tvořivých&#xD;
+    aspektů návrhu systému. Stejně jako celý návrh je to iterační proces s počátečními pokusy postupně zdokonalovanými za&#xD;
+    účelem vytvoření finálního diagramu.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Popsat tok dat v programu ve tvaru diagramů.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

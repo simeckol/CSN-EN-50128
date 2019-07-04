@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eWiWTcIlgCzXn2gPix5Nmw" name="new_custom_category,_asdekILQEemTrZ3VjwEoNw" guid="-eWiWTcIlgCzXn2gPix5Nmw" changeDate="2019-05-30T13:45:41.801+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Cílem validace je ukázat, že procesy a jejich výstupy jsou takové, že software má definovanou úroveň integrity&#xD;
+        bezpečnosti softwaru, splňuje požadavky na software a odpovídá zamyšlenému použití. Tato činnost je prováděna&#xD;
+        validátorem. (6.3.1.1)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Hlavní činnosti validace mají ukázat analýzou a/nebo testováním, že jsou všechny požadavky na software&#xD;
+        specifikovány, implementovány, testovány a splněny tak, jak je vyžadováno příslušnou úrovní SIL a vyhodnotit&#xD;
+        bezpečnostní kritičnost všech odchylek a neshod založených na výsledcích přezkoumání, analýz a testů ve vztahu k&#xD;
+        bezpečnosti. (6.3.1.2)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

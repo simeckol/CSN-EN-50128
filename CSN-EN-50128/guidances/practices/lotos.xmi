@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mLTHobIfF_BeDDT1gSVNhw" name="new_practice,_6-e7oIUZEem814tjJkKTtQ" guid="-mLTHobIfF_BeDDT1gSVNhw" changeDate="2019-06-02T11:37:15.685+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    LOTOS (Language for Temporal Ordering Specification – jazyk pro specifikaci časového uspořádání) je založen na CCS s&#xD;
+    doplněnými charakteristikami z příbuzných algeber CSP a CIRCAL (Circuit Calculus – výpočtová metoda obvodů). Překonává&#xD;
+    slabou stránku CCS v zacházení se strukturami dat a výrazy hodnot jejich kombinováním s druhou komponentou založenou na&#xD;
+    jazyku ACT ONE s abstraktními datovými typy. Komponenta LOTOSu pro definici procesu by však mohla být používána i s&#xD;
+    jinými formalizmy pro popis abstraktních typů dat.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    LOTOS je prostředek pro popsání a zdůvodnění chování systémů v souběžných komunikujících procesech.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

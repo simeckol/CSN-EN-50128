@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-N-tsP13X7rAzsZpciDN1qA" name="new_practice,_UspjUILzEem3ePduwn22WA" guid="-N-tsP13X7rAzsZpciDN1qA" changeDate="2019-05-30T17:58:17.272+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Soubor otázek, který má doplnit osoba zpracovávající kontrolní seznam. Mnohé z otázek mají obecný charakter a&#xD;
+    hodnotitel je musí interpretovat způsobem, který se zdá být nejvhodnějším pro daný hodnocený systém.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Se zřetelem na široký rozsah softwarů a systémů, které jsou validovány, většina kontrolních seznamů obsahuje otázky,&#xD;
+    které mohou být aplikovány na mnoho typů systémů. V důsledku toho mohou být v použitém kontrolním seznamu otázky, které&#xD;
+    nejsou relevantní pro příslušný systém a které mají být ignorovány. Stejně tak může být třeba pro určitý systém doplnit&#xD;
+    standardní kontrolní seznam otázkami zaměřenými specificky na příslušný systém.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    V každém případě má být jasné, že použití kontrolních seznamů závisí zásadním způsobem na odborných znalostech a úsudku&#xD;
+    experta, který vybírá a používá kontrolní seznam. V důsledku toho mají být rozhodnutí učiněná technikem se zřetelem na&#xD;
+    zvolený kontrolní seznam (zvolené kontrolní seznamy) a jakékoliv doplňující nebo nadbytečné otázky plně dokumentovány a&#xD;
+    odůvodněny. Cílem je zajistit, aby použití kontrolních seznamů mohlo být přezkoumáno a aby bylo dosaženo stejných&#xD;
+    výsledků, pokud nejsou použita odlišná kritéria.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Vyplňování kontrolního seznamu má být co nejstručnější. Je-li nutné obšírné odůvodnění, má to být provedeno odkazem na&#xD;
+    doplňující dokumentaci. Pro zaznamenání výsledků u každé otázky je třeba použít slov „dobrý“, „špatný“ a „neprůkazný“,&#xD;
+    nebo nějaký podobně omezený soubor označení. Tato stručnost značně zjednodušuje proces dosahování celkového závěru,&#xD;
+    pokud jde o výsledky hodnocení kontrolního seznamu.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Dát podnět ke kritickému posouzení všech aspektů systému spíše než stanovit specifické požadavky.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

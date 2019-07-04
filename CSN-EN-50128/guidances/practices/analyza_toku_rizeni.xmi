@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AG9Zs_i4Fu5vy4mAD81WQw" name="new_practice,_vSe9AIL0Eem3ePduwn22WA" guid="-AG9Zs_i4Fu5vy4mAD81WQw" changeDate="2019-05-30T18:06:11.438+0200">
+  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    Analýza toku řízení identifikuje podezřelé oblasti kódu, které nejsou v souladu s ověřenou praxí programování. Program&#xD;
+    je analyzován pro vytvoření orientovaného grafu, který může být analyzován se zřetelem na:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            nepřístupný kód, například nepodmíněné skoky, což ponechává bloky kódu nedostupnými;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            zauzlený kód*), kterým je dobře strukturovaný kód, jehož graf řízení je redukovatelný postupnými redukcemi&#xD;
+            grafu na jediný uzel. Špatně strukturovaný kód může být redukován pouze na dále již neredukovatelný uzel kódu,&#xD;
+            složen z několika dalších uzlů.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    *) NÁRODNÍ POZNÁMKA Používá se i termín „reducibilní kód“ (knotted code).&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Zjistit špatné a potenciálně nesprávné struktury programu.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

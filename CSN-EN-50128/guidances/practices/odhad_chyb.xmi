@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-quAjTfQTm9B-X4YJlBTI5Q" name="new_practice,_EVBD8IOrEem5iP69ELuW8w" guid="-quAjTfQTm9B-X4YJlBTI5Q" changeDate="2019-05-31T15:51:41.357+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Odborné znalosti testování a intuice v kombinaci se znalostmi a zájmem o testovaný systém mohou přidat některé&#xD;
+    nekategorizované testovací případy k navržené sadě testovacích případů. Speciální hodnoty nebo kombinace hodnot mohou&#xD;
+    být náchylné k chybám. Některé zajímavé testovací případy mohou být odvozeny z kontrolních seznamů provedených&#xD;
+    inspekcí. Je možné také zvažovat, zda je systém dostatečně robustní. Mohou být tlačítka na čelním panelu stlačována&#xD;
+    příliš rychle nebo příliš často? Co se stane, jsou-li dvě tlačítka stlačena současně?&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Odstranit běžné chyby programování.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

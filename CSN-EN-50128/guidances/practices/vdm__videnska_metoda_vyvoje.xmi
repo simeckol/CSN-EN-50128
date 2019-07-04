@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5zHs3H6rHfGPwJ-xztDRLw" name="new_practice,_42ByoIUfEem814tjJkKTtQ" guid="-5zHs3H6rHfGPwJ-xztDRLw" changeDate="2019-06-02T12:20:01.187+0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>Popis&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    VDM je technika specifikace na matematické bázi a technika pro zdokonalování implementací způsobem, který umožňuje&#xD;
+    prokázání jejich správnosti vzhledem ke specifikaci.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Technika specifikace je založená na modelu, ve kterém je stav systému modelován na základě struktur teorie množin, na&#xD;
+    nichž jsou definovány invarianty (predikáty), a operace na tomto stavu jsou modelovány specifikováním podmínek, které&#xD;
+    splňuje stav systému před a po provedení operace na základě stavu systému. Operace jsou prověřeny tím, že zachovávají&#xD;
+    invarianty systému.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Implementace specifikace se provádí vyjádřením stavu systému na základě struktury dat v cílovém jazyku a zpodrobněním&#xD;
+    operací pomocí programu v cílovém jazyku. Pro kroky vyjádření a zpodrobnění je požadován důkaz, aby byla prokázána&#xD;
+    jejich správnost. O tom, zda jsou tyto povinnosti prováděny nebo nikoliv, rozhoduje návrhář.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    VDM se používá především ve stádiu specifikace, může však být použita ve stádiích návrhu a implementace, které vedou ke&#xD;
+    zdrojovému kódu. Může být použita pouze pro sekvenční programy nebo sekvenční procesy v paralelních systémech.&#xD;
+&lt;/p></mainDescription>
+  <goals>&lt;p>&#xD;
+    &lt;strong>Cíl&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Systematická specifikace a implementace sekvenčních programů.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>
