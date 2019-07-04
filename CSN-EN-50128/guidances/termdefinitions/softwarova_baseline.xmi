@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Rorr7oDBZkuJEoPoPpmkxg" name="new_term_definition,_ngbAkJ5sEempu9k_SdMtDQ" guid="-Rorr7oDBZkuJEoPoPpmkxg">
+  <mainDescription>&lt;p>&#xD;
+    kompletní a konzistentní sada zdrojových kódů, spustitelných souborů, konfiguračních souborů, instalačních skriptů a&#xD;
+    dokumentace, která je zapotřebí pro vydání**) softwaru; informace o kompilátorech, operačních systémech, již&#xD;
+    existujícím softwaru a souvisejících nástrojích, jsou uloženy jako součást této baseline; to umožní organizaci&#xD;
+    reprodukovat definované verze a slouží jako vstup pro budoucí vydání softwaru při rozšiřováních nebo při vylepšeních v&#xD;
+    etapě údržby (3.1.32)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    *) NÁRODNÍ POZNÁMKA Pro tento termín nebyl nalezen vhodný český ekvivalent a je běžně používán takto, jako převzaný&#xD;
+    termín z anglického jazyka.&lt;br />&#xD;
+    **) NÁRODNÍ POZNÁMKA Běžně se používá i původní anglický termín „release“. V normě je použit jednotně termín „vydání“.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

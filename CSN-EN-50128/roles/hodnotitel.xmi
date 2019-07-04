@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ECg-uc54iZKS6TRLaCvbOg" name="new_role,_uZ_BQMjEEeixxZe6yMuoZA" guid="-ECg-uc54iZKS6TRLaCvbOg" changeDate="2019-05-28T21:43:47.405+0200">
-  <mainDescription>&lt;p>&#xD;
-    5.1.2.5 Hodnotitel musí být nezávislý na dodavateli nebo na základě rozhodnutí orgánu pro otázky bezpečnosti může být&#xD;
-    součástí organizace dodavatele nebo organizace zákazníka.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    5.1.2.6 Hodnotitel musí být nezávislý na daném projektu.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    5.1.2.10 m) Hodnotitel musí být nezávislý a to i organizačně od rolí manažera projektu, manažera pro požadavky,&#xD;
-    návrháře, implementátora, integrátora, testera, verifikátora a validátora.&#xD;
-&lt;/p></mainDescription>
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Hodnotitel musí být nezávislý na dodavateli nebo na základě rozhodnutí orgánu pro otázky bezpečnosti může být&#xD;
+        součástí organizace dodavatele nebo organizace zákazníka. (5.1.2.5)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Hodnotitel musí být nezávislý na daném projektu.&amp;nbsp;(5.1.2.6)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Hodnotitel musí být nezávislý a to i organizačně od rolí manažera projektu, manažera pro požadavky, návrháře,&#xD;
+        implementátora, integrátora, testera, verifikátora a validátora. (5.1.2.10 m)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
   <keyConsiderations>&lt;p>&#xD;
     &lt;strong>Odpovědnosti:&lt;/strong>&#xD;
 &lt;/p>&#xD;

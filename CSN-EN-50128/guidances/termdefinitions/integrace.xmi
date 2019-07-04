@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pmRqbgPZUmSdlEBsPAzfmw" name="new_term_definition,_BAxyMJ5pEempu9k_SdMtDQ" guid="-pmRqbgPZUmSdlEBsPAzfmw" changeDate="2019-07-04T16:36:08.928+0200">
+  <mainDescription>proces sestavování softwarových a/nebo hardwarových položek, podle specifikace architektury a návrhu a proces testování&#xD;
+integrované jednotky (3.1.15)</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

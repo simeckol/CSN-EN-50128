@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8TUWZf0oaQTCto6dGPKeIg" name="new_term_definition,_n3V5gJ5xEempu9k_SdMtDQ" guid="-8TUWZf0oaQTCto6dGPKeIg" changeDate="2019-07-04T17:37:59.300+0200">
+  <mainDescription>&lt;p>&#xD;
+    nevytváří žádné výstupy, které by mohly přímo nebo nepřímo přispívat k spustitelnému kódu (včetně dat) softwaru&#xD;
+    (3.1.42)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    POZNÁMKA Mezi příklady T1 patří: textový editor nebo pomocné nástroje pro požadavky či tvorbu návrhu, které nemají&#xD;
+    schopnost automatického generování kódu; nástroje pro kontrolu konfigurace.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

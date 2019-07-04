@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-q28IuG2NtRVWcStuAFfLFg" name="new_term_definition,_fhhooJ5yEempu9k_SdMtDQ" guid="-q28IuG2NtRVWcStuAFfLFg" changeDate="2019-07-04T17:44:30.620+0200">
+  <mainDescription>&lt;p>&#xD;
+    vytváří výstupy, které mohou přímo nebo nepřímo přispívat k spustitelnému kódu (včetně dat) bezpečnostně relevantního&#xD;
+    systému (3.1.44)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    POZNÁMKA Mezi příklady T3 patří: kompilátor zdrojového kódu; kompilátor dat/algoritmů; nástroj pro změnu bodů nastavení&#xD;
+    za běhu systému; optimalizační kompilátor, u kterého nemusí být zřejmý vztah mezi zdrojovým kódem programu a kódem&#xD;
+    generovaného objektu; kompilátor který přidává spustitelný run-time balíček do spustitelného kódu.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

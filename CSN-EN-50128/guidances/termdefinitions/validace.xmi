@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HQ3Dd09NMwdjEF4tAioudA" name="new_term_definition,_4gbWMJ5yEempu9k_SdMtDQ" guid="-HQ3Dd09NMwdjEF4tAioudA">
+  <mainDescription>proces analýzy následovaný rozhodnutím založeným na důkazech za účelem rozhodnout, zda položky (např. proces, dokumentace,&#xD;
+software nebo aplikace) odpovídají potřebám uživatelů, zejména s ohledem na bezpečnost a kvalitu a s důrazem na vhodnost&#xD;
+jejich činnosti v souladu s jejich účelem v zamýšleném prostředí (3.1.46)</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

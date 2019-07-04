@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OgDpyYALXKCjNpfLaH3uqg" name="new_term_definition,_gQJeoJ5xEempu9k_SdMtDQ" guid="-OgDpyYALXKCjNpfLaH3uqg">
+  <mainDescription>proces spouštění softwaru za kontrolovaných podmínek s cílem zjistit jeho chování a výkonnost v porovnání s odpovídajícími&#xD;
+specifikovanými požadavky (3.1.41)</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

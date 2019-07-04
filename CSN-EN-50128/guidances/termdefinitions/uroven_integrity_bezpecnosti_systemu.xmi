@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fAD2HufCwlKOsMa94-2u2w" name="new_term_definition,_U6754J5xEempu9k_SdMtDQ" guid="-fAD2HufCwlKOsMa94-2u2w">
+  <mainDescription>klasifikační číslo, které označuje požadovaný stupeň důvěry, že integrovaný systém tvořený hardwarem a softwarem bude&#xD;
+odpovídat specifikovaným požadavkům na bezpečnost (3.1.39)</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

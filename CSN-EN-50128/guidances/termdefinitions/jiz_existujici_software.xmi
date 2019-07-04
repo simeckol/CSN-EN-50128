@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-g71OshNXHkEBmHObPZrgtw" name="new_term_definition,_NA6jQJ5pEempu9k_SdMtDQ" guid="-g71OshNXHkEBmHObPZrgtw">
+  <mainDescription>veškerý software vyvinutý dříve než právě řešená aplikace včetně komerčně dostupného softwaru (COTS – commercial&#xD;
+off-the-shelf) a open source softwaru (3.1.17)</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

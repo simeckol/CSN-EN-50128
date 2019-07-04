@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Mgek7UAob4kUTCoLIfV82g" name="new_term_definition,_T2UlwJ5yEempu9k_SdMtDQ" guid="-Mgek7UAob4kUTCoLIfV82g">
+  <mainDescription>&lt;p>&#xD;
+    podporuje testování nebo verifikaci návrhu nebo spustitelného kódu, kde chyby v daném nástroji mohou zabránit odhalení&#xD;
+    nedostatků, ale nemohou přímo vytvořit chyby ve spustitelném softwaru (3.1.43)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    POZNÁMKA Mezi příklady T2 patří: generátor testovacího prostředí (test harness generator); měřící nástroj pokrytí kódu&#xD;
+    testem; nástroj statické analýzy.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

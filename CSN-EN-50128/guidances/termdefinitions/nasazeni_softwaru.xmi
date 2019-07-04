@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--6j1BY72rZsEgjkJVZxwDA" name="new_term_definition,_Q68rsJ5wEempu9k_SdMtDQ" guid="--6j1BY72rZsEgjkJVZxwDA">
+  <mainDescription>přenesení, instalace a aktivace dodávané softwarové baseline, která již byla vydána a hodnocena (3.1.33)</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

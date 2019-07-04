@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-opZJHw7CmHNAqRooNASxPQ" name="new_term_definition,_oTNXIJ5mEempu9k_SdMtDQ" guid="-opZJHw7CmHNAqRooNASxPQ">
+  <mainDescription>proces analýzy, který určuje, zda software, který může zahrnovat proces, dokumentaci, systém, subsystém hardwarové a/nebo&#xD;
+softwarové komponenty subsystémů, splňuje stanovené požadavky a formulovat rozhodnutí, zda je software vhodný pro stanovený&#xD;
+účel; hodnocení bezpečnosti se zaměřuje, ale ne výhradně, na vlastnosti týkající se bezpečnosti systému (3.1.1)</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

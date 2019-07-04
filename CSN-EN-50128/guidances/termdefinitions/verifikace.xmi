@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LuyHCN6-XyjpRW_GP-NaCA" name="new_term_definition,_Khd5wJ5zEempu9k_SdMtDQ" guid="-LuyHCN6-XyjpRW_GP-NaCA" changeDate="2019-07-04T17:48:51.503+0200">
+  <mainDescription>&lt;p>&#xD;
+    proces zkoumání následovaný rozhodnutím založeným na důkazech, že výstupní položky (proces, dokumentace, software nebo&#xD;
+    aplikace) určité vývojové etapy naplňují požadavky této etapy s ohledem na úplnost, správnost a konzistenci (3.1.48)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    POZNÁMKA Verifikace je většinou založena na přezkoumání dokumentů (dokumenty týkající se návrhu, implementace, testů&#xD;
+    atd.).&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

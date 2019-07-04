@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KsVD6jtK6v6t1OWJyrgpig" name="new_term_definition,_qsz1UJ5yEempu9k_SdMtDQ" guid="-KsVD6jtK6v6t1OWJyrgpig" changeDate="2019-07-04T17:45:43.850+0200">
+  <mainDescription>&lt;p>&#xD;
+    míra, do níž lze prokázat vztah mezi dvěma nebo více produkty procesu vývoje, zejména mezi těmi, jejichž vzájemný vztah&#xD;
+    je vztahem následnosti (předchůdce/následovník) nebo podřízenosti (nadřízený/podřízený) (3.1.45)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    *) NÁRODNÍ POZNÁMKA Používá se i termín „trasovatelnost“.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

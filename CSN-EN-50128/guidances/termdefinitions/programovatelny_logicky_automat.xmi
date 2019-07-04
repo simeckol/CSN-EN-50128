@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8mUElhCIpmfX7WdUcHiMkg" name="new_term_definition,_n3Jl4J5pEempu9k_SdMtDQ" guid="-8mUElhCIpmfX7WdUcHiMkg">
+  <mainDescription>polovodičový řídicí systém, který má paměť programovatelnou uživatelem pro uložení instrukcí k implementaci specifických&#xD;
+funkcí (3.1.19)</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

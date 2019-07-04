@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ve4RaBh00p44xuFHJCo2cw" name="new_term_definition,_6YkaAJ5mEempu9k_SdMtDQ" guid="-ve4RaBh00p44xuFHJCo2cw" changeDate="2019-07-04T16:21:17.389+0200">
+  <mainDescription>&lt;p>&#xD;
+    nedílná součást softwaru, která má jasně definované rozhraní a chování s ohledem na architekturu softwaru a jeho návrh&#xD;
+    a naplňuje následující kritéria:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        je navržena s ohledem na komponenty (viz Tabulka A.20);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        pokrývá určitou podmnožinu požadavků na software;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        je jasně identifikována a má nezávislou verzi v systému řízení konfigurace nebo je částí souboru komponent&#xD;
+        (subsytémů) jehož verze je nezávislá (3.1.4)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
