@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Tfl0UNo3uJwhxMrpXNpDnA" name=",__S6osEUEEem9AMCF5qvX5g" guid="-Tfl0UNo3uJwhxMrpXNpDnA">
-  <mainDescription>Specifikace celkového testování softwaru musí být napsány, v rámci odpovědnosti testera, na základě specifikace požadavků&#xD;
-na software. (7.2.4.16)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Tfl0UNo3uJwhxMrpXNpDnA" name=",__S6osEUEEem9AMCF5qvX5g" guid="-Tfl0UNo3uJwhxMrpXNpDnA" changeDate="2019-07-04T22:36:44.555+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_celkoveho_testovani_softwaru_D84C92B8.html&quot;&#xD;
+        guid=&quot;_TF-bcMmeEeioC4xUIHgX5A&quot;>Specifikace celkového testování softwaru&lt;/a>&amp;nbsp;musí být napsány, v rámci&#xD;
+        odpovědnosti &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/tester_4FA2B1BA.html&quot;&#xD;
+        guid=&quot;_3Evx8MjEEeixxZe6yMuoZA&quot;>testera&lt;/a>, na základě &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_pozadavku_na_software_17DA6792.html&quot;&#xD;
+        guid=&quot;_2y75AN3oEeivMoitHDjecw&quot;>specifikace požadavků na software&lt;/a>. (7.2.4.16)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

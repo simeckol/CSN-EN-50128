@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mlmKY6e4HKDbkqSKhZjMjQ" name="autorizace_validatorem_6.3.4.16,_s3EqYAMXEem_mu8SW8LMeg" guid="-mlmKY6e4HKDbkqSKhZjMjQ" changeDate="2019-04-02T13:23:40.469+0200">
-  <mainDescription>Software může být&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
-href=&quot;./../../CSN-EN-50128/tasks/vydani_softwaru_9.1.4.2_D62DB2F1.html&quot; guid=&quot;_xZiyMEUREem9AMCF5qvX5g&quot;>vydán&lt;/a> pro&#xD;
-používání pouze po autorizaci &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/validator_47118FBE.html&quot;&#xD;
-guid=&quot;_9m6ecMjEEeixxZe6yMuoZA&quot;>validátorem&lt;/a>. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-face=&quot;LiberationSans&quot;>6.3.4.16&lt;/font>&lt;/font>)</mainDescription>
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Software může být&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/tasks/vydani_softwaru_9.1.4.2_D62DB2F1.html&quot; guid=&quot;_xZiyMEUREem9AMCF5qvX5g&quot;>vydán&lt;/a>&#xD;
+        pro používání pouze po autorizaci &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/roles/validator_47118FBE.html&quot; guid=&quot;_9m6ecMjEEeixxZe6yMuoZA&quot;>validátorem&lt;/a>.&#xD;
+        (6.3.4.16)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

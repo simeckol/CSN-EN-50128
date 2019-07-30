@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-43BkCwoW_7T_86E60lVIsA" name=",_NqQXsEVzEemhELvG__VSRQ" guid="-43BkCwoW_7T_86E60lVIsA">
-  <mainDescription>Pro každý reportovaný problém nebo vylepšení musí být provedena analýza dopadu na bezpepečnost. (9.2.4.19)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-43BkCwoW_7T_86E60lVIsA" name=",_NqQXsEVzEemhELvG__VSRQ" guid="-43BkCwoW_7T_86E60lVIsA" changeDate="2019-07-04T18:58:46.243+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Pro každý reportovaný problém nebo vylepšení musí být provedena&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/guidances/practices/analyza_dopadu_FECA22EC.html&quot; guid=&quot;_fUfk8J5AEemood4EUWwS2g&quot;>analýza&#xD;
+        dopadu&lt;/a> na bezpepečnost. (9.2.4.19)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

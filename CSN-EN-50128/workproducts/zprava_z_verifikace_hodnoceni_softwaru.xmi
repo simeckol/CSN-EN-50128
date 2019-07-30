@@ -3,28 +3,20 @@
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Zpráva z verifikace hodnocení softwaru musí být napsána v rámci odpovědnosti verifikátora na základě vstupních&#xD;
-        dokumentů z 6.4.2. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-        face=&quot;LiberationSans&quot;>6.4.4.6&lt;/font>&lt;/font>)&#xD;
+        dokumentů z 6.4.2. (6.4.4.6)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Poté, co je stanoven plán hodnocení softwaru, pak se musí jeho verifikace zabývat&#xD;
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot;&#xD;
-    size=&quot;2&quot; face=&quot;LiberationSans&quot;>a) tím, že plán hodnocení softwaru splňuje obecné požadavky na čitelnost a&#xD;
-    sledovatelnost uvedené v článcích 5.3.2.7 až 5.3.2.10 a 6.5.4.14 až 6.5.4.17 stejně jako konkrétní požadavky uvedené v&#xD;
-    článku 6.4.4.5;&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-    face=&quot;LiberationSans&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) vnitřní konzistencí plánu hodnocení&#xD;
-    softwaru.&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-    face=&quot;LiberationSans&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Výsledky musí být zaznamenány ve&#xD;
-    zprávě z verifikace hodnocení softwaru.&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot;&#xD;
-    size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.4.4.7&lt;/font>&lt;/font>)&#xD;
-&lt;/p></mainDescription>
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        a) tím, že plán hodnocení softwaru splňuje obecné požadavky na čitelnost a sledovatelnost uvedené v článcích&#xD;
+        5.3.2.7 až 5.3.2.10 a 6.5.4.14 až 6.5.4.17 stejně jako konkrétní požadavky uvedené v článku 6.4.4.5;&lt;br />&#xD;
+        b) vnitřní konzistencí plánu hodnocení softwaru.&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        Výsledky musí být zaznamenány ve zprávě z verifikace hodnocení softwaru. (6.4.4.7)&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-G92wpVyHnDS_j-sJE2w0EA" name=",_NL7LwFSvEemXxoBG7rYlSQ" guid="-G92wpVyHnDS_j-sJE2w0EA">
-  <mainDescription>&lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
-    &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Pro některé systémy mohou být aplikační data/algoritmy&#xD;
-    integrovány s generickým hardwarem a softwarem pro testy u výrobce*), před instalací do cílového systému. To nemusí být&#xD;
-    nezbytné, pokud je dostatečný stupeň důvěry získán jiným způsobem. Aplikace pak musí být nainstalována do cílového&#xD;
-    systému a pak musí být provedeny testy integrace v rámci kompletní instalace. Na závěr musí být cílový systém uveden do&#xD;
-    provozu jako plně provozuschopný systém a musí být proveden proces závěrečné přejímky cílového systému v kompletní&#xD;
-    instalaci. Zpráva z testů aplikace musí dokumentovat správné a kompletní provedení testůndefinovaných ve specifikaci&#xD;
-    testů aplikace. Zpráva z verifikace přípravy aplikace musí zkontrolovat kompletnost a správnost testů provedených na&#xD;
-    kompletní instalaci. (8.4.5.1)&lt;/font>&lt;/font>&#xD;
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-G92wpVyHnDS_j-sJE2w0EA" name=",_NL7LwFSvEemXxoBG7rYlSQ" guid="-G92wpVyHnDS_j-sJE2w0EA" changeDate="2019-07-04T19:16:12.383+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Pro některé systémy mohou být aplikační data/algoritmy integrovány s generickým hardwarem a softwarem pro testy u&#xD;
+        výrobce*), před instalací do cílového systému. To nemusí být nezbytné, pokud je dostatečný stupeň důvěry získán&#xD;
+        jiným způsobem. Aplikace pak musí být nainstalována do cílového systému a pak musí být provedeny testy integrace v&#xD;
+        rámci kompletní instalace. Na závěr musí být cílový systém uveden do provozu jako plně provozuschopný systém a musí&#xD;
+        být proveden proces závěrečné přejímky cílového systému v kompletní instalaci.&amp;nbsp;&lt;a&#xD;
+        class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/workproducts/zprava_z_testu_aplikace_532909B6.html&quot;&#xD;
+        guid=&quot;_dwuGcJ5_EemsQcP7IZRpDw&quot;>Zpráva z testů aplikace&lt;/a> musí dokumentovat správné a kompletní provedení&#xD;
+        testůndefinovaných ve specifikaci testů aplikace.&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/zprava_z_verifikace_pripravy_40D849B9.html&quot;&#xD;
+        guid=&quot;_0v4wIFStEemXxoBG7rYlSQ&quot;>Zpráva z verifikace přípravy aplikace&lt;/a> musí zkontrolovat kompletnost a správnost&#xD;
+        testů provedených na kompletní instalaci. (8.4.5.1)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    *) NÁRODNÍ POZNÁMKA Používá se označeni „FAT testy“.&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

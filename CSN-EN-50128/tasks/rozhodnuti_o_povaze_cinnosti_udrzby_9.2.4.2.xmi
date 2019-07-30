@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-aSAKKFKKoly2AcJI81cwKA" name="rozhodnuti_o_povaze_cinnosti_udrzby_9.2.4.2,_Gge9cEUXEem9AMCF5qvX5g" guid="-aSAKKFKKoly2AcJI81cwKA" changeDate="2019-03-12T23:35:50.619+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Pro jakoukoliv úroveň integrity bezpečnosti softwaru musí &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/roles/dodavatel_583D36FB.html&quot; guid=&quot;_i7nMYN6wEeiYJ4LpaF_C_Q&quot;>dodavatel&lt;/a>, před&#xD;
+        započetím práce na jakékoliv změně, rozhodnout, zda jsou činnosti údržby považovány za majoritní nebo minoritní&#xD;
+        nebo zda jsou existující metody údržby pro systém adekvátní. Toto rozhodnutí musí být zdůvodněno a zaznamenáno&#xD;
+        dodavatelem a musí být předloženo&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/roles/hodnotitel_76D2615.html&quot; guid=&quot;_uZ_BQMjEEeixxZe6yMuoZA&quot;>hodnotiteli&lt;/a> k&#xD;
+        hodnocení. (9.2.4.2)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

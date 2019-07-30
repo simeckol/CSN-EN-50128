@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CiPA0X9YkhU6d4dOLjWsMQ" name="formulovani_a_vykonani_validace_6.3.4.1,_PYun8AMVEem_mu8SW8LMeg" guid="-CiPA0X9YkhU6d4dOLjWsMQ">
-  <mainDescription>Činnosti validace softwaru musí být formulovány a vykonány, s vyhodnocením jejich výsledků, validátorem s příslušnou úrovní&#xD;
-nezávislosti jak je definováno v 5.1. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-face=&quot;LiberationSans&quot;>6.3.4.1&lt;/font>&lt;/font>)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CiPA0X9YkhU6d4dOLjWsMQ" name="formulovani_a_vykonani_validace_6.3.4.1,_PYun8AMVEem_mu8SW8LMeg" guid="-CiPA0X9YkhU6d4dOLjWsMQ" changeDate="2019-07-04T22:59:51.448+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Činnosti validace softwaru musí být formulovány a vykonány, s vyhodnocením jejich výsledků,&amp;nbsp;&lt;a&#xD;
+        class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/validator_47118FBE.html&quot;&#xD;
+        guid=&quot;_9m6ecMjEEeixxZe6yMuoZA&quot;>validátorem&lt;/a> s příslušnou úrovní nezávislosti jak je definováno v &lt;a&#xD;
+        class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/customcategories/organizace_role_a_odpovednosti_5.1_BCE0C2B8.html&quot;&#xD;
+        guid=&quot;_dt2K0IHyEemoPoTBJsGLNw&quot;>5.1&lt;/a>. (6.3.4.1)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

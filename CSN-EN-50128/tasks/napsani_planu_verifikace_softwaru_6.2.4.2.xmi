@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6YP9bXDHgJbUBpvjC4w_qA" name="napsani_planu_verifikace_softwaru_6.2.4.2,_QhzNAAMOEem_mu8SW8LMeg" guid="-6YP9bXDHgJbUBpvjC4w_qA" changeDate="2019-01-28T10:35:24.379+0100">
-  <mainDescription>Plán verifikace softwaru musí být napsán, v rámci odpovědnosti verifikátora, na základě potřebné dokumentace. (&lt;font&#xD;
-lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.2.4.2&lt;/font>&lt;/font>)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6YP9bXDHgJbUBpvjC4w_qA" name="napsani_planu_verifikace_softwaru_6.2.4.2,_QhzNAAMOEem_mu8SW8LMeg" guid="-6YP9bXDHgJbUBpvjC4w_qA" changeDate="2019-07-04T23:11:25.205+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/workproducts/plan_verifikace_softwaru_8E2A4A69.html&quot;&#xD;
+        guid=&quot;_EubXAMmyEeiep6WenHc9eQ&quot;>Plán verifikace softwaru&lt;/a>&amp;nbsp;musí být napsán, v rámci odpovědnosti &lt;a&#xD;
+        class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/verifikator_BAD5C1FD.html&quot;&#xD;
+        guid=&quot;_5kE7IMjEEeixxZe6yMuoZA&quot;>verifikátora&lt;/a>, na základě potřebné dokumentace. (6.2.4.2)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

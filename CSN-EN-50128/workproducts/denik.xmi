@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nQbZYDSrr2u7hCUUh0B0Uw" name="new_artifact,_5HlgQBeQEem5bPedq4QhIg" guid="-nQbZYDSrr2u7hCUUh0B0Uw">
-  <mainDescription>Jakmile bylo prokázáno, ke spokojenosti&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
-href=&quot;./../../CSN-EN-50128/roles/hodnotitel_76D2615.html&quot; guid=&quot;_uZ_BQMjEEeixxZe6yMuoZA&quot;>hodnotitel&lt;/a>e nebo osvědčením,&#xD;
-že byla doložena odborná způsobilost veškerého personálu v různých rolích, bude muset každý jednotlivec prokázat průběžné&#xD;
-zachování a rozvoj této způsobilosti. To může být doloženo udržováním deníku, který prokazuje, že tyto činnosti jsou&#xD;
-pravidelně prováděny správně a že další školení je prováněno v souladu s EN ISO 9001*) a ISO/IEC 90003:2004**), 6.2.2&#xD;
-„Odborná způsobilost, vědomí závažnosti a výcvik“. (5.2.2.4)</mainDescription>
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Jakmile bylo prokázáno, ke spokojenosti&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/roles/hodnotitel_76D2615.html&quot; guid=&quot;_uZ_BQMjEEeixxZe6yMuoZA&quot;>hodnotitel&lt;/a>e nebo&#xD;
+        osvědčením, že byla doložena odborná způsobilost veškerého personálu v různých rolích, bude muset každý jednotlivec&#xD;
+        prokázat průběžné zachování a rozvoj této způsobilosti. To může být doloženo udržováním deníku, který prokazuje, že&#xD;
+        tyto činnosti jsou pravidelně prováděny správně a že další školení je prováněno v souladu s EN ISO 9001*) a ISO/IEC&#xD;
+        90003:2004**), 6.2.2 „Odborná způsobilost, vědomí závažnosti a výcvik“. (5.2.2.4)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

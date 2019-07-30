@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1ljeKICijRS-9ryKE4n6VQ" name="new_artifact,_CjtQwEUVEem9AMCF5qvX5g" guid="-1ljeKICijRS-9ryKE4n6VQ" changeDate="2019-03-12T23:20:58.551+0100">
-  <mainDescription>Procedury pro údržbu softwaru musí být stanoveny a zaznamenány v plánu údržby softwaru.&lt;br />&#xD;
-Tyto procedury musí určovat:&lt;br />&#xD;
-a) řízení reportování chyb, protokolování chyb, záznamů údržby, autorizace změn a konfigurace softwaru/systému a musí&#xD;
-určovat i techniky a opatření z Tabulky A.10;&lt;br />&#xD;
-b) verifikaci, validaci a hodnocení jakékoliv změny;&lt;br />&#xD;
-c) definici autority, která schválí změněný software;&lt;br />&#xD;
-d) oprávnění pro modifikaci. (9.2.4.6)</mainDescription>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1ljeKICijRS-9ryKE4n6VQ" name="new_artifact,_CjtQwEUVEem9AMCF5qvX5g" guid="-1ljeKICijRS-9ryKE4n6VQ" changeDate="2019-07-07T16:26:02.153+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Procedury pro údržbu softwaru musí být stanoveny a zaznamenány v plánu údržby softwaru. Tyto procedury musí&#xD;
+        určovat:&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        a) řízení reportování chyb, protokolování chyb, záznamů údržby, autorizace změn a konfigurace softwaru/systému a&#xD;
+        musí určovat i techniky a opatření z Tabulky A.10;&lt;br />&#xD;
+        b) verifikaci, validaci a hodnocení jakékoliv změny;&lt;br />&#xD;
+        c) definici autority, která schválí změněný software;&lt;br />&#xD;
+        d) oprávnění pro modifikaci. (9.2.4.6)&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eA_wcVOZN0KvJCqwHak5qw" name="new_artifact,_GwDjECYhEemSeZcT9hWL7w" guid="-eA_wcVOZN0KvJCqwHak5qw" changeDate="2019-02-01T14:09:03.895+0100">
-  <mainDescription>&lt;p style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
-    Zpráva z testu musí být vytvořena následovně: (6.1.4.5)&lt;br />&#xD;
-    &amp;nbsp;&amp;nbsp; a) zpráva z testu musí uvádět jména testerů, výsledky testu a zda byly splněny cíle testu a kritéria&#xD;
-    testu, které jsou uvedeny ve specifikaci testu. Poruchy musí být shrnuty a dokumentovány;&lt;br />&#xD;
-    &amp;nbsp;&amp;nbsp; b) testovací případy a jejich výsledky musí být zaznamenány, nejlépe ve strojově čitelné formě pro&#xD;
-    následnou analýzu;&lt;br />&#xD;
-    &amp;nbsp;&amp;nbsp; c) testy musí být opakovatelné a pokud je to možné prováděné automaticky;&lt;br />&#xD;
-    &amp;nbsp;&amp;nbsp; d) skripty testu pro automatické spuštění testu musí být verifikovány;&lt;br />&#xD;
-    &amp;nbsp;&amp;nbsp; e) identita a konfigurace všech položek zahrnutých v testu (použitý hardware, použitý software, použité&#xD;
-    zařízení, kalibrace zařízení, stejně jako informace o verzi specifikace testu) musí být dokumentovány;&lt;br />&#xD;
-    &amp;nbsp;&amp;nbsp; f) musí být poskytnuto vyhodnocení pokrytí kódu testem a úplnost testu a mají být zaznamenány všechny&#xD;
-    Odchylky.&#xD;
-&lt;/p></mainDescription>
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+            Zpráva z testu musí být vytvořena následovně:&lt;br />&#xD;
+            &amp;nbsp;&amp;nbsp; a) zpráva z testu musí uvádět jména testerů, výsledky testu a zda byly splněny cíle testu a&#xD;
+            kritéria testu, které jsou uvedeny ve specifikaci testu. Poruchy musí být shrnuty a dokumentovány;&lt;br />&#xD;
+            &amp;nbsp;&amp;nbsp; b) testovací případy a jejich výsledky musí být zaznamenány, nejlépe ve strojově čitelné formě pro&#xD;
+            následnou analýzu;&lt;br />&#xD;
+            &amp;nbsp;&amp;nbsp; c) testy musí být opakovatelné a pokud je to možné prováděné automaticky;&lt;br />&#xD;
+            &amp;nbsp;&amp;nbsp; d) skripty testu pro automatické spuštění testu musí být verifikovány;&lt;br />&#xD;
+            &amp;nbsp;&amp;nbsp; e) identita a konfigurace všech položek zahrnutých v testu (použitý hardware, použitý software,&#xD;
+            použité zařízení, kalibrace zařízení, stejně jako informace o verzi specifikace testu) musí být&#xD;
+            dokumentovány;&lt;br />&#xD;
+            &amp;nbsp;&amp;nbsp; f) musí být poskytnuto vyhodnocení pokrytí kódu testem a úplnost testu a mají být zaznamenány&#xD;
+            všechny Odchylky. (6.1.4.5)&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

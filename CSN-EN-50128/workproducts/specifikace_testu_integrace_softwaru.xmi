@@ -1,41 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jk-gJhgEydYyV9QyY9YxOA" name="specifikace_testu_integrace_softwaru,_d9ILMMmeEeioC4xUIHgX5A" guid="-jk-gJhgEydYyV9QyY9YxOA" changeDate="2018-11-02T09:49:26.852+0100">
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jk-gJhgEydYyV9QyY9YxOA" name="specifikace_testu_integrace_softwaru,_d9ILMMmeEeioC4xUIHgX5A" guid="-jk-gJhgEydYyV9QyY9YxOA" changeDate="2019-07-07T17:35:40.522+0200">
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Specifikace testů integrace softwaru musí být napsány v souladu s obecnými požadavky stanovenými pro specifikaci&#xD;
-        testů (viz 6.1.4.4). (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-        face=&quot;LiberationSans&quot;>7.3.4.30&lt;/font>&lt;/font>)&#xD;
+        testů (viz 6.1.4.4). (7.3.4.30)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Specifikace testů integrace softwaru musí určit následující:&#xD;
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; a) musí být prokázáno, že každá&#xD;
-    komponenta softwaru poskytuje předepsaná rozhraní pro ostatní komponenty a to spouštěním těchto komponent společně;&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) musí být prokázáno, že se software&#xD;
-    chová patřičným způsobem i pokud je rozhraní vystaveno vstupům které jsou mimo specifikaci;&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; c) požadovaná vstupní data s uvedením&#xD;
-    jejich pořadí a hodnot musí být základem testovacích případů;&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; d) očekávaná výstupní data, s uvedením&#xD;
-    jejich pořadí a hodnot musí být základem testovacích případů;&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;e) musí být uvedeno, které výsledky&#xD;
-    testu komponenty (viz 7.5.4.5 a 7.5.4.7) jsou určeny pro opětovné použití v rámci testů integrace softwaru. (&lt;font&#xD;
-    lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.3.4.31&lt;/font>&lt;/font>)&#xD;
-&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        a) musí být prokázáno, že každá komponenta softwaru poskytuje předepsaná rozhraní pro ostatní komponenty a to&#xD;
+        spouštěním těchto komponent společně;&lt;br />&#xD;
+        b) musí být prokázáno, že se software chová patřičným způsobem i pokud je rozhraní vystaveno vstupům které jsou&#xD;
+        mimo specifikaci;&lt;br />&#xD;
+        c) požadovaná vstupní data s uvedením jejich pořadí a hodnot musí být základem testovacích případů;&lt;br />&#xD;
+        d) očekávaná výstupní data, s uvedením jejich pořadí a hodnot musí být základem testovacích případů;&lt;br />&#xD;
+        e) musí být uvedeno, které výsledky testu komponenty (viz 7.5.4.5 a 7.5.4.7) jsou určeny pro opětovné použití v&#xD;
+        rámci testů integrace softwaru. (7.3.4.31)&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
         Specifikace testů integrace softwaru musí vybrat techniky a opatření z Tabulky A.5. Vybraná kombinace musí být&#xD;
-        zdůvodněna jako sada a plnit články 4.8 a 4.9. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot;&#xD;
-        size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.3.4.32&lt;/font>&lt;/font>)&#xD;
+        zdůvodněna jako sada a plnit články 4.8 a 4.9. (7.3.4.32)&#xD;
     &lt;/li>&#xD;
 &lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

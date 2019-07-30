@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mvIW1_DGb3QX0Umw0QxXEQ" name=",_oGgrICLkEemo7MfG6V_evw" guid="-mvIW1_DGb3QX0Umw0QxXEQ" changeDate="2019-01-28T11:08:57.498+0100">
-  <mainDescription>Výsledky validace nástroje musí být dokumentovány a zahrnovat následující výsledky:&lt;br />&#xD;
-a) záznam validačních činností;&lt;br />&#xD;
-b) verzi manuálu nástroje, která byla použita;&lt;br />&#xD;
-c) funkce nástroje, které byly validovány;&lt;br />&#xD;
-d) použité nástroje a vybavení;&lt;br />&#xD;
-e) výsledky validační činnosti; dokumentované výsledky validace musí uvádět buď že software prošel validací nebo důvody&#xD;
-proč neprošel;&lt;br />&#xD;
-f) testovací případy a jejich výsledky pro následnou analýzu;&lt;br />&#xD;
-g) rozdíly mezi očekávanými a skutečnými výsledky. (6.7.4.5)</mainDescription>
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Výsledky validace nástroje musí být dokumentovány a zahrnovat následující výsledky:&lt;br />&#xD;
+        a) záznam validačních činností;&lt;br />&#xD;
+        b) verzi manuálu nástroje, která byla použita;&lt;br />&#xD;
+        c) funkce nástroje, které byly validovány;&lt;br />&#xD;
+        d) použité nástroje a vybavení;&lt;br />&#xD;
+        e) výsledky validační činnosti; dokumentované výsledky validace musí uvádět buď že software prošel validací nebo&#xD;
+        důvody proč neprošel;&lt;br />&#xD;
+        f) testovací případy a jejich výsledky pro následnou analýzu;&lt;br />&#xD;
+        g) rozdíly mezi očekávanými a skutečnými výsledky. (6.7.4.5)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

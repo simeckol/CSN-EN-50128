@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FtvQFtFgruAS1nvikzbTig" name=",_UjYpwEUSEem9AMCF5qvX5g" guid="-FtvQFtFgruAS1nvikzbTig">
-  <mainDescription>Při instalaci nového vydání softwaru musí být dostupná procedura návratu (tj. schopnost vrátit se k předchozímu vydání&#xD;
-softwaru). (9.1.4.10)&lt;br />&#xD;
-Software musí mít vložený mechanismus vlastní identifikace, dovolující jeho identifikaci při procesu nahrávání a po nahrátí&#xD;
-do cílového systému. Mechanismus vlastní identifikace musí uvádět informaci o verzi softwaru a jakýchkoliv konfiguračních&#xD;
-dat jako i identitu produktu. (9.1.4.11)&lt;br />&#xD;
-POZNÁMKA Je doporučeno, aby data uvnitř kódu obsahující informaci o vydání softwaru byla chráněna během programování (viz&#xD;
-Tabulka A.3 „Kódy s detekcí chyby“).</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FtvQFtFgruAS1nvikzbTig" name=",_UjYpwEUSEem9AMCF5qvX5g" guid="-FtvQFtFgruAS1nvikzbTig" changeDate="2019-07-04T18:19:28.172+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Při instalaci nového vydání softwaru musí být dostupná procedura návratu (tj. schopnost vrátit se k předchozímu&#xD;
+        vydání softwaru). (9.1.4.10)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Software musí mít vložený mechanismus vlastní identifikace, dovolující jeho identifikaci při procesu nahrávání a po&#xD;
+        nahrátí do cílového systému. Mechanismus vlastní identifikace musí uvádět informaci o verzi softwaru a jakýchkoliv&#xD;
+        konfiguračních dat jako i identitu produktu. (9.1.4.11)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    POZNÁMKA Je doporučeno, aby data uvnitř kódu obsahující informaci o vydání softwaru byla chráněna během programování&#xD;
+    (viz Tabulka A.3 „Kódy s detekcí chyby“).&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-joJkLEqF3seMQ5VFtKKBAA" name="napsani_zpravy_z_validace_softwaru_6.3.4.7,_qnzy8AMWEem_mu8SW8LMeg" guid="-joJkLEqF3seMQ5VFtKKBAA" changeDate="2019-01-28T10:33:31.036+0100">
-  <mainDescription>Zpráva z validace softwaru musí být napsána v rámci odpovědnosti validátora na základě vstupních Dokumentů. (&lt;font&#xD;
-lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.3.4.7&lt;/font>&lt;/font>)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-joJkLEqF3seMQ5VFtKKBAA" name="napsani_zpravy_z_validace_softwaru_6.3.4.7,_qnzy8AMWEem_mu8SW8LMeg" guid="-joJkLEqF3seMQ5VFtKKBAA" changeDate="2019-07-04T23:02:53.427+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/zprava_z_validace_softwaru_9327E68A.html&quot;&#xD;
+        guid=&quot;_z3daUMuoEeiY4aKR2f3NAQ&quot;>Zpráva z validace softwaru&lt;/a>&amp;nbsp;musí být napsána v rámci odpovědnosti&amp;nbsp;&lt;a&#xD;
+        class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/validator_47118FBE.html&quot;&#xD;
+        guid=&quot;_9m6ecMjEEeixxZe6yMuoZA&quot;>validátora&lt;/a> na základě vstupních Dokumentů. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.3.4.7&lt;/font>&lt;/font>)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

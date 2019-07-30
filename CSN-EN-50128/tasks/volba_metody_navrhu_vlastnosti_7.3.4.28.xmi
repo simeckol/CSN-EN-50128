@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FEXE_eyP4JB4NCexyTtYsA" name=",_gRQAEEUHEem9AMCF5qvX5g" guid="-FEXE_eyP4JB4NCexyTtYsA">
-  <mainDescription>V souladu s požadovanou úrovní integrity bezpečnosti softwaru musí mít zvolená metoda návrhu vlastnosti které&#xD;
-usnadňují:&lt;br />&#xD;
-a) abstrakci, modularitu a další vlastnosti které regulují složitost;&lt;br />&#xD;
-b) jasné a přesné vyjádření&lt;br />&#xD;
-1) funkcionality;&lt;br />&#xD;
-2) informačního toku mezi komponentami;&lt;br />&#xD;
-3) posloupností a informací týkající se času;&lt;br />&#xD;
-4) souběžnosti;&lt;br />&#xD;
-5) datových struktur a vlastností;&lt;br />&#xD;
-c) pochopení lidmi;&lt;br />&#xD;
-d) verifikaci a validaci;&lt;br />&#xD;
-e) údržbu softwaru. (7.3.4.28)</mainDescription>
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        V souladu s požadovanou úrovní integrity bezpečnosti softwaru musí mít zvolená metoda návrhu vlastnosti které&#xD;
+        usnadňují:&lt;br />&#xD;
+        a) abstrakci, modularitu a další vlastnosti které regulují složitost;&lt;br />&#xD;
+        b) jasné a přesné vyjádření&lt;br />&#xD;
+        1) funkcionality;&lt;br />&#xD;
+        2) informačního toku mezi komponentami;&lt;br />&#xD;
+        3) posloupností a informací týkající se času;&lt;br />&#xD;
+        4) souběžnosti;&lt;br />&#xD;
+        5) datových struktur a vlastností;&lt;br />&#xD;
+        c) pochopení lidmi;&lt;br />&#xD;
+        d) verifikaci a validaci;&lt;br />&#xD;
+        e) údržbu softwaru. (7.3.4.28)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

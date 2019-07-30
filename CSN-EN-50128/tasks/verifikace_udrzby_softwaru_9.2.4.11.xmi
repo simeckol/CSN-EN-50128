@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CuPOAa8EZM8vTlT2etM8kQ" name=",_L_q60EWXEem2O-StvTKz2Q" guid="-CuPOAa8EZM8vTlT2etM8kQ">
-  <mainDescription>Zpráva z verifikace údržby softwaru musí být napsána, v rámci odpovědnosti verifikátora, na základě vstupních dokumentů dle&#xD;
-9.2.2. (9.2.4.11)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CuPOAa8EZM8vTlT2etM8kQ" name=",_L_q60EWXEem2O-StvTKz2Q" guid="-CuPOAa8EZM8vTlT2etM8kQ" changeDate="2019-07-04T19:10:42.860+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/zprava_z_verifikace_udrzby_softwaru_922A7045.html&quot;&#xD;
+        guid=&quot;_8AYRMEUVEem9AMCF5qvX5g&quot;>Zpráva z verifikace údržby softwaru&lt;/a>&amp;nbsp;musí být napsána, v rámci odpovědnosti&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/verifikator_BAD5C1FD.html&quot;&#xD;
+        guid=&quot;_5kE7IMjEEeixxZe6yMuoZA&quot;>verifikátora&lt;/a>, na základě vstupních dokumentů dle 9.2.2. (9.2.4.11)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

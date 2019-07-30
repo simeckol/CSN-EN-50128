@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EW0LhYRSLSfXf6RaxWSBzg" name=",_T56h4EUFEem9AMCF5qvX5g" guid="-EW0LhYRSLSfXf6RaxWSBzg">
-  <mainDescription>Zpráva z verifikace požadavků na software musí být napsána, v rámci odpovědnosti verifikátora, na základě specifikace&#xD;
-požadavků na bezpečnost systému, specifikace požadavků na software, specifikace celkového testování softwaru a plánu&#xD;
-zajištění kvality softwaru. (7.2.4.20)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EW0LhYRSLSfXf6RaxWSBzg" name=",_T56h4EUFEem9AMCF5qvX5g" guid="-EW0LhYRSLSfXf6RaxWSBzg" changeDate="2019-07-04T22:40:04.539+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/zprava_z_verifikace_pozadavku_na_software_614992D1.html&quot;&#xD;
+        guid=&quot;_-ywLEN3vEeivMoitHDjecw&quot;>Zpráva z verifikace požadavků na software&lt;/a>&amp;nbsp;musí být napsána, v rámci&#xD;
+        odpovědnosti &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/verifikator_BAD5C1FD.html&quot;&#xD;
+        guid=&quot;_5kE7IMjEEeixxZe6yMuoZA&quot;>verifikátora&lt;/a>, na základě &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_pozadavku_na_bezpecnost_systemu_8AF44253.html&quot;&#xD;
+        guid=&quot;_AeQc4N3rEeivMoitHDjecw&quot;>specifikace požadavků na bezpečnost systému&lt;/a>, &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_pozadavku_na_software_17DA6792.html&quot;&#xD;
+        guid=&quot;_2y75AN3oEeivMoitHDjecw&quot;>specifikace požadavků na software&lt;/a>,&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_celkoveho_testovani_softwaru_D84C92B8.html&quot;&#xD;
+        guid=&quot;_TF-bcMmeEeioC4xUIHgX5A&quot;>specifikace celkového testování softwaru&lt;/a> a &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/plan_zajisteni_kvality_softwaru_B67922ED.html&quot;&#xD;
+        guid=&quot;_2gSTYMvMEeiEgNhWmVVBKQ&quot;>plánu zajištění kvality softwaru&lt;/a>. (7.2.4.20)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

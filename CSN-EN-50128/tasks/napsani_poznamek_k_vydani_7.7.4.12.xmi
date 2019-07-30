@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cjbCH3XDrkGJmqdKkzZGrQ" name=",_RGhBoEUPEem9AMCF5qvX5g" guid="-cjbCH3XDrkGJmqdKkzZGrQ">
-  <mainDescription>Poznámky k vydání, které jsou součástí dodávaného softwaru musí zahrnovat všechna omezení v použití softwaru. Tato omezení&#xD;
-jsou odvozena od:&lt;br />&#xD;
-a) detekovaných chyb;&lt;br />&#xD;
-b) nesouladů s touto evropskou normou;&lt;br />&#xD;
-c) stupně plnění požadavků;&lt;br />&#xD;
-d) stupně plnění všech plánů. (7.7.4.12)&lt;br />&#xD;
-Poznámky k vydání musí být napsány, v rámci odpovědnosti návrháře, na základě vstupních dokumentů dle 9.1.2. (9.1.4.4)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cjbCH3XDrkGJmqdKkzZGrQ" name=",_RGhBoEUPEem9AMCF5qvX5g" guid="-cjbCH3XDrkGJmqdKkzZGrQ" changeDate="2019-07-04T22:13:56.361+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/workproducts/poznamky_k_vydani_8B959BB7.html&quot;&#xD;
+        guid=&quot;_re0D4N6tEeiYJ4LpaF_C_Q&quot;>Poznámky k vydání&lt;/a>, které jsou součástí dodávaného softwaru musí zahrnovat&#xD;
+        všechna omezení v použití softwaru. Tato omezení jsou odvozena od:&lt;br />&#xD;
+        a) detekovaných chyb;&lt;br />&#xD;
+        b) nesouladů s touto evropskou normou;&lt;br />&#xD;
+        c) stupně plnění požadavků;&lt;br />&#xD;
+        d) stupně plnění všech plánů. (7.7.4.12)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Poznámky k vydání musí být napsány, v rámci odpovědnosti &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/roles/navrhar_BEB1FD55.html&quot; guid=&quot;_hA0AsMjEEeixxZe6yMuoZA&quot;>návrháře&lt;/a>, na základě&#xD;
+        vstupních dokumentů dle 9.1.2. (9.1.4.4)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

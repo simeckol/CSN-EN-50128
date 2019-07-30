@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_r_tyKKSPUas3ZcP-DTP2Q" name="dokumentace_verifikace_6.2.4.1,_yfa-gAMNEem_mu8SW8LMeg" guid="-_r_tyKKSPUas3ZcP-DTP2Q" changeDate="2019-01-28T10:34:53.305+0100">
-  <mainDescription>Verifikace musí být dokumentována nejméně plánem verifikace softwaru a jednou nebo více (záleží na procesu) zprávami z&#xD;
-verifikace. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-face=&quot;LiberationSans&quot;>6.2.4.1&lt;/font>&lt;/font>)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_r_tyKKSPUas3ZcP-DTP2Q" name="dokumentace_verifikace_6.2.4.1,_yfa-gAMNEem_mu8SW8LMeg" guid="-_r_tyKKSPUas3ZcP-DTP2Q" changeDate="2019-07-04T23:09:42.771+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Verifikace musí být dokumentována nejméně&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/plan_verifikace_softwaru_8E2A4A69.html&quot;&#xD;
+        guid=&quot;_EubXAMmyEeiep6WenHc9eQ&quot;>plánem verifikace softwaru&lt;/a> a jednou nebo více (záleží na procesu) &lt;a&#xD;
+        class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/workproducts/zprava_z_verifikace_softwaru_9FA72E4D.html&quot;&#xD;
+        guid=&quot;_tKGAECYhEemSeZcT9hWL7w&quot;>zprávami z verifikace&lt;/a>. (6.2.4.1)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

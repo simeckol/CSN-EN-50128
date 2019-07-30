@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-de6vKZ19YzcG_QX1mpZ3sQ" name="dokumentace_testovani_6.1.4.3,_5uPSEAK_Eem5xO6MgdqFCA" guid="-de6vKZ19YzcG_QX1mpZ3sQ" changeDate="2019-01-28T10:30:13.700+0100">
-  <mainDescription>Testování softwaru musí být dokumentováno prostřednictvím specifikace testu a zprávy z testu tak, jak je definováno dále.&#xD;
-(&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.1.4.3&lt;/font>&lt;/font>)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-de6vKZ19YzcG_QX1mpZ3sQ" name="dokumentace_testovani_6.1.4.3,_5uPSEAK_Eem5xO6MgdqFCA" guid="-de6vKZ19YzcG_QX1mpZ3sQ" changeDate="2019-07-04T22:54:04.783+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Testování softwaru musí být dokumentováno prostřednictvím&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_testu_199D613F.html&quot; guid=&quot;_i7ZskCYjEemSeZcT9hWL7w&quot;>specifikace&#xD;
+        testu&lt;/a> a&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/zprava_z_testu_5DD3B752.html&quot; guid=&quot;_GwDjECYhEemSeZcT9hWL7w&quot;>zprávy z&#xD;
+        testu&lt;/a> tak, jak je definováno dále. (6.1.4.3)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

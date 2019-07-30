@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rnUrzqv-V-TysLa9R5U8AA" name="5.3.2.1,_llLrYAK6Eem5xO6MgdqFCA" guid="-rnUrzqv-V-TysLa9R5U8AA" changeDate="2019-01-14T09:33:20.193+0100">
-  <mainDescription>Musí být zvolen &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
-href=&quot;./../../CSN-EN-50128/workproducts/model_zivotniho_cyklu_6741A735.html&quot; guid=&quot;_eVffoAK8Eem5xO6MgdqFCA&quot;>model životního&#xD;
-cyklu&lt;/a>&amp;nbsp;pro vývoj softwaru a musí být podrobně popsán v&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
-href=&quot;./../../CSN-EN-50128/workproducts/plan_zajisteni_kvality_softwaru_B67922ED.html&quot; guid=&quot;_2gSTYMvMEeiEgNhWmVVBKQ&quot;>plánu&#xD;
-zajištění kvality softwaru&amp;nbsp;&lt;/a>v souladu s kapitolou 6.5. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font&#xD;
-lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>5.3.2.1&lt;/font>&lt;/font>)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rnUrzqv-V-TysLa9R5U8AA" name="5.3.2.1,_llLrYAK6Eem5xO6MgdqFCA" guid="-rnUrzqv-V-TysLa9R5U8AA" changeDate="2019-07-04T18:18:22.674+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Musí být zvolen &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/model_zivotniho_cyklu_6741A735.html&quot; guid=&quot;_eVffoAK8Eem5xO6MgdqFCA&quot;>model&#xD;
+        životního cyklu&lt;/a>&amp;nbsp;pro vývoj softwaru a musí být podrobně popsán v&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/plan_zajisteni_kvality_softwaru_B67922ED.html&quot;&#xD;
+        guid=&quot;_2gSTYMvMEeiEgNhWmVVBKQ&quot;>plánu zajištění kvality softwaru&amp;nbsp;&lt;/a>v souladu s &lt;a&#xD;
+        class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/customcategories/zajisteni_kvality_softwaru_6.5_1EC6AD4F.html&quot;&#xD;
+        guid=&quot;_3zMHsILREemTrZ3VjwEoNw&quot;>kapitolou 6.5&lt;/a>. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot;&#xD;
+        size=&quot;2&quot; face=&quot;LiberationSans&quot;>5.3.2.1&lt;/font>&lt;/font>)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

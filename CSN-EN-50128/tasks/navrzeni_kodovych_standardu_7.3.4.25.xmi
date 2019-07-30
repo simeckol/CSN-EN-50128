@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6-edUokTeiRqAVoDxByRKw" name=",_NKi08EUHEem9AMCF5qvX5g" guid="-6-edUokTeiRqAVoDxByRKw">
-  <mainDescription>Musí být navrženy kódovací standardy a ty mají specifikovat:&lt;br />&#xD;
-a) rozumné postupy programování, jak je definováno v Tabulce A.12;&lt;br />&#xD;
-b) opatření pro zabránění chybám nebo pro detekci chyb, které se mohou vyskytnout během použití jazyka&lt;br />&#xD;
-a nejsou detekovatelné během verifikace (viz 7.5 a 7.6). Tyto chyby jsou odvozeny analýzou přes všechny&lt;br />&#xD;
-prvky jazyka;&lt;br />&#xD;
-c) postupy pro dokumentaci zdrojového kódu. (7.3.4.25)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6-edUokTeiRqAVoDxByRKw" name=",_NKi08EUHEem9AMCF5qvX5g" guid="-6-edUokTeiRqAVoDxByRKw" changeDate="2019-07-04T22:09:45.917+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Musí být navrženy&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/kodove_standardy_5AD29A6B.html&quot; guid=&quot;_8UYToEUHEem9AMCF5qvX5g&quot;>kódovací&#xD;
+        standardy&lt;/a> a ty mají specifikovat:&lt;br />&#xD;
+        a) rozumné postupy programování, jak je definováno v Tabulce A.12;&lt;br />&#xD;
+        b) opatření pro zabránění chybám nebo pro detekci chyb, které se mohou vyskytnout během použití jazyka a nejsou&#xD;
+        detekovatelné během verifikace (viz 7.5 a 7.6). Tyto chyby jsou odvozeny analýzou přes všechny prvky jazyka;&lt;br />&#xD;
+        c) postupy pro dokumentaci zdrojového kódu. (7.3.4.25)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

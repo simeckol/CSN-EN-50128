@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FogUGxpGgVoV0-uQz77SUQ" name=",_oh7RQEUREem9AMCF5qvX5g" guid="-FogUGxpGgVoV0-uQz77SUQ">
-  <mainDescription>Před předáním vydání softwaru musí být softwarová baseline nahrána a sledována pod řízením konfigurace. Také již existující&#xD;
-software a software vyvinutý v souladu s předchozí verzí této evropské normy zde musí být zahrnut. (9.1.4.2)</mainDescription>
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Před předáním vydání softwaru musí být softwarová baseline nahrána a sledována pod řízením konfigurace. Také již&#xD;
+        existující software a software vyvinutý v souladu s předchozí verzí této evropské normy zde musí být zahrnut.&#xD;
+        (9.1.4.2)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

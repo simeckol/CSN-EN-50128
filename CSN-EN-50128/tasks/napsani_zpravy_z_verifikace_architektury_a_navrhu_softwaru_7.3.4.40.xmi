@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kzwsr_fMCRgOhzrdZJw0iQ" name=",_yZ2SQEUJEem9AMCF5qvX5g" guid="-kzwsr_fMCRgOhzrdZJw0iQ">
-  <mainDescription>Zpráva z verifikace architektury a návrhu softwaru musí být napsána, v rámci odpovědnosti verifikátora, na základě&#xD;
-specifikace požadavků na software, specifikace architektury softwaru, specifikace návrhu softwaru, specifikace testů&#xD;
-integrace softwaru a specifikace testů integrace softwaru/hardwaru. (7.3.4.40)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kzwsr_fMCRgOhzrdZJw0iQ" name=",_yZ2SQEUJEem9AMCF5qvX5g" guid="-kzwsr_fMCRgOhzrdZJw0iQ" changeDate="2019-07-04T22:04:31.660+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/zprava_z_verifikace_architektury_a_navrhu_softwaru_AAD7751A.html&quot;&#xD;
+        guid=&quot;_iqV6oN4KEei9xO8zovSwhQ&quot;>Zpráva z verifikace architektury a návrhu softwaru&lt;/a>&amp;nbsp;musí být napsána, v&#xD;
+        rámci odpovědnosti &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/verifikator_BAD5C1FD.html&quot;&#xD;
+        guid=&quot;_5kE7IMjEEeixxZe6yMuoZA&quot;>verifikátora&lt;/a>, na základě &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_pozadavku_na_software_17DA6792.html&quot;&#xD;
+        guid=&quot;_2y75AN3oEeivMoitHDjecw&quot;>specifikace požadavků na software&lt;/a>, &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_architektury_softwaru_342A0A56.html&quot;&#xD;
+        guid=&quot;_QhZ0wN4JEei9xO8zovSwhQ&quot;>specifikace architektury softwaru&lt;/a>, &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_navrhu_softwaru_365C735.html&quot;&#xD;
+        guid=&quot;_eWeuMN4JEei9xO8zovSwhQ&quot;>specifikace návrhu softwaru&lt;/a>,&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_testu_integrace_softwaru_6169623F.html&quot;&#xD;
+        guid=&quot;_d9ILMMmeEeioC4xUIHgX5A&quot;>specifikace testů integrace softwaru&lt;/a> a &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_testu_integrace_softwaru_hardwaru_1EEBC29D.html&quot;&#xD;
+        guid=&quot;_rB8FUMmeEeioC4xUIHgX5A&quot;>specifikace testů integrace softwaru/hardwaru&lt;/a>. (7.3.4.40)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

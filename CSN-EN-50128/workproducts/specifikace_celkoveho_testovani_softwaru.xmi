@@ -3,27 +3,22 @@
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Specifikace celkového testování softwaru musí být popisem testů, které budou provedeny na dokončeném softwaru.&#xD;
-        (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-        face=&quot;LiberationSans&quot;>7.2.4.17&lt;/font>&lt;/font>)&#xD;
+        (7.2.4.17)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Specifikace celkového testování softwaru si musí vybrat techniky a opatření z Tabulky A.7. Zvolená kombinace musí&#xD;
-        být zdůvodněna jako sada a plnit články 4.8 a 4.9. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot;&#xD;
-        size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.2.4.18&lt;/font>&lt;/font>)&#xD;
+        být zdůvodněna jako sada a plnit články 4.8 a 4.9. (7.2.4.18)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Specifikace celkového testování softwaru musí pro každou požadovanou funkci identifikovat testovací případy&#xD;
         zahrnující:&#xD;
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; a) požadované vstupní signály s jejich pořadím a jejich hodnotami;&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) očekávané výstupní signály s jejich pořadím a jejich hodnotami;&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; c) kritéria úspěšnosti testu, včetně aspektů výkonu a kvality. (&lt;font&#xD;
-    lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.2.4.19&lt;/font>&lt;/font>)&#xD;
-&lt;/p></mainDescription>
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        a) požadované vstupní signály s jejich pořadím a jejich hodnotami;&lt;br />&#xD;
+        b) očekávané výstupní signály s jejich pořadím a jejich hodnotami;&lt;br />&#xD;
+        c) kritéria úspěšnosti testu, včetně aspektů výkonu a kvality. (7.2.4.19)&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

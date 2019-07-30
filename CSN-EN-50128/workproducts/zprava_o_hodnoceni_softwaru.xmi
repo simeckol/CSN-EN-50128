@@ -2,23 +2,20 @@
 <org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-At12nfu3aQELjBOL4Ny4xw" name="new_artifact,_12DZsMvDEeiEgNhWmVVBKQ" guid="-At12nfu3aQELjBOL4Ny4xw" changeDate="2018-10-09T15:55:42.232+0200">
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
-        Zpráva z hodnocení softwaru musí být napsána v rámci odpovědnosti hodnotitele. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-        face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.4.4.16&lt;/font>&lt;/font>)&#xD;
+        Zpráva z hodnocení softwaru musí být napsána v rámci odpovědnosti hodnotitele. (6.4.4.16)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
-        Zpráva z hodnocení softwaru musí splnit požadavky plánu hodnocení softwaru a poskytnout závěry a doporučení. (&lt;font&#xD;
-        lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.4.4.17&lt;/font>&lt;/font>)&#xD;
+        Zpráva z hodnocení softwaru musí splnit požadavky plánu hodnocení softwaru a poskytnout závěry a doporučení.&#xD;
+        (6.4.4.17)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Hodnotitel musí zaznamenat své činnosti jako logický podklad zprávy z hodnocení softwaru. Ty musí být shrnuty ve&#xD;
-        zprávě z hodnocení softwaru. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-        face=&quot;LiberationSans&quot;>6.4.4.18&lt;/font>&lt;/font>)&#xD;
+        zprávě z hodnocení softwaru. (6.4.4.18)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Hodnotitel musí identifikovat a vyhodnotit jakékoliv neshody s požadavky této evropské normy a posoudit jejich&#xD;
         dopad na konečný výsledek. Tyto neshody a jejich hodnocení musí být evidovány ve zprávě z hodnocení softwaru.&#xD;
-        (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-        face=&quot;LiberationSans&quot;>6.4.4.19&lt;/font>&lt;/font>)&#xD;
+        (6.4.4.19)&#xD;
     &lt;/li>&#xD;
 &lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

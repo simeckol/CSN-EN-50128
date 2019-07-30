@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-J8N5NmRPDM3-I_rnu9AY0A" name="zmocneni_hodnotitele_k_provadeni_hodnoceni_5.1.2.7,_beYSQAFAEemotNoRmJYMQQ" guid="-J8N5NmRPDM3-I_rnu9AY0A" changeDate="2019-01-14T01:30:47.449+0100">
-  <mainDescription>&lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/hodnotitel_76D2615.html&quot;&#xD;
-guid=&quot;_uZ_BQMjEEeixxZe6yMuoZA&quot;>Hodnotitel&lt;/a>&amp;nbsp;musí být zmocněn k provádění hodnocení softwaru. (5.1.2.7)</mainDescription>
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/hodnotitel_76D2615.html&quot;&#xD;
+        guid=&quot;_uZ_BQMjEEeixxZe6yMuoZA&quot;>Hodnotitel&lt;/a>&amp;nbsp;musí být zmocněn k provádění hodnocení softwaru. (5.1.2.7)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

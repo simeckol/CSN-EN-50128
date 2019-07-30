@@ -1,53 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EP11CIFfoNCnzfnkLhDGXw" name="new_artifact,_lKu84N6QEeiWpbcrOebAyw" guid="-EP11CIFfoNCnzfnkLhDGXw" changeDate="2018-11-02T12:30:48.064+0100">
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EP11CIFfoNCnzfnkLhDGXw" name="new_artifact,_lKu84N6QEeiWpbcrOebAyw" guid="-EP11CIFfoNCnzfnkLhDGXw" changeDate="2019-07-07T18:28:23.821+0200">
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Zpráva z verifikace návrhu komponenty softwaru musí být napsána v souladu s obecnými požadavky stanovenými pro&#xD;
-        zprávu z verifikace (6.2.4.13). (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-        face=&quot;LiberationSans&quot;>7.4.4.12&lt;/font>&lt;/font>)&#xD;
+        zprávu z verifikace (6.2.4.13). (7.4.4.12)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Poté, co je vytvořena specifikace návrhu komponenty softwaru pro každou komponentu, musí se její verifikace&#xD;
         zabývat:&#xD;
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; a) přiměřeností specifikace návrhu komponenty&#xD;
-    softwaru z pohledu naplnění specifikace návrhu softwaru;&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;b) tím, jestli specifikace návrhu komponenty&#xD;
-    softwaru splňuje obecné požadavky na čitelnost a sledovatelnost dle 5.3.2.7 až 5.3.2.10 a dle 6.5.4.14 až 6.5.4.17 a&#xD;
-    také zvláštní požadavky dle 7.4.4.1 až 7.4.4.6;&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;c) přiměřeností specifikací testů komponenty&#xD;
-    softwaru jako sady testovacích případů pro specifikaci návrhu komponenty softwaru;&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; d) tím, že specifikace testů komponenty softwaru&#xD;
-    splňuje obecné požadavky na čitelnost a sledovatelnost dle 5.3.2.7 až 5.3.2.10 a dle 6.5.4.14 až 6.5.4.17 a také&#xD;
-    zvláštní požadavky dle 7.4.4.7 až 7.4.4.10;&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;e) rozkladem specifikace návrhu softwaru na&#xD;
-    komponenty softwaru a specifikace návrhu komponent softwaru ve vztahu k:&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1)&#xD;
-    proveditelnosti požadovaného výkonu;&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2)&#xD;
-    testovatelnosti pro další verifikace;&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3)&#xD;
-    udržovatelnosti, která umožní další rozvoj.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Výsledky musí být zaznamenány ve zprávě z&#xD;
-    verifikace návrhu komponenty softwaru. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-    face=&quot;LiberationSans&quot;>7.4.4.13&lt;/font>&lt;/font>)&#xD;
-&lt;/p></mainDescription>
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p dir=&quot;ltr&quot;>&#xD;
+        a) přiměřeností specifikace návrhu komponenty softwaru z pohledu naplnění specifikace návrhu softwaru;&lt;br />&#xD;
+        b) tím, jestli specifikace návrhu komponenty softwaru splňuje obecné požadavky na čitelnost a sledovatelnost dle&#xD;
+        5.3.2.7 až 5.3.2.10 a dle 6.5.4.14 až 6.5.4.17 a také zvláštní požadavky dle 7.4.4.1 až 7.4.4.6;&lt;br />&#xD;
+        c) přiměřeností specifikací testů komponenty softwaru jako sady testovacích případů pro specifikaci návrhu&#xD;
+        komponenty softwaru;&lt;br />&#xD;
+        d) tím, že specifikace testů komponenty softwaru splňuje obecné požadavky na čitelnost a sledovatelnost dle 5.3.2.7&#xD;
+        až 5.3.2.10 a dle 6.5.4.14 až 6.5.4.17 a také zvláštní požadavky dle 7.4.4.7 až 7.4.4.10;&lt;br />&#xD;
+        e) rozkladem specifikace návrhu softwaru na komponenty softwaru a specifikace návrhu komponent softwaru ve vztahu&#xD;
+        k:&#xD;
+    &lt;/p>&#xD;
+    &lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+        &lt;p>&#xD;
+            1) proveditelnosti požadovaného výkonu;&lt;br />&#xD;
+            2) testovatelnosti pro další verifikace;&lt;br />&#xD;
+            3) udržovatelnosti, která umožní další rozvoj.&#xD;
+        &lt;/p>&#xD;
+    &lt;/blockquote>&#xD;
+    &lt;p>&#xD;
+        Výsledky musí být zaznamenány ve zprávě z verifikace návrhu komponenty softwaru. (7.4.4.13)&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MR2sjC-1oDyFz0M_NKyx1g" name=",_06-p4EUXEem9AMCF5qvX5g" guid="-MR2sjC-1oDyFz0M_NKyx1g">
-  <mainDescription>Plán údržby softwaru musí být napsán na základě vstupních dokumentů dle 9.2.2. (9.2.4.5)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MR2sjC-1oDyFz0M_NKyx1g" name=",_06-p4EUXEem9AMCF5qvX5g" guid="-MR2sjC-1oDyFz0M_NKyx1g" changeDate="2019-07-04T19:01:33.874+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/workproducts/plan_udrzby_softwaru_3EBF1A1D.html&quot;&#xD;
+        guid=&quot;_CjtQwEUVEem9AMCF5qvX5g&quot;>Plán údržby softwaru&lt;/a>&amp;nbsp;musí být napsán na základě vstupních dokumentů dle&#xD;
+        9.2.2. (9.2.4.5)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

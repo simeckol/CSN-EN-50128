@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CVhi2W-2y37QjNFHFNrHsA" name=",_quiEAEUXEem9AMCF5qvX5g" guid="-CVhi2W-2y37QjNFHFNrHsA" changeDate="2019-03-12T23:39:54.762+0100">
-  <mainDescription>Udržovatelnost musí být navržena jako vrozená součást softwaru, zejména za dodržení požadavků 7.3, 7.4 a 7.5. Série norem&#xD;
-ISO/IEC 9126 má být rovněž uplatněna s cílem implementovat a verifikovat minimální úroveň udržovatelnosti. (9.2.4.4)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CVhi2W-2y37QjNFHFNrHsA" name=",_quiEAEUXEem9AMCF5qvX5g" guid="-CVhi2W-2y37QjNFHFNrHsA" changeDate="2019-07-04T19:06:01.963+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Udržovatelnost musí být navržena jako vrozená součást softwaru, zejména za dodržení požadavků &lt;a&#xD;
+        class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/customcategories/architektura_a_navrh_7.3_EC2862B9.html&quot;&#xD;
+        guid=&quot;_7OkTUILaEemqnsVyRnP7Fg&quot;>7.3&lt;/a>,&amp;nbsp;7.4 a 7.5. Série norem ISO/IEC 9126 má být rovněž uplatněna s cílem&#xD;
+        implementovat a verifikovat minimální úroveň udržovatelnosti. (9.2.4.4)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

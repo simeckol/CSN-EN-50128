@@ -3,20 +3,18 @@
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Zpráva z testů komponenty softwaru musí být napsána v souladu s obecnými požadavky stanovenými pro zprávu z testů&#xD;
-        (viz 6.1.4.5). (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-        face=&quot;LiberationSans&quot;>7.5.4.6&lt;/font>&lt;/font>)&#xD;
+        (viz 6.1.4.5). (7.5.4.6)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
-        Zpráva z testů komponenty softwaru musí zahrnovat následující: (&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-        face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>7.5.4.7&lt;/font>&lt;/font>)&#xD;
+        Zpráva z testů komponenty softwaru musí zahrnovat následující: (7.5.4.7)&#xD;
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; a) údaje o výsledcích testů a o tom, zda každá komponenta&#xD;
-    splnila požadavky uvedené ve své specifikaci návrhu komponenty softwaru;&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) údaje o pokrytí kódu testem musí být poskytnuty pro&#xD;
-    každou komponentu a prokázat, že požadovaný stupeň pokrytí kódu testem byl dosažen pro všechna požadovaná kritéria.&#xD;
-&lt;/p></mainDescription>
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        a) údaje o výsledcích testů a o tom, zda každá komponenta splnila požadavky uvedené ve své specifikaci návrhu&#xD;
+        komponenty softwaru;&lt;br />&#xD;
+        b) údaje o pokrytí kódu testem musí být poskytnuty pro každou komponentu a prokázat, že požadovaný stupeň pokrytí&#xD;
+        kódu testem byl dosažen pro všechna požadovaná kritéria.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

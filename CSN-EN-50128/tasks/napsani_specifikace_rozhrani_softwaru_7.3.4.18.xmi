@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XZ2qby26vrsEnIfH3Caoqw" name=",_ikH3EEUGEem9AMCF5qvX5g" guid="-XZ2qby26vrsEnIfH3Caoqw">
-  <mainDescription>Specifikace rozhraní softwaru pro všechna rozhraní mezi komponentami softwaru a hranice celkového softwaru musí být&#xD;
-popsané, v rámci odpovědnosti návrháře, na základě specifikace požadavků na software a specifikace architektury softwaru.&#xD;
-(7.3.4.18)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XZ2qby26vrsEnIfH3Caoqw" name=",_ikH3EEUGEem9AMCF5qvX5g" guid="-XZ2qby26vrsEnIfH3Caoqw" changeDate="2019-07-04T21:51:20.178+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_rozhrani_softwaru_F4CD00E8.html&quot;&#xD;
+        guid=&quot;_orG_sN4JEei9xO8zovSwhQ&quot;>Specifikace rozhraní softwaru&lt;/a>&amp;nbsp;pro všechna rozhraní mezi komponentami&#xD;
+        softwaru a hranice celkového softwaru musí být popsané, v rámci odpovědnosti &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/roles/navrhar_BEB1FD55.html&quot; guid=&quot;_hA0AsMjEEeixxZe6yMuoZA&quot;>návrháře&lt;/a>, na&#xD;
+        základě&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_pozadavku_na_software_17DA6792.html&quot;&#xD;
+        guid=&quot;_2y75AN3oEeivMoitHDjecw&quot;>specifikace požadavků na software&lt;/a> a &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_architektury_softwaru_342A0A56.html&quot;&#xD;
+        guid=&quot;_QhZ0wN4JEei9xO8zovSwhQ&quot;>specifikace architektury softwaru&lt;/a>. (7.3.4.18)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

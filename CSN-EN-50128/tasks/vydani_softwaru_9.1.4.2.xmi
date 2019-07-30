@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-B3CcHTPdxX5FwRlN_k-Zcg" name=",_xZiyMEUREem9AMCF5qvX5g" guid="-B3CcHTPdxX5FwRlN_k-Zcg">
-  <mainDescription>&lt;p>&#xD;
-    &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/validator_47118FBE.html&quot;&#xD;
-    guid=&quot;_9m6ecMjEEeixxZe6yMuoZA&quot;>Validátor&lt;/a>&amp;nbsp;musí dát souhlas/nesouhlas pro vydání softwaru. (5.1.2.8)&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    Software může být&amp;nbsp;vydán pro používání pouze po autorizaci &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
-    href=&quot;./../../CSN-EN-50128/roles/validator_47118FBE.html&quot; guid=&quot;_9m6ecMjEEeixxZe6yMuoZA&quot;>validátorem&lt;/a>.&amp;nbsp;(&lt;font&#xD;
-    lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.3.4.16&lt;/font>&lt;/font>)&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    Před předáním vydání softwaru musí být softwarová baseline nahrána a sledována pod řízením konfigurace. Také již&#xD;
-    existující software a software vyvinutý v souladu s předchozí verzí této evropské normy zde musí být zahrnut.&#xD;
-    (9.1.4.2)&lt;br />&#xD;
-    Vydání softwaru musí být reprodukovatelné v průběhu celého životního cyklu baseline. (9.1.4.3)&#xD;
-&lt;/p></mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-B3CcHTPdxX5FwRlN_k-Zcg" name=",_xZiyMEUREem9AMCF5qvX5g" guid="-B3CcHTPdxX5FwRlN_k-Zcg" changeDate="2019-07-04T18:23:37.439+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/validator_47118FBE.html&quot;&#xD;
+        guid=&quot;_9m6ecMjEEeixxZe6yMuoZA&quot;>Validátor&lt;/a>&amp;nbsp;musí dát souhlas/nesouhlas pro vydání softwaru. (5.1.2.8)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Software může být&amp;nbsp;vydán pro používání pouze po autorizaci &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/roles/validator_47118FBE.html&quot;&#xD;
+        guid=&quot;_9m6ecMjEEeixxZe6yMuoZA&quot;>validátorem&lt;/a>.&amp;nbsp;(&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font&#xD;
+        lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.3.4.16&lt;/font>&lt;/font>)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Před předáním vydání softwaru musí být softwarová baseline nahrána a sledována pod řízením konfigurace. Také již&#xD;
+        existující software a software vyvinutý v souladu s předchozí verzí této evropské normy zde musí být zahrnut.&#xD;
+        (9.1.4.2)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Vydání softwaru musí být reprodukovatelné v průběhu celého životního cyklu baseline. (9.1.4.3)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

@@ -3,8 +3,7 @@
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Specifikace testů komponenty softwaru musí být napsány v souladu s obecnými požadavky stanovenými pro specifikaci&#xD;
-        testů (viz 6.1.4.4). (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-        face=&quot;LiberationSans&quot;>7.4.4.8&lt;/font>&lt;/font>)&#xD;
+        testů (viz 6.1.4.4). (7.4.4.8)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Musí být vytvořena specifikace testů komponenty softwaru proti které bude komponenta testována.Tyto testy musí&#xD;
@@ -13,24 +12,17 @@
         softwaru. Testy musí být navrženy tak, aby naplnily tři cíle:&#xD;
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; a) potvrdit, že komponenta vykonává&#xD;
-    zamýšlené funkce (black box testování);&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) prověřit interakce vnitřních částí&#xD;
-    komponenty při provádění zamýšlené funkce (black/white box testování);&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; c) potvrdit, že všechny části komponenty&#xD;
-    jsou testovány (white box testování). (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-    face=&quot;LiberationSans&quot;>7.4.4.9&lt;/font>&lt;/font>)&#xD;
-&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        a) potvrdit, že komponenta vykonává zamýšlené funkce (black box testování);&lt;br />&#xD;
+        b) prověřit interakce vnitřních částí komponenty při provádění zamýšlené funkce (black/white box testování);&lt;br />&#xD;
+        c) potvrdit, že všechny části komponenty jsou testovány (white box testování). (7.4.4.9)&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
         Specifikace testů komponenty softwaru musí vybrat techniky a opatření z Tabulky A.5. Zvolená kombinace musí být&#xD;
-        odůvodněna jako sada a plnit 4.8 a 4.9. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-        face=&quot;LiberationSans&quot;>7.4.4.10&lt;/font>&lt;/font>)&#xD;
+        odůvodněna jako sada a plnit 4.8 a 4.9. (7.4.4.10)&#xD;
     &lt;/li>&#xD;
 &lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

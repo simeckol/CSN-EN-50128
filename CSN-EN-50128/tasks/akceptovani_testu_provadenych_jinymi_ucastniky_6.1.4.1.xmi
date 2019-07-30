@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-x2SU6i7t2wQAmTj3S7qT_A" name="akceptovani_testu_provadenych_jinymi_ucastniky_6.1.4.1,_6jAzYAK-Eem5xO6MgdqFCA" guid="-x2SU6i7t2wQAmTj3S7qT_A" changeDate="2019-01-28T10:29:30.161+0100">
-  <mainDescription>Testy prováděné jinými účastníky jako jsou manažer pro požadavky, návrhář nebo implementátor mohou být verifikátorem&#xD;
-akceptovány, pokud jsou plně dokumentované a splňují následující požadavky. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>6.1.4.1&lt;/font>&lt;/font>)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-x2SU6i7t2wQAmTj3S7qT_A" name="akceptovani_testu_provadenych_jinymi_ucastniky_6.1.4.1,_6jAzYAK-Eem5xO6MgdqFCA" guid="-x2SU6i7t2wQAmTj3S7qT_A" changeDate="2019-07-04T22:51:33.311+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Testy prováděné jinými účastníky jako jsou &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/roles/manazer_pro_pozadavky_66EC6C08.html&quot; guid=&quot;_boUSAMjEEeixxZe6yMuoZA&quot;>manažer pro&#xD;
+        požadavky&lt;/a>,&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/navrhar_BEB1FD55.html&quot;&#xD;
+        guid=&quot;_hA0AsMjEEeixxZe6yMuoZA&quot;>návrhář&lt;/a> nebo&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/roles/implementator_80E1B97A.html&quot; guid=&quot;_qFKWEMjEEeixxZe6yMuoZA&quot;>implementátor&lt;/a>&#xD;
+        mohou být&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/verifikator_BAD5C1FD.html&quot;&#xD;
+        guid=&quot;_5kE7IMjEEeixxZe6yMuoZA&quot;>verifikátorem&lt;/a> akceptovány, pokud jsou plně dokumentované a splňují následující&#xD;
+        požadavky. (6.1.4.1)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

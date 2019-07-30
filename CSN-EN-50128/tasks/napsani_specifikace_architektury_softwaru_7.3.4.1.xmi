@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-l_I0qFx4gIDeZzz3Qt7NiA" name="napsani_specifikace_architektury_softwaru_7.3.4.1,_PjrE8EUGEem9AMCF5qvX5g" guid="-l_I0qFx4gIDeZzz3Qt7NiA">
-  <mainDescription>Specifikace architektury softwaru musí být napsána, v rámci odpovědnosti návrháře, na základě specifikace požadavků na&#xD;
-software. (7.3.4.1)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-l_I0qFx4gIDeZzz3Qt7NiA" name="napsani_specifikace_architektury_softwaru_7.3.4.1,_PjrE8EUGEem9AMCF5qvX5g" guid="-l_I0qFx4gIDeZzz3Qt7NiA" changeDate="2019-07-04T21:45:46.962+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_architektury_softwaru_342A0A56.html&quot;&#xD;
+        guid=&quot;_QhZ0wN4JEei9xO8zovSwhQ&quot;>Specifikace architektury softwaru&lt;/a>&amp;nbsp;musí být napsána, v rámci odpovědnosti &lt;a&#xD;
+        class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/navrhar_BEB1FD55.html&quot;&#xD;
+        guid=&quot;_hA0AsMjEEeixxZe6yMuoZA&quot;>návrháře&lt;/a>, na základě specifikace požadavků na software. (7.3.4.1)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

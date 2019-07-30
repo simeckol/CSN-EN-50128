@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-K_giJjdyRL2aMCYWl8iSeA" name="stanoveni_hodnotitele_5.1.2.4,_1VIDQAE_EemotNoRmJYMQQ" guid="-K_giJjdyRL2aMCYWl8iSeA" changeDate="2019-01-14T01:31:39.367+0100">
-  <mainDescription>&lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/hodnotitel_76D2615.html&quot;&#xD;
-guid=&quot;_uZ_BQMjEEeixxZe6yMuoZA&quot;>Hodnotitel&lt;/a>&amp;nbsp;musí být stanoven &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
-href=&quot;./../../CSN-EN-50128/roles/dodavatel_583D36FB.html&quot; guid=&quot;_i7nMYN6wEeiYJ4LpaF_C_Q&quot;>dodavatelem&lt;/a>,&amp;nbsp;&lt;a&#xD;
-class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/zakaznik_A3E8618B.html&quot;&#xD;
-guid=&quot;_C1l-oAFAEemotNoRmJYMQQ&quot;>zákazníkem&lt;/a> nebo &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
-href=&quot;./../../CSN-EN-50128/roles/organ_pro_otazky_bezpecnosti_9A38A123.html&quot; guid=&quot;_IzIUEAFAEemotNoRmJYMQQ&quot;>orgánem pro&#xD;
-otázky bezpečnosti&lt;/a>. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-face=&quot;LiberationSans&quot;>5.1.2.4&lt;/font>&lt;/font>)</mainDescription>
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/hodnotitel_76D2615.html&quot;&#xD;
+        guid=&quot;_uZ_BQMjEEeixxZe6yMuoZA&quot;>Hodnotitel&lt;/a>&amp;nbsp;musí být stanoven &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/roles/dodavatel_583D36FB.html&quot; guid=&quot;_i7nMYN6wEeiYJ4LpaF_C_Q&quot;>dodavatelem&lt;/a>,&amp;nbsp;&lt;a&#xD;
+        class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/zakaznik_A3E8618B.html&quot;&#xD;
+        guid=&quot;_C1l-oAFAEemotNoRmJYMQQ&quot;>zákazníkem&lt;/a> nebo &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/roles/organ_pro_otazky_bezpecnosti_9A38A123.html&quot; guid=&quot;_IzIUEAFAEemotNoRmJYMQQ&quot;>orgánem&#xD;
+        pro otázky bezpečnosti&lt;/a>. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
+        face=&quot;LiberationSans&quot;>5.1.2.4&lt;/font>&lt;/font>)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

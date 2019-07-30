@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-e1BWqhYI-vPS_pgHRJy-bA" name=",_r3LtQFSxEemXxoBG7rYlSQ" guid="-e1BWqhYI-vPS_pgHRJy-bA">
-  <mainDescription>&lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
-    &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Všechna aplikační data/algoritmy a související dokumentace&#xD;
-    pro každou specifickou aplikaci musí podléhat požadavkům na nasazení softwaru jak je specifikováno v 9.1.&#xD;
-    (8.4.7.3)&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
-    &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Všechna aplikační data/algoritmy a související dokumentace&#xD;
-    musí podléhat požadavkům na údržbu&lt;/font>&lt;/font>&amp;nbsp;&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot;&#xD;
-    face=&quot;Calibri&quot;>softwaru specifikovaným v 9.2.&lt;/font>&lt;/font> (&lt;font face=&quot;Calibri&quot;>8.4.7.4&lt;/font>)&#xD;
-&lt;/p>&#xD;
-&lt;p dir=&quot;ltr&quot; align=&quot;left&quot;>&#xD;
-    &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Všechna data/algoritmy aplikace a související dokumentace&#xD;
-    musí být uloženy pod systém řízení&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot;&#xD;
-    face=&quot;Calibri&quot;>konfigurace v souladu s požadavky specifikovanými v 6.5 a 6.7. Řízení konfigurace aplikačních&#xD;
-    dat/algoritmů&lt;/font>&lt;/font> &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>může být oddělené od části&#xD;
-    generického softwaru.&lt;/font>&lt;/font>&amp;nbsp;(&lt;font face=&quot;Calibri&quot;>8.4.7.5&lt;/font>)&#xD;
-&lt;/p></mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-e1BWqhYI-vPS_pgHRJy-bA" name=",_r3LtQFSxEemXxoBG7rYlSQ" guid="-e1BWqhYI-vPS_pgHRJy-bA" changeDate="2019-07-04T19:19:52.351+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Všechna aplikační data/algoritmy a související dokumentace pro každou specifickou aplikaci musí podléhat požadavkům&#xD;
+        na nasazení softwaru jak je specifikováno v &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/customcategories/nasazeni_softwaru_9.1_34E13A94.html&quot;&#xD;
+        guid=&quot;_H7IHsILqEem-RZ8bLh7d0A&quot;>9.1&lt;/a>. (8.4.7.3)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Všechna aplikační data/algoritmy a související dokumentace musí podléhat požadavkům na údržbu&amp;nbsp;softwaru&#xD;
+        specifikovaným v &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/customcategories/udrzba_softwaru_9.2_7D79B9C0.html&quot;&#xD;
+        guid=&quot;_VIs8QILqEem-RZ8bLh7d0A&quot;>9.2&lt;/a>. (8.4.7.4)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Všechna data/algoritmy aplikace a související dokumentace musí být uloženy pod systém řízení konfigurace v souladu&#xD;
+        s požadavky specifikovanými v&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/customcategories/zajisteni_kvality_softwaru_6.5_1EC6AD4F.html&quot;&#xD;
+        guid=&quot;_3zMHsILREemTrZ3VjwEoNw&quot;>6.5&lt;/a> a &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/customcategories/podpurne_nastroje_a_jazyky_6.7_330F211D.html&quot;&#xD;
+        guid=&quot;_5gxY8ILTEemTrZ3VjwEoNw&quot;>6.7&lt;/a>. Řízení konfigurace aplikačních dat/algoritmů může být oddělené od části&#xD;
+        generického softwaru.&amp;nbsp;(8.4.7.5)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

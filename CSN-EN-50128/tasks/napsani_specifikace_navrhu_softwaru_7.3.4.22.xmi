@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YQPW1FyA12hkJWL2BTPNCQ" name=",_5CIVMEUGEem9AMCF5qvX5g" guid="-YQPW1FyA12hkJWL2BTPNCQ">
-  <mainDescription>Specifikace návrhu softwaru musí být napsána, v rámci odpovědnosti návrháře, na základě specifikace požadavků na software,&#xD;
-specifikace architektury softwaru a specifikace rozhraní softwaru. (7.3.4.20)&lt;br />&#xD;
-V případě postupného nasazování (tj. nasazení samotných komponent) je pro SIL 3 a SIL 4 velmi doporučené a pro SIL 1 a SIL&#xD;
-2 doporučené, aby byl software navržen tak, že obsahuje vybavení, které zajistí, že je vyloučena aktivace nekompatibilních&#xD;
-verzí komponent softwaru. (9.1.4.8)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YQPW1FyA12hkJWL2BTPNCQ" name=",_5CIVMEUGEem9AMCF5qvX5g" guid="-YQPW1FyA12hkJWL2BTPNCQ" changeDate="2019-07-04T21:48:06.302+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_navrhu_softwaru_365C735.html&quot;&#xD;
+        guid=&quot;_eWeuMN4JEei9xO8zovSwhQ&quot;>Specifikace návrhu softwaru&lt;/a>&amp;nbsp;musí být napsána, v rámci odpovědnosti &lt;a&#xD;
+        class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/navrhar_BEB1FD55.html&quot;&#xD;
+        guid=&quot;_hA0AsMjEEeixxZe6yMuoZA&quot;>návrháře&lt;/a>, na základě &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_pozadavku_na_software_17DA6792.html&quot;&#xD;
+        guid=&quot;_2y75AN3oEeivMoitHDjecw&quot;>specifikace požadavků na software&lt;/a>,&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_architektury_softwaru_342A0A56.html&quot;&#xD;
+        guid=&quot;_QhZ0wN4JEei9xO8zovSwhQ&quot;>specifikace architektury softwaru&lt;/a> a &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_rozhrani_softwaru_F4CD00E8.html&quot;&#xD;
+        guid=&quot;_orG_sN4JEei9xO8zovSwhQ&quot;>specifikace rozhraní softwaru&lt;/a>. (7.3.4.20)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        V případě postupného nasazování (tj. nasazení samotných komponent) je pro SIL 3 a SIL 4 velmi doporučené a pro SIL&#xD;
+        1 a SIL 2 doporučené, aby byl software navržen tak, že obsahuje vybavení, které zajistí, že je vyloučena aktivace&#xD;
+        nekompatibilních verzí komponent softwaru. (9.1.4.8)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

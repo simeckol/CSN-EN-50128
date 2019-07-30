@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_sk4t4wJAwssNB9TD2fg-w" name=",_nWTvgEUNEem9AMCF5qvX5g" guid="-_sk4t4wJAwssNB9TD2fg-w">
-  <mainDescription>Zpráva z testů integrace softwaru musí být napsána, v rámci odpovědnosti integrátora, na základě specifikace testů&#xD;
-integrace softwaru. (7.6.4.3)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_sk4t4wJAwssNB9TD2fg-w" name=",_nWTvgEUNEem9AMCF5qvX5g" guid="-_sk4t4wJAwssNB9TD2fg-w" changeDate="2019-07-04T22:25:35.915+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/zprava_z_testu_integrace_softwaru_B9E43DA5.html&quot;&#xD;
+        guid=&quot;_mN4gcMmeEeioC4xUIHgX5A&quot;>Zpráva z testů integrace softwaru&lt;/a>&amp;nbsp;musí být napsána, v rámci odpovědnosti &lt;a&#xD;
+        class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/integrator_6C47C279.html&quot;&#xD;
+        guid=&quot;_xyEXYMjEEeixxZe6yMuoZA&quot;>integrátora&lt;/a>, na základě &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_testu_integrace_softwaru_6169623F.html&quot;&#xD;
+        guid=&quot;_d9ILMMmeEeioC4xUIHgX5A&quot;>specifikace testů integrace softwaru&lt;/a>. (7.6.4.3)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

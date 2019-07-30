@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Cx4lSm_Y5g3VnrMswJfhOA" name=",_rn2QcET9Eem9AMCF5qvX5g" guid="-Cx4lSm_Y5g3VnrMswJfhOA" changeDate="2019-03-12T21:22:18.264+0100">
-  <mainDescription>Specifikace požadavků na software musí být napsány, v rámci odpovědnosti manažera pro požadavky, na základě vstupních&#xD;
-dokumentů. (7.2.4.1)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Cx4lSm_Y5g3VnrMswJfhOA" name=",_rn2QcET9Eem9AMCF5qvX5g" guid="-Cx4lSm_Y5g3VnrMswJfhOA" changeDate="2019-07-04T22:38:28.577+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_pozadavku_na_software_17DA6792.html&quot;&#xD;
+        guid=&quot;_2y75AN3oEeivMoitHDjecw&quot;>Specifikace požadavků na software&lt;/a>&amp;nbsp;musí být napsány, v rámci odpovědnosti &lt;a&#xD;
+        class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/manazer_pro_pozadavky_66EC6C08.html&quot;&#xD;
+        guid=&quot;_boUSAMjEEeixxZe6yMuoZA&quot;>manažera pro požadavky&lt;/a>, na základě vstupních dokumentů. (7.2.4.1)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

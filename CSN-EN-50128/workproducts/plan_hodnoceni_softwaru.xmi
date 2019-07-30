@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TYkiunM-HMhqouuwLO2FLQ" name="new_artifact,_xbvKgMvDEeiEgNhWmVVBKQ" guid="-TYkiunM-HMhqouuwLO2FLQ" changeDate="2018-10-09T15:19:37.344+0200">
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TYkiunM-HMhqouuwLO2FLQ" name="new_artifact,_xbvKgMvDEeiEgNhWmVVBKQ" guid="-TYkiunM-HMhqouuwLO2FLQ" changeDate="2019-07-07T16:17:02.683+0200">
   <mainDescription>&lt;ul>&#xD;
     &lt;li>&#xD;
         Plán hodnocení softwaru musí být napsán v rámci odpovědnosti hodnotitele na základě vstupních dokumentů z 6.4.2.&#xD;
         Kde je to vhodné, může být použit existující dokumentovaný obecný plán hodnocení softwaru nebo postup. Požadavek&#xD;
-        6.4.4.5 se týká plánu hodnocení softwaru. (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-        face=&quot;LiberationSans&quot;>6.4.4.4&lt;/font>&lt;/font>)&#xD;
+        6.4.4.5 se týká plánu hodnocení softwaru. (6.4.4.4)&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Plán hodnocení softwaru musí obsahovat následující oblasti:&#xD;
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
-&lt;p align=&quot;left&quot;>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-    face=&quot;LiberationSans&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; a) aspekty, kterými se hodnocení&#xD;
-    zabývá;&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p align=&quot;left&quot;>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-    face=&quot;LiberationSans&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; b) činnosti během procesu hodnocení a jejich&#xD;
-    následná vazba na technické činnosti;&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p align=&quot;left&quot;>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-    face=&quot;LiberationSans&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; c) dokumenty, které se berou v&#xD;
-    úvahu;&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p align=&quot;left&quot;>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-    face=&quot;LiberationSans&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; d) prohlášení o kritériich vyhověl/nevyhověl a&#xD;
-    způsob jak řešit případy neshody;&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-    face=&quot;LiberationSans&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; e) požadavky pokud jde o obsah a formu zprávy o&#xD;
-    hodnocení softwaru.&lt;/font>&lt;/font> (&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot;&#xD;
-    face=&quot;LiberationSans&quot;>6.4.4.5&lt;/font>&lt;/font>)&#xD;
-&lt;/p></mainDescription>
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    a) aspekty, kterými se hodnocení zabývá;&lt;br />&#xD;
+    b) činnosti během procesu hodnocení a jejich následná vazba na technické činnosti;&lt;br />&#xD;
+    c) dokumenty, které se berou v úvahu;&lt;br />&#xD;
+    d) prohlášení o kritériich vyhověl/nevyhověl a způsob jak řešit případy neshody;&lt;br />&#xD;
+    e) požadavky pokud jde o obsah a formu zprávy o hodnocení softwaru. (6.4.4.5)&#xD;
+&lt;/blockquote></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

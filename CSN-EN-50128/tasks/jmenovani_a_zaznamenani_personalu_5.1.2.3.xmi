@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_iv_HYl0omkLMDPkflsRvQ" name="jmenovani_a_zaznamenani_personalu_5.1.2.3,_2f5CsAE-EemotNoRmJYMQQ" guid="-_iv_HYl0omkLMDPkflsRvQ">
-  <mainDescription>Personál, který má přiřazeny role týkající se vývoje nebo údržby softwaru musí být jmenován a zaznamenán. (5.1.2.3)</mainDescription>
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Personál, který má přiřazeny role týkající se vývoje nebo údržby softwaru musí být jmenován a zaznamenán. (5.1.2.3)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

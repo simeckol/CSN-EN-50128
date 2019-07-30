@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IiW_Q2RdiiPR7LOk_2CBbQ" name=",_f4O0YEUNEem9AMCF5qvX5g" guid="-IiW_Q2RdiiPR7LOk_2CBbQ">
-  <mainDescription>Během integrace softwaru/hardwaru musí být jakákoliv změna integrovaného systému porobena studii dopadů, která identifikuje&#xD;
-všechny ovlivněné komponenty a nezbytné opětovné verifikační činnosti. (7.6.4.2)</mainDescription>
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Během integrace softwaru/hardwaru musí být jakákoliv změna integrovaného systému porobena studii dopadů, která&#xD;
+        identifikuje všechny ovlivněné komponenty a nezbytné opětovné verifikační činnosti. (7.6.4.2)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

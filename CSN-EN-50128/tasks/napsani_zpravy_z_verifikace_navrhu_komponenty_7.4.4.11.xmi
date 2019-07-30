@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-24UYqCSJet-s8ocok8XY0A" name=",_Vzu7gEULEem9AMCF5qvX5g" guid="-24UYqCSJet-s8ocok8XY0A">
-  <mainDescription>Zpráva z verifikace návrhu komponenty systému musí být napsána, v rámci odpovědnosti verifikátora, na základě specifikace&#xD;
-návrhu softwaru, specifikace návrhu komponenty softwaru a specifikace&lt;br />&#xD;
-testů komponenty softwaru. (7.4.4.11)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-24UYqCSJet-s8ocok8XY0A" name=",_Vzu7gEULEem9AMCF5qvX5g" guid="-24UYqCSJet-s8ocok8XY0A" changeDate="2019-07-04T22:33:55.748+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/zprava_z_verifikace_navrhu_komponent_softwaru_FDFCC4B8.html&quot;&#xD;
+        guid=&quot;_lKu84N6QEeiWpbcrOebAyw&quot;>Zpráva z verifikace návrhu komponenty systému&lt;/a>&amp;nbsp;musí být napsána, v rámci&#xD;
+        odpovědnosti &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/verifikator_BAD5C1FD.html&quot;&#xD;
+        guid=&quot;_5kE7IMjEEeixxZe6yMuoZA&quot;>verifikátora&lt;/a>, na základě &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_navrhu_softwaru_365C735.html&quot;&#xD;
+        guid=&quot;_eWeuMN4JEei9xO8zovSwhQ&quot;>specifikace návrhu softwaru&lt;/a>,&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_navrhu_komponent_softwaru_87AAFFDF.html&quot;&#xD;
+        guid=&quot;__YavkN6BEeiWpbcrOebAyw&quot;>specifikace návrhu komponenty softwaru&lt;/a> a &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/specifikace_testu_komponent_softwaru_EC01DE8F.html&quot;&#xD;
+        guid=&quot;_F7cXsN6CEeiWpbcrOebAyw&quot;>specifikace testů komponenty softwaru&lt;/a>. (7.4.4.11)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

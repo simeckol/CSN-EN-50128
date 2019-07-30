@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7DF9grQgRnb6FtEMdA7a_g" name=",_J4cYwEUMEem9AMCF5qvX5g" guid="-7DF9grQgRnb6FtEMdA7a_g">
-  <mainDescription>Zpráva z testů komponenty softwaru musí být napsána, v rámci odpovědnosti testera, na základě specifikace testů komponenty&#xD;
-softwaru a zdrojového kódu softwaru. (7.5.4.5)</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7DF9grQgRnb6FtEMdA7a_g" name=",_J4cYwEUMEem9AMCF5qvX5g" guid="-7DF9grQgRnb6FtEMdA7a_g" changeDate="2019-07-04T22:19:07.163+0200">
+  <mainDescription>&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+href=&quot;./../../CSN-EN-50128/workproducts/zprava_z_testu_softwarovych_komponent_D4B61A10.html&quot;&#xD;
+guid=&quot;_3cEDsMmeEeioC4xUIHgX5A&quot;>Zpráva z testů komponenty softwaru&lt;/a>&amp;nbsp;musí být napsána, v rámci odpovědnosti &lt;a&#xD;
+class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/tester_4FA2B1BA.html&quot;&#xD;
+guid=&quot;_3Evx8MjEEeixxZe6yMuoZA&quot;>testera&lt;/a>, na základě&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+href=&quot;./../../CSN-EN-50128/workproducts/specifikace_testu_komponent_softwaru_EC01DE8F.html&quot;&#xD;
+guid=&quot;_F7cXsN6CEeiWpbcrOebAyw&quot;>specifikace testů komponenty softwaru&lt;/a> a &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+href=&quot;./../../CSN-EN-50128/workproducts/zdrojovy_kod_softwaru_a_podpurna_dokumentace_450EA8D.html&quot;&#xD;
+guid=&quot;_SAktwN6TEeiWpbcrOebAyw&quot;>zdrojového kódu softwaru&lt;/a>. (7.5.4.5)</mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

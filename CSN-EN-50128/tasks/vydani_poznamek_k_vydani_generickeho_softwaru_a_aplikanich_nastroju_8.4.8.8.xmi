@@ -1,34 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9D3uJvDYzCRn1Rc_1Zfm4g" name=",_P92eYFU_EemV8b7OFrwc1g" guid="-9D3uJvDYzCRn1Rc_1Zfm4g">
-  <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>8.4.8.8 Navrhaři musi&#xD;
-    vydat poznamky k vydani generickeho softwaru a aplikačnich nastrojů během etapy&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p align=&quot;left&quot;>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>testovani softwaru jako&#xD;
-    celku, etapy zavěrečne validace generickeho softwaru a aplikačnich nastrojů. Obsah&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p align=&quot;left&quot;>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>těchto dokumentů musi byt&#xD;
-    předmětem činnosti verifikace a validace.&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p align=&quot;left&quot;>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>Nasledujici temata musi&#xD;
-    byt určeny v dokumentu „Podminky použiti generickeho softwaru a aplikačnich&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p align=&quot;left&quot;>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>nastrojů“:&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p align=&quot;left&quot;>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>1) odkazy na užvatelske&#xD;
-    manualy generickeho softwaru a aplikačich nastrojů&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p align=&quot;left&quot;>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>2) jakakoliv omezeni&#xD;
-    kladena na aplikači data/algoritmy, např vnucena architektura nebo kodovaci pravidla&lt;/font>&lt;/font>&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>&lt;font lang=&quot;JA&quot; size=&quot;2&quot; face=&quot;LiberationSans&quot;>za učlem dosažni urovni&#xD;
-    integrity bezpečosti.&lt;/font>&lt;/font>&#xD;
-&lt;/p></mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9D3uJvDYzCRn1Rc_1Zfm4g" name=",_P92eYFU_EemV8b7OFrwc1g" guid="-9D3uJvDYzCRn1Rc_1Zfm4g" changeDate="2019-07-04T21:37:03.959+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/roles/navrhar_BEB1FD55.html&quot;&#xD;
+        guid=&quot;_hA0AsMjEEeixxZe6yMuoZA&quot;>Návrháři&lt;/a>&amp;nbsp;musí vydat&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/poznamky_k_vydani_generickeho_softwaru_a_aplikacnich_nastroju_2FB7436F.html&quot;&#xD;
+         guid=&quot;_l1rrUJ6TEemCsbeCR6zXTg&quot;>poznámky k vydání generického softwaru a aplikačních nástrojů&lt;/a> během etapy&#xD;
+        testování softwaru jako celku, etapy závěrečné validace generického softwaru a aplikačních nástrojů. Obsah těchto&#xD;
+        dokumentů musí být předmětem činností verifikace a validace.&lt;br />&#xD;
+        Následující témata musí být určeny v dokumentu „&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+        href=&quot;./../../CSN-EN-50128/workproducts/podminky_pouziti_generickeho_softwaru_a_aplikacnich_nastroju_F9E5A74D.html&quot;&#xD;
+        guid=&quot;_ulE9EFSUEemHfqj60BG4hw&quot;>Podmínky použití generického softwaru a aplikačních nástrojů&lt;/a>“: &#xD;
+        &lt;ol>&#xD;
+            &lt;li>&#xD;
+                odkazy na uživatelské manuály generického softwaru a aplikačních nástrojů;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                jakákoliv omezení kladená na aplikační data/algoritmy, např. vnucená architektura nebo kódovací pravidla za&#xD;
+                účelem dosažení úrovní integrity bezpečnosti. (8.4.8.8)&#xD;
+            &lt;/li>&#xD;
+        &lt;/ol>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:TaskDescription>

@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CxtvpZnK-Od66XgxO8N7cw" name="zaznamy_o_zmenach_v_softwaru,_9GHdoNrPEeigTYOG64T-fw" guid="-CxtvpZnK-Od66XgxO8N7cw" changeDate="2019-03-12T23:25:11.890+0100">
-  <mainDescription>Záznam změn softwaru musí být zřízen pro každou činnost údržby. Tento záznam musí zahrnovat:&lt;br />&#xD;
-a) žádost o modifikaci nebo změnu, verzi, povahu vady, požadovanou změnu a zdrojový kód, na kterém se má změna&#xD;
-provést;&lt;br />&#xD;
-b) analýzu dopadu činnosti údržby na systém jako celek, včetně hardwaru, softwaru, lidské interakce a interakce související&#xD;
-s prostředím a další možné interakce;&lt;br />&#xD;
-c) detailní specifikaci provedené modifikace nebo změny;&lt;br />&#xD;
-d) opakovanou validaci, regresní testování a opakované hodnocení modifikací nebo změn v rozsahu požadovaném úrovní&#xD;
-integrity bezpečnosti softwaru. Odpovědnost za opakovanou validaci se může měnit od projektu k projektu, v souladu s úrovní&#xD;
-integrity bezpečnosti softwaru. Kromě toho se může dopad modifikace nebo změny na proces opakované validace vztahovat na&#xD;
-různé úrovně systému (pouze změněné komponenty, všechny identifikované ovlivněné komponenty, kompletní systém). Proto se&#xD;
-musí plán validace softwaru soustředit na oba problémy v souladu s úrovní integrity bezpečnosti softwaru. Stupeň&#xD;
-nezávislosti při opakované validaci musí být stejný jako při validaci. (9.2.4.10)</mainDescription>
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Záznam změn softwaru musí být zřízen pro každou činnost údržby. Tento záznam musí zahrnovat:&lt;br />&#xD;
+        a) žádost o modifikaci nebo změnu, verzi, povahu vady, požadovanou změnu a zdrojový kód, na kterém se má změna&#xD;
+        provést;&lt;br />&#xD;
+        b) analýzu dopadu činnosti údržby na systém jako celek, včetně hardwaru, softwaru, lidské interakce a interakce&#xD;
+        související s prostředím a další možné interakce;&lt;br />&#xD;
+        c) detailní specifikaci provedené modifikace nebo změny;&lt;br />&#xD;
+        d) opakovanou validaci, regresní testování a opakované hodnocení modifikací nebo změn v rozsahu požadovaném úrovní&#xD;
+        integrity bezpečnosti softwaru. Odpovědnost za opakovanou validaci se může měnit od projektu k projektu, v souladu&#xD;
+        s úrovní integrity bezpečnosti softwaru. Kromě toho se může dopad modifikace nebo změny na proces opakované&#xD;
+        validace vztahovat na různé úrovně systému (pouze změněné komponenty, všechny identifikované ovlivněné komponenty,&#xD;
+        kompletní systém). Proto se musí plán validace softwaru soustředit na oba problémy v souladu s úrovní integrity&#xD;
+        bezpečnosti softwaru. Stupeň nezávislosti při opakované validaci musí být stejný jako při validaci. (9.2.4.10)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-t9TbAKjjao42MGvmiGNBtA" name=",_AayVEEUYEem9AMCF5qvX5g" guid="-t9TbAKjjao42MGvmiGNBtA" changeDate="2019-07-04T19:04:52.152+0200">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../CSN-EN-50128/workproducts/zaznam_z_udrzby_softwaru_C65914BA.html&quot;&#xD;
+        guid=&quot;_JeBXgEUVEem9AMCF5qvX5g&quot;>Záznam z údržby softwaru&lt;/a>&amp;nbsp;musí být napsán na základě vstupních dokumentů dle&#xD;
+        9.2.2. (9.2.4.7)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
