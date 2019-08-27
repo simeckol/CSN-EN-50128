@@ -11,6 +11,7 @@
 * v projektu jsou pouze ty úkoly, jenž jsou přímo uvedené i v normě (typicky např. napsání dokumentu), přímo tak neodráží veškeré činnosti, které je potřeba v rámci procesu vykonávat i ve skutečnosti
 * většina úkolů popsaných v normě nemá jednoznačně definovaný vstup a výstup
 * některé úkoly jsou v normě duplikované (například napsání specifikace testů aplikace – body normy 8.4.4.5/8.4.5.2)
+* každý úkol má ID podle bodu normy, ze kterého byl úkol odvozen
 
 ## Reprezentace závislostí mezi úkoly
 * závislosti mezi úkoly jsou vytvořeny pouze takové, které jsou explicitně uvedeny v normě (např. podmíněné dokumenty)
